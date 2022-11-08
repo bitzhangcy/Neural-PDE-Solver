@@ -71,7 +71,7 @@ Contributed by Chunyang Zhang.
 
    *George Em Karniadakis, Ioannis G. Kevrekidis, Lu Lu, Paris Perdikaris, Sifan Wang, and Liu Yang.*
 
-1. **DeepXDE: A Deep Learning Library for Solving Differential Equations.** SIAM Review, 2021. [paper](https://epubs.siam.org/doi/abs/10.1137/19M1274067)
+1. **DeepXDE: A deep learning library for solving differential equations.** SIAM Review, 2021. [paper](https://epubs.siam.org/doi/abs/10.1137/19M1274067)
 
    *Lu Lu, Xuhui Meng, Zhiping Mao, and George Em Karniadakis.*
 
@@ -94,10 +94,6 @@ Contributed by Chunyang Zhang.
 1. **When physics meets machine learning: A survey of physics-informed machine learning.** arXiv 2022. [paper](https://arxiv.org/abs/2203.16797)
 
    *Chuizheng Meng, Sungyong Seo, Defu Cao, Sam Griesemer, and Yan Liu.* 
-
-1. **An overview on deep learning-based approximation methods for partial differential equations.** arXiv 2020. [paper](https://arxiv.org/abs/2012.12348)
-
-   *Christian Beck, Martin Hutzenthaler, Arnulf Jentzen, and Benno Kuckuck.* 
 
 1. **An overview on deep learning-based approximation methods for partial differential equations.** arXiv 2020. [paper](https://arxiv.org/abs/2012.12348)
 
