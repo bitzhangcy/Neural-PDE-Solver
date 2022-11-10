@@ -22,7 +22,7 @@ Contributed by Chunyang Zhang.
     <td>&ensp;<a href="#identification">2.6 Identification</a></td>
 </tr>
 <tr>
-    <td>&ensp;<a href="#finite-element&volume">2.7 Finite Element & Volume</a></td>
+    <td>&ensp;<a href="#finite-element">2.7 Finite Element</a></td>
     <td>&ensp;<a href="#convolutional-filter">2.8 Convolutional Filter</a></td>
 </tr>
 <tr><td colspan="2"><a href="#models">3. Mechanism</a></td></tr>
@@ -345,7 +345,7 @@ Contributed by Chunyang Zhang.
 
    *Robert Stephany and Christopher Earls.*
 
-### [Finite Element/Volume](#content)
+### [Finite Element](#content)
 1. **Composing partial differential equations with physics-aware neural networks.** ICML, 2022. [paper](https://proceedings.mlr.press/v162/karlbauer22a/karlbauer22a.pdf)
 
    *Matthias Karlbauer, Timothy Praditia, Sebastian Otte, Sergey Oladyshkin, and Wolfgang Nowak.*
