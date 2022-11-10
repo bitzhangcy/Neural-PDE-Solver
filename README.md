@@ -97,6 +97,8 @@ Contributed by Chunyang Zhang.
 
    *Antonio Stanziola, Simon R. Arridge, Ben T. Cox,and Bradley E. Treeby.* 
 
+
+
 ## [Models](#content) 
 
 ### [PINN](#content)
@@ -597,7 +599,7 @@ Contributed by Chunyang Zhang.
 
    *Dongkun Zhang, Lu Lu, Ling Guo, and George EmKarniadakis.*
 
-### [ODE](#content
+### [ODE](#content)
 1. **On robustness of neural ordinary differential equations.** ICLR, 2020. [paper](https://openreview.net/forum?id=-gBckR-V1i)
 
    *Hanshu Yan, Jiawei Du, Vincent Y. F. Tan, and Jiashi Feng.*
