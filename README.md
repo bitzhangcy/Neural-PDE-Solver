@@ -22,8 +22,8 @@ Contributed by Chunyang Zhang.
     <td>&ensp;<a href="#identification">2.6 Identification</a></td>
 </tr>
 <tr>
-    <td>&ensp;<a href="#finite-element/volume">2.7 Finite Element/Volume</a></td>
-    <td>&ensp;<a href="#latent-space">2.8 Latent Space</a></td>
+    <td>&ensp;<a href="#finite-element&volume">2.7 Finite Element & Volume</a></td>
+    <td>&ensp;<a href="#convolutional-filter">2.8 Convolutional Filter</a></td>
 </tr>
 <tr><td colspan="2"><a href="#models">3. Mechanism</a></td></tr>
 <tr>
@@ -323,17 +323,6 @@ Contributed by Chunyang Zhang.
 1. **MOD-Net: A Machine Learning Approach via Model-Operator-Data Network for Solving PDEs.** Communications in Computational Physics, 2022. [paper](https://global-sci.org/intro/article_detail/cicp/20860.html#)
 
    *Lulu Zhang, Tao Luo, Yaoyu Zhang, Weinan E, Zhi-Qin John Xu, and Zheng Ma.*
-   
-### [Convolutional Filter](#content)
-1. **PDE-Net: Learning PDEs from data.** ICML, 2018.. [paper](https://proceedings.mlr.press/v80/long18a.html)
-
-   *Zichao Long, Yiping Lu, Xianzhong Ma, and Bin Dong.*
-
-1. **PDE-Net 2.0: Learning PDEs from data with a numeric-symbolic hybrid deep network.** Journal of Computational Physics, 2019.. [paper](https://www.sciencedirect.com/science/article/pii/S0021999119306308)
-
-   *ZichaoLong, YipingLu, and  Bin Dong.*
-
-
 
 ### [Identification](#content)
 1. **Data-driven discovery of partial differential equations.** Science Advance, 2017. [paper](https://arxiv.org/abs/1910.11710)
@@ -368,6 +357,15 @@ Contributed by Chunyang Zhang.
 1. **Hybrid finite difference with the physics-informed neural network for solving PDE in complex geometries** arXiv, 2022. [paper](https://arxiv.org/pdf/2202.07926.pdf)
 
    *Zixue Xiang, Wei Peng, Weien Zhou, and Wen Yao.*
+
+### [Convolutional Filter](#content)
+1. **PDE-Net: Learning PDEs from data.** ICML, 2018.. [paper](https://proceedings.mlr.press/v80/long18a.html)
+
+   *Zichao Long, Yiping Lu, Xianzhong Ma, and Bin Dong.*
+
+1. **PDE-Net 2.0: Learning PDEs from data with a numeric-symbolic hybrid deep network.** Journal of Computational Physics, 2019.. [paper](https://www.sciencedirect.com/science/article/pii/S0021999119306308)
+
+   *ZichaoLong, YipingLu, and  Bin Dong.*
 
 ## [Mechanism](#content) 
 ### [Attention](#content)
