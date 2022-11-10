@@ -22,7 +22,6 @@ Contributed by Chunyang Zhang.
     <td>&ensp;<a href="#identification">2.6 Identification</a></td>
 </tr>
 <tr>
-
     <td>&ensp;<a href="#finite-element/volume">2.7 Finite Element/Volume</a></td>
     <td>&ensp;<a href="#latent-space">2.8 Latent Space</a></td>
 </tr>
