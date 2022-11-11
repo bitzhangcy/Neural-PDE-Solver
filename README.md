@@ -102,10 +102,13 @@ Contributed by Chunyang Zhang.
 ## [Models](#content) 
 
 ### [PINN](#content)
-
 1. **Physics-informed neural networks: A deep learning framework for solving forward and inverse problems involving nonlinear partial differential equations.** Journal of Computational Physics, 2019. [paper](https://www.sciencedirect.com/science/article/pii/S0021999118307125)
 
    *M.Raissia, P.Perdikarisb, and G.E.Karniadakisa.*
+
+1. **Hidden fluid mechanics: Learning velocity and pressure fields from flow visualizations.** Science, 2020. [paper](https://www.science.org/doi/10.1126/science.aaw4741)
+
+   *Raissi, Maziar and Yazdani, Alireza and Karniadakis, and George Em.*
 
 1. **Deep hidden physics models: Deep learning of nonlinear partial differential equations.** Journal of Machine Learning Research, 2018. [paper](https://www.jmlr.org/papers/volume19/18-046/18-046.pdf)
 
@@ -183,11 +186,19 @@ Contributed by Chunyang Zhang.
 
    *Pao-Hsiung Chiu, Jian Cheng Wong, Chinchun Ooi, My Ha Dao, and Yew-Soon Ong.*
 
+1. **HyperPINN: Learning parameterized differential equations with physics-informed hypernetworks.** NIPS, 2021. [paper](https://openreview.net/pdf?id=LxUuRDUhRjM)
+
+   *Filipe de Avila Belbute-Peres, Yi-fan Chen, and Fei Sha.*
+
+1. **Physics-augmented learning: A new paradigm beyond physics-informed learning.** NIPS, 2021. [paper](https://www.iamwawa.cn/daxiaoxie.html)
+
+   *Ziming Liu, Yuanqi Du, Yunyue Chen, and Max Tegmark.*
+
 1. **Scientific machine learning through physics–informed neural networks: Where we are and what’s next.** Beyond traditional AI: the impact of Machine Learning on Scientific Computing, 2022. [book](https://link.springer.com/article/10.1007/s10915-022-01939-z)
 
    *MingyuanYang and John T.Foster*
 
-1. **When do extended physics-informed neural networks (XPINNs) improve generalization?** SIAM Journal on Scientific Computing, 2022.  [paper](https://epubs.siam.org/doi/abs/10.1137/21M1447039)
+1. **When do extended physics-informed neural networks (XPINNs) improve generalization?** SIAM Journal on Scientific Computing, 2022. [paper](https://epubs.siam.org/doi/abs/10.1137/21M1447039)
 
    *Zheyuan Hu, Ameya D. Jagtap, George Em Karniadakis, and Kenji Kawaguchi.*
 
@@ -195,17 +206,46 @@ Contributed by Chunyang Zhang.
 
    *Sifan Wang, Shyam Sankaran, and Paris Perdikaris.*
 
-1. **Robust learning of physics informed neural networks.** arXiv, 2021.  [paper](https://arxiv.org/abs/2110.13330)
+1. **Robust learning of physics informed neural networks.** arXiv, 2021. [paper](https://arxiv.org/abs/2110.13330)
 
    *Chandrajit Bajaj, Luke McLennan, Timothy Andeen, and Avik Roy.*
 
-1. **Learning physics-informed neural networks without stacked back-propagation.** arXiv, 2022.  [paper](https://arxiv.org/abs/2202.09340)
+1. **Learning physics-informed neural networks without stacked back-propagation.** arXiv, 2022. [paper](https://arxiv.org/abs/2202.09340)
 
    *Di He, Wenlei Shi, Shanda Li, Xiaotian Gao, Jia Zhang, Jiang Bian, Liwei Wang, and Tieyan Liu.*
 
-1. **Physics informed RNN-DCT networks for time-fependent partial differential equations.** International Conference on Computational Science, 2022.  [paper](https://link.springer.com/chapter/10.1007/978-3-031-08754-7_45)
+1. **NeuralPDE: Automating physics-informed neural networks (PINNs) with error approximations.** arXiv, 2021. [paper](https://arxiv.org/abs/2107.09443)
+
+   *Kirill Zubov, Zoe McCarthy, Yingbo Ma, Francesco Calisto, Valerio Pagliarino, Simone Azeglio, Luca Bottero, Emmanuel Luján, Valentin Sulzer, Ashutosh Bharambe, Nand Vinchhi, Kaushik Balakrishnan, Devesh Upadhyay, and Chris Rackauckas.*
+
+1. **Physics informed RNN-DCT networks for time-fependent partial differential equations.** International Conference on Computational Science, 2022. [paper](https://link.springer.com/chapter/10.1007/978-3-031-08754-7_45)
 
    *Benjamin Wu, Oliver Hennigh, Jan Kautz, Sanjay Choudhry, and Wonmin Byeon.*
+
+1. **Physics-informed Karhunen-Loéve and neural network approximations for solving inverse differential equation problems.** Journal of Computational Physics, 2022. [paper](https://www.sciencedirect.com/science/article/pii/S0021999122002923)
+
+   *Jing Li, and Alexandre M.Tartakovsky.*
+
+
+1. **DPM: Physics-informed Karhunen-Loéve and neural network approximations for solving inverse differential equation problems.** AAAI, 2021. [paper](https://ojs.aaai.org/index.php/AAAI/article/view/16992/16799)
+
+   *Jungeun Kim, Kookjin Lee, Dongeun Lee, Sheo Yon Jin, and Noseong Park.*
+
+1. **Control of partial differential equations via physics-informed neural networks.** Journal of Optimization Theory and Applications, 2022. [paper](https://link.springer.com/article/10.1007/s10957-022-02100-4)
+
+   *Carlos J. García-Cervera, Mathieu Kessler, and Francisco Periago.*
+
+1. **Understanding the difficulty of training physics-informed neural networks on dynamical systems.** arXiv, 2022. [paper](https://arxiv.org/abs/2203.13648)
+
+   *Franz M. Rohrhofer, Stefan Posch, Clemens Gößnitzer, and Bernhard C. Geiger.*
+
+1. **Physics-informed neural networks with adaptive localized artificial viscosity.** arXiv, 2022. [paper](https://arxiv.org/abs/2203.08802)
+
+   *E.J.R. Coutinho, M. Dall'Aqua, L. McClenny, M. Zhong, U. Braga-Neto, and E. Gildin.*
+
+1. **Improved training of physics-informed neural networks with model ensembles.** arXiv, 2022. [paper](https://arxiv.org/abs/2204.05108)
+
+   *Katsiaryna Haitsiukevich and Alexander Ilin.*
 
 ### [DeepONet](#content)
 
@@ -241,6 +281,18 @@ Contributed by Chunyang Zhang.
 
    *Guang Lin, Christian Moya, and Zecheng Zhang.*
 
+1. **Bi-fidelity modeling of uncertain and partially unknown systems using  DeepONet.** arXiv, 2022. [paper](https://arxiv.org/abs/2204.00997)
+
+   *Subhayan De, Matthew Reynolds, Malik Hassanaly, Ryan N. King, and Alireza Doostan.*
+
+1. **Deep transfer learning for partial differential equations under conditional shift with DeepONet.** arXiv, 2022. [paper](https://arxiv.org/abs/2204.09810)
+
+   *Somdatta Goswami, Katiana Kontolati, Michael D. Shields, and George Em Karniadakis.*
+
+1. **Multiauto-DeepONet: A multi-resolution autoencoder DeepONet for nonlinear dimension reduction, uncertainty quantification and operator learning of forward and inverse stochastic problems.** arXiv, 2022. [paper](https://arxiv.org/abs/2204.03193)
+
+   *Jiahao Zhang, Shiqi Zhang, and Guang Lin.*
+
 ### [Fourier Operator](#content)
 
 1. Fourier neural operator for parametric partial differential equations.** ICLR, 2021. [paper](https://openreview.net/forum?id=c8P9NQVtmnO)
@@ -273,7 +325,6 @@ Contributed by Chunyang Zhang.
 
 
 ### [Graph Networks](#content)
-
 1. **Message passing neural PDE solvers.** ICLR,  2022. [paper](https://openreview.net/forum?id=vSix3HPYKSU)
 
    *Johannes Brandstetter, Daniel E. Worrall, and Max Welling.*
@@ -293,6 +344,19 @@ Contributed by Chunyang Zhang.
 1. **Modular flows: Differential molecular generation.** NIPS, 2022. [paper](https://openreview.net/forum?id=kCnwOP-FYdz)
 
    *Yogesh Verma, Samuel Kaski, Markus Heinonen, and Vikas Garg.*
+
+1. **PDE-GCN: Novel architectures for graph neural networks motivated by partial differential equations.** ICLR, 2021. [paper](https://openreview.net/forum?id=wWtk6GxJB2x)
+
+   *Moshe Eliasof, Eldad Haber, and Eran Treister.*
+
+1. **Combining differentiable PDE solvers and graph neural networks for fluid flow prediction.** ICML, 2022. [paper](https://dl.acm.org/doi/10.5555/3524938.3525162)
+
+   *Filipe de Avila Belbute-Peres, Thomas D. Economon, J. Zico Kolter.*
+
+1. **Learning time-dependent PDE solver using message passing graph neural networks.** arXiv, 2022. [paper](https://openreview.net/forum?id=oaKw-GmBZZ)
+
+   *Pourya Pilva and Ahmad Zareei.*
+
 1. **On the robustness of graph neural diffusion to topology perturbations.** arXiv, 2022. [paper](https://arxiv.org/abs/2209.07754)
 
    *Yang Song, Qiyu Kang, Sijie Wang, Zhao Kai, and Wee Peng Tay.*
@@ -326,6 +390,18 @@ Contributed by Chunyang Zhang.
 
    *Maziar Raissi.*
 
+1. **Learning composable energy surrogates for PDE order reduction.** NIPS, 2020. [paper](https://proceedings.neurips.cc/paper/2020/file/0332d694daab22e0e0eaf7a5e88433f9-Paper.pdf)
+
+   *Alex Beatson, Jordan T. Ash, Geoffrey Roeder, Tianju Xue, and Ryan P. Adams.*
+
+1. **Solving high-dimensional parabolic PDEs using the tensor train format.** ICML, 2021. [paper](https://arxiv.org/abs/2102.11830)
+
+   *Lorenz Richter, Leon Sallandt, and Nikolas Nüsken.*
+
+1. **Physics-constrained unsupervised learning of partial differential equations using meshes.** arXiv, 2022. [paper](https://arxiv.org/abs/2203.16628)
+
+   *Mike Y. Michelis, and Robert K. Katzschmann.*
+
 1. **Nonlocal kernel network (NKN): A stable and resolution-independent deep neural network.** Journal of Computational Physics, 2022. [paper](https://www.sciencedirect.com/science/article/pii/S0021999122005988)
 
    *HuaiqianYou, Yue Yu, Marta D'Elia, Tian Gao, Stewart Silling.*
@@ -337,6 +413,10 @@ Contributed by Chunyang Zhang.
 1. **The cost-accuracy trade-off in operator learning with neural networks.** arXiv, 2022. [paper](https://arxiv.org/abs/2203.13181)
 
    *Maarten V. de Hoop, Daniel Zhengyu Huang, Elizabeth Qian,amd  Andrew M. Stuart.*
+
+1. **Neural operator with regularity structure for modeling dynamics driven by SPDEs.** arXiv, 2022. [paper](https://arxiv.org/abs/2204.06255)
+
+   *Peiyan Hu, Qi Meng, Bingguang Chen, Shiqi Gong, Yue Wang, Wei Chen, Rongchan Zhu, Zhi-Ming Ma, and Tie-Yan Liu.*
 
 1. **Multi-scale deep neural networks for solving high dimensional PDEs.** arXiv, 2019. [paper](https://www.science.org/doi/10.1126/sciadv.1602614)
 
@@ -397,9 +477,13 @@ Contributed by Chunyang Zhang.
 
    *Marten Lienen and Stephan Günnemann.*
 
-1. **Hybrid finite difference with the physics-informed neural network for solving PDE in complex geometries** arXiv, 2022. [paper](https://arxiv.org/pdf/2202.07926.pdf)
+1. **Hybrid finite difference with the physics-informed neural network for solving PDE in complex geometries.** arXiv, 2022. [paper](https://arxiv.org/pdf/2202.07926.pdf)
 
    *Zixue Xiang, Wei Peng, Weien Zhou, and Wen Yao.*
+
+1. **Amortized finite element analysis for fast PDE-constrained optimization.** ICML, 2020. [paper](https://proceedings.mlr.press/v119/xue20a.html)
+
+   *Tianju Xue, Alex Beatson, Sigrid Adriaenssens, and Ryan Adams.*
 
 ### [Convolutional Filter](#content)
 1. **PDE-Net: Learning PDEs from data.** ICML, 2018.. [paper](https://proceedings.mlr.press/v80/long18a.html)
@@ -478,7 +562,16 @@ Contributed by Chunyang Zhang.
 1. **Approximate latent force model inference.** AAAI, 2021. [paper](https://ml4physicalsciences.github.io/2021/files/NeurIPS_ML4PS_2021_78.pdf)
 
    *Jacob D. Moss, Felix L. Opolka, Bianca Dumitrascu, and Pietro Lió.*
-   
+
+### [Loss Function](#content)
+1. **Multi-objective loss balancing for physics-informed deep learning.** arXiv, 2021. [paper](https://arxiv.org/abs/2110.09813)
+
+   *Rafael Bischof, and Michael Kraus.*
+
+1. **Adaptive deep neural networks methods for high-dimensional partial differential equations.** Journal of Computational Physics, 2022. [paper](https://www.sciencedirect.com/science/article/pii/S0021999122002947#!)
+
+   *Shaojie Zeng, Zong Zhang, and Qingsong Zou.*
+
 ### [Multi-Scale](#content)
 1. **Hierarchical deep learning of multiscale differential equation time-steppers.** Philosophical Transactions of the Royal Society A, 2022. [paper](https://royalsocietypublishing.org/doi/10.1098/rsta.2021.0200)
 
@@ -487,7 +580,16 @@ Contributed by Chunyang Zhang.
 1. **NH-PINN: Neural homogenization-based physics-informed neural network for multiscale problems.** Journal of Computational Physics, 2022. [paper](https://www.sciencedirect.com/science/article/pii/S0021999122006015)
 
    *Wing Tat Leung, Guang Lin, and Zecheng Zhang.*
-   
+
+### [Multi-Fidelity](#content)
+1. **Multifidelity deep operator networks.** arXiv, 2022. [paper](https://arxiv.org/abs/2204.09157)
+
+   *Amanda A. Howard, Mauro Perego, George E. Karniadakis, and Panos Stinis.*
+
+### [Mesh](#content)
+1. **M2n: Mesh movement networks for PDE solvers.** arXiv, 2022. [paper](https://arxiv.org/abs/2204.11188)
+
+   *Wenbin Song, Mingrui Zhang, Joseph G. Wallwork, Junpeng Gao, Zheng Tian, Fanglei Sun, Matthew D. Piggott, Junqing Chen, Zuoqiang Shi, Xiang Chen, and Jun Wang.*
 
 ### [Benchmark](#content)
 1. **PDEBench: An extensive benchmark for scientific machine learning.** NIPS, 2022. [paper](https://openreview.net/forum?id=dh_MkX0QfrK)
@@ -520,6 +622,10 @@ Contributed by Chunyang Zhang.
 
    *YihangGao and Michael K.Ng.*
 
+1. **Competitive physics informed networks.** ICLR, 2021. [paper](https://openreview.net/forum?id=rMz_scJ6lc)
+
+   *Qi Zeng, Spencer H Bryngelson, and Florian Tobias Schaefer.*
+
 ### [Gaussian Process](#content)
 1. **PAGP: A physics-assisted Gaussian process framework with active learning for forward and inverse problems of partial differential equations.** arXiv, 2022. [paper](https://arxiv.org/abs/2204.02583)
 
@@ -537,6 +643,9 @@ Contributed by Chunyang Zhang.
 1. **Lie point symmetry data augmentation for neural PDE solvers.** ICML, 2022. [paper](https://arxiv.org/abs/2202.07643)
 
    *Johannes Brandstetter, Max Welling, and Daniel E. Worrall.*
+1. **Hypersolvers: Toward fast continuous-depth models.** NIPS, 2020. [paper](http://www.robot.t.u-tokyo.ac.jp/~yamashita/paper/B/B268Final.pdf)
+
+   *Michael Poli, Stefano Massaroli, Atsushi Yamashita, Hajime Asama, and Jinkyoo Park.*
 
 ### [Variations](#content) 
 1. **PI-VAE: Physics-Informed Variational Auto-Encoder for stochastic differential equations.** Computer Methods in Applied Mechanics and Engineering, 2022. [paper](https://www.sciencedirect.com/science/article/pii/S0045782522006193)
@@ -589,15 +698,33 @@ Contributed by Chunyang Zhang.
 
    *Zhiyu Zhang, Ashok Cutkosky,and  Ioannis Paschalidis.*
 
-### [Wave](#content)
-1. **DeepONet prediction of linear instability waves in high-speed boundary layers.** arXiv, 2021. [paper](https://arxiv.org/abs/2105.08697)
+1. **Neural solvers for fast and accurate numerical optimal control.** NIPS, 2021. [paper](https://openreview.net/forum?id=rwMWDGOjaQF)
 
-   *Patricio Clark Di Leoni, Lu Lu, Charles Meneveau, George Karniadakis, and Tamer A. Zaki.*
-   
+   *Federico Berto, Stefano Massaroli, Michael Poli, and  Jinkyoo Park.*
+
 ### [Uncertainty Quantification](#content)
 1. **Quantifying total uncertainty in physics-informed neural networks for solving forward and inverse stochastic problems.** arXiv, 2021. [paper](https://www.sciencedirect.com/science/article/pii/S0021999119305340)
 
    *Dongkun Zhang, Lu Lu, Ling Guo, and George EmKarniadakis.*
+
+### [Wave](#content)
+1. **DeepONet prediction of linear instability waves in high-speed boundary layers.** arXiv, 2021. [paper](https://arxiv.org/abs/2105.08697)
+
+   *Patricio Clark Di Leoni, Lu Lu, Charles Meneveau, George Karniadakis, and Tamer A. Zaki.*
+
+1. **Towards physics-informed deep learning for turbulent flow prediction.** KDD, 2020. [paper](https://dl.acm.org/doi/10.1145/3394486.3403198)
+
+   *Rui Wang, Karthik Kashinath, Mustafa Mustafa, Adrian Albert, Rose Yu.*
+
+### [Material](#content)
+1. **Learning two-phase microstructure evolution using neural operators and autoencoder architectures.**  NPJ Computational Materials, 2022. [paper](https://www.nature.com/articles/s41524-022-00876-7)
+
+   *Vivek Oommen, Khemraj Shukla, Somdatta Goswami, Rémi Dingreville, and George Em Karniadakis.*
+
+### [Heat](#content)
+1. **Multifidelity deep neural operators for efficient learning of partial differential equations with application to fast inverse design of nanoscale heat transport.** Physical Review Research, 2022. [paper](https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.4.023210)
+
+   *Lu Lu, Raphaël Pestourie, Steven G. Johnson, and Giuseppe Romano.*
 
 ### [ODE](#content)
 1. **On robustness of neural ordinary differential equations.** ICLR, 2020. [paper](https://openreview.net/forum?id=-gBckR-V1i)
@@ -611,3 +738,7 @@ Contributed by Chunyang Zhang.
 1. **Neural ordinary differential equations.** NIPS, 2018. [paper](https://proceedings.neurips.cc/paper/2018/hash/69386f6bb1dfed68692a24c8686939b9-Abstract.html)
 
    *Ricky T. Q. Chen, Yulia Rubanova, Jesse Bettencourt, and David K. Duvenaud.*
+
+1. **Deep learning for universal linear embeddings of nonlinear dynamics.** Nature Communications, 2018. [paper](https://www.nature.com/articles/s41467-018-07210-0)
+
+   *Bethany Lusch, J. Nathan Kutz, and Steven L. Brunton.*
