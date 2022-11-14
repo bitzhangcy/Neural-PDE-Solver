@@ -129,6 +129,10 @@ Contributed by Chunyang Zhang.
 
    *Alexander Heinlein, Axel Klawonn, Martin Lanser, and Janine Weber.* 
 
+1. **Partial differential equations meet deep neural networks: A survey.** arXiv, 2022. [paper](https://arxiv.org/abs/2211.05567)
+
+   *Shudong Huang, Wentao Feng, Chenwei Tang, and Jiancheng Lv.* 
+
 ## [Models](#content) 
 ### [PINN](#content)
 
