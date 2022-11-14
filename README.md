@@ -96,7 +96,6 @@ Contributed by Chunyang Zhang.
 
 
 ## [Survey Papers](#content)
-
 1. **Physics-informed machine learning.** Nature Reviews Physics, 2021. [paper](https://www.nature.com/articles/s42254-021-00314-5)
 
    *George Em Karniadakis, Ioannis G. Kevrekidis, Lu Lu, Paris Perdikaris, Sifan Wang, and Liu Yang.*
@@ -112,6 +111,10 @@ Contributed by Chunyang Zhang.
 1. **A comprehensive and fair comparison of two neural operators (with practical extensions) based on FAIR data.** Computer Methods in Applied Mechanics and Engineering, 2022. [paper](https://www.sciencedirect.com/science/article/pii/S0045782522001207?via%3Dihub)
 
    *Lu Lu,Xuhui Meng, Shengze Cai,Zhiping Mao, Somdatta Goswami, Zhongqiang Zhang, George EmKarniadakis.* 
+
+1. **Scientific machine learning through physics–informed neural networks: Where we are and what’s next.** Beyond traditional AI: the impact of Machine Learning on Scientific Computing, 2022. [book](https://link.springer.com/article/10.1007/s10915-022-01939-z)
+
+   *MingyuanYang and John T.Foster*
 
 1. **When physics meets machine learning: A survey of physics-informed machine learning.** arXiv, 2022. [paper](https://arxiv.org/abs/2203.16797)
 
@@ -343,7 +346,6 @@ Contributed by Chunyang Zhang.
 
    *Alvaro Sanchez-Gonzalez, Jonathan Godwin, Tobias Pfaff, Rex Ying, Jure Leskovec, and Peter W. Battaglia.*
 
-
 1. **GRAND: Graph neural diffusion.** ICML, 2021. [paper](https://openreview.net/forum?id=_1fu_cjsaRE)
 
    *Benjamin Paul Chamberlain, James Rowbottom, Maria I. Gorinova, Stefan D Webb, Emanuele Rossi, and Michael M. Bronstein.*
@@ -371,6 +373,10 @@ Contributed by Chunyang Zhang.
 1. **STONet: A neural-operator-driven spatio-temporal network.** arXiv, 2022. [paper](https://arxiv.org/abs/2204.08414)
 
    *Haitao Lin, Guojiang Zhao, Lirong Wu, and Stan Z. Li.*
+
+1. **PhyGNNet: Solving spatiotemporal PDEs with physics-informed graph neural network.** arXiv, 2022. [paper](https://arxiv.org/abs/2208.04319)
+
+   *Longxiang Jiang, Liyuan Wang, Xinkun Chu, Yonghao Xiao, and Hao Zhang.*
 
 1. **Differentiable physics-informed graph networks.** arXiv, 2019. [paper](https://arxiv.org/abs/1902.02950)
 
@@ -571,10 +577,6 @@ Contributed by Chunyang Zhang.
 
    *Zheyuan Hu, Ameya D. Jagtap, George Em Karniadakis, and Kenji Kawaguchi.*
 
-1. **Scientific machine learning through physics–informed neural networks: Where we are and what’s next.** Beyond traditional AI: the impact of Machine Learning on Scientific Computing, 2022. [book](https://link.springer.com/article/10.1007/s10915-022-01939-z)
-
-   *MingyuanYang and John T.Foster*
-
 1. **Respecting causality is all you need for training physics-informed neural networks.** arXiv, 2021. [paper](https://arxiv.org/abs/2203.07404)
 
    *Sifan Wang, Shyam Sankaran, and Paris Perdikaris.*
@@ -729,7 +731,7 @@ Contributed by Chunyang Zhang.
 
    *Vignesh Gopakumar, Stanislas Pamela, and Debasmita Samaddar.*
 
-### [Decomposation](#content)
+### [Decomposition ](#content)
 1. **Composing partial differential equations with physics-aware neural networks.** ICLR, 2022. [paper](https://openreview.net/forum?id=DIsWHvtU7lF)
 
    *Matthias Karlbauer, Timothy Praditia, Sebastian Otte, Sergey Oladyshkin, Wolfgang Nowak, and Martin V. Butz.*
@@ -741,6 +743,14 @@ Contributed by Chunyang Zhang.
 1. **PFNN-2: A domain decomposed penalty-free neural network method for solving partial differential equations.** arXiv, 2022. [paper](https://arxiv.org/abs/2205.00593)
 
    *Hailong Shen and Chao Yang.*
+
+1. **Finite Basis Physics-Informed Neural networks (FBPINNs): A scalable domain decomposition approach for solving differential equations.** arXiv, 2021. [paper](https://arxiv.org/abs/2107.07871)
+
+   *Ben Moseley, Andrew Markham, and Tarje Nissen-Meyer.*
+
+1. **Finite basis physics-informed neural networks as a Schwarz domain decomposition method.** arXiv, 2022. [paper](https://arxiv.org/abs/2211.05560)
+
+   *Victorita Dolean, Alexander Heinlein, Siddhartha Mishra, and Ben Moseley.*
 
 1. **NeuralStagger: Accelerating physics constrained neural PDE solver with spatialtemporal decomposition.** ICLR, 2023. [paper](https://openreview.net/forum?id=pGR2gNO5c4p)
 
