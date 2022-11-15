@@ -29,6 +29,10 @@ Contributed by Chunyang Zhang.
     <td>&ensp;<a href=#identification"">2.9 Identification</a></td>
     <td>&ensp;<a href="#machine-learning">2.10 Machine Learning</a></td>
 </tr>
+<tr>
+    <td>&ensp;<a href=#ode"">2.11 ODE</a></td>
+    <td>&ensp;<a href="#"></a></td>
+</tr>
 <tr><td colspan="2"><a href="#models">3. Mechanism</a></td></tr>
 <tr>
     <td>&ensp;<a href="#library">3.1 Library</a></td>
@@ -88,8 +92,8 @@ Contributed by Chunyang Zhang.
     <td>&ensp;<a href="#physics">4.4 Physics</a></td>
 </tr>
 <tr>
-    <td>&ensp;<a href="#manufacturing">4.5 Manufacturing</a></td>
-    <td>&ensp;<a href="#ode">4.6 ODE</a></td>
+    <td>&ensp;<a href="#image">4.5 Image</a></td>
+    <td>&ensp;<a href="#manufacturing">4.6 Manufacturing</a></td>
 </tr> 
 </table>
 
@@ -541,6 +545,30 @@ Contributed by Chunyang Zhang.
 
    *Shamsulhaq Basir and Inanc Senocak.*
 
+### [ODE](#content)
+1. **On robustness of neural ordinary differential equations.** ICLR, 2020. [paper](https://openreview.net/forum?id=-gBckR-V1i)
+
+   *Hanshu Yan, Jiawei Du, Vincent Y. F. Tan, and Jiashi Feng.*
+
+1. **Beyond finite layer neural networks: Bridging deep architectures and numerical differential equations.** ICML, 2018. [paper](https://arxiv.org/abs/1710.10121)
+
+   *Yiping Lu, Aoxiao Zhong, Quanzheng Li, and Bin Dong.*
+
+1. **Neural ordinary differential equations.** NIPS, 2018. [paper](https://proceedings.neurips.cc/paper/2018/hash/69386f6bb1dfed68692a24c8686939b9-Abstract.html)
+
+   *Ricky T. Q. Chen, Yulia Rubanova, Jesse Bettencourt, and David K. Duvenaud.*
+
+1. **Hamiltonian neural networks.** ICML, 2018. [paper](https://proceedings.neurips.cc/paper/2019/file/26cd8ecadce0d4efd6cc8a8725cbd1f8-Paper.pdf)
+
+   *Sam Greydanus, Misko Dzamba, and Jason Yosinski.*
+
+1. **Deep learning for universal linear embeddings of nonlinear dynamics.** Nature Communications, 2018. [paper](https://www.nature.com/articles/s41467-018-07210-0)
+
+   *Bethany Lusch, J. Nathan Kutz, and Steven L. Brunton.*
+
+1. **Stochastic physics-informed neural ordinary differential equations.** arXiv, 2021. [paper](https://arxiv.org/abs/2109.01621)
+
+   *Jared O'Leary, Joel A. Paulson, and Ali Mesbah.*
 
 ## [Mechanism](#content) 
 ### [Library](#content)
@@ -735,7 +763,7 @@ Contributed by Chunyang Zhang.
 
    *Vignesh Gopakumar, Stanislas Pamela, and Debasmita Samaddar.*
 
-### [Decomposition ](#content)
+### [Decomposition](#content)
 1. **Composing partial differential equations with physics-aware neural networks.** ICLR, 2022. [paper](https://openreview.net/forum?id=DIsWHvtU7lF)
 
    *Matthias Karlbauer, Timothy Praditia, Sebastian Otte, Sergey Oladyshkin, Wolfgang Nowak, and Martin V. Butz.*
@@ -1019,32 +1047,16 @@ Contributed by Chunyang Zhang.
 
    *Vivek Oommen, Khemraj Shukla, Somdatta Goswami, Rémi Dingreville, and George Em Karniadakis.*
 
+### [Image](#content)
+1. **Learning to diffuse: A new perspective to design PDEs for visual analysis.** TPAMI, 2016. [paper](https://ieeexplore.ieee.org/document/7393839)
+
+   *Liu, Risheng, Zhong, Guangyu, Cao, Junjie, Lin, Zhouchen, Shan, Shiguang, and Luo, Zhongxuan.*
+
+1. **Reformulating optical flow to solve image-based inverse problems and quantify uncertainty.** TPAMI, 2022. [paper](https://ieeexplore.ieee.org/document/9870569)
+
+   *Aleix Boquet-Pujadas and Jean-Christophe Olivo-Marin.*
+
 ### [Manufacturing](#content)
 1. **Physics-aware machine learning surrogates for real-time manufacturing digital twin.** Manufacturing Letters, 2022. [paper](https://www.sciencedirect.com/science/article/abs/pii/S2213846322001845)
 
    *Aditya Balu,Soumik Sarkar, Baskar Ganapathysubramanian, and Adarsh Krishnamurthy.*
-
-### [ODE](#content)
-1. **On robustness of neural ordinary differential equations.** ICLR, 2020. [paper](https://openreview.net/forum?id=-gBckR-V1i)
-
-   *Hanshu Yan, Jiawei Du, Vincent Y. F. Tan, and Jiashi Feng.*
-
-1. **Beyond finite layer neural networks: Bridging deep architectures and numerical differential equations.** ICML, 2018. [paper](https://arxiv.org/abs/1710.10121)
-
-   *Yiping Lu, Aoxiao Zhong, Quanzheng Li, and Bin Dong.*
-
-1. **Neural ordinary differential equations.** NIPS, 2018. [paper](https://proceedings.neurips.cc/paper/2018/hash/69386f6bb1dfed68692a24c8686939b9-Abstract.html)
-
-   *Ricky T. Q. Chen, Yulia Rubanova, Jesse Bettencourt, and David K. Duvenaud.*
-
-1. **Hamiltonian neural networks.** ICML, 2018. [paper](https://proceedings.neurips.cc/paper/2019/file/26cd8ecadce0d4efd6cc8a8725cbd1f8-Paper.pdf)
-
-   *Sam Greydanus, Misko Dzamba, and Jason Yosinski.*
-
-1. **Deep learning for universal linear embeddings of nonlinear dynamics.** Nature Communications, 2018. [paper](https://www.nature.com/articles/s41467-018-07210-0)
-
-   *Bethany Lusch, J. Nathan Kutz, and Steven L. Brunton.*
-
-1. **Stochastic physics-informed neural ordinary differential equations.** arXiv, 2021. [paper](https://arxiv.org/abs/2109.01621)
-
-   *Jared O'Leary, Joel A. Paulson, and Ali Mesbah.*
