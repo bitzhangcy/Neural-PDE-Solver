@@ -15,22 +15,22 @@ Contributed by Chunyang Zhang.
 </tr>
 <tr>
     <td>&ensp;<a href="#fourier-operator">2.3 Fourier Operator</a></td>
-    <td>&ensp;<a href="#graph-networks">2.4 Graph Networks</a></td>
+    <td>&ensp;<a href="#graph-network">2.4 Graph Network</a></td>
 </tr>
 <tr>
     <td>&ensp;<a href="#green-function">2.5 Green Function</a></td>
-    <td>&ensp;<a href="#finite-element-&-volume">2.6 Finite Element & Volume</a></td>
+    <td>&ensp;<a href="#finite-element">2.6 Finite Element</a></td>
 </tr>
 <tr>
     <td>&ensp;<a href="#convolutional-filter">2.7 Convolutional Filter</a></td>
     <td>&ensp;<a href="#other-operators">2.8 Other Operators</a></td>
 </tr>
 <tr>
-    <td>&ensp;<a href=#identification"">2.9 Identification</a></td>
+    <td>&ensp;<a href=#identification">2.9 Identification</a></td>
     <td>&ensp;<a href="#machine-learning">2.10 Machine Learning</a></td>
 </tr>
 <tr>
-    <td>&ensp;<a href=#ode"">2.11 ODE</a></td>
+    <td>&ensp;<a href=#ode">2.11 ODE</a></td>
     <td>&ensp;<a href="#"></a></td>
 </tr>
 <tr><td colspan="2"><a href="#models">3. Mechanism</a></td></tr>
@@ -51,36 +51,32 @@ Contributed by Chunyang Zhang.
     <td>&ensp;<a href="#loss-function">3.8 Loss Function</a></td>
 </tr>
 <tr>
-    <td>&ensp;<a href="#decomposation">3.9 Decomposation</a></td>
+    <td>&ensp;<a href="#decomposition">3.9 Decomposition</a></td>
     <td>&ensp;<a href="#mesh">3.10 Mesh</a></td>
 </tr>
-<tr>
-    <td>&ensp;<a href="#disentangle">3.11 Disentangle</a></td>
-    <td>&ensp;<a href="#meta-learning">3.12 Meta Learning</a></td>
+ <tr>
+    <td>&ensp;<a href="#gan">3.11 GAN</a></td>
+    <td>&ensp;<a href="#gaussian-process">3.12 Gaussian Process</a></td>
 </tr>
  <tr>
-    <td>&ensp;<a href="#gan">3.13 GAN</a></td>
-    <td>&ensp;<a href="#gussian-process">3.14 Gussian Process</a></td>
+    <td>&ensp;<a href="#solver">3.13 Solver</a></td>
+    <td>&ensp;<a href="#variation">3.14 Variation</a></td>
 </tr>
  <tr>
-    <td>&ensp;<a href="#solver">3.15 Solver</a></td>
-    <td>&ensp;<a href="#variations">3.16 Variations</a></td>
+    <td>&ensp;<a href="#bayesian">3.15 Bayesian</a></td>
+    <td>&ensp;<a href="#lagrangian">3.16 Lagrangian</a></td>
 </tr>
  <tr>
-    <td>&ensp;<a href="#bayesian">3.17 Bayesian</a></td>
-    <td>&ensp;<a href="#lagrangian">3.18 Lagrangian</a></td>
+    <td>&ensp;<a href="#uncertainty-quantification">3.17 Uncertainty Quantification</a></td>
+    <td>&ensp;<a href="#active-learning">3.28 Active Learning</a></td>
 </tr>
  <tr>
-    <td>&ensp;<a href="#uncertainty-quantification">3.19 Uncertainty Quantification</a></td>
-    <td>&ensp;<a href="#active-learning">3.20 Active Learning</a></td>
+    <td>&ensp;<a href="#active-learning">3.19 Active Learning</a></td>
+    <td>&ensp;<a href="#multi-scale">3.20 Multi Scale</a></td>
 </tr>
  <tr>
-    <td>&ensp;<a href="#active-learning">3.21 Active Learning</a></td>
-    <td>&ensp;<a href="#multi-scale">3.22 Multi-Scale</a></td>
-</tr>
- <tr>
-    <td>&ensp;<a href="#multi-fidelity">3.23 Multi-Fidelity</a></td>
-    <td>&ensp;<a href="#multi-grid">3.24 Multi-Grid</a></td>
+    <td>&ensp;<a href="#multi-fidelity">3.21 Multi Fidelity</a></td>
+    <td>&ensp;<a href="#multi-grid">3.22 Multi Grid</a></td>
 </tr>
 <tr><td colspan="2"><a href="#applications">4. Applications</a></td></tr> 
 <tr>
@@ -96,6 +92,7 @@ Contributed by Chunyang Zhang.
     <td>&ensp;<a href="#manufacturing">4.6 Manufacturing</a></td>
 </tr> 
 </table>
+
 
 
 
@@ -301,7 +298,7 @@ Contributed by Chunyang Zhang.
 
    *Sifan Wang, Hanwen Wang, and Paris Perdikaris.*
 
-### [Graph Networks](#content)
+### [Graph Network](#content)
 1. **Message passing neural PDE solvers.** ICLR,  2022. [paper](https://openreview.net/forum?id=vSix3HPYKSU)
 
    *Johannes Brandstetter, Daniel E. Worrall, and Max Welling.*
@@ -395,7 +392,7 @@ Contributed by Chunyang Zhang.
 
    *Guochang Lin, Fukai Chen, Pipi Hu, Xiang Chen, Junqing Chen, Jun Wang, and Zuoqiang Shi.*
 
-### [Finite Element & Volume](#content)
+### [Finite Element](#content)
 1. **Composing partial differential equations with physics-aware neural networks.** ICML, 2022. [paper](https://proceedings.mlr.press/v162/karlbauer22a/karlbauer22a.pdf)
 
    *Matthias Karlbauer, Timothy Praditia, Sebastian Otte, Sergey Oladyshkin, and Wolfgang Nowak.*
@@ -876,7 +873,7 @@ Contributed by Chunyang Zhang.
 
    *Michael Poli, Stefano Massaroli, Atsushi Yamashita, Hajime Asama, and Jinkyoo Park.*
 
-### [Variations](#content) 
+### [Variation](#content) 
 1. **PI-VAE: Physics-Informed Variational Auto-Encoder for stochastic differential equations.** Computer Methods in Applied Mechanics and Engineering, 2022. [paper](https://www.sciencedirect.com/science/article/pii/S0045782522006193)
 
    *Weiheng Zhong, Hadi Meidani.*
@@ -949,7 +946,7 @@ Contributed by Chunyang Zhang.
 
    *Pickering, Ethan and Karniadakis, George Em and Sapsis, and Themistoklis P.*
 
-### [Multi-Scale](#content)
+### [Multi Scale](#content)
 1. **Hierarchical deep learning of multiscale differential equation time-steppers.** Philosophical Transactions of the Royal Society A, 2022. [paper](https://royalsocietypublishing.org/doi/10.1098/rsta.2021.0200)
 
    *Yuying Liu, J. Nathan Kutz, and Steven L. Brunton.*
@@ -962,7 +959,7 @@ Contributed by Chunyang Zhang.
 
    *Samuel H. Rudy, Steven L. Brunton,  Joshua L. Proctor, and  J. Nathan Kutz.*
 
-### [Multi-Fidelity](#content)
+### [Multi Fidelity](#content)
 1. **Multifidelity deep operator networks.** arXiv, 2022. [paper](https://arxiv.org/abs/2204.09157)
 
    *Amanda A. Howard, Mauro Perego, George E. Karniadakis, and Panos Stinis.*
@@ -975,7 +972,7 @@ Contributed by Chunyang Zhang.
 
    *Lu Lu, Raphaël Pestourie, Steven G. Johnson, and Giuseppe Romano.*
 
-### [Multi-Grid](#content)
+### [Multi Grid](#content)
 
 1. **Learning to optimize multigrid PDE solvers.** ICML, 2019. [paper](http://proceedings.mlr.press/v97/greenfeld19a.html)
 
