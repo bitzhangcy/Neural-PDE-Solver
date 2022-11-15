@@ -26,11 +26,11 @@ Contributed by Chunyang Zhang.
     <td>&ensp;<a href="#other-operators">2.8 Other Operators</a></td>
 </tr>
 <tr>
-    <td>&ensp;<a href=#identification">2.9 Identification</a></td>
+    <td>&ensp;<a href=”#identification">2.9 Identification</a></td>
     <td>&ensp;<a href="#machine-learning">2.10 Machine Learning</a></td>
 </tr>
 <tr>
-    <td>&ensp;<a href=#ode">2.11 ODE</a></td>
+    <td>&ensp;<a href=“#ode">2.11 ODE</a></td>
     <td>&ensp;<a href="#"></a></td>
 </tr>
 <tr><td colspan="2"><a href="#models">3. Mechanism</a></td></tr>
