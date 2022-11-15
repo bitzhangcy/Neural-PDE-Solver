@@ -132,6 +132,10 @@ Contributed by Chunyang Zhang.
 
    *Alexander Heinlein, Axel Klawonn, Martin Lanser, and Janine Weber.* 
 
+1. **Physics-guided, physics-informed, and physics-encoded neural networks in scientific computing.** arXiv, 2022. [paper](https://arxiv.org/abs/2211.07377)
+
+   *Salah A Faroughi, Nikhil Pawar, Celio Fernandes, Subasish Das, Nima K. Kalantari, and Seyed Kourosh Mahjour.* 
+
 1. **Partial differential equations meet deep neural networks: A survey.** arXiv, 2022. [paper](https://arxiv.org/abs/2211.05567)
 
    *Shudong Huang, Wentao Feng, Chenwei Tang, and Jiancheng Lv.* 
