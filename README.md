@@ -26,11 +26,11 @@ Contributed by Chunyang Zhang.
     <td>&ensp;<a href="#autoencoder">2.8 AutoEncoder</a></td>
 </tr>
 <tr>
-    <td>&ensp;<a href="#operators">2.9 Operators</a></td>
-    <td>&ensp;<a href=”#identification">2.10 Identification</a></td>
+    <td>&ensp;<a href="#operator">2.9 Operator</a></td>
+    <td>&ensp;<a href="#identification">2.10 Identification</a></td>
 <tr>
     <td>&ensp;<a href="#machine-learning">2.11 Machine Learning</a></td>
-    <td>&ensp;<a href=“#ode">2.12 ODE</a></td>
+    <td>&ensp;<a href="#ode">2.12 ODE</a></td>
 </tr>
 <tr><td colspan="2"><a href="#models">3. Mechanism</a></td></tr>
 <tr>
@@ -99,6 +99,7 @@ Contributed by Chunyang Zhang.
     <td>&ensp;<a href="#manufacturing">4.8 Manufacturing</a></td>
 </tr> 
 </table>
+
 
 
 
@@ -184,10 +185,6 @@ source.** IJCAI, 2022. [paper](https://www.ijcai.org/proceedings/2022/533)
 1. **Gradient-enhanced physics-informed neural networks for forward and inverse PDE problems.** Computer Methods in Applied Mechanics and Engineering, 2022. [paper](https://www.sciencedirect.com/science/article/pii/S0045782522001438?via%3Dihub)
 
    *Jeremy Yu, Lu Lu, Xuhui Meng, George EmKarniadakis.*
-
-1. **Multi-output physics-informed neural networks for forward and inverse PDE problems with uncertainties.** Computer Methods in Applied Mechanics and Engineering, 2022. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0045782522002602)
-
-   *MingyuanYang and John T.Foster*
 
 1. **Multi-output physics-informed neural networks for forward and inverse PDE problems with uncertainties.** Computer Methods in Applied Mechanics and Engineering, 2022. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0045782522002602)
 
@@ -295,7 +292,7 @@ partial differential equations.** Computers and Fluids, 2022. [paper](https://ww
 
    *Jeremy Yu, Lu Lu, Xuhui Meng, George EmKarniadakis.*
 
-1. **Error estimates for DeepONets: a deep learning framework in infinite dimensions.** Transactions of Mathematics and Its Applications, 2022. [paper](https://academic.oup.com/imatrm/article/6/1/tnac001/6542709)
+1. **Error estimates for DeepONets: A deep learning framework in infinite dimensions.** Transactions of Mathematics and Its Applications, 2022. [paper](https://academic.oup.com/imatrm/article/6/1/tnac001/6542709)
 
    *Samuel Lanthaler, Siddhartha Mishra, and George E Karniadakis.*
 
@@ -337,6 +334,8 @@ partial differential equations.** Computers and Fluids, 2022. [paper](https://ww
    *Nikola Kovachki, Samuel Lanthaler, Siddhartha Mishra.*
 
 1. **Neural operator: Graph kernel network for partial Differential equations.** arXiv, 2020. [paper](https://arxiv.org/abs/2003.03485)
+
+   *Zongyi Li, Nikola Kovachki, Kamyar Azizzadenesheli, Burigede Liu, Kaushik Bhattacharya, Andrew Stuart, and Anima Anandkumar.*
 
 1. **Fourier neural operator with learned deformations for PDEs on general geometries.** arXiv, 2022. [paper](https://arxiv.org/abs/2207.05209)
 
@@ -555,7 +554,7 @@ partial differential equations.** Computers and Fluids, 2022. [paper](https://ww
 
    *Yong Zheng Ong, Zuowei Shen, and Haizhao Yang.*
 
-### [Operators](#content)
+### [Operator](#content)
 1. **Multiwavelet-based operator learning for differential equations.** NIPS, 2021. [paper](https://openreview.net/forum?id=LZDiWaC9CGL)
 
    *Gaurav Gupta, Xiongye Xiao, and Paul Bogdan.*
@@ -937,7 +936,7 @@ representations.** NIPS , 2021. [paper](http://crl.ethz.ch/papers/NTopoNeurIPS20
 
    *Yicheng Wang, Xiaotian Han, Chia-Yuan Chang, Daochen Zha, Ulisses Braga-Neto, and Xia Hu.*
 
-1. **Building high accuracy emulators for scientic simulations with deep neural architecture search.** Machine Learning: Science and Technology, 2022. [paper](https://iopscience.iop.org/article/10.1088/2632-2153/ac3ffa)
+1. **Building high accuracy emulators for scientific simulations with deep neural architecture search.** Machine Learning: Science and Technology, 2022. [paper](https://iopscience.iop.org/article/10.1088/2632-2153/ac3ffa)
 
    *M F Kasim, D Watson-Parris, L Deaconu, S Oliver, P Hatfield, D H Froula, G Gregori, M Jarvis, S Khatiwala, J Korenaga, J Topp-Mugglestone, E Viezzer, and S M Vinko.*
 
@@ -1025,7 +1024,7 @@ representations.** NIPS , 2021. [paper](http://crl.ethz.ch/papers/NTopoNeurIPS20
 
    *Hailong Shen and Chao Yang.*
 
-1. **Finite Basis Physics-Informed Neural networks (FBPINNs): A scalable domain decomposition approach for solving differential equations.** arXiv, 2021. [paper](https://arxiv.org/abs/2107.07871)
+1. **Finite basis physics-informed neural networks (FBPINNs): A scalable domain decomposition approach for solving differential equations.** arXiv, 2021. [paper](https://arxiv.org/abs/2107.07871)
 
    *Ben Moseley, Andrew Markham, and Tarje Nissen-Meyer.*
 
@@ -1117,7 +1116,7 @@ representations.** NIPS , 2021. [paper](http://crl.ethz.ch/papers/NTopoNeurIPS20
    *Yifan Chen, Bamdad Hosseini, Houman Owhadi, and Andrew M.Stuart.*
 
 ### [Solver](#content)
-1. **Solver-in-the-loop: learning from differentiable physics to interact with iterative PDE-solvers.** NIPS, 2020. [paper](https://dl.acm.org/doi/abs/10.5555/3495724.3496237)
+1. **Solver-in-the-loop: Learning from differentiable physics to interact with iterative PDE-solvers.** NIPS, 2020. [paper](https://dl.acm.org/doi/abs/10.5555/3495724.3496237)
 
    *Kiwon Um, Robert Brand, Yun (Raymond) Fei, Philipp Holl, and Nils Thuerey.*
    
@@ -1138,7 +1137,7 @@ representations.** NIPS , 2021. [paper](http://crl.ethz.ch/papers/NTopoNeurIPS20
    *Namgyu Kang, Byeonghyeon Lee, Youngjoon Hong, Seok-Bae Yun, and sEunbyung Park.*
 
 ### [Variation](#content) 
-1. **PI-VAE: Physics-Informed Variational Auto-Encoder for stochastic differential equations.** Computer Methods in Applied Mechanics and Engineering, 2022. [paper](https://www.sciencedirect.com/science/article/pii/S0045782522006193)
+1. **PI-VAE: Physics-informed variational auto-encoder for stochastic differential equations.** Computer Methods in Applied Mechanics and Engineering, 2022. [paper](https://www.sciencedirect.com/science/article/pii/S0045782522006193)
 
    *Weiheng Zhong, Hadi Meidani.*
 
@@ -1322,7 +1321,7 @@ representations.** NIPS , 2021. [paper](http://crl.ethz.ch/papers/NTopoNeurIPS20
 
    *John M.Hanna, José V.Aguado, Sebastien Comas-Cardona, Ramz Askri, and Domenico Borzacchiello.*
 
-1. **Learned turbulence modelling with differentiable fluid solvers: physics-based loss-functions and optimisation horizons.** Journal of Fluid Mechanics, 2022. [paper](https://www.cambridge.org/core/journals/journal-of-fluid-mechanics/article/learned-turbulence-modelling-with-differentiable-fluid-solvers-physicsbased-loss-functions-and-optimisation-horizons/28D19239CEDB81A3DA58F32E0E8CB3B2)
+1. **Learned turbulence modelling with differentiable fluid solvers: Physics-based loss-functions and optimisation horizons.** Journal of Fluid Mechanics, 2022. [paper](https://www.cambridge.org/core/journals/journal-of-fluid-mechanics/article/learned-turbulence-modelling-with-differentiable-fluid-solvers-physicsbased-loss-functions-and-optimisation-horizons/28D19239CEDB81A3DA58F32E0E8CB3B2)
 
    *Björn List, Li-Wei Chen, and Nils Thuerey.*
 
