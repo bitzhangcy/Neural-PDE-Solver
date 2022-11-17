@@ -230,6 +230,10 @@ source.** IJCAI, 2022. [paper](https://www.ijcai.org/proceedings/2022/533)
 
    *Jing Li, and Alexandre M.Tartakovsky.*
 
+1. **Theory-guided physics-informed neural networks for boundary layer problems with singular perturbation.** Journal of Computational Physics, 2022. [paper](https://www.sciencedirect.com/science/article/pii/S0021999122008312)
+
+   *Amirhossein Arzani, Kevin W.Cassel, and Roshan M.D'Souza.*
+
 1. **A mixed formulation for physics-informed neural networks as a potential solver for engineering problems in heterogeneous domains: Comparison with finite element method.** Computer Methods in Applied Mechanics and Engineering, 2022. [paper](https://www.sciencedirect.com/science/article/pii/S0045782522005722)
 
    *Shahed Rezaei, Ali Harandi, Ahmad Moeineddin, Baixiang Xua, and StefanieReese.*
@@ -549,7 +553,7 @@ partial differential equations.** Computers and Fluids, 2022. [paper](https://ww
 
    *A. Mavi, A.C. Bekar, E. Haghighat, and E. Madenci.*
 
-1. **MESHFREEFLOWNET: A physics-constrained deep continuous space-time super-resolution framework.** SC, 2020. [paper](https://ieeexplore.ieee.org/document/9355293)
+1. **MeshFreeFLowNet: A physics-constrained deep continuous space-time super-resolution framework.** SC, 2020. [paper](https://ieeexplore.ieee.org/document/9355293)
 
    *Chiyu Max Jiang, Soheil Esmaeilzadeh, Kamyar Azizzadenesheli, Karthik Kashinath, Mustafa Mustafa, Hamdi A. Tchelepi, Philip Marcus, Prabhat, and Anima Anandkumar.*
 
@@ -676,6 +680,10 @@ partial differential equations.** Computers and Fluids, 2022. [paper](https://ww
 1. **Solving high-dimensional parabolic PDEs using the tensor train format.** ICML, 2021. [paper](https://arxiv.org/abs/2102.11830)
 
    *Lorenz Richter, Leon Sallandt, and Nikolas Nüsken.*
+
+1. **A hybrid reduced basis and machine-learning algorithm for building surrogate models: A first application to electromagnetism.** NIPS, 2022. [paper](https://www.researchgate.net/profile/Alejandro-Ribes/publication/365152878_A_hybrid_Reduced_Basis_and_Machine-Learning_algorithm_for_building_Surrogate_Models_a_first_application_to_electromagnetism/links/6366a7de37878b3e87852084/A-hybrid-Reduced-Basis-and-Machine-Learning-algorithm-for-building-Surrogate-Models-a-first-application-to-electromagnetism.pdf)
+
+   *Alejandro Ribés and Ruben Persicot.*
 
 1. **Nonlocal kernel network (NKN): A stable and resolution-independent deep neural network.** Journal of Computational Physics, 2022. [paper](https://www.sciencedirect.com/science/article/pii/S0021999122005988)
 
@@ -879,8 +887,7 @@ partial differential equations.** Computers and Fluids, 2022. [paper](https://ww
 
    *Oussama Boussif, Dan Assouline, Loubna Benabbou, and Yoshua Bengio.*
 
-1. **NTopo: Mesh-free topology optimization using implicit neural
-representations.** NIPS , 2021. [paper](http://crl.ethz.ch/papers/NTopoNeurIPS2021.pdf) 
+1. **NTopo: Mesh-free topology optimization using implicit neural representations.** NIPS , 2021. [paper](http://crl.ethz.ch/papers/NTopoNeurIPS2021.pdf) 
 
    *Jonas Zehnder, Yue Li, Stelian Coros, and Bernhard Thomaszewski.*
 
@@ -1047,7 +1054,7 @@ representations.** NIPS , 2021. [paper](http://crl.ethz.ch/papers/NTopoNeurIPS20
 
    *Ben Moseley, Andrew Markham, and Tarje Nissen-Meyer.*
 
-1. **Finite basis physics-informed neural networks as a Schwarz domain decomposition method.** arXiv, 2022. [paper](https://arxiv.org/abs/2211.05560
+1. **Finite basis physics-informed neural networks as a Schwarz domain decomposition method.** arXiv, 2022. [paper](https://arxiv.org/abs/2211.05560)
 
    *Victorita Dolean, Alexander Heinlein, Siddhartha Mishra, and Ben Moseley.*
 
