@@ -239,6 +239,10 @@ partial differential equations.** Computers and Fluids, 2022. [paper](https://ww
 
    *Pai Peng, Jiangong Pan, Hui Xu, and Xinlong Feng.*
 
+1. **A-WPINN algorithm for the data-driven vector-soliton solutions and parameter discovery of general coupled nonlinear equations.** Physica D: Nonlinear Phenomena, 2022. [paper](https://www.sciencedirect.com/science/article/pii/S0167278922002664)
+
+   *Shumei Qin, Min Li, Tao Xu, and Shao-Qun Dong.*
+
 1. **Physics-informed neural networks with adaptive localized artificial viscosity.** arXiv, 2022. [paper](https://arxiv.org/abs/2203.08802)
 
    *E.J.R. Coutinho, M. Dall'Aqua, L. McClenny, M. Zhong, U. Braga-Neto, and E. Gildin.*
@@ -644,11 +648,10 @@ partial differential equations.** Computers and Fluids, 2022. [paper](https://ww
 
    *Danny Lin and Hsiu-Yu Yu.*
 
-1. **Data-driven solutions and parameter discovery of the Sasa–Satsuma
-equation via the physics-informed neural networks method.** Physica D, 2022. [paper](https://www.sciencedirect.com/science/article/pii/S0167278922002044)
+1. **Data-driven solutions and parameter discovery of the Sasa–Satsuma equation via the physics-informed neural networks method.** Physica D, 2022. [paper](https://www.sciencedirect.com/science/article/pii/S0167278922002044)
 
    *Haotian Luo, Lei Wang, Ya-Bin Zhang, Gui Lu, Jing-Jing Su, and Yin-Chuan Zhao.*
-
+   
 1. **Neural operator with regularity structure for modeling dynamics driven by SPDEs.** arXiv, 2022. [paper](https://arxiv.org/abs/2204.06255)
 
    *Peiyan Hu, Qi Meng, Bingguang Chen, Shiqi Gong, Yue Wang, Wei Chen, Rongchan Zhu, Zhi-Ming Ma, and Tie-Yan Liu.*
@@ -677,6 +680,10 @@ equation via the physics-informed neural networks method.** Physica D, 2022. [pa
 1. **Nonlocal kernel network (NKN): A stable and resolution-independent deep neural network.** Journal of Computational Physics, 2022. [paper](https://www.sciencedirect.com/science/article/pii/S0021999122005988)
 
    *HuaiqianYou, Yue Yu, Marta D'Elia, Tian Gao, Stewart Silling.*
+
+1. **Physics-informed machine learning for reduced-order modeling of nonlinear problems.** Journal of Computational Physics, 2021. [paper](https://www.sciencedirect.com/science/article/pii/S0021999121005611)
+
+   *Wenqian Chen, Qian Wang, Jan S.Hesthaven, and Chuhua Zhang.*
 
 1. **GCN-FFNN: A two-stream deep model for learning solution to partial differential equations.** Neurocomputing, 2022. [paper](https://www.sciencedirect.com/science/article/pii/S0925231222011511?dgcid=rss_sd_all)
 
@@ -813,6 +820,10 @@ equation via the physics-informed neural networks method.** Physica D, 2022. [pa
 1. **The cost-accuracy trade-off in operator learning with neural networks.** arXiv, 2022. [paper](https://arxiv.org/abs/2203.13181)
    
    *Maarten V. de Hoop, Daniel Zhengyu Huang, Elizabeth Qian,amd  Andrew M. Stuart.*
+   
+1. **Separable PINN: Mitigating the curse of dimensionality in physics-informed neural networks.** NIPS, 2022. [paper](https://openreview.net/forum?id=jGk3DgkHB_)
+   
+   *Junwoo Cho, Seungtae Nam, Hyunmo Yang, Seok-Bae Yun, Youngjoon Hong, and Eunbyung Park.*
 
 ### [Attention](#content)
 1. **Learning operators with coupled attention.** Journal of Machine Learning Research, 2022. [paper](https://www.jmlr.org/papers/v23/21-1521.html) 
@@ -834,6 +845,10 @@ equation via the physics-informed neural networks method.** Physica D, 2022. [pa
 1. **Physics-informed long-sequence forecasting from multi-resolution spatiotemporal data.** IJCAI, 2022. [paper](https://www.ijcai.org/proceedings/2022/304) 
 
    *Chuizheng Meng, Hao Niu, Guillaume Habault, Roberto Legaspi, Shinya Wada, Chihiro Ono, and Yan Liu.*
+
+1. **TransFlowNet: A physics-constrained Transformer framework for spatio-temporal super-resolution of flow simulations.** Journal of Computational Science, 2022. [paper](https://www.sciencedirect.com/science/article/pii/S1877750322002654) 
+
+   *Xinjie Wang, Siyuan Zhu, Yundong Guo, Peng Han, Yucheng Wang, Zhiqiang Wei, and XiaogangJin.*
 
 1. **Self-adaptive physics-informed neural networks using a soft attention mechanism.** AAAI-MLPS, 2021. [paper](https://arxiv.org/abs/2009.04544) 
 
@@ -918,6 +933,10 @@ representations.** NIPS , 2021. [paper](http://crl.ethz.ch/papers/NTopoNeurIPS20
 1. **Meta-PDE: Learning to solve PDEs quickly without a mesh.** arXiv, 2022. [paper](https://arxiv.org/abs/2211.01604)
 
    *Tian Qin, Alex Beatson, Deniz Oktay, Nick McGreivy, and Ryan P. Adams.*
+
+1. **SVD-PINNs: Transfer learning of physics-informed neural networks via singular value decomposition.** arXiv, 2022. [paper](https://arxiv.org/abs/2211.08760)
+
+   *Yihang Gao, Ka Chun Cheung, and Michael K. Ng.*
 
 1. **Physics-informed neural networks (PINNs) for parameterized PDEs: A meta-learning approach.** arXiv, 2021. [paper](https://arxiv.org/abs/2110.13361)
 
