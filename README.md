@@ -283,6 +283,10 @@ partial differential equations.** Computers and Fluids, 2022. [paper](https://ww
 
    *Rini J. Gladstone, Mohammad A. Nabian, and Hadi Meidani.*
 
+1. **Augmented physics-informed neural networks (APINNs): A gating network-based soft domain decomposition methodology.** arXiv, 2022. [paper](https://arxiv.org/abs/2211.08939)
+
+   *Zheyuan Hu, Ameya D. Jagtap, George Em Karniadakis, and Kenji Kawaguchi.*
+
 ### [DeepONet](#content)
 1. **Learning nonlinear operators via DeepONet based on the universal approximation theorem of operators.** Nature Machine Intelligence, 2021. [paper](https://www.nature.com/articles/s42256-021-00302-5)
 
@@ -381,6 +385,10 @@ partial differential equations.** Computers and Fluids, 2022. [paper](https://ww
 1. **Learning large-scale subsurface simulations with a hybrid graph network simulator.** KDD, 2022. [paper](https://arxiv.org/abs/2206.07680)
 
    *Tailin Wu, Qinchen Wang, Yinan Zhang, Rex Ying, Kaidi Cao, Rok Sosič, Ridwan Jalali, Hassan Hamam, Marko Maucec, and Jure Leskovec.*
+
+1. **Unravelling the performance of physics-informed graph neural networks for dynamical systems.** NIPS, 2022. [paper](https://openreview.net/forum?id=tXEe-Ew_ikh)
+
+   *Abishek Thangamuthu, Gunjan Kumar, Suresh Bishnoi, Ravinder Bhattoo, N M Anoop Krishnan, and Sayan Ranu.*
 
 1. **Learning the solution operator of boundary value problems using graph neural networks.** ICML, 2022. [paper](https://arxiv.org/abs/2206.14092)
 
@@ -504,13 +512,17 @@ partial differential equations.** Computers and Fluids, 2022. [paper](https://ww
 
    *Songming Liu, Zhongkai Hao, Chengyang Ying, Hang Su, Jun Zhu, and Ze Cheng.*
 
+1. **Amortized finite element analysis for fast PDE-constrained optimization.** ICML, 2020. [paper](https://proceedings.mlr.press/v119/xue20a.html)
+
+   *Tianju Xue, Alex Beatson, Sigrid Adriaenssens, and Ryan Adams.*
+
 1. **Hybrid finite difference with the physics-informed neural network for solving PDE in complex geometries.** arXiv, 2022. [paper](https://arxiv.org/pdf/2202.07926.pdf)
 
    *Zixue Xiang, Wei Peng, Weien Zhou, and Wen Yao.*
 
-1. **Amortized finite element analysis for fast PDE-constrained optimization.** ICML, 2020. [paper](https://proceedings.mlr.press/v119/xue20a.html)
+1. **Multilayer perceptron-based surrogate models for finite element analysis.** arXiv, 2022. [paper](https://arxiv.org/abs/2211.09380)
 
-   *Tianju Xue, Alex Beatson, Sigrid Adriaenssens, and Ryan Adams.*
+   *Lawson Oliveira Lima, Julien Rosenberger, Esteban Antier, and Frederic Magoules.*
 
 ### [Convolutional Filter](#content)
 1. **PDE-Net: Learning PDEs from data.** ICML, 2018. [paper](https://proceedings.mlr.press/v80/long18a.html)
@@ -1364,6 +1376,14 @@ partial differential equations.** Computers and Fluids, 2022. [paper](https://ww
 1. **FourCastNet: A global data-driven high-resolution weather model using adaptive fourier neural operators.** arXiv, 2022. [paper](https://arxiv.org/abs/2202.11214)
 
    *Jaideep Pathak, Shashank Subramanian, Peter Harrington, Sanjeev Raja, Ashesh Chattopadhyay, Morteza Mardani, Thorsten Kurth, David Hall, Zongyi Li, Kamyar Azizzadenesheli, Pedram Hassanzadeh, Karthik Kashinath, and Animashree Anandkumar.*
+
+1. **Dynamic weights enabled physics-informed neural network for simulating the mobility of Engineered nano-particles in a contaminated aquifer.** NIPS, 2022. [paper](https://arxiv.org/pdf/2211.03525.pdf)
+
+   *Shikhar Nilabh and Fidel Grandia.*
+
+1. **Spatiotemporal modeling of european paleoclimate using doubly sparse Gaussian processes.** NIPS, 2022. [paper](https://arxiv.org/abs/2211.08160)
+
+   *Seth D. Axen, Alexandra Gessner, Christian Sommer, Nils Weitzel, and Álvaro Tejero-Cantero.*
 
 1. **Learning two-phase microstructure evolution using neural operators and autoencoder architectures.**  NPJ Computational Materials, 2022. [paper](https://www.nature.com/articles/s41524-022-00876-7)
 
