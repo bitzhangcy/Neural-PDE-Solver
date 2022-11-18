@@ -161,7 +161,7 @@ Contributed by Chunyang Zhang.
 
    *M.Raissia, P.Perdikarisb, and G.E.Karniadakisa.*
 
-1. **Deep hidden physics models: Deep learning of nonlinear partial differential equations.** Journal of Machine Learning Research, 2018. [paper](https://www.jmlr.org/papers/volume19/18-046/18-046.pdf)
+1. **Deep hidden physics models: Deep learning of nonlinear partial differential equations.** JMLR, 2018. [paper](https://www.jmlr.org/papers/volume19/18-046/18-046.pdf)
 
    *Maziar Raissi.*
 
@@ -475,7 +475,7 @@ partial differential equations.** Computers and Fluids, 2022. [paper](https://ww
    *Sungyong Seo and Yan Liu.*
 
 ### [Green Function](#content)
-1. **Learning Green's functions associated with time-dependent partial differential equations.** Journal of Machine Learning Research, 2022. [paper](https://www.jmlr.org/papers/volume23/22-0433/22-0433.pdf)
+1. **Learning Green's functions associated with time-dependent partial differential equations.** JMLR, 2022. [paper](https://www.jmlr.org/papers/volume23/22-0433/22-0433.pdf)
 
    *Nicolas Boullé, Seick Kim, Tianyi Shi, and Alex Townsend.*
 
@@ -570,7 +570,7 @@ partial differential equations.** Computers and Fluids, 2022. [paper](https://ww
    *Chiyu Max Jiang, Soheil Esmaeilzadeh, Kamyar Azizzadenesheli, Karthik Kashinath, Mustafa Mustafa, Hamdi A. Tchelepi, Philip Marcus, Prabhat, and Anima Anandkumar.*
 
 ### [AutoEncoder](#content)
-1. **Integral autoencoder network for discretization-invariant learning.** Journal of Machine Learning Research, 2022. [paper](https://www.jmlr.org/papers/v23/22-0297.html)
+1. **Integral autoencoder network for discretization-invariant learning.** JMLR, 2022. [paper](https://www.jmlr.org/papers/v23/22-0297.html)
 
    *Yong Zheng Ong, Zuowei Shen, and Haizhao Yang.*
 
@@ -846,7 +846,7 @@ partial differential equations.** Computers and Fluids, 2022. [paper](https://ww
    *Junwoo Cho, Seungtae Nam, Hyunmo Yang, Seok-Bae Yun, Youngjoon Hong, and Eunbyung Park.*
 
 ### [Attention](#content)
-1. **Learning operators with coupled attention.** Journal of Machine Learning Research, 2022. [paper](https://www.jmlr.org/papers/v23/21-1521.html) 
+1. **Learning operators with coupled attention.** JMLR, 2022. [paper](https://www.jmlr.org/papers/v23/21-1521.html) 
 
    *Matthew Thorpe, Tan Minh Nguyen, Hedi Xia, Thomas Strohmer, Andrea Bertozzi, Stanley Osher, and Bao Wang.* 
 
