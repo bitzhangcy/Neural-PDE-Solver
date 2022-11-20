@@ -101,11 +101,6 @@ Contributed by Chunyang Zhang.
 </table>
 
 
-
-
-
-
-
 ## [Survey Papers](#content)
 1. **Physics-informed machine learning.** Nature Reviews Physics, 2021. [paper](https://www.nature.com/articles/s42254-021-00314-5)
 
@@ -291,8 +286,12 @@ partial differential equations.** Computers and Fluids, 2022. [paper](https://ww
 
    *Zheyuan Hu, Ameya D. Jagtap, George Em Karniadakis, and Kenji Kawaguchi.*
 
+1. **Physics-informed Koopman network.** arXiv, 2022. [paper](https://arxiv.org/abs/2211.09419)
+
+   *Yuying Liu, Aleksei Sholokhov, Hassan Mansour, and Saleh Nabi.*
+
 ### [DeepONet](#content)
-1. **Learning nonlinear operators via DeepONet based on the universal approximation theorem of operators.** Nature Machine Intelligence, 2021. [paper](https://www.nature.com/articles/s42256-021-00302-5)
+1. **Learning nonlinear operators via DeepONet based on the universal approximation theorem of operators.** NMI, 2021. [paper](https://www.nature.com/articles/s42256-021-00302-5)
 
    *Lu Lu, Pengzhan Jin, Guofei Pang, Zhongqiang Zhang, and George Em Karniadakis.*
 
@@ -693,6 +692,10 @@ partial differential equations.** Computers and Fluids, 2022. [paper](https://ww
 
    *Dmitrii Kochkov,  Jamie A. Smith, Ayya Alieva, and Stephan Hoyer.*
 
+1. **Learning data-driven discretizations for partial differential equations.** PNAS, 2019. [paper](https://www.pnas.org/doi/10.1073/pnas.1814058116)
+
+   *Yohai Bar-Sinai, Stephan Hoyer, Jason Hickey, and Michael P. Brenner.*
+
 1. **Solving high-dimensional partial differential equations using deep learning.** PNAS, 2018. [paper](https://www.pnas.org/doi/10.1073/pnas.1718942115)
 
    *Jiequn Han, Arnulf Jentzen, and Weinan E.*
@@ -1008,6 +1011,10 @@ partial differential equations.** Computers and Fluids, 2022. [paper](https://ww
    *Jia Guo, Haifeng Wang, and Chenping Hou.*
 
 ### [Latent Space](#content)
+1. **Multiscale simulations of complex systems by learning their effective dynamics.** NMI, 2022. [paper](https://www.nature.com/articles/s42256-022-00464-w)
+   
+   *Pantelis R. Vlachas, Georgios Arampatzis, Caroline Uhler, and Petros Koumoutsakos.*
+
 1. **A Latent space solver for PDE generalization.** ICLR, 2021. [paper](https://arxiv.org/abs/2104.02452)
    
    *Rishikesh Ranade, Chris Hill, Haiyang He, Amir Maleki, and Jay Pathak.*
