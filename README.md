@@ -540,6 +540,10 @@ partial differential equations.** Computers and Fluids, 2022. [paper](https://ww
 
    *Daniel Kelshaw, Georgios Rigas, and Luca Magri.*
 
+1. **Learning time-dependent PDEs with a linear and nonlinear separate convolutional neural network.** Journal of Computational Physics, 2022. [paper](https://www.sciencedirect.com/science/article/pii/S0021999121008238)
+
+   *Jiagang Qu, Weihua Cai, and  YijunZhao.*
+
 1. **Deep convolutional Ritz  method: Parametric PDE surrogates without labeled data.** arXiv, 2022. [paper](https://arxiv.org/abs/2206.04675)
 
    *Jan Niklas Fuhg, Arnav Karmarkar, Teeratorn Kadeethum, Hongkyu Yoon, and Nikolaos Bouklas.*
@@ -635,9 +639,17 @@ partial differential equations.** Computers and Fluids, 2022. [paper](https://ww
 
    *Yingtao Luo, Chang Xu, Yang Liu, Weiqing Liu, Shun Zheng, and  Jiang Bian.*
 
+1. **Learning emergent partial differential equations in a learned emergent space.** NC, 2022. [paper](https://www.nature.com/articles/s41467-022-30628-6)
+
+   *Felix P. Kemeth, Tom Bertalan, Thomas Thiem, Felix Dietrich, Sung Joon Moon, Carlo R. Laing, and Ioannis G. Kevrekidis1.*
+
 1. **Data-driven discovery of partial differential equation models with latent variables.** Physical Review E, 2019. [paper](https://journals.aps.org/pre/abstract/10.1103/PhysRevE.100.022219)
 
    *Patrick A. K. Reinbold and Roman O. Grigoriev.*
+
+1. **Physics constrained learning for data-driven inverse modeling from sparse observations.** Physical Review E, 2019. [paper](https://www.sciencedirect.com/science/article/pii/S0021999121008330)
+
+   *Kailai Xua and  Eric Darve.*
 
 1. **Deep neural network modeling of unknown partial differential equations in nodal space.** Journal of Computational Physics, 2022. [paper](https://www.sciencedirect.com/science/article/pii/S002199912100677X)
 
@@ -710,7 +722,15 @@ partial differential equations.** Computers and Fluids, 2022. [paper](https://ww
 
 1. **Nonlocal kernel network (NKN): A stable and resolution-independent deep neural network.** Journal of Computational Physics, 2022. [paper](https://www.sciencedirect.com/science/article/pii/S0021999122005988)
 
-   *HuaiqianYou, Yue Yu, Marta D'Elia, Tian Gao, Stewart Silling.*
+   *Huaiqian You, Yue Yu, Marta D'Elia, Tian Gao, and Stewart Silling.*
+
+1. **On computing the hyperparameter of extreme learning machines: Algorithm and application to computational PDEs, and comparison with classical and high-order finite elements.** Journal of Computational Physics, 2022. [paper](https://www.sciencedirect.com/science/article/pii/S0021999122003527#!)
+
+   *Suchuan Dong and  Jielin Yang.*
+
+1. **DeLISA: Deep learning based iteration scheme approximation for solving PDEs.** Journal of Computational Physics, 2022. [paper](https://www.sciencedirect.com/science/article/pii/S0021999121007798)
+
+   *Ying Li, Zuojia Zhou, Shihui Ying.*
 
 1. **Physics-informed machine learning for reduced-order modeling of nonlinear problems.** Journal of Computational Physics, 2021. [paper](https://www.sciencedirect.com/science/article/pii/S0021999121005611)
 
@@ -946,7 +966,12 @@ partial differential equations.** Computers and Fluids, 2022. [paper](https://ww
 
 1. **Meta-MgNet: Meta multigrid networks for solving parameterized partial differential equations.** Journal of Computational Physics, 2022. [paper](https://www.sciencedirect.com/science/article/pii/S0021999122000584)
 
-   *Yuyan Chen, Bin Dong, and JinchaoXu.*
+   *Yuyan Chen, Bin Dong, and Jinchao Xu.*
+
+1. **Mosaic flows: A transferable deep learning framework for solving
+PDEs on unseen domains.** Computer Methods in Applied Mechanics and Engineering, 2022. [paper](https://www.sciencedirect.com/science/article/pii/S004578252100668X)
+
+   *Hengjie Wang, Robert Planas, Aparna Chandramowlishwaran, and Ramin Bostanabad.*
 
 1. **Meta-learning PINN loss functions.** Journal of Computational Physics, 2022.  [paper](https://www.sciencedirect.com/science/article/pii/S0021999122001838)
 
