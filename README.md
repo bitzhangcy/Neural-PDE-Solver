@@ -178,6 +178,10 @@ source.** IJCAI, 2022. [paper](https://www.ijcai.org/proceedings/2022/533)
 
    *Khemraj Shukla, Ameya D.Jagtap, and George Em Karniadakis.*
 
+1. **Exact imposition of boundary conditions with distance functions in physics-informed deep neural networks.** Computer Methods in Applied Mechanics and Engineering, 2022. [paper](https://www.sciencedirect.com/science/article/pii/S0045782521006186)
+
+   *N.Sukumar and Ankit Srivastava.*
+
 1. **Physics-informed multi-LSTM networks for meta-modeling of nonlinear structures.** Computer Methods in Applied Mechanics and Engineering, 2020. [paper](https://www.sciencedirect.com/science/article/pii/S0045782520304114)
 
    *Ruiyang Zhang, Yang Liu, and Hao Sun.*
@@ -446,6 +450,14 @@ partial differential equations.** Computers and Fluids, 2022. [paper](https://ww
 
    *Matthew Thorpe, Tan Minh Nguyen, Hedi Xia, Thomas Strohmer, Andrea Bertozzi, Stanley Osher, and Bao Wang.*
 
+1. **Neural networks trained to solve differential equations learn general representations.** NIPS, 2018. [paper](https://proceedings.neurips.cc/paper/2018/hash/d7a84628c025d30f7b2c52c958767e76-Abstract.html)
+
+   *Martin Magill, Faisal Qureshi, and Hendrick de Haan.*
+
+1. **Graph element networks: Adaptive, structured computation and memory.** ICML, 2019. [paper](http://proceedings.mlr.press/v97/alet19a.html?ref=https://githubhelp.com)
+
+   *Ferran Alet, Adarsh Keshav Jeewajee, Maria Bauza Villalonga, Alberto Rodriguez, Tomas Lozano-Perez, and Leslie Kaelbling.*
+
 1. **Physics-constrained unsupervised learning of partial differential equations using meshes.** arXiv, 2022. [paper](https://arxiv.org/abs/2203.16628)
 
    *Mike Y. Michelis and Robert K. Katzschmann.*
@@ -535,7 +547,7 @@ partial differential equations.** Computers and Fluids, 2022. [paper](https://ww
 
 1. **PDE-Net 2.0: Learning PDEs from data with a numeric-symbolic hybrid deep network.** Journal of Computational Physics, 2019. [paper](https://www.sciencedirect.com/science/article/pii/S0021999119306308)
 
-   *ZichaoLong, YipingLu, and  Bin Dong.*
+   *ZichaoLong, YipingLu, and Bin Dong.*
 
 1. **Physics-informed CNNs for super-resolution of sparse observations on dynamical systems.** NIPS, 2022. [paper](https://arxiv.org/abs/2210.17319)
 
@@ -591,6 +603,10 @@ partial differential equations.** Computers and Fluids, 2022. [paper](https://ww
 1. **Multiwavelet-based operator learning for differential equations.** NIPS, 2021. [paper](https://openreview.net/forum?id=LZDiWaC9CGL)
 
    *Gaurav Gupta, Xiongye Xiao, and Paul Bogdan.*
+
+1. **Kernel Flows: From learning kernels from data into the abyss.** Journal of Computational Physics, 2019. [paper](https://www.sciencedirect.com/science/article/pii/S0021999119302232)
+
+   *Houman Owhadi and Gene Ryan Yoo.*
 
 1. **On neurosymbolic solutions for PDEs.** arXiv, 2022. [paper](https://arxiv.org/abs/2207.06240)
 
@@ -681,9 +697,17 @@ partial differential equations.** Computers and Fluids, 2022. [paper](https://ww
 
    *Kailiang Wu and Dongbin Xiu.*
 
+1. **DLGA-PDE: Discovery of PDEs with incomplete candidate library via combination of deep learning and genetic algorithm.** Journal of Computational Physics, 2020. [paper](https://www.sciencedirect.com/science/article/pii/S0021999120303582)
+
+   *Hao Xu, Haibin Chang, and Dongxiao Zhang.*
+
 1. **Learning nonlocal constitutive models with neural networks.** Computer Methods in Applied Mechanics and Engineering, 2021. [paper](https://www.sciencedirect.com/science/article/pii/S0045782521002644)
 
    *Xu-Hui Zhou,  Jiequn Han, and Heng Xiao.*
+
+1. **Data-driven identification of parametric partial differential equations.** SIAM Journal on Applied Dynamical Systems, 2019. [paper](https://epubs.siam.org/doi/abs/10.1137/18M1191944)
+
+   *Samuel Rudy, Alessandro Alla, Steven L. Brunton, and J. Nathan Kutz.*
 
 1. **PDE-READ: Human-readable partial differential equation discovery using deep learning.** Neural Networks, 2022. [paper](https://journals.aps.org/pre/abstract/10.1103/PhysRevE.100.022219)
 
@@ -734,7 +758,7 @@ partial differential equations.** Computers and Fluids, 2022. [paper](https://ww
 
    *Dmitrii Kochkov,  Jamie A. Smith, Ayya Alieva, and Stephan Hoyer.*
 
-1. **Learning data-driven discretizations for partial differential equations.** PNAS, 2019. [paper](https://www.pnas.org/doi/10.1073/pnas.1814058116)
+1. **Learning data-driven discretization for partial differential equations.** PNAS, 2019. [paper](https://www.pnas.org/doi/10.1073/pnas.1814058116)
 
    *Yohai Bar-Sinai, Stephan Hoyer, Jason Hickey, and Michael P. Brenner.*
 
@@ -750,7 +774,7 @@ partial differential equations.** Computers and Fluids, 2022. [paper](https://ww
 
    *Alejandro Ribés and Ruben Persicot.*
 
-1. **Numerically solving parametric families of high-dimensional kolmogorov partial differential equations via deep learning.** NIPS, 2020. [paper](https://proceedings.neurips.cc/paper/2020/hash/c1714160652ca6408774473810765950-Abstract.html)
+1. **Numerically solving parametric families of high-dimensional Kolmogorov partial differential equations via deep learning.** NIPS, 2020. [paper](https://proceedings.neurips.cc/paper/2020/hash/c1714160652ca6408774473810765950-Abstract.html)
 
    *Julius Berner, Markus Dablander, and Philipp Grohs.*
 
@@ -774,9 +798,17 @@ partial differential equations.** Computers and Fluids, 2022. [paper](https://ww
 
    *Wenqian Chen, Qian Wang, Jan S.Hesthaven, and Chuhua Zhang.*
 
+1. **SelectNet: Self-paced learning for high-dimensional partial differential equations.** Journal of Computational Physics, 2021. [paper](https://www.sciencedirect.com/science/article/pii/S0021999121003399)
+
+   *Yiqi Gu, Haizhao Yang, and Chao Zhou.*
+
 1. **DPM: A deep learning PDE augmentation method with application to large-eddy simulation.** Journal of Computational Physics, 2020. [paper](https://www.sciencedirect.com/science/article/pii/S0021999120305854)
 
    *Justin Sirignano, Jonathan F.MacArt, and Jonathan B.Freund.*
+
+1. **Deep least-squares methods: An unsupervised learning-based numerical method for solving elliptic PDEs.** Journal of Computational Physics, 2020. [paper](https://www.sciencedirect.com/science/article/pii/S0021999120304812)
+
+   *Zhiqiang Cai, Jingshuang Chen, MinLiu, and Xinyu Liu.*
 
 1. **Local extreme learning machines and domain decomposition for solving linear and nonlinear partial differential equations.** Computer Methods in Applied Mechanics and Engineering, 2021. [paper](https://www.sciencedirect.com/science/article/pii/S0045782521004606)
 
@@ -806,6 +838,10 @@ partial differential equations.** Computers and Fluids, 2022. [paper](https://ww
 
    *Ludovica Cicci, Stefania Fresca, and Andrea Manzoni.*
 
+1. **HybridNet: Integrating Model-based and Data-driven Learning to Predict Evolution of Dynamical Systems.** CoRL, 2018. [paper](https://proceedings.mlr.press/v87/long18a.html)
+
+   *Yun Long, Xueyuan She, and Saibal Mukhopadhyay.*
+
 1. **A model-constrained tangent slope learning approach for dynamical systems.** arXiv, 2022. [paper](https://arxiv.org/abs/2208.04995)
 
    *Hai V. Nguyen and Tan Bui-Thanh.*
@@ -834,6 +870,10 @@ partial differential equations.** Computers and Fluids, 2022. [paper](https://ww
 1. **On robustness of neural ordinary differential equations.** ICLR, 2020. [paper](https://openreview.net/forum?id=-gBckR-V1i)
 
    *Hanshu Yan, Jiawei Du, Vincent Y. F. Tan, and Jiashi Feng.*
+
+1. **Spectrum dependent learning curves in kernel regression and wide neural networks.** ICML, 2020. [paper](http://proceedings.mlr.press/v119/bordelon20a.html)
+
+   *Blake Bordelon, Abdulkadir Canatar, and Cengiz Pehlevan.*
 
 1. **Beyond finite layer neural networks: Bridging deep architectures and numerical differential equations.** ICML, 2018. [paper](https://arxiv.org/abs/1710.10121)
 
@@ -884,6 +924,11 @@ partial differential equations.** Computers and Fluids, 2022. [paper](https://ww
 1. **NVIDIA SimNet™: An AI-accelerated multi-physics simulation framework.** International Conference on Computational Science, 2021. [paper](https://link.springer.com/chapter/10.1007/978-3-030-77977-1_36)
 
    *Oliver Hennigh, Susheela Narasimhan, Mohammad Amin Nabian, Akshay Subramaniam, Kaustubh Tangsali, Zhiwei Fang, Max Rietmann, Wonmin Byeon, and Sanjay Choudhry.*
+
+
+1. **PyDEns: A python framework for solving differential equations with neural networks.** arXiv, 2019. [paper](https://arxiv.org/abs/1909.11544)
+
+   *Alexander Koryagin, Roman Khudorozkov, and Sergey Tsimfer.*
 
 ### [Analysis](#content)
 1. **DPM: Physics-informed Karhunen-Loéve and neural network approximations for solving inverse differential equation problems.** AAAI, 2021. [paper](https://ojs.aaai.org/index.php/AAAI/article/view/16992/16799)
@@ -942,9 +987,17 @@ partial differential equations.** Computers and Fluids, 2022. [paper](https://ww
    
    *Maarten V. de Hoop, Daniel Zhengyu Huang, Elizabeth Qian, and Andrew M. Stuart.*
    
+1. **Neural tangent kernel analysis of PINN for advection-diffusion equation.** arXiv, 2022. [paper](https://arxiv.org/abs/2211.11716)
+   
+   *M. H. Saadat, B. Gjorgiev, L. Das, and G. Sansavini.* 
+
 1. **Separable PINN: Mitigating the curse of dimensionality in physics-informed neural networks.** NIPS, 2022. [paper](https://openreview.net/forum?id=jGk3DgkHB_)
    
    *Junwoo Cho, Seungtae Nam, Hyunmo Yang, Seok-Bae Yun, Youngjoon Hong, and Eunbyung Park.*
+
+1. **A curriculum-training-based strategy for distributing collocation points during physics-informed neural network training.** NIPS, 2022. [paper](https://arxiv.org/pdf/2211.11396.pdf)
+   
+   *Marcus Münzer and Chris Bard.*
 
 ### [Attention](#content)
 1. **Learning operators with coupled attention.** JMLR, 2022. [paper](https://www.jmlr.org/papers/v23/21-1521.html) 
@@ -1016,6 +1069,10 @@ partial differential equations.** Computers and Fluids, 2022. [paper](https://ww
 1. **PDE-driven spatiotemporal disentanglement.** ICLR , 2021. [paper](https://openreview.net/forum?id=vLaHRtHvfFp)
 
    *Jérémie Donà, Jean-Yves Franceschi, Sylvain Lamprier, and Patrick Gallinari.*
+
+1. **Disentangling physical dynamics from unknown factors for unsupervised video prediction.** CVPR , 2020. [paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Le_Guen_Disentangling_Physical_Dynamics_From_Unknown_Factors_for_Unsupervised_Video_Prediction_CVPR_2020_paper.pdf)
+
+   *Vincent Le Guen and Nicolas Thome.*
 
 ### [Meta Learning](#content)
 1. **Meta-auto-decoder for solving parametric partial differential equations.** NIPS, 2022. [paper](https://openreview.net/pdf?id=PwlW5Jri1Xt) 
@@ -1110,7 +1167,7 @@ PDEs on unseen domains.** Computer Methods in Applied Mechanics and Engineering,
    
    *Pantelis R. Vlachas, Georgios Arampatzis, Caroline Uhler, and Petros Koumoutsakos.*
 
-1. **A Latent space solver for PDE generalization.** ICLR, 2021. [paper](https://arxiv.org/abs/2104.02452)
+1. **A latent space solver for PDE generalization.** ICLR, 2021. [paper](https://arxiv.org/abs/2104.02452)
    
    *Rishikesh Ranade, Chris Hill, Haiyang He, Amir Maleki, and Jay Pathak.*
    
@@ -1121,6 +1178,10 @@ PDEs on unseen domains.** Computer Methods in Applied Mechanics and Engineering,
 1. **Learning to accelerate partial differential equations via latent global evolution.** NIPS, 2022. [paper](https://arxiv.org/abs/2206.07681)
    
    *Tailin Wu, Takashi Maruyama, and Jure Leskovec.*
+   
+1. **Exploring physical latent spaces for deep learning.** arXiv, 2022. [paper](https://arxiv.org/abs/2211.11298)
+   
+   *Chloe Paliard, Nils Thuerey, and Kiwon Um.*
 
 ### [Loss Function](#content)
 1. **Adaptive activation functions accelerate convergence in deep and physics-informed neural networks.** Journal of Computational Physics, 2021. [paper](https://www.sciencedirect.com/science/article/pii/S0021999119308411)
@@ -1193,6 +1254,10 @@ PDEs on unseen domains.** Computer Methods in Applied Mechanics and Engineering,
    *Wenlei Shi, Xinquan Huang, Xiaotian Gao, Xinran Wei, Jia Zhang, Jiang Bian, Mao Yang, and Tie-Yan Liu.*
 
 ### [Mesh](#content)
+1. **MeshingNet: A new mesh generation method based on deep learning.** ICCS, 2022. [paper](https://link.springer.com/chapter/10.1007/978-3-030-50420-5_14)
+
+   *Zheyan Zhang, Yongxing Wang, Peter K. Jimack, and He Wang .*
+
 1. **M2N: Mesh movement networks for PDE solvers.** arXiv, 2022. [paper](https://arxiv.org/abs/2204.11188)
 
    *Wenbin Song, Mingrui Zhang, Joseph G. Wallwork, Junpeng Gao, Zheng Tian, Fanglei Sun, Matthew D. Piggott, Junqing Chen, Zuoqiang Shi, Xiang Chen, and Jun Wang.*
@@ -1262,6 +1327,10 @@ PDEs on unseen domains.** Computer Methods in Applied Mechanics and Engineering,
 1. **Solving and learning nonlinear PDEs with Gaussian processes.** Journal of Computational Physics, 2021. [paper](https://www.sciencedirect.com/science/article/pii/S0021999121005635)
 
    *Yifan Chen, Bamdad Hosseini, Houman Owhadi, and Andrew M.Stuart.*
+
+1. **Neural-net-induced Gaussian process regression for function approximation and PDE solution.** Journal of Computational Physics, 2019. [paper](https://www.sciencedirect.com/science/article/pii/S0021999119301032)
+
+   *Guofei Pang, Liu Yang. and George Em Karniadakis.*
 
 ### [Solver](#content)
 1. **Solver-in-the-loop: Learning from differentiable physics to interact with iterative PDE-solvers.** NIPS, 2020. [paper](https://dl.acm.org/doi/abs/10.5555/3495724.3496237)
@@ -1356,6 +1425,14 @@ PDEs on unseen domains.** Computer Methods in Applied Mechanics and Engineering,
 
    *Yibo Yang and Paris Perdikaris.*
 
+1. **Conditional Karhunen-Loève expansion for uncertainty quantification and active learning in partial differential equation models.** Journal of Computational Physics, 2020. [paper](https://www.sciencedirect.com/science/article/pii/S0021999120303788)
+
+   *Ramakrishna Tipireddy, David A.Barajas-Solano, and Alexandre M.Tartakovsky.*
+
+1. **Physics-constrained deep learning for high-dimensional surrogate modeling and uncertainty quantification without labeled data.** Journal of Computational Physics, 2019. [paper](https://www.sciencedirect.com/science/article/pii/S0021999119303559)
+
+   *Yinhao Zhu, Nicholas Zabarasa, Phaedon-Stelios Koutsourelakisb, and Paris Perdikaris.*
+
 ### [Active Learning](#content)
 1. **Neural Galerkin scheme with active learning for high-dimensional evolution equations.** arXiv, 2022. [paper](https://arxiv.org/abs/2203.01360)
 
@@ -1374,11 +1451,15 @@ PDEs on unseen domains.** Computer Methods in Applied Mechanics and Engineering,
 
    *Wing Tat Leung, Guang Lin, and Zecheng Zhang.*
 
+1. **Deep multiscale model learning.** Journal of Computational Physics, 2020. [paper](https://www.sciencedirect.com/science/article/pii/S0021999119307764)
+
+   *Yating Wang, Siu Wun Cheung, Eric T.Chung, Yalchin Efendiev, and Min Wang.*
+
 1. **Multi-scale deep neural networks for solving high dimensional PDEs.** arXiv, 2019. [paper](https://www.science.org/doi/10.1126/sciadv.1602614)
 
    *Samuel H. Rudy, Steven L. Brunton,  Joshua L. Proctor, and  J. Nathan Kutz.*
 
-1. **Towards multi-spatiotemporal-scale generalized PDE modeling.** arXiv, 2055. [paper](https://arxiv.org/abs/2209.15616)
+1. **Towards multi-spatiotemporal-scale generalized PDE modeling.** arXiv, 2022. [paper](https://arxiv.org/abs/2209.15616)
 
    *Jayesh K. Gupta and  Johannes Brandstetter.*
 
@@ -1390,6 +1471,10 @@ PDEs on unseen domains.** Computer Methods in Applied Mechanics and Engineering,
 1. **Physics and equality constrained artificial neural networks: Application to forward and inverse problems with multi-fidelity data fusion.** Journal of Computational Physics, 2022. [paper](https://dl.acm.org/doi/abs/10.1016/j.jcp.2022.111301)
 
    *Lulu Zhang, Tao Luo, Yaoyu Zhang, Weinan E, Zhi-Qin John Xu, and Zheng Ma.*
+
+1. **A composite neural network that learns from multi-fidelity data: Application to function approximation and inverse PDE problems.** Journal of Computational Physics, 2020. [paper](https://www.sciencedirect.com/science/article/pii/S0021999119307260)
+
+   *Xuhui Meng and George Em Karniadakis.*
 
 1. **Multifidelity deep neural operators for efficient learning of partial differential equations with application to fast inverse design of nanoscale heat transport.** Physical Review Research, 2022. [paper](https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.4.023210)
 
@@ -1436,7 +1521,11 @@ PDEs on unseen domains.** Computer Methods in Applied Mechanics and Engineering,
 
    *Enrico Schiassi, Andrea D'Ambrosio, and Roberto Furfaro.*
 
-1. **Bi-level physics-informed neural networks for pde constrained optimization using Broyden's hypergradients.** arXiv, 2022. [paper](https://arxiv.org/abs/2209.07075)
+1. **A machine learning framework for solving high-dimensional mean field game and mean field control problems.** PNAS, 2020. [paper](https://www.pnas.org/doi/abs/10.1073/pnas.1922204117)
+
+   *Lars Ruthottoa, Stanley J. Osherc, Wuchen Lic, Levon Nurbekyanc, and Samy Wu Fung.*
+
+1. **Bi-level physics-informed neural networks for PDE constrained optimization using Broyden's hypergradients.** arXiv, 2022. [paper](https://arxiv.org/abs/2209.07075)
 
    *Zhongkai Hao, Chengyang Ying, Hang Su, Jun Zhu, Jian Song, and Ze Cheng.*
 
@@ -1481,6 +1570,10 @@ PDEs on unseen domains.** Computer Methods in Applied Mechanics and Engineering,
 
    *Björn List, Li-Wei Chen, and Nils Thuerey.*
 
+1. **Multi-scale digital twin: Developing a fast and physics-informed surrogate model for groundwater contamination with uncertain climate models.** arXiv, 2022. [paper](https://arxiv.org/abs/2211.10884)
+
+   *Lijing Wang, Takuya Kurihana, Aurelien Meray, Ilijana Mastilovic, Satyarth Praveen, Zexuan Xu, Milad Memarzadeh, Alexander Lavin, and Haruko Wainwright.*
+
 ### [Reconstruction](#content)
 1. **Occupancy networks: Learning 3D reconstruction in function space.** CVPR, 2019. [paper](https://openaccess.thecvf.com/content_CVPR_2019/papers/Mescheder_Occupancy_Networks_Learning_3D_Reconstruction_in_Function_Space_CVPR_2019_paper.pdf)
 
@@ -1495,11 +1588,11 @@ PDEs on unseen domains.** Computer Methods in Applied Mechanics and Engineering,
 
    *Jaideep Pathak, Shashank Subramanian, Peter Harrington, Sanjeev Raja, Ashesh Chattopadhyay, Morteza Mardani, Thorsten Kurth, David Hall, Zongyi Li, Kamyar Azizzadenesheli, Pedram Hassanzadeh, Karthik Kashinath, and Animashree Anandkumar.*
 
-1. **Dynamic weights enabled physics-informed neural network for simulating the mobility of Engineered nano-particles in a contaminated aquifer.** NIPS, 2022. [paper](https://arxiv.org/pdf/2211.03525.pdf)
+1. **Dynamic weights enabled physics-informed neural network for simulating the mobility of engineered nano-particles in a contaminated aquifer.** NIPS, 2022. [paper](https://arxiv.org/pdf/2211.03525.pdf)
 
    *Shikhar Nilabh and Fidel Grandia.*
 
-1. **Spatiotemporal modeling of european paleoclimate using doubly sparse Gaussian processes.** NIPS, 2022. [paper](https://arxiv.org/abs/2211.08160)
+1. **Spatiotemporal modeling of European paleoclimate using doubly sparse Gaussian processes.** NIPS, 2022. [paper](https://arxiv.org/abs/2211.08160)
 
    *Seth D. Axen, Alexandra Gessner, Christian Sommer, Nils Weitzel, and Álvaro Tejero-Cantero.*
 
@@ -1516,8 +1609,8 @@ PDEs on unseen domains.** Computer Methods in Applied Mechanics and Engineering,
 
    *Aleix Boquet-Pujadas and Jean-Christophe Olivo-Marin.*
 
-### [Nash Equilibrial](#content)
-1. **Approximating discontinuous Nash equilibrial values of two-player general-sum differential games.** arXiv, 2022. [paper](https://arxiv.org/abs/2207.01773)
+### [Nash Equilibria](#content)
+1. **Approximating discontinuous Nash equilibria values of two-player general-sum differential games.** arXiv, 2022. [paper](https://arxiv.org/abs/2207.01773)
 
    *Lei Zhang, Mukesh Ghimire, Wenlong Zhang, Zhe Xu, and Yi Ren.*
 
