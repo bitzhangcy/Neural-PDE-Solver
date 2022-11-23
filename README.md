@@ -442,6 +442,10 @@ partial differential equations.** Computers and Fluids, 2022. [paper](https://ww
 
    *Léon Migus, Yuan Yin, Jocelyn Ahmed Mazari, and Patrick Gallinari.*
 
+1. **DS-GPS : A deep statistical graph Poisson solver (for faster CFD simulations).** NIPS, 2022. [paper](https://arxiv.org/abs/2211.11763)
+
+   *Matthieu Nastorg, Marc Schoenauer, Guillaume Charpiat, Thibault Faney, Jean-Marc Gratien, and Michele-Alessandro Bucci.*
+
 1. **GRAND: Graph neural diffusion.** ICML, 2021. [paper](https://openreview.net/forum?id=_1fu_cjsaRE)
 
    *Benjamin Paul Chamberlain, James Rowbottom, Maria I. Gorinova, Stefan D Webb, Emanuele Rossi, and Michael M. Bronstein.*
@@ -867,6 +871,10 @@ partial differential equations.** Computers and Fluids, 2022. [paper](https://ww
    *Shamsulhaq Basir and Inanc Senocak.*
 
 ### [ODE](#content)
+1. **Neural rough differential equations for long time series.** ICML, 2021. [paper](http://proceedings.mlr.press/v139/morrill21b.html)
+
+   *James Morrill, Cristopher Salvi, Patrick Kidger, and  James Foster.*
+
 1. **On robustness of neural ordinary differential equations.** ICLR, 2020. [paper](https://openreview.net/forum?id=-gBckR-V1i)
 
    *Hanshu Yan, Jiawei Du, Vincent Y. F. Tan, and Jiashi Feng.*
@@ -917,7 +925,7 @@ partial differential equations.** Computers and Fluids, 2022. [paper](https://ww
 
    *Florent Bonnet, Jocelyn Ahmed Mazari, Thibaut Munzer, Pierre Yser, and Patrick Gallinari.* 
 
-1. **PhiFlow: A differentiable pde solving framework for deep learning via physical simulations.** NIPS, 2020. [paper](https://montrealrobotics.ca/diffcvgp/assets/papers/3.pdf)
+1. **PhiFlow: A differentiable PDE solving framework for deep learning via physical simulations.** NIPS, 2020. [paper](https://montrealrobotics.ca/diffcvgp/assets/papers/3.pdf)
 
    *Philipp Holl, Vladlen Koltun, Kiwon Um, and Nils Thuerey.* 
 
@@ -998,6 +1006,10 @@ partial differential equations.** Computers and Fluids, 2022. [paper](https://ww
 1. **A curriculum-training-based strategy for distributing collocation points during physics-informed neural network training.** NIPS, 2022. [paper](https://arxiv.org/pdf/2211.11396.pdf)
    
    *Marcus Münzer and Chris Bard.*
+   
+1. **Robustness of physics-informed neural networks to noise in sensor data.** arXiv, 2022. [paper](https://arxiv.org/abs/2211.12042)
+   
+   *Jian Cheng Wong, Pao-Hsiung Chiu, Chin Chun Ooi, and My Ha Da.* 
 
 ### [Attention](#content)
 1. **Learning operators with coupled attention.** JMLR, 2022. [paper](https://www.jmlr.org/papers/v23/21-1521.html) 
@@ -1061,7 +1073,7 @@ partial differential equations.** Computers and Fluids, 2022. [paper](https://ww
 
    *Samuel Pfrommer, Mathew Halm, and Michael Posa.*
 
-1. **Continuous pde dynamics forecasting with implicit neural representations.** arXiv, 2022. [paper](https://arxiv.org/abs/2209.14855) 
+1. **Continuous PDE dynamics forecasting with implicit neural representations.** arXiv, 2022. [paper](https://arxiv.org/abs/2209.14855) 
 
    *Yuan Yin, Matthieu Kirchmeyer, Jean-Yves Franceschi, Alain Rakotomamonjy, and Patrick Gallinari.*
 
@@ -1287,6 +1299,10 @@ PDEs on unseen domains.** Computer Methods in Applied Mechanics and Engineering,
 
    *Teeratorn Kadeethum, Daniel O’Malley, Jan Niklas Fuhg, Youngsoo Choi, Jonghyun Lee, Hari S. Viswanathan, and Nikolaos Bouklas.*
 
+1. **Neural SDEs as infinite-dimensional GANs.** ICML, 2021. [paper](http://proceedings.mlr.press/v139/kidger21b.html)
+
+   *Patrick Kidger, James Foster, Xuechen Li, and Terry J Lyons.*
+
 1. **PID-GAN: A GAN framework based on a physics-informed discriminator for uncertainty quantification with physics.** KDD, 2021. [paper](https://dl.acm.org/doi/abs/10.1145/3447548.3467449)
 
    *Arka Daw, M. Maruf, and Anuj Karpatne.*
@@ -1349,9 +1365,13 @@ PDEs on unseen domains.** Computer Methods in Applied Mechanics and Engineering,
 
    *Michael Poli, Stefano Massaroli, Atsushi Yamashita, Hajime Asama, and Jinkyoo Park.*
 
-1. **PIXEL: Physics-informed cell representations for fast and accurate pde solvers.** NIPS, 2022. [paper](https://openreview.net/forum?id=t49TL3qzma)
+1. **PIXEL: Physics-informed cell representations for fast and accurate PDE solvers.** NIPS, 2022. [paper](https://openreview.net/forum?id=t49TL3qzma)
 
    *Namgyu Kang, Byeonghyeon Lee, Youngjoon Hong, Seok-Bae Yun, and  Eunbyung Park.*
+
+1. **NeuralSim: Augmenting differentiable simulators with neural networks.** ICRA, 2021. [paper](https://ieeexplore.ieee.org/abstract/document/9560935)
+
+   *Eric Heiden, David Millard, Erwin Coumans, Yizhou Sheng, and Gaurav S. Sukhatme.*
 
 ### [Variation](#content) 
 1. **PI-VAE: Physics-informed variational auto-encoder for stochastic differential equations.** Computer Methods in Applied Mechanics and Engineering, 2022. [paper](https://www.sciencedirect.com/science/article/pii/S0045782522006193)
@@ -1538,6 +1558,10 @@ PDEs on unseen domains.** Computer Methods in Applied Mechanics and Engineering,
    *Atish Dixit and Ahmed H. Elsheikh.*
 
 ### [Fluid](#content)
+1. **Physics-informed neural networks (PINNs) for fluid mechanics: A review.** Acta Mechanica Sinica, 2021. [paper](https://link.springer.com/article/10.1007/s10409-021-01148-1)
+
+   *Shengze Cai, Zhiping Mao, Zhicheng Wang, Minglang Yin, and George Em Karniadakis.*
+
 1. **DeepONet prediction of linear instability waves in high-speed boundary layers.** arXiv, 2021. [paper](https://arxiv.org/abs/2105.08697)
 
    *Patricio Clark Di Leoni, Lu Lu, Charles Meneveau, George Karniadakis, and Tamer A. Zaki.*
