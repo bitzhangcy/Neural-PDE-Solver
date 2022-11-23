@@ -159,7 +159,7 @@ Contributed by Chunyang Zhang.
 
 1. **Physics-informed neural networks: A deep learning framework for solving forward and inverse problems involving nonlinear partial differential equations.** Journal of Computational Physics, 2019. [paper](https://www.sciencedirect.com/science/article/pii/S0021999118307125)
 
-   *M.Raissia, P.Perdikarisb, and G.E.Karniadakisa.*
+   *M.Raissia, P.Perdikarisb, and George Em Karniadakis.*
 
 1. **Deep hidden physics models: Deep learning of nonlinear partial differential equations.** JMLR, 2018. [paper](https://www.jmlr.org/papers/volume19/18-046/18-046.pdf)
 
@@ -1122,11 +1122,11 @@ PDEs on unseen domains.** Computer Methods in Applied Mechanics and Engineering,
    
 1. **Transfer physics informed neural network: A new framework for distributed physics informed neural networks via parameter sharing.** Engineering with Computers, 2022. [paper](https://link.springer.com/article/10.1007/s00366-022-01703-9)
 
-   *Sreehari Manikkan and Balaji Srinivasan .*
+   *Sreehari Manikkan and Balaji Srinivasan.*
 
 1. **Meta-PDE: Learning to solve PDEs quickly without a mesh.** arXiv, 2022. [paper](https://arxiv.org/abs/2211.01604)
 
-   *Tian Qin, Alex Beatson, Deniz Oktay, Nick McGreivy, and Ryan P. Adams.*
+   *Tian Qin, Alex Beatson, Deniz Oktay, Nick Mc Greivy, and Ryan P. Adams.*
 
 1. **SVD-PINNs: Transfer learning of physics-informed neural networks via singular value decomposition.** arXiv, 2022. [paper](https://arxiv.org/abs/2211.08760)
 
@@ -1255,7 +1255,7 @@ PDEs on unseen domains.** Computer Methods in Applied Mechanics and Engineering,
 
 1. **NeuralStagger: Accelerating physics constrained neural PDE solver with spatialtemporal decomposition.** ICLR, 2023. [paper](https://openreview.net/forum?id=pGR2gNO5c4p)
 
-   *Anonymous authors.*
+   *Anonymous Authors.*
 
 1. **Augmenting physical models with deep networksfor complex dynamics forecasting.** Journal of Statistical Mechanics: Theory and Experiment, 2021. [paper](https://iopscience.iop.org/article/10.1088/1742-5468/ac3ae5/meta)
 
@@ -1280,7 +1280,7 @@ PDEs on unseen domains.** Computer Methods in Applied Mechanics and Engineering,
 
 1. **Learning a mesh motion technique with application to fluid-structure interaction and shape optimization.** arXiv, 2022. [paper](https://arxiv.org/abs/2206.02217)
 
-   *Johannes Haubne and, Miroslav Kuchta.*
+   *Johannes Haubne and Miroslav Kuchta.*
 
 1. **Accelerated training of physics-informed neural networks (PINNs) using meshless discretizations.** arXiv, 2022. [paper](https://arxiv.org/abs/2205.09332)
 
@@ -1317,7 +1317,7 @@ PDEs on unseen domains.** Computer Methods in Applied Mechanics and Engineering,
 
 1. **Wasserstein generative adversarial uncertainty quantification in physics-informed neural networks.** Journal of Computational Physics, 2022. [paper](https://www.sciencedirect.com/science/article/pii/S0021999122003321)
 
-   *Yihang Gao and Michael K.Ng.*
+   *Yihang Gao and Michael K. Ng.*
 
 1. **Competitive physics informed networks.** ICLR, 2021. [paper](https://openreview.net/forum?id=rMz_scJ6lc)
 
@@ -1384,7 +1384,7 @@ PDEs on unseen domains.** Computer Methods in Applied Mechanics and Engineering,
 
 1. **hp-VPINNs: Variational physics-informed neural networks with domain decomposition.** Computer Methods in Applied Mechanics and Engineering, 2021. [paper](https://www.sciencedirect.com/science/article/pii/S0045782520307325)
 
-   *Ehsan Kharazmi, Zhongqiang Zhang, and George E.M.Karniadakis.*
+   *Ehsan Kharazmi, Zhongqiang Zhang, and George Em Karniadakis.*
 
 1. **Variational Onsager Neural Networks (VONNs): A thermodynamics-based variational learning strategy for non-equilibrium PDEs.** Journal of the Mechanics and Physics of Solids, 2022. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0022509622000692)
 
@@ -1413,11 +1413,11 @@ PDEs on unseen domains.** Computer Methods in Applied Mechanics and Engineering,
 
 1. **Solving inverse problems in stochastic models using deep neural networks and adversarial training.** Computer Methods in Applied Mechanics and Engineering, 2021. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0045782521003078)
 
-   *Kailai Xu and EricDarve.*
+   *Kailai Xu and Eric Darve.*
 
 1. **Bayesian deep learning for partial differential equation parameter discovery with sparse and noisy data.** Journal of Computational Physics: X, 2022. [paper](https://www.sciencedirect.com/science/article/pii/S2590055222000117?via%3Dihub)
 
-   *ChristopheBonneville and ChristopherEarls.*
+   *Christophe Bonneville and Christopher Earls.*
 
 1. **B-PINNs: Bayesian physics-informed neural networks for forward and inverse PDE problems with noisy data.** Journal of Computational Physics, 2021. [paper](https://www.sciencedirect.com/science/article/pii/S0021999120306872)
 
@@ -1486,7 +1486,7 @@ PDEs on unseen domains.** Computer Methods in Applied Mechanics and Engineering,
 ### [Multi Fidelity](#content)
 1. **Multifidelity deep operator networks.** arXiv, 2022. [paper](https://arxiv.org/abs/2204.09157)
 
-   *Amanda A. Howard, Mauro Perego, George E. Karniadakis, and Panos Stinis.*
+   *Amanda A. Howard, Mauro Perego, George Em Karniadakis, and Panos Stinis.*
 
 1. **Physics and equality constrained artificial neural networks: Application to forward and inverse problems with multi-fidelity data fusion.** Journal of Computational Physics, 2022. [paper](https://dl.acm.org/doi/abs/10.1016/j.jcp.2022.111301)
 
