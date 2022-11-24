@@ -295,6 +295,10 @@ partial differential equations.** Computers and Fluids, 2022. [paper](https://ww
 
    *Yuying Liu, Aleksei Sholokhov, Hassan Mansour, and Saleh Nabi.*
 
+1. **Physics-informed neural networks for operator equations with stochastic data.** arXiv, 2022. [paper](https://arxiv.org/abs/2211.10344)
+
+   *Paul Escapil-Inchauspé and Gonzalo A. Ruz.*
+
 ### [DeepONet](#content)
 1. **Learning nonlinear operators via DeepONet based on the universal approximation theorem of operators.** NMI, 2021. [paper](https://www.nature.com/articles/s42256-021-00302-5)
 
@@ -1427,6 +1431,10 @@ PDEs on unseen domains.** Computer Methods in Applied Mechanics and Engineering,
 
    *Emilia Magnani, Nicholas Krämer, Runa Eschenhagen, Lorenzo Rosasco, and Philipp Hennig.*
 
+1. **Bayesian autoencoders for data-driven discovery of coordinates, governing equations and fundamental constants.** arXiv, 2022. [paper](https://arxiv.org/abs/2211.10575)
+
+   *L. Mars Gao and  J. Nathan Kutz.*
+
 ### [Lagrangian](#content)
 1. **Lagrangian PINNs: A causality–conforming solution to failure modes of physics-informed neural networks.** arXiv, 2022. [paper](https://arxiv.org/abs/2205.02902)
 
@@ -1557,6 +1565,10 @@ PDEs on unseen domains.** Computer Methods in Applied Mechanics and Engineering,
 
    *Atish Dixit and Ahmed H. Elsheikh.*
 
+1. **Optimal learning of high-dimensional classification problems using deep neural networks.** arXiv, 2022. [paper](https://arxiv.org/abs/2112.12555)
+
+   *Philipp Petersen and Felix Voigtlaender.*
+
 ### [Fluid](#content)
 1. **Physics-informed neural networks (PINNs) for fluid mechanics: A review.** Acta Mechanica Sinica, 2021. [paper](https://link.springer.com/article/10.1007/s10409-021-01148-1)
 
@@ -1647,3 +1659,7 @@ PDEs on unseen domains.** Computer Methods in Applied Mechanics and Engineering,
 1. **Physics-aware machine learning surrogates for real-time manufacturing digital twin.** Manufacturing Letters, 2022. [paper](https://www.sciencedirect.com/science/article/abs/pii/S2213846322001845)
 
    *Aditya Balu, Soumik Sarkar, Baskar Ganapathysubramanian, and Adarsh Krishnamurthy.*
+
+1. **SciAI4Industry--Solving PDEs for industry-scale problems with deep learning.** arXiv, 2022. [paper](https://arxiv.org/abs/2211.12709)
+
+   *Philipp A. Witte, Russell J. Hewett, Kumar Saurabh, AmirHossein Sojoodi, and Ranveer Chandra.*
