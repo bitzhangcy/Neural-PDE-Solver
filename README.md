@@ -127,6 +127,11 @@ Contributed by Chunyang Zhang.
 
    *Chuizheng Meng, Sungyong Seo, Defu Cao, Sam Griesemer, and Yan Liu.* 
 
+1. **Physics-guided, physics-informed, and physics-encoded neural networks in
+scientific computing.** arXiv, 2022. [paper](https://arxiv.org/abs/2211.07377)
+
+   *Salah A. Faroughi, Nikhil M. Pawar, C´elio Fernandes, Subasish Das, Nima K. Kalantari, and Seyed Kourosh Mahjour.* 
+
 1. **Physics-informed machine learning: A survey on problems, methods and applications.** arXiv, 2022. [paper](https://arxiv.org/abs/2211.08064)
 
    *Zhongkai Hao, Songming Liu, Yichi Zhang, Chengyang Ying, Yao Feng, Hang Su, and Jun Zhu.* 
@@ -564,6 +569,10 @@ partial differential equations.** Computers and Fluids, 2022. [paper](https://ww
 1. **Learning time-dependent PDEs with a linear and nonlinear separate convolutional neural network.** Journal of Computational Physics, 2022. [paper](https://www.sciencedirect.com/science/article/pii/S0021999121008238)
 
    *Jiagang Qu, Weihua Cai, and  YijunZhao.*
+
+1. **PhyCRNet: Physics-informed convolutional-recurrent network for solving spatiotemporal PDEs.** Journal of Computational Physics, 2022. [paper](https://www.sciencedirect.com/science/article/pii/S0045782521006514)
+
+   *Pu Ren, Chengping Rao, Yang Liu, Jian-Xun Wang, and Hao Sun.*
 
 1. **PhyGeoNet: Physics-informed geometry-adaptive convolutional neural networks for solving parameterized steady-state PDEs on irregular domain
 .** Journal of Computational Physics, 2021. [paper](https://www.sciencedirect.com/science/article/pii/S0021999120308536)
@@ -1352,6 +1361,10 @@ PDEs on unseen domains.** Computer Methods in Applied Mechanics and Engineering,
 
    *Guofei Pang, Liu Yang. and George Em Karniadakis.*
 
+1. **Learning neural optimal interpolation models and solvers.** arXiv, 2022. [paper](https://arxiv.org/abs/2211.07209)
+
+   *Maxime Beauchamp, Joseph Thompson, Hugo Georgenthum, Quentin Febvre, and Ronan Fablet.*
+
 ### [Solver](#content)
 1. **Solver-in-the-loop: Learning from differentiable physics to interact with iterative PDE-solvers.** NIPS, 2020. [paper](https://dl.acm.org/doi/abs/10.5555/3495724.3496237)
 
@@ -1635,6 +1648,14 @@ PDEs on unseen domains.** Computer Methods in Applied Mechanics and Engineering,
 1. **Learning two-phase microstructure evolution using neural operators and autoencoder architectures.**  NPJ Computational Materials, 2022. [paper](https://www.nature.com/articles/s41524-022-00876-7)
 
    *Vivek Oommen, Khemraj Shukla, Somdatta Goswami, Rémi Dingreville, and George Em Karniadakis.*
+
+1. **Predicting glass structure by physics-informed machine learning.**  NPJ Computational Materials, 2022. [paper](https://www.nature.com/articles/s41524-022-00882-9)
+
+   *Mikkel L. Bødker, Mathieu Bauchy, Tao Du, John C. Mauro, and Morten M. Smedskjaer.*
+
+1. **Physics-informed deep learning for solving phonon Boltzmann transport equation with large temperature non-equilibrium.**  NPJ Computational Materials, 2022. [paper](https://www.nature.com/articles/s41524-022-00712-y)
+
+   *Ruiyang Li, Jian-Xun Wang, Eungkyu Lee, and Tengfei Luo.*
 
 ### [Image](#content)
 1. **Learning to diffuse: A new perspective to design PDEs for visual analysis.** TPAMI, 2016. [paper](https://ieeexplore.ieee.org/document/7393839)
