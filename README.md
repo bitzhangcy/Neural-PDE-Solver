@@ -98,7 +98,12 @@ Contributed by Chunyang Zhang.
     <td>&ensp;<a href="#quantum">4.7 Quantum</a></td>
     <td>&ensp;<a href="#manufacturing">4.8 Manufacturing</a></td>
 </tr> 
+<tr>
+    <td>&ensp;<a href="#robotics">4.9 Robotics</a></td>
+    <td>&ensp;<a href="#"></a></td>
+</tr> 
 </table>
+
 
 
 
@@ -1657,6 +1662,10 @@ PDEs on unseen domains.** Computer Methods in Applied Mechanics and Engineering,
 
    *Ruiyang Li, Jian-Xun Wang, Eungkyu Lee, and Tengfei Luo.*
 
+1. **Bayesian inversion with neural operator (BINO) for modeling subdiffusion: Forward and inverse problems.** arXiv, 2022. [paper](https://arxiv.org/abs/2211.11981)
+
+   *Xiong-bin Yan, Zhi-Qin John Xu, and Zheng Ma.*
+
 ### [Image](#content)
 1. **Learning to diffuse: A new perspective to design PDEs for visual analysis.** TPAMI, 2016. [paper](https://ieeexplore.ieee.org/document/7393839)
 
@@ -1688,3 +1697,8 @@ PDEs on unseen domains.** Computer Methods in Applied Mechanics and Engineering,
 1. **SciAI4Industry--Solving PDEs for industry-scale problems with deep learning.** arXiv, 2022. [paper](https://arxiv.org/abs/2211.12709)
 
    *Philipp A. Witte, Russell J. Hewett, Kumar Saurabh, AmirHossein Sojoodi, and Ranveer Chandra.*
+   
+### [Robotics](#content)
+1. **Hybrid learning of time-series inverse dynamics models for locally isotropic robot motion.** RAL, 2022. [paper](https://ieeexplore.ieee.org/document/9954138)
+
+   *Tolga-Can Çallar and Sven Böttger.*
