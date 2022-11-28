@@ -546,9 +546,17 @@ partial differential equations.** Computers and Fluids, 2022. [paper](https://ww
 
    *Songming Liu, Zhongkai Hao, Chengyang Ying, Hang Su, Jun Zhu, and Ze Cheng.*
 
+1. **LSH-SMILE: Locality sensitive Hashing accelerated simulation and learning.** NIPS, 2021. [paper](https://proceedings.neurips.cc/paper/2021/hash/3d98b79ac6c8d1cef43d7bf1dadf8647-Abstract.html)
+
+   *Chonghao Sima and Yexiang Xue.*
+
 1. **Amortized finite element analysis for fast PDE-constrained optimization.** ICML, 2020. [paper](https://proceedings.mlr.press/v119/xue20a.html)
 
    *Tianju Xue, Alex Beatson, Sigrid Adriaenssens, and Ryan Adams.*
+
+1. **Learning neural PDE solvers with convergence guarantees.** ICLR, 2019. [paper](https://openreview.net/forum?id=rklaWn0qK7)
+
+   *Jun-Ting Hsieh, Shengjia Zhao, Stephan Eismann, Lucia Mirabella, and Stefano Ermon.*
 
 1. **Hybrid finite difference with the physics-informed neural network for solving PDE in complex geometries.** arXiv, 2022. [paper](https://arxiv.org/pdf/2202.07926.pdf)
 
@@ -679,6 +687,10 @@ partial differential equations.** Computers and Fluids, 2022. [paper](https://ww
 
    *Chengping Rao, Pu Ren, Yang Liu, and Hao Sun.*
 
+1. **Differential spectral normalization (DSN) for PDE discovery.** AAAI, 2021. [paper](https://openreview.net/pdf?id=Vog_3GXsgmb)
+
+   *Chi Chiu So, Tsz On Li, Chufang Wu, and Siu Pang Yung.*
+
 1. **Learning differential operators for interpretable time series modeling.** KDD, 2022. [paper](https://dl.acm.org/doi/abs/10.1145/3534678.3539245)
 
    *Yingtao Luo, Chang Xu, Yang Liu, Weiqing Liu, Shun Zheng, and Jiang Bian.*
@@ -690,6 +702,10 @@ partial differential equations.** Computers and Fluids, 2022. [paper](https://ww
 1. **Physics-informed learning of governing equations from scarce data.** NC, 2021. [paper](https://www.nature.com/articles/s41467-021-26434-1)
 
    *Zhao Chen, Yang Liu, and Hao Sun.*
+
+1. **Machine Learning Hidden Symmetries.** PRL, 2022. [paper](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.128.180201)
+
+   *Ziming Liu and Max Tegmark.*
 
 1. **Data-driven discovery of partial differential equation models with latent variables.** Physical Review E, 2019. [paper](https://journals.aps.org/pre/abstract/10.1103/PhysRevE.100.022219)
 
@@ -706,6 +722,10 @@ partial differential equations.** Computers and Fluids, 2022. [paper](https://ww
 1. **DeepMoD: Deep learning for model discovery in noisy data.** Journal of Computational Physics, 2021. [paper](https://www.sciencedirect.com/science/article/pii/S0021999120307592)
 
    *Gert-Jan Both, Subham Choudhury, Pierre Sens, and Remy Kusters.*
+
+1. **Theory-guided hard constraint projection (HCP): A knowledge-based data-driven scientific machine learning method.** Journal of Computational Physics, 2021. [paper](https://www.sciencedirect.com/science/article/pii/S0021999121005192)
+
+   *Yuntian Chen, Dou Huang, Dongxiao Zhang, Junsheng Zeng, Nanzhe Wang, Haoran Zhang, and Jinyue Yan.*
 
 1. **Deep-learning based discovery of partial differential equations in integral form from sparse and noisy data.** Journal of Computational Physics, 2021. [paper](https://www.sciencedirect.com/science/article/pii/S0021999121004873)
 
@@ -787,6 +807,10 @@ partial differential equations.** Computers and Fluids, 2022. [paper](https://ww
 1. **Solving high-dimensional partial differential equations using deep learning.** PNAS, 2018. [paper](https://www.pnas.org/doi/10.1073/pnas.1718942115)
 
    *Jiequn Han, Arnulf Jentzen, and Weinan E.*
+
+1. **Enhancing computational fluid dynamics with machine learning.** NCS, 2022. [paper](https://www.nature.com/articles/s43588-022-00264-7)
+
+   *Ricardo Vinuesa and Steven L. Brunton.*
 
 1. **Solving high-dimensional parabolic PDEs using the tensor train format.** ICML, 2021. [paper](https://arxiv.org/abs/2102.11830)
 
@@ -892,6 +916,10 @@ partial differential equations.** Computers and Fluids, 2022. [paper](https://ww
 1. **Neural rough differential equations for long time series.** ICML, 2021. [paper](http://proceedings.mlr.press/v139/morrill21b.html)
 
    *James Morrill, Cristopher Salvi, Patrick Kidger, and James Foster.*
+
+1. **LEADS: Learning dynamical systems that generalize across environments.** NIPS, 2021. [paper](https://proceedings.neurips.cc/paper/2021/hash/3df1d4b96d8976ff5986393e8767f5b2-Abstract.html)
+
+   *Yuan Yin, Ibrahim Ayed, Emmanuel de Bézenac, and Nicolas Baskiotis, Patrick Gallinari.*
 
 1. **On robustness of neural ordinary differential equations.** ICLR, 2020. [paper](https://openreview.net/forum?id=-gBckR-V1i)
 
@@ -1170,6 +1198,10 @@ PDEs on unseen domains.** Computer Methods in Applied Mechanics and Engineering,
 1. **Building high accuracy emulators for scientific simulations with deep neural architecture search.** Machine Learning: Science and Technology, 2022. [paper](https://iopscience.iop.org/article/10.1088/2632-2153/ac3ffa)
 
    *M F Kasim, D Watson-Parris, L Deaconu, S Oliver, P Hatfield, D H Froula, G Gregori, M Jarvis, S Khatiwala, J Korenaga, J Topp-Mugglestone, E Viezzer, and S M Vinko.*
+
+1. **Learning operations for neural PDE solvers.** ICLR, 2019. [paper](https://simdl.github.io/files/55.pdf)
+
+   *Nicholas Roberts, Mikhail Khodak, Tri Dao, Liam Li, Christopher Re´, and Ameet Talwalkar.*
 
 ### [Sampling](#content)
 1. **A comprehensive study of non-adaptive and residual-based adaptive sampling for physics-informed neural networks.** Computer Methods in Applied Mechanics and Engineering, 2022. [paper](https://www.sciencedirect.com/science/article/pii/S0045782522006260)
@@ -1636,6 +1668,11 @@ PDEs on unseen domains.** Computer Methods in Applied Mechanics and Engineering,
 1. **Transfer learning for flow reconstruction based on multifidelity data.** AIAA Journal, 2022. [paper](https://arc.aiaa.org/doi/abs/10.2514/1.J061647)
 
    *Jiaqing Kou , Chenjia Ning, and Weiwei Zhang.*
+
+1. **Learning-based state reconstruction for a scalar hyperbolic PDE under noisy lagrangian sensing.** L4DC, 2022. [paper](http://proceedings.mlr.press/v144/barreau21a.html)
+
+   *Matthieu Barreau, John Liu, and Karl Henrik Johansson.*
+
 
 ### [Physics](#content)
 1. **FourCastNet: A global data-driven high-resolution weather model using adaptive fourier neural operators.** arXiv, 2022. [paper](https://arxiv.org/abs/2202.11214)
