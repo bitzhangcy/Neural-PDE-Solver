@@ -1204,6 +1204,10 @@ PDEs on unseen domains.** Computer Methods in Applied Mechanics and Engineering,
    *Nicholas Roberts, Mikhail Khodak, Tri Dao, Liam Li, Christopher Re´, and Ameet Talwalkar.*
 
 ### [Sampling](#content)
+1. **DMIS: Dynamic mesh-based importance sampling for training physics-informed neural networks.** AAAI, 2023. [paper](https://arxiv.org/abs/2211.13944)
+
+   *Zijiang Yang, Zhongwei Qiu, and Dongmei Fu.*
+
 1. **A comprehensive study of non-adaptive and residual-based adaptive sampling for physics-informed neural networks.** Computer Methods in Applied Mechanics and Engineering, 2022. [paper](https://www.sciencedirect.com/science/article/pii/S0045782522006260)
 
    *Chenxi Wua, Min Zhua, Qinyang Tan, YadhKartha, and Lu Lu.*
