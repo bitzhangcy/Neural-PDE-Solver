@@ -100,9 +100,10 @@ Contributed by Chunyang Zhang.
 </tr> 
 <tr>
     <td>&ensp;<a href="#robotics">4.9 Robotics</a></td>
-    <td>&ensp;<a href="#"></a></td>
+    <td>&ensp;<a href="#cybernetics">4.10 Cybernetics</a></td>
 </tr> 
 </table>
+
 
 
 
@@ -293,6 +294,11 @@ partial differential equations.** Computers and Fluids, 2022. [paper](https://ww
 
    *Francisco Sahli Costabal, Simone Pezzuto, and Paris Perdikaris.*
 
+1. **Replacing automatic differentiation by Sobolev Cubatures fastens physics
+informed neural nets and strengthens their approximation power.** arXiv, 2022. [paper](https://arxiv.org/abs/2211.15443)
+
+   *Juan Esteban Suarez Cardona and Michael Hecht.*
+
 1. **FO-PINNs: A first-order formulation for physics informed neural networks.** arXiv, 2022. [paper](https://arxiv.org/abs/2210.14320)
 
    *Rini J. Gladstone, Mohammad A. Nabian, and Hadi Meidani.*
@@ -383,6 +389,14 @@ partial differential equations.** Computers and Fluids, 2022. [paper](https://ww
 
    *Alasdair Tran, Alexander Mathews, Lexing Xie, and Cheng Soon Ong.*
 
+1. **Model inversion for spatio-temporal processes using the fourier neural operator.** NIPS, 2023. [paper](https://ml4physicalsciences.github.io/2021/files/NeurIPS_ML4PS_2021_8.pdf)
+
+   *Dan MacKinlay, Dan Pagendam, Petra M. Kuhnert, Tao Cui, David Robertson, and Sreekanth Janardhanan.*
+
+1. **Learning deep Implicit Fourier Neural Operators (IFNOs) with applications to heterogeneous material modeling.** Computer Methods in Applied Mechanics and Engineering, 2022. [paper](https://www.sciencedirect.com/science/article/pii/S0045782522004078)
+
+   *Huaiqian You, Quinn Zhang, Colton J. Ross, Chung-Hao Lee, and Yue Yu.*
+
 1. **On the eigenvector bias of Fourier feature networks: From regression to solving multi-scale PDEs with physics-informed neural networks.** Computer Methods in Applied Mechanics and Engineering, 2021. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0045782521002759)
 
    *Sifan Wang, Hanwen Wang, and Paris Perdikaris.*
@@ -390,6 +404,10 @@ partial differential equations.** Computers and Fluids, 2022. [paper](https://ww
 1. **Semi-supervised learning of partial differential operators and dynamical flows.** arXiv, 2022. [paper](https://arxiv.org/abs/2207.14366)
 
    *Michael Rotman, Amit Dekel, Ran Ilan Ber, Lior Wolf, and Yaron Oz.*
+
+1. **Incremental fourier neural operator.** arXiv, 2022. [paper](https://arxiv.org/abs/2211.15188)
+
+   *Jiawei Zhao, Robert Joseph George, Yifei Zhang, Zongyi Li, and Anima Anandkumar.*
 
 ### [Graph Network](#content)
 1. **Message passing neural PDE solvers.** ICLR, 2022. [paper](https://openreview.net/forum?id=vSix3HPYKSU)
@@ -1707,6 +1725,10 @@ PDEs on unseen domains.** Computer Methods in Applied Mechanics and Engineering,
 
    *Xiong-bin Yan, Zhi-Qin John Xu, and Zheng Ma.*
 
+1. **Design of Turing systems with physics-informed neural networks.** arXiv, 2022. [paper](https://arxiv.org/abs/2211.13464)
+
+   *Jordon Kho, Winston Koh, Jian Cheng Wong, Pao-Hsiung Chiu, and Chin Chun Ooi.*
+
 ### [Image](#content)
 1. **Learning to diffuse: A new perspective to design PDEs for visual analysis.** TPAMI, 2016. [paper](https://ieeexplore.ieee.org/document/7393839)
 
@@ -1743,3 +1765,8 @@ PDEs on unseen domains.** Computer Methods in Applied Mechanics and Engineering,
 1. **Hybrid learning of time-series inverse dynamics models for locally isotropic robot motion.** RAL, 2022. [paper](https://ieeexplore.ieee.org/document/9954138)
 
    *Tolga-Can Çallar and Sven Böttger.*
+   
+### [Cybernetics](#content)
+1. **Machine learning accelerated PDE backstepping observers.** arXiv, 2022. [paper](https://arxiv.org/abs/2211.15044)
+
+   *Yuanyuan Shi, Zongyi Li, Huan Yu, Drew Steeves, Anima Anandkumar, and Miroslav Krstic.*
