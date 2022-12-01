@@ -211,6 +211,10 @@ Contributed by Chunyang Zhang.
 
    *Pao-Hsiung Chiu, Jian Cheng Wong, Chinchun Ooi, My Ha Dao, and Yew-Soon Ong.*
 
+1. **Derivative-informed projected neural networks for high-dimensional parametric maps governed by PDEs.** Computer Methods in Applied Mechanics and Engineering, 2022. [paper](https://www.sciencedirect.com/science/article/pii/S0045782521005302)
+
+   *Thomas O’Leary-Roseberry, Umberto Villa, Peng Chen, and Omar Ghattas.*
+
 1. **Physics-augmented learning: A new paradigm beyond physics-informed learning.** NIPS, 2021. [paper](https://www.iamwawa.cn/daxiaoxie.html)
 
    *Ziming Liu, Yuanqi Du, Yunyue Chen, and Max Tegmark.*
@@ -651,6 +655,18 @@ Contributed by Chunyang Zhang.
 
    *Gaurav Gupta, Xiongye Xiao, and Paul Bogdan.*
 
+1. **On the representation of solutions to elliptic PDEs in Barron space.** NIPS, 2021. [paper](https://proceedings.neurips.cc/paper/2021/hash/32cfdce9631d8c7906e8e9d6e68b514b-Abstract.html)
+
+   *Ziang Chen, Jianfeng Lu, and Yulong Lu.*
+
+1. **Low-rank registration based manifolds for convection-dominated PDEs.** AAAI, 2021. [paper](https://ojs.aaai.org/index.php/AAAI/article/view/16116)
+
+   *Rambod Mojgani and Maciej Balajewicz.*
+
+1. **A nonlocal physics-informed deep learning framework using the peridynamic differential operator.** Computer Methods in Applied Mechanics and Engineering, 2021. [paper](https://www.sciencedirect.com/science/article/pii/S0045782521003431)
+
+   *Ehsan Haghighat, Ali CanBekar, Erdogan Madenci, and Ruben Juanes.*
+
 1. **Kernel Flows: From learning kernels from data into the abyss.** Journal of Computational Physics, 2019. [paper](https://www.sciencedirect.com/science/article/pii/S0021999119302232)
 
    *Houman Owhadi and Gene Ryan Yoo.*
@@ -699,6 +715,10 @@ Contributed by Chunyang Zhang.
 1. **Data-driven discovery of partial differential equations.** SA, 2017. [paper](https://arxiv.org/abs/1910.11710)
 
    *Wei Cai and Zhi-Qin John Xu.*
+
+1. **Robust learning from noisy, incomplete, high-dimensional experimental data via physically constrained symbolic regression.** NC, 2021. [paper](https://www.nature.com/articles/s41467-021-23479-0)
+
+   *Patrick A. K. Reinbold, Logan M. Kageorge, Michael F. Schatz, and Roman O. Grigoriev.*
 
 1. **Discovering nonlinear PDEs from scarce data with physics-encoded learning.** ICLR, 2022. [paper](https://openreview.net/pdf?id=Vog_3GXsgmb)
 
@@ -1035,6 +1055,10 @@ physics-informed neural network training.** NIPS, 2021. [paper](https://arxiv.or
 
    *Marcus Münzer and Chris Bard.*
 
+1. **Parametric complexity bounds for approximating PDEs with neural networks.** NIPS, 2021. [paper](https://proceedings.neurips.cc/paper/2021/hash/7edccc661418aeb5761dbcdc06ad490c-Abstract.html)
+
+   *Tanya Marwah, Zachary Lipton, and Andrej Risteski.*
+
 1. **Respecting causality is all you need for training physics-informed neural networks.** arXiv, 2021. [paper](https://arxiv.org/abs/2203.07404)
 
    *Sifan Wang, Shyam Sankaran, and Paris Perdikaris.*
@@ -1186,6 +1210,10 @@ physics-informed neural network training.** NIPS, 2021. [paper](https://arxiv.or
 1. **HyperPINN: Learning parameterized differential equations with physics-informed hypernetworks.** NIPS, 2021. [paper](https://openreview.net/pdf?id=LxUuRDUhRjM)
 
    *Filipe de Avila Belbute-Peres, Yi-fan Chen, and Fei Sha.*
+
+1. **Adversarial multi-task learning enhanced physics-informed neural networks for solving partial differential equations.** IJCNN, 2022. [paper](https://ieeexplore.ieee.org/abstract/document/9533606)
+
+   *Pongpisit Thanasutives, Masayuki Numao, and Ken-ichi Fukui.*
 
 1. **Transfer physics informed neural network: A new framework for distributed physics informed neural networks via parameter sharing.** Engineering with Computers, 2022. [paper](https://link.springer.com/article/10.1007/s00366-022-01703-9)
 
@@ -1636,6 +1664,27 @@ physics-informed neural network training.** NIPS, 2021. [paper](https://arxiv.or
 
    *Philipp Petersen and Felix Voigtlaender.*
 
+### [Cybernetics](#content)
+1. **Machine learning accelerated PDE backstepping observers.** arXiv, 2022. [paper](https://arxiv.org/abs/2211.15044)
+
+   *Yuanyuan Shi, Zongyi Li, Huan Yu, Drew Steeves, Anima Anandkumar, and Miroslav Krstic.*
+
+1. **Neural solvers for fast and accurate numerical optimal control.** NIPS, 2021. [paper](https://openreview.net/forum?id=rwMWDGOjaQF)
+
+   *Federico Berto, Stefano Massaroli, Michael Poli, and Jinkyoo Park.*
+
+1. **Bellman neural networks for the class of optimal control problems with integral quadratic cost.** TAI, 2022. [paper](https://ieeexplore.ieee.org/document/9893345)
+
+   *Enrico Schiassi, Andrea D'Ambrosio, and Roberto Furfaro.*
+
+1. **Offline supervised learning vs online direct policy optimization: A comparative study and a unifie training paradigm for neural network-based optimal feedback control.** arXiv, 2022. [paper](https://arxiv.org/abs/2211.15930)
+
+   *Yue Zhao and Jiequn Han.*
+
+1. **Policy evaluation and temporal–difference learning in continuous time and space: A martingale approach.** JMLR, 2022. [paper](https://www.jmlr.org/papers/volume23/21-0947/21-0947.pdf)
+
+   *Yanwei Jia and Xun Yu Zhou.*
+
 ### [Fluid](#content)
 1. **Physics-informed neural networks (PINNs) for fluid mechanics: A review.** Acta Mechanica Sinica, 2021. [paper](https://link.springer.com/article/10.1007/s10409-021-01148-1)
 
@@ -1664,6 +1713,10 @@ physics-informed neural network training.** NIPS, 2021. [paper](https://arxiv.or
 1. **Physics informed neural fields for smoke reconstruction with sparse data.** ACM Transactions on Graphics, 2022. [paper](https://dl.acm.org/doi/10.1145/3528223.3530169)
 
    *Mengyu Chu, Lingjie Liu, Quan Zheng, Erik Franz, Hans-Peter Seidel, Christian Theobalt, and Rhaleb Zayer.*
+
+1. **Physics-informed deep learning for traffic state estimation: A hybrid paradigm informed by second-order traffic models.** AAAI, 2021. [paper](https://ojs.aaai.org/index.php/AAAI/article/view/16132)
+
+   *Rongye Shi, Zhaobin Mo, and Xuan Di.*
 
 1. **Residual-based adaptivity for two-phase flow simulation in porous media using physics-informed neural networks.** Computer Methods in Applied Mechanics and Engineering, 2022. [paper](https://www.sciencedirect.com/science/article/pii/S004578252200295X)
 
@@ -1763,20 +1816,3 @@ physics-informed neural network training.** NIPS, 2021. [paper](https://arxiv.or
 1. **Hybrid learning of time-series inverse dynamics models for locally isotropic robot motion.** RAL, 2022. [paper](https://ieeexplore.ieee.org/document/9954138)
 
    *Tolga-Can Çallar and Sven Böttger.*
-   
-### [Cybernetics](#content)
-1. **Machine learning accelerated PDE backstepping observers.** arXiv, 2022. [paper](https://arxiv.org/abs/2211.15044)
-
-   *Yuanyuan Shi, Zongyi Li, Huan Yu, Drew Steeves, Anima Anandkumar, and Miroslav Krstic.*
-
-1. **Neural solvers for fast and accurate numerical optimal control.** NIPS, 2021. [paper](https://openreview.net/forum?id=rwMWDGOjaQF)
-
-   *Federico Berto, Stefano Massaroli, Michael Poli, and Jinkyoo Park.*
-
-1. **Bellman neural networks for the class of optimal control problems with integral quadratic cost.** TAI, 2022. [paper](https://ieeexplore.ieee.org/document/9893345)
-
-   *Enrico Schiassi, Andrea D'Ambrosio, and Roberto Furfaro.*
-
-1. **Offline supervised learning vs online direct policy optimization: A comparative study and a unifie training paradigm for neural network-based optimal feedback control.** arXiv, 2022. [paper](https://arxiv.org/abs/2211.15930)
-
-   *Yue Zhao and Jiequn Han.*
