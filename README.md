@@ -123,7 +123,7 @@ Contributed by Chunyang Zhang.
 
 1. **A comprehensive and fair comparison of two neural operators (with practical extensions) based on FAIR data.** Computer Methods in Applied Mechanics and Engineering, 2022. [paper](https://www.sciencedirect.com/science/article/pii/S0045782522001207?via%3Dihub)
 
-   *Lu Lu, Xuhui Meng, Shengze Cai, Zhiping Mao, Somdatta Goswami, Zhongqiang Zhang, George Em Karniadakis.* 
+   *Lu Lu, Xuhui Meng, Shengze Cai, Zhiping Mao, Somdatta Goswami, Zhongqiang Zhang, and George Em Karniadakis.* 
 
 1. **Scientific machine learning through physics–informed neural networks: Where we are and what’s next.** Beyond traditional AI: the impact of Machine Learning on Scientific Computing, 2022. [book](https://link.springer.com/article/10.1007/s10915-022-01939-z)
 
@@ -385,11 +385,11 @@ Contributed by Chunyang Zhang.
 
    *Alasdair Tran, Alexander Mathews, Lexing Xie, and Cheng Soon Ong.*
 
-1. **Model inversion for spatio-temporal processes using the fourier neural operator.** NIPS, 2023. [paper](https://ml4physicalsciences.github.io/2021/files/NeurIPS_ML4PS_2021_8.pdf)
+1. **Model inversion for spatio-temporal processes using the Fourier neural operator.** NIPS, 2023. [paper](https://ml4physicalsciences.github.io/2021/files/NeurIPS_ML4PS_2021_8.pdf)
 
    *Dan MacKinlay, Dan Pagendam, Petra M. Kuhnert, Tao Cui, David Robertson, and Sreekanth Janardhanan.*
 
-1. **Learning deep Implicit Fourier Neural Operators (IFNOs) with applications to heterogeneous material modeling.** Computer Methods in Applied Mechanics and Engineering, 2022. [paper](https://www.sciencedirect.com/science/article/pii/S0045782522004078)
+1. **Learning deep implicit Fourier neural operators (IFNOs) with applications to heterogeneous material modeling.** Computer Methods in Applied Mechanics and Engineering, 2022. [paper](https://www.sciencedirect.com/science/article/pii/S0045782522004078)
 
    *Huaiqian You, Quinn Zhang, Colton J. Ross, Chung-Hao Lee, and Yue Yu.*
 
@@ -401,7 +401,7 @@ Contributed by Chunyang Zhang.
 
    *Michael Rotman, Amit Dekel, Ran Ilan Ber, Lior Wolf, and Yaron Oz.*
 
-1. **Incremental fourier neural operator.** arXiv, 2022. [paper](https://arxiv.org/abs/2211.15188)
+1. **Incremental Fourier neural operator.** arXiv, 2022. [paper](https://arxiv.org/abs/2211.15188)
 
    *Jiawei Zhao, Robert Joseph George, Yifei Zhang, Zongyi Li, and Anima Anandkumar.*
 
@@ -1465,7 +1465,7 @@ physics-informed neural network training.** NIPS, 2021. [paper](https://arxiv.or
 
    *Ehsan Kharazmi, Zhongqiang Zhang, and George Em Karniadakis.*
 
-1. **Variational Onsager Neural Networks (VONNs): A thermodynamics-based variational learning strategy for non-equilibrium PDEs.** Journal of the Mechanics and Physics of Solids, 2022. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0022509622000692)
+1. **Variational Onsager neural networks (VONNs): A thermodynamics-based variational learning strategy for non-equilibrium PDEs.** Journal of the Mechanics and Physics of Solids, 2022. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0022509622000692)
 
    *Shenglin Huang, Zequn He, Bryan Chem, and Celia Reina.*
 
@@ -1691,7 +1691,7 @@ physics-informed neural network training.** NIPS, 2021. [paper](https://arxiv.or
    *Matthieu Barreau, John Liu, and Karl Henrik Johansson.*
 
 ### [Physics](#content)
-1. **FourCastNet: A global data-driven high-resolution weather model using adaptive fourier neural operators.** arXiv, 2022. [paper](https://arxiv.org/abs/2202.11214)
+1. **FourCastNet: A global data-driven high-resolution weather model using adaptive Fourier neural operators.** arXiv, 2022. [paper](https://arxiv.org/abs/2202.11214)
 
    *Jaideep Pathak, Shashank Subramanian, Peter Harrington, Sanjeev Raja, Ashesh Chattopadhyay, Morteza Mardani, Thorsten Kurth, David Hall, Zongyi Li, Kamyar Azizzadenesheli, Pedram Hassanzadeh, Karthik Kashinath, and Animashree Anandkumar.*
 
