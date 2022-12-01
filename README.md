@@ -315,6 +315,10 @@ Contributed by Chunyang Zhang.
 
    *Paul Escapil-Inchauspé and Gonzalo A. Ruz.*
 
+1. **Physics-informed neural networks with unknown measurement noise.** arXiv, 2022. [paper](https://arxiv.org/abs/2211.15498)
+
+   *Philipp Pilar and Niklas Wahlstrom.*
+
 ### [DeepONet](#content)
 1. **Learning nonlinear operators via DeepONet based on the universal approximation theorem of operators.** NMI, 2021. [paper](https://www.nature.com/articles/s42256-021-00302-5)
 
@@ -384,6 +388,10 @@ Contributed by Chunyang Zhang.
 1. **Multipole graph neural operator for parametric partial differential equations.** NeurIPS, 2020. [paper](https://dl.acm.org/doi/abs/10.5555/3495724.3496291)
 
    *Zongyi Li, Nikola Kovachki, Kamyar Azizzadenesheli, Burigede Liu, Kaushik Bhattacharya, Andrew Stuart, and Anima Anandkumar.*
+
+1. **Fast sampling of diffusion models via operator learning .** NeurIPS, 2022. [paper](https://openreview.net/forum?id=XrhofG6qg7Y)
+
+   *Hongkai Zheng, Weili Nie, Arash Vahdat, Kamyar Azizzadenesheli, and Anima Anandkumar.*
 
 1. **Factorized Fourier neural operators.** ICLR, 2023. [paper](https://openreview.net/forum?id=tmIiMPl4IPa)
 
@@ -1297,6 +1305,10 @@ physics-informed neural network training.** NIPS, 2021. [paper](https://arxiv.or
 1. **Exploring physical latent spaces for deep learning.** arXiv, 2022. [paper](https://arxiv.org/abs/2211.11298)
    
    *Chloe Paliard, Nils Thuerey, and Kiwon Um.*
+   
+1. **Certified data-driven physics-informed greedy auto-encoder simulator.** arXiv, 2022. [paper](https://arxiv.org/abs/2211.13698)
+   
+   *Xiaolong He, Youngsoo Choi, William D. Fries, Jonathan L. Belof, and Jiun-Shyan Chen.*
 
 ### [Loss Function](#content)
 1. **Adaptive activation functions accelerate convergence in deep and physics-informed neural networks.** Journal of Computational Physics, 2021. [paper](https://www.sciencedirect.com/science/article/pii/S0021999119308411)
@@ -1367,6 +1379,10 @@ physics-informed neural network training.** NIPS, 2021. [paper](https://arxiv.or
 1. **LordNet: Learning to solve parametric partial differential equations without simulated data.** arXiv, 2022. [paper](https://arxiv.org/abs/2206.09418)
 
    *Wenlei Shi, Xinquan Huang, Xiaotian Gao, Xinran Wei, Jia Zhang, Jiang Bian, Mao Yang, and Tie-Yan Liu.*
+
+1. **An optimisation–based domain–decomposition reduced order model for the incompressibleNavier-Stokes equations.** arXiv, 2022. [paper](https://arxiv.org/abs/2211.14528)
+
+   *Ivan Prusak, Monica Nonino, Davide Torlo, Francesco Ballarin,and Gianluigi Rozza.*
 
 ### [Mesh](#content)
 1. **MeshingNet: A new mesh generation method based on deep learning.** ICCS, 2022. [paper](https://link.springer.com/chapter/10.1007/978-3-030-50420-5_14)
