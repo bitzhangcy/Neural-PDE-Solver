@@ -255,6 +255,10 @@ Contributed by Chunyang Zhang.
 
    *Shahed Rezaei, Ali Harandi, Ahmad Moeineddin, Baixiang Xua, and Stefanie Reese.*
 
+1. **A novel sequential method to train physics informed neural networks for Allen Cahn and Cahn Hilliard equations.** Computer Methods in Applied Mechanics and Engineering, 2022. [paper](https://www.sciencedirect.com/science/article/pii/S0045782521006939)
+
+   *Revanth Mattey and Susanta Ghosh.*
+
 1. **RPINNs: Rectified-physics informed neural networks for solving stationary partial differential equations.** Computers and Fluids, 2022. [paper](https://www.sciencedirect.com/science/article/pii/S0045793022001955)
 
    *Pai Peng, Jiangong Pan, Hui Xu, and Xinlong Feng.*
@@ -318,6 +322,10 @@ Contributed by Chunyang Zhang.
 1. **Physics-informed neural networks with unknown measurement noise.** arXiv, 2022. [paper](https://arxiv.org/abs/2211.15498)
 
    *Philipp Pilar and Niklas Wahlstrom.*
+
+1. **On the compatibility between a neural network and a partial differential equation for physics-informed learning.** arXiv, 2022. [paper](https://arxiv.org/abs/2212.00270)
+
+   *Kuangdai Leng and Jeyan Thiyagalingam.*
 
 ### [DeepONet](#content)
 1. **Learning nonlinear operators via DeepONet based on the universal approximation theorem of operators.** NMI, 2021. [paper](https://www.nature.com/articles/s42256-021-00302-5)
@@ -389,7 +397,7 @@ Contributed by Chunyang Zhang.
 
    *Zongyi Li, Nikola Kovachki, Kamyar Azizzadenesheli, Burigede Liu, Kaushik Bhattacharya, Andrew Stuart, and Anima Anandkumar.*
 
-1. **Fast sampling of diffusion models via operator learning .** NeurIPS, 2022. [paper](https://openreview.net/forum?id=XrhofG6qg7Y)
+1. **Fast sampling of diffusion models via operator learning.** NeurIPS, 2022. [paper](https://openreview.net/forum?id=XrhofG6qg7Y)
 
    *Hongkai Zheng, Weili Nie, Arash Vahdat, Kamyar Azizzadenesheli, and Anima Anandkumar.*
 
@@ -1382,7 +1390,7 @@ physics-informed neural network training.** NIPS, 2021. [paper](https://arxiv.or
 
 1. **An optimisation–based domain–decomposition reduced order model for the incompressibleNavier-Stokes equations.** arXiv, 2022. [paper](https://arxiv.org/abs/2211.14528)
 
-   *Ivan Prusak, Monica Nonino, Davide Torlo, Francesco Ballarin,and Gianluigi Rozza.*
+   *Ivan Prusak, Monica Nonino, Davide Torlo, Francesco Ballarin, and Gianluigi Rozza.*
 
 ### [Mesh](#content)
 1. **MeshingNet: A new mesh generation method based on deep learning.** ICCS, 2022. [paper](https://link.springer.com/chapter/10.1007/978-3-030-50420-5_14)
