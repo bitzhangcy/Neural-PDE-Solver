@@ -251,6 +251,10 @@ Contributed by Chunyang Zhang.
 
    *Amirhossein Arzani, Kevin W.Cassel, and Roshan M.D'Souza.*
 
+1. **A-PINN: Auxiliary physics informed neural networks for forward and inverse problems of nonlinear integro-differential equations.** Journal of Computational Physics, 2022. [paper](https://www.sciencedirect.com/science/article/pii/S0021999122003229)
+
+   *Lei Yuan, Yi-Qing Ni, Xiang-Yun Deng, and Shuo Hao.*
+
 1. **A mixed formulation for physics-informed neural networks as a potential solver for engineering problems in heterogeneous domains: Comparison with finite element method.** Computer Methods in Applied Mechanics and Engineering, 2022. [paper](https://www.sciencedirect.com/science/article/pii/S0045782522005722)
 
    *Shahed Rezaei, Ali Harandi, Ahmad Moeineddin, Baixiang Xua, and Stefanie Reese.*
@@ -326,6 +330,10 @@ Contributed by Chunyang Zhang.
 1. **On the compatibility between a neural network and a partial differential equation for physics-informed learning.** arXiv, 2022. [paper](https://arxiv.org/abs/2212.00270)
 
    *Kuangdai Leng and Jeyan Thiyagalingam.*
+
+1. **Pre-training strategy for solving evolution equations based on physics-informed neural networks.** arXiv, 2022. [paper](https://arxiv.org/abs/2212.00798)
+
+   *Jiawei Guo, Yanzhong Yao, Han Wang, and Tongxiang Gu.*
 
 ### [DeepONet](#content)
 1. **Learning nonlinear operators via DeepONet based on the universal approximation theorem of operators.** NMI, 2021. [paper](https://www.nature.com/articles/s42256-021-00302-5)
@@ -847,6 +855,10 @@ Contributed by Chunyang Zhang.
 1. **Data-driven modeling of Landau damping by physics-informed neural networks.** arXiv, 2022. [paper](https://arxiv.org/abs/2211.01021)
 
    *Yilan Qin, Jiayu Ma, Mingle Jiang, Chuanfei Dong, Haiyang Fu, Liang Wang, Wenjie Cheng, and Yaqiu Jin.*
+
+1. **Discovering governing equations in discrete systems using PINNs.** arXiv, 2022. [paper](https://arxiv.org/abs/2212.00971)
+
+   *Sheikh Saqlain, Wei Zhu, Efstathios G. Charalampidis, and Panayotis G. Kevrekidis.*
 
 ### [Machine Learning](#content)
 1. **Machine learning–accelerated computational fluid dynamics.** PNAS, 2021. [paper](https://www.pnas.org/doi/10.1073/pnas.2101784118)
@@ -1714,7 +1726,7 @@ physics-informed neural network training.** NIPS, 2021. [paper](https://arxiv.or
 
    *Shengze Cai, Zhiping Mao, Zhicheng Wang, Minglang Yin, and George Em Karniadakis.*
 
-1. **DeepONet prediction of linear instability waves in high-speed boundary layers.** arXiv, 2021. [paper](https://arxiv.org/abs/2105.08697)
+1. **Neural operator prediction of linear instability waves in high-speed boundary layers.** Journal of Computational Physics, 2022. [paper](https://www.sciencedirect.com/science/article/pii/S0021999122008567)
 
    *Patricio Clark Di Leoni, Lu Lu, Charles Meneveau, George Karniadakis, and Tamer A. Zaki.*
 
