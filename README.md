@@ -344,6 +344,10 @@ Contributed by Chunyang Zhang.
 
    *Wang Sifan, Hanwen Wang, and Paris Perdikaris.*
 
+1. **Deep transfer operator learning for partial differential equations under conditional shift.** NMI, 2022. [paper](https://www.nature.com/articles/s42256-022-00569-2) 
+
+   *Somdatta Goswami, Katiana Kontolati, Michael D. Shields, and George Em Karniadakis.*
+
 1. **Variable-input deep operator networks.** arXiv, 2022. [paper](https://arxiv.org/abs/2205.11404)
 
    *Michael Prasthofer, Tim De Ryck, and Siddhartha Mishra..*
@@ -392,6 +396,10 @@ Contributed by Chunyang Zhang.
 1. **On universal approximation and error bounds for Fourier neural operators.** JMLR, 2021. [paper](https://dl.acm.org/doi/abs/10.5555/3546258.3546548)
 
    *Nikola Kovachki, Samuel Lanthaler, and Siddhartha Mishra.*
+
+1. **HyperFNO: Improving the generalization behavior of Fourier neural operators.** NIPS, 2022. [paper](https://ml4physicalsciences.github.io/2022/files/NeurIPS_ML4PS_2022_89.pdf)
+
+   *Francesco Alesiani, Makoto Takamoto, and Mathias Niepert.*
 
 1. **Neural operator: Graph kernel network for partial Differential equations.** arXiv, 2020. [paper](https://arxiv.org/abs/2003.03485)
 
@@ -1474,6 +1482,10 @@ physics-informed neural network training.** NIPS, 2021. [paper](https://arxiv.or
 
    *Simin Shekarpaz, Mohammad Azizmalayeri, and Mohammad Hossein Rohban.*
 
+1. **Physics-constrained generative adversarial networks for 3D turbulence.** arXiv, 2022. [paper](https://arxiv.org/abs/2212.00217)
+
+   *Dima Tretiak, Arvind T. Mohan, and Daniel Livescu.*
+
 ### [Gaussian Process](#content)
 1. **PAGP: A physics-assisted Gaussian process framework with active learning for forward and inverse problems of partial differential equations.** arXiv, 2022. [paper](https://arxiv.org/abs/2204.02583)
 
@@ -1573,6 +1585,10 @@ physics-informed neural network training.** NIPS, 2021. [paper](https://arxiv.or
 1. **Bayesian autoencoders for data-driven discovery of coordinates, governing equations and fundamental constants.** arXiv, 2022. [paper](https://arxiv.org/abs/2211.10575)
 
    *L. Mars Gao and J. Nathan Kutz.*
+
+1. **Bayesian physics informed neural networks for data assimilation and spatio-temporal modelling of wildfires.** arXiv, 2022. [paper](https://arxiv.org/abs/2212.00970)
+
+   *Joel Janek Dabrowski, Daniel Edward Pagendam, James Hilton, Conrad Sanderson, Daniel MacKinlay, Carolyn Huston, Andrew Bolt, and Petra Kuhnert.*
 
 ### [Lagrangian](#content)
 1. **Lagrangian PINNs: A causality–conforming solution to failure modes of physics-informed neural networks.** arXiv, 2022. [paper](https://arxiv.org/abs/2205.02902)
