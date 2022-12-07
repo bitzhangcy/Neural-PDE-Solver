@@ -633,6 +633,10 @@ Contributed by Chunyang Zhang.
 
    *Daniel Kelshaw, Georgios Rigas, and Luca Magri.*
 
+1. **Deep-pretrained-FWI: Combining supervised learning with physics-informed neural network.** NIPS, 2022. [paper](https://arxiv.org/abs/2212.02338)
+
+   *Ana Paula O. Muller, Clecio R. Bom, Jessé C. Costa, Matheus Klatt, Elisângela L. Faria, Marcelo P. de Albuquerque, and Márcio P. de Albuquerque.*
+
 1. **Learning time-dependent PDEs with a linear and nonlinear separate convolutional neural network.** Journal of Computational Physics, 2022. [paper](https://www.sciencedirect.com/science/article/pii/S0021999121008238)
 
    *Jiagang Qu, Weihua Cai, and YijunZhao.*
