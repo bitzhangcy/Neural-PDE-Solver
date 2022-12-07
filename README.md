@@ -121,6 +121,10 @@ Contributed by Chunyang Zhang.
 
    *Jin-Long Wu, Heng Xiao, and Eric Paterson.* 
 
+1. **Integrating scientific knowledge with machine learning for engineering and environmental systems.** ACM Computing Surveys, 2023. [paper](https://dl.acm.org/doi/full/10.1145/3514228)
+
+   *Jared Willard, Xiaowei Jia, Shaoming Xu, Michael Steinbach, and Vipin Kumar.* 
+
 1. **A comprehensive and fair comparison of two neural operators (with practical extensions) based on FAIR data.** Computer Methods in Applied Mechanics and Engineering, 2022. [paper](https://www.sciencedirect.com/science/article/pii/S0045782522001207?via%3Dihub)
 
    *Lu Lu, Xuhui Meng, Shengze Cai, Zhiping Mao, Somdatta Goswami, Zhongqiang Zhang, and George Em Karniadakis.* 
