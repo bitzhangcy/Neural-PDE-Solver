@@ -125,6 +125,10 @@ Contributed by Chunyang Zhang.
 
    *Jared Willard, Xiaowei Jia, Shaoming Xu, Michael Steinbach, and Vipin Kumar.* 
 
+1. **Physical laws meet machine intelligence: Current developments and future directions.** Artificial Intelligence Review, 2022. [paper](https://link.springer.com/article/10.1007/s10462-022-10329-8)
+
+   *Temoor Muther, Amirmasoud Kalantari Dahaghi, Fahad Iqbal Syed, and Vuong Van Pham.* 
+
 1. **A comprehensive and fair comparison of two neural operators (with practical extensions) based on FAIR data.** Computer Methods in Applied Mechanics and Engineering, 2022. [paper](https://www.sciencedirect.com/science/article/pii/S0045782522001207?via%3Dihub)
 
    *Lu Lu, Xuhui Meng, Shengze Cai, Zhiping Mao, Somdatta Goswami, Zhongqiang Zhang, and George Em Karniadakis.* 
@@ -714,6 +718,10 @@ Contributed by Chunyang Zhang.
 1. **On neurosymbolic solutions for PDEs.** arXiv, 2022. [paper](https://arxiv.org/abs/2207.06240)
 
    *Ritam Majumdar, Vishal Jadhav, Anirudh Deodhar, Shirish Karande, and Lovekesh Vig.*
+
+1. **An introduction to kernel and operator learning methods for homogenization by self-consistent clustering analysis.** arXiv, 2022. [paper](https://arxiv.org/abs/2212.00802)
+
+   *Owen Huang, Sourav Saha, Jiachen Guo, and Wing Kam Liu.*
 
 1. **Nonparametric learning of kernels in nonlocal operators.** arXiv, 2022. [paper](https://arxiv.org/abs/2205.11006)
 
