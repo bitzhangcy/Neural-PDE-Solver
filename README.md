@@ -653,10 +653,14 @@ Contributed by Chunyang Zhang.
 
    *Pu Ren, Chengping Rao, Yang Liu, Jian-Xun Wang, and Hao Sun.*
 
-1. **PhyGeoNet: Physics-informed geometry-adaptive convolutional neural networks for solving parameterized steady-state PDEs on irregular domain.** Journal of Computational Physics, 2021. [paper](https://www.sciencedirect.com/science/article/pii/S0021999120308536)
+1. **Deep-pretrained-FWI: Combining supervised learning with physics-informed neural network.** NIPS, 2022. [paper](https://arxiv.org/abs/2212.02338)
 
-   *Han Gao, Luning Sun, and Jianxun Wang.*
-   
+   *Ana Paula O. Muller, Clecio R. Bom, Jessé C. Costa, Matheus Klatt, Elisângela L. Faria, Marcelo P. de Albuquerque, and Márcio P. de Albuquerque.*
+
+1. **Spline-PINN: Approaching PDEs without data using fast, physics-informed Hermite-Spline CNNs.** AAAI, 2019. [paper](https://ojs.aaai.org/index.php/AAAI/article/view/20830/20589)
+
+   *Nils Wandel, Michael Weinmann, Michael Neidlin, and Reinhard Klein.*
+
 1. **Deep convolutional Ritz method: Parametric PDE surrogates without labeled data.** arXiv, 2022. [paper](https://arxiv.org/abs/2206.04675)
 
    *Jan Niklas Fuhg, Arnav Karmarkar, Teeratorn Kadeethum, Hongkyu Yoon, and Nikolaos Bouklas.*
@@ -664,6 +668,10 @@ Contributed by Chunyang Zhang.
 1. **Deep convolutional architectures for extrapolative forecasts in time-dependent flow problems.** arXiv, 2022. [paper](https://arxiv.org/abs/2209.09651)
 
    *Pratyush Bhatt, Yash Kumar, and Azzeddine Soulaimani.*
+
+1. **Phase2Vec: Dynamical systems embedding with a physics-informed convolutional network.** arXiv, 2022. [paper](https://arxiv.org/abs/2212.03857)
+
+   *Matthew Ricci, Noa Moriel, and Zoe Piran, Mor Nitzan.*
 
 1. **Numerical approximation based on deep convolutional neural network for high-dimensional fully nonlinear merged PDEs and 2BSDEs.** arXiv, 2022. [paper](https://arxiv.org/abs/2209.04997)
 
@@ -1302,7 +1310,11 @@ physics-informed neural network training.** NIPS, 2021. [paper](https://arxiv.or
 
 1. **Learning operations for neural PDE solvers.** ICLR, 2019. [paper](https://simdl.github.io/files/55.pdf)
 
-   *Nicholas Roberts, Mikhail Khodak, Tri Dao, Liam Li, Christopher Re´, and Ameet Talwalkar.*
+   *Nicholas Roberts, Mikhail Khodak, Tri Dao, Liam Li, Christopher Re, and Ameet Talwalkar.*
+
+1. **AutoPINN: When AutoML meets physics-informed neural networks.** arXiv, 2022. [paper](https://arxiv.org/abs/2212.04058)
+
+   *Xinle Wu, Dalin Zhang, Miao Zhang, Chenjuan Guo, Shuai Zhao, Yi Zhang, Huai Wang, and Bin Yang.*
 
 ### [Sampling](#content)
 1. **DMIS: Dynamic mesh-based importance sampling for training physics-informed neural networks.** AAAI, 2023. [paper](https://arxiv.org/abs/2211.13944)
@@ -1843,6 +1855,10 @@ physics-informed neural network training.** NIPS, 2021. [paper](https://arxiv.or
 1. **Design of Turing systems with physics-informed neural networks.** arXiv, 2022. [paper](https://arxiv.org/abs/2211.13464)
 
    *Jordon Kho, Winston Koh, Jian Cheng Wong, Pao-Hsiung Chiu, and Chin Chun Ooi.*
+
+1. **Spatio-temporal super-resolution of dynamical systems using physics-informed deep-learning.** AAAI, 2023. [paper](https://arxiv.org/abs/2212.04457)
+
+   *Rajat Arora and Ankit Shrivastava.*
 
 ### [Image](#content)
 1. **Learning to diffuse: A new perspective to design PDEs for visual analysis.** TPAMI, 2016. [paper](https://ieeexplore.ieee.org/document/7393839)
