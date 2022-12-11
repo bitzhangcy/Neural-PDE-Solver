@@ -58,7 +58,7 @@ Contributed by Chunyang Zhang.
     <td>&ensp;<a href="#mesh">3.12 Mesh</a></td>
 </tr>
  <tr>
-    <td>&ensp;<a href="#gan">3.13 GAN</a></td>
+    <td>&ensp;<a href="#generative-models">3.13 Generative Models</a></td>
     <td>&ensp;<a href="#gaussian-process">3.14 Gaussian Process</a></td>
 </tr>
  <tr>
@@ -92,17 +92,24 @@ Contributed by Chunyang Zhang.
 </tr>
 <tr>
     <td>&ensp;<a href="#image">4.5 Image</a></td>
-    <td>&ensp;<a href="#nash-equilibrial">4.6 Nash Equilibrial</a></td>
+    <td>&ensp;<a href="#mechanics">4.6 Mechanics</a></td>
 </tr> 
 <tr>
-    <td>&ensp;<a href="#quantum">4.7 Quantum</a></td>
-    <td>&ensp;<a href="#manufacturing">4.8 Manufacturing</a></td>
+    <td>&ensp;<a href="#robotics">4.7 Robotics</a></td>
+    <td>&ensp;<a href="#cybernetics">4.8 Cybernetics</a></td>
 </tr> 
 <tr>
-    <td>&ensp;<a href="#robotics">4.9 Robotics</a></td>
-    <td>&ensp;<a href="#cybernetics">4.10 Cybernetics</a></td>
+    <td>&ensp;<a href="#quantum">4.9 Quantum</a></td>
+    <td>&ensp;<a href="#nash-equilibrial">4.10 Nash Equilibrial</a></td>
+</tr> 
+<tr>
+    <td>&ensp;<a href="#manufacturing">4.11 Manufacturing</a></td>
+    <td>&ensp;<a href="#"></a></td>
 </tr> 
 </table>
+
+
+
 
 
 
@@ -1469,7 +1476,7 @@ physics-informed neural network training.** NIPS, 2021. [paper](https://arxiv.or
 
    *Fabricio Arend Torres, Marcello Massimo Negri, Monika Nagy-Huber, Maxim Samarin, and Volker Roth.*
 
-### [GAN](#content)
+### [Generative Models](#content)
 1. **A framework for data-driven solution and parameter estimation of PDEs using conditional generative adversarial networks.** NCS, 2021. [paper](https://www.nature.com/articles/s43588-021-00171-3)
 
    *Teeratorn Kadeethum, Daniel O’Malley, Jan Niklas Fuhg, Youngsoo Choi, Jonghyun Lee, Hari S. Viswanathan, and Nikolaos Bouklas.*
@@ -1501,6 +1508,10 @@ physics-informed neural network training.** NIPS, 2021. [paper](https://arxiv.or
 1. **Learning generative neural networks with physics knowledge.** Research in the Mathematical Sciences, 2022. [paper](https://link.springer.com/article/10.1007/s40687-022-00329-z)
 
    *Kailai Xu, Weiqiang Zhu, and Eric Darve.*
+
+1. **Diffusion generative models in infinite dimensions.** arXiv, 2022. [paper](https://arxiv.org/abs/2212.00886)
+
+   *Gavin Kerrigan, Justin Ley, and Padhraic Smyth.*
 
 1. **Revisiting PINNs: Generative adversarial physics-informed neural networks and point-weighting method.** arXiv, 2022. [paper](https://arxiv.org/abs/2205.08754)
 
@@ -1744,27 +1755,6 @@ physics-informed neural network training.** NIPS, 2021. [paper](https://arxiv.or
 
    *Philipp Petersen and Felix Voigtlaender.*
 
-### [Cybernetics](#content)
-1. **Machine learning accelerated PDE backstepping observers.** arXiv, 2022. [paper](https://arxiv.org/abs/2211.15044)
-
-   *Yuanyuan Shi, Zongyi Li, Huan Yu, Drew Steeves, Anima Anandkumar, and Miroslav Krstic.*
-
-1. **Neural solvers for fast and accurate numerical optimal control.** NIPS, 2021. [paper](https://openreview.net/forum?id=rwMWDGOjaQF)
-
-   *Federico Berto, Stefano Massaroli, Michael Poli, and Jinkyoo Park.*
-
-1. **Bellman neural networks for the class of optimal control problems with integral quadratic cost.** TAI, 2022. [paper](https://ieeexplore.ieee.org/document/9893345)
-
-   *Enrico Schiassi, Andrea D'Ambrosio, and Roberto Furfaro.*
-
-1. **Offline supervised learning vs online direct policy optimization: A comparative study and a unifie training paradigm for neural network-based optimal feedback control.** arXiv, 2022. [paper](https://arxiv.org/abs/2211.15930)
-
-   *Yue Zhao and Jiequn Han.*
-
-1. **Policy evaluation and temporal–difference learning in continuous time and space: A martingale approach.** JMLR, 2022. [paper](https://www.jmlr.org/papers/volume23/21-0947/21-0947.pdf)
-
-   *Yanwei Jia and Xun Yu Zhou.*
-
 ### [Fluid](#content)
 1. **Physics-informed neural networks (PINNs) for fluid mechanics: A review.** Acta Mechanica Sinica, 2021. [paper](https://link.springer.com/article/10.1007/s10409-021-01148-1)
 
@@ -1877,16 +1867,47 @@ physics-informed neural network training.** NIPS, 2021. [paper](https://arxiv.or
 
    *Lei Zhang, Mukesh Ghimire, Wenlong Zhang, Zhe Xu, and Yi Ren.*
 
-### [Nash Equilibria](#content)
-1. **Approximating discontinuous Nash equilibria values of two-player general-sum differential games.** arXiv, 2022. [paper](https://arxiv.org/abs/2207.01773)
+### [Mechanics](#content)
+1. **Wavelet Neural Operator for solving parametric partial differential equations in computational mechanics problems.** Computer Methods in Applied Mechanics and Engineering, 2022. [paper](https://www.sciencedirect.com/science/article/pii/S0045782522007393)
 
-   *Lei Zhang, Mukesh Ghimire, Wenlong Zhang, Zhe Xu, and Yi Ren.*
+   *TapasTripura and Souvik Chakraborty.*
+
+### [Robotics](#content)
+1. **Hybrid learning of time-series inverse dynamics models for locally isotropic robot motion.** RAL, 2022. [paper](https://ieeexplore.ieee.org/document/9954138)
+
+   *Tolga-Can Çallar and Sven Böttger.*
+
+### [Cybernetics](#content)
+1. **Machine learning accelerated PDE backstepping observers.** arXiv, 2022. [paper](https://arxiv.org/abs/2211.15044)
+
+   *Yuanyuan Shi, Zongyi Li, Huan Yu, Drew Steeves, Anima Anandkumar, and Miroslav Krstic.*
+
+1. **Neural solvers for fast and accurate numerical optimal control.** NIPS, 2021. [paper](https://openreview.net/forum?id=rwMWDGOjaQF)
+
+   *Federico Berto, Stefano Massaroli, Michael Poli, and Jinkyoo Park.*
+
+1. **Bellman neural networks for the class of optimal control problems with integral quadratic cost.** TAI, 2022. [paper](https://ieeexplore.ieee.org/document/9893345)
+
+   *Enrico Schiassi, Andrea D'Ambrosio, and Roberto Furfaro.*
+
+1. **Offline supervised learning vs online direct policy optimization: A comparative study and a unifie training paradigm for neural network-based optimal feedback control.** arXiv, 2022. [paper](https://arxiv.org/abs/2211.15930)
+
+   *Yue Zhao and Jiequn Han.*
+
+1. **Policy evaluation and temporal–difference learning in continuous time and space: A martingale approach.** JMLR, 2022. [paper](https://www.jmlr.org/papers/volume23/21-0947/21-0947.pdf)
+
+   *Yanwei Jia and Xun Yu Zhou.*
 
 ### [Quantum](#content)
 1. **Physics-informed neural networks for quantum eigenvalue problems.** IJCNN, 2022. [paper](https://ieeexplore.ieee.org/document/9891944)
 
    *Henry Jin, Marios Mattheakis, and Pavlos Protopapas.*
-   
+
+### [Nash Equilibria](#content)
+1. **Approximating discontinuous Nash equilibria values of two-player general-sum differential games.** arXiv, 2022. [paper](https://arxiv.org/abs/2207.01773)
+
+   *Lei Zhang, Mukesh Ghimire, Wenlong Zhang, Zhe Xu, and Yi Ren.*
+
 ### [Manufacturing](#content)
 1. **Physics-aware machine learning surrogates for real-time manufacturing digital twin.** Manufacturing Letters, 2022. [paper](https://www.sciencedirect.com/science/article/abs/pii/S2213846322001845)
 
@@ -1895,8 +1916,3 @@ physics-informed neural network training.** NIPS, 2021. [paper](https://arxiv.or
 1. **SciAI4Industry--Solving PDEs for industry-scale problems with deep learning.** arXiv, 2022. [paper](https://arxiv.org/abs/2211.12709)
 
    *Philipp A. Witte, Russell J. Hewett, Kumar Saurabh, AmirHossein Sojoodi, and Ranveer Chandra.*
-   
-### [Robotics](#content)
-1. **Hybrid learning of time-series inverse dynamics models for locally isotropic robot motion.** RAL, 2022. [paper](https://ieeexplore.ieee.org/document/9954138)
-
-   *Tolga-Can Çallar and Sven Böttger.*
