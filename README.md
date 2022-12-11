@@ -900,6 +900,10 @@ Contributed by Chunyang Zhang.
    *Sheikh Saqlain, Wei Zhu, Efstathios G. Charalampidis, and Panayotis G. Kevrekidis.*
 
 ### [Machine Learning](#content)
+1. **Data-driven discovery of intrinsic dynamics.** NMI, 2022. [paper](https://www.nature.com/articles/s42256-022-00575-4)
+
+   *Daniel Floryan and Michael D. Graham.*
+
 1. **Machine learning–accelerated computational fluid dynamics.** PNAS, 2021. [paper](https://www.pnas.org/doi/10.1073/pnas.2101784118)
 
    *Dmitrii Kochkov, Jamie A. Smith, Ayya Alieva, and Stephan Hoyer.*
