@@ -452,6 +452,10 @@ Contributed by Chunyang Zhang.
 
    *Michael Rotman, Amit Dekel, Ran Ilan Ber, Lior Wolf, and Yaron Oz.*
 
+1. **Non-equispaced Fourier neural solvers for PDEs.** arXiv, 2022. [paper](https://arxiv.org/abs/2212.04689)
+
+   *Haitao Lin, Lirong Wu, Yongjie Xu, Yufei Huang, Siyuan Li, Guojiang Zhao, Stan Z, and Li Cari.*
+
 1. **Incremental Fourier neural operator.** arXiv, 2022. [paper](https://arxiv.org/abs/2211.15188)
 
    *Jiawei Zhao, Robert Joseph George, Yifei Zhang, Zongyi Li, and Anima Anandkumar.*
@@ -883,6 +887,10 @@ Contributed by Chunyang Zhang.
 
    *Peiyan Hu, Qi Meng, Bingguang Chen, Shiqi Gong, Yue Wang, Wei Chen, Rongchan Zhu, Zhi-Ming Ma, and Tie-Yan Liu.*
    
+1. **A PINN approach to symbolic differential operator discovery with sparse data.** arXiv, 2022. [paper](https://arxiv.org/abs/2212.04630)
+
+   *Lena Podina, Brydon Eastman, and Mohammad Kohandel.*
+   
 1. **WeakIdent: Weak formulation for identifying differential equations using narrow-fit and trimming.** arXiv, 2022. [paper](https://arxiv.org/abs/2211.03134)
 
    *Mengyi Tang, Wenjing Liao, Rachel Kuske, and Sung Ha Kang.*
@@ -898,6 +906,10 @@ Contributed by Chunyang Zhang.
 1. **Discovering governing equations in discrete systems using PINNs.** arXiv, 2022. [paper](https://arxiv.org/abs/2212.00971)
 
    *Sheikh Saqlain, Wei Zhu, Efstathios G. Charalampidis, and Panayotis G. Kevrekidis.*
+
+1. **PDE-LEARN: Using deep learning to discover partial differential equations from noisy, limited data.** arXiv, 2022. [paper](https://arxiv.org/abs/2212.04971)
+
+   *Robert Stephany and Christopher Earls.*
 
 ### [Machine Learning](#content)
 1. **Data-driven discovery of intrinsic dynamics.** NMI, 2022. [paper](https://www.nature.com/articles/s42256-022-00575-4)
