@@ -887,6 +887,10 @@ Contributed by Chunyang Zhang.
 
    *Haotian Luo, Lei Wang, Ya-Bin Zhang, Gui Lu, Jing-Jing Su, and Yin-Chuan Zhao.*
    
+1. **Reliable extrapolation of deep neural operators informed by physics or sparse observations.** arXiv, 2022. [paper](https://arxiv.org/abs/2212.06347)
+
+   *Min Zhu, Handi Zhang, Anran Jiao, George Em Karniadakis, and Lu Lu.*
+
 1. **Neural operator with regularity structure for modeling dynamics driven by SPDEs.** arXiv, 2022. [paper](https://arxiv.org/abs/2204.06255)
 
    *Peiyan Hu, Qi Meng, Bingguang Chen, Shiqi Gong, Yue Wang, Wei Chen, Rongchan Zhu, Zhi-Ming Ma, and Tie-Yan Liu.*
@@ -1042,6 +1046,10 @@ Contributed by Chunyang Zhang.
    *James Morrill, Cristopher Salvi, Patrick Kidger, and James Foster.*
 
 1. **LEADS: Learning dynamical systems that generalize across environments.** NIPS, 2021. [paper](https://proceedings.neurips.cc/paper/2021/hash/3df1d4b96d8976ff5986393e8767f5b2-Abstract.html)
+
+   *Yuan Yin, Ibrahim Ayed, Emmanuel de Bézenac, and Nicolas Baskiotis, and Patrick Gallinari.*
+
+1. **A neural ODE interpretation of transformer layers.** NIPS, 2022. [paper](https://arxiv.org/abs/2212.06011)
 
    *Yuan Yin, Ibrahim Ayed, Emmanuel de Bézenac, and Nicolas Baskiotis, and Patrick Gallinari.*
 
