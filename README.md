@@ -778,6 +778,10 @@ Contributed by Chunyang Zhang.
 
    *Ziyuan Liu, Haifeng Wang, Kaijuna Bao, Xu Qian, Hong Zhang, and Songhe Song.*
 
+1. **DOSNet as a non-black-box PDE solver: When deep learning meets operator splitting.** arXiv, 2022. [paper](https://arxiv.org/abs/2212.05571)
+
+   *Yuan Lan, Zhen Li, Jie Sun, and Yang Xiang.*
+
 ### [Identification](#content)
 1. **Data-driven discovery of partial differential equations.** SA, 2017. [paper](https://arxiv.org/abs/1910.11710)
 
