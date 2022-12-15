@@ -403,6 +403,11 @@ Contributed by Chunyang Zhang.
 
    *Jiahao Zhang, Shiqi Zhang, and Guang Lin.*
 
+1. **Transfer learning enhanced DeepONet for long-time prediction of evolution
+equations.** arXiv, 2022. [paper](https://arxiv.org/abs/2212.04663)
+
+   *Wuzhe Xu, Yulong Lu, and Li Wang.*
+
 ### [Fourier Operator](#content)
 1. **Fourier neural operator for parametric partial differential equations.** ICLR, 2021. [paper](https://openreview.net/forum?id=c8P9NQVtmnO)
 
