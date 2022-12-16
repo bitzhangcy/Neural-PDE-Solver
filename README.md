@@ -404,7 +404,7 @@ Contributed by Chunyang Zhang.
    *Jiahao Zhang, Shiqi Zhang, and Guang Lin.*
 
 1. **Transfer learning enhanced DeepONet for long-time prediction of evolution
-equations.** arXiv, 2022. [paper](https://arxiv.org/abs/2212.04663)
+   equations.** arXiv, 2022. [paper](https://arxiv.org/abs/2212.04663)
 
    *Wuzhe Xu, Yulong Lu, and Li Wang.*
 
@@ -786,6 +786,10 @@ equations.** arXiv, 2022. [paper](https://arxiv.org/abs/2212.04663)
 1. **DOSNet as a non-black-box PDE solver: When deep learning meets operator splitting.** arXiv, 2022. [paper](https://arxiv.org/abs/2212.05571)
 
    *Yuan Lan, Zhen Li, Jie Sun, and Yang Xiang.*
+
+1. **Guiding continuous operator learning through physics-based boundary constraints.** arXiv, 2022. [paper](https://arxiv.org/abs/2212.07477)
+
+   *Nadim Saad, Gaurav Gupta, Shima Alizadeh, and Danielle C. Maddix.*
 
 ### [Identification](#content)
 1. **Data-driven discovery of partial differential equations.** SA, 2017. [paper](https://arxiv.org/abs/1910.11710)
