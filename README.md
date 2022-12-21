@@ -109,12 +109,6 @@ Contributed by Chunyang Zhang.
 </table>
 
 
-
-
-
-
-
-
 ## [Survey Papers](#content)
 1. **Physics-informed machine learning.** Nature Reviews Physics, 2021. [paper](https://www.nature.com/articles/s42254-021-00314-5)
 
@@ -140,7 +134,7 @@ Contributed by Chunyang Zhang.
 
    *Lu Lu, Xuhui Meng, Shengze Cai, Zhiping Mao, Somdatta Goswami, Zhongqiang Zhang, and George Em Karniadakis.* 
 
-1. **Scientific machine learning through physics–informed neural networks: Where we are and what’s next.** Beyond traditional AI: the impact of Machine Learning on Scientific Computing, 2022. [book](https://link.springer.com/article/10.1007/s10915-022-01939-z)
+1. **Scientific machine learning through physics–informed neural networks: Where we are and what’s next.** Beyond Traditional AI: The Impact of Machine Learning on Scientific Computing, 2022. [book](https://link.springer.com/article/10.1007/s10915-022-01939-z)
 
    *MingyuanYang and John T.Foster*
 
@@ -175,6 +169,7 @@ Contributed by Chunyang Zhang.
 1. **Partial differential equations meet deep neural networks: A survey.** arXiv, 2022. [paper](https://arxiv.org/abs/2211.05567)
 
    *Shudong Huang, Wentao Feng, Chenwei Tang, and Jiancheng Lv.* 
+
 
 ## [Models](#content) 
 ### [PINN](#content)
@@ -403,8 +398,7 @@ Contributed by Chunyang Zhang.
 
    *Jiahao Zhang, Shiqi Zhang, and Guang Lin.*
 
-1. **Transfer learning enhanced DeepONet for long-time prediction of evolution
-   equations.** arXiv, 2022. [paper](https://arxiv.org/abs/2212.04663)
+1. **Transfer learning enhanced DeepONet for long-time prediction of evolution equations.** arXiv, 2022. [paper](https://arxiv.org/abs/2212.04663)
 
    *Wuzhe Xu, Yulong Lu, and Li Wang.*
 
@@ -429,11 +423,11 @@ Contributed by Chunyang Zhang.
 
    *Zongyi Li, Daniel Zhengyu Huang, Burigede Liu, and Anima Anandkumar.*
 
-1. **Multipole graph neural operator for parametric partial differential equations.** NeurIPS, 2020. [paper](https://dl.acm.org/doi/abs/10.5555/3495724.3496291)
+1. **Multipole graph neural operator for parametric partial differential equations.** NIPS, 2020. [paper](https://dl.acm.org/doi/abs/10.5555/3495724.3496291)
 
    *Zongyi Li, Nikola Kovachki, Kamyar Azizzadenesheli, Burigede Liu, Kaushik Bhattacharya, Andrew Stuart, and Anima Anandkumar.*
 
-1. **Fast sampling of diffusion models via operator learning.** NeurIPS, 2022. [paper](https://openreview.net/forum?id=XrhofG6qg7Y)
+1. **Fast sampling of diffusion models via operator learning.** NIPS, 2022. [paper](https://openreview.net/forum?id=XrhofG6qg7Y)
 
    *Hongkai Zheng, Weili Nie, Arash Vahdat, Kamyar Azizzadenesheli, and Anima Anandkumar.*
 
@@ -791,6 +785,10 @@ Contributed by Chunyang Zhang.
 
    *Nadim Saad, Gaurav Gupta, Shima Alizadeh, and Danielle C. Maddix.*
 
+1. **BelNet: Basis enhanced learning, a mesh-free neural operator.** arXiv, 2022. [paper](https://arxiv.org/abs/2212.07336)
+
+   *Zecheng Zhang, Wing Tat Leung, and Hayden Schaeffer.*
+
 ### [Identification](#content)
 1. **Data-driven discovery of partial differential equations.** SA, 2017. [paper](https://arxiv.org/abs/1910.11710)
 
@@ -823,6 +821,10 @@ Contributed by Chunyang Zhang.
 1. **Machine Learning Hidden Symmetries.** PRL, 2022. [paper](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.128.180201)
 
    *Ziming Liu and Max Tegmark.*
+
+1. **Efficient learning of sparse and decomposable PDEs using random projection.** UAI, 2022. [paper](https://openreview.net/forum?id=SCg9JDUscgq)
+
+   *Md Nasim, Xinghang Zhang, Anter El-Azab, and Yexiang Xue.*
 
 1. **Data-driven discovery of partial differential equation models with latent variables.** Physical Review E, 2019. [paper](https://journals.aps.org/pre/abstract/10.1103/PhysRevE.100.022219)
 
@@ -1691,6 +1693,10 @@ physics-informed neural network training.** NIPS, 2021. [paper](https://arxiv.or
 1. **Physics-constrained deep learning for high-dimensional surrogate modeling and uncertainty quantification without labeled data.** Journal of Computational Physics, 2019. [paper](https://www.sciencedirect.com/science/article/pii/S0021999119303559)
 
    *Yinhao Zhu, Nicholas Zabarasa, Phaedon-Stelios Koutsourelakisb, and Paris Perdikaris.*
+
+1. **Error-aware B-PINNs: Improving uncertainty quantification in Bayesian physics-informed neural networks.** arXiv, 2022. [paper](https://arxiv.org/abs/2212.06965)
+
+   *Olga Graf, Pablo Flores, Pavlos Protopapas, and Karim Pichara.*
 
 ### [Active Learning](#content)
 1. **Neural Galerkin scheme with active learning for high-dimensional evolution equations.** arXiv, 2022. [paper](https://arxiv.org/abs/2203.01360)
