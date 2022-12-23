@@ -197,6 +197,10 @@ Contributed by Chunyang Zhang.
 
    *Khemraj Shukla, Ameya D.Jagtap, and George Em Karniadakis.*
 
+1. **Kolmogorov n–width and Lagrangian physics-informed neural networks: A causality-conforming manifold for convection-dominated PDEs.** Computer Methods in Applied Mechanics and Engineering, 2023. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0045782522007666)
+
+   *Rambod Mojgani, Maciej Balajewicz, and Pedram Hassanzadeh.*
+
 1. **Exact imposition of boundary conditions with distance functions in physics-informed deep neural networks.** Computer Methods in Applied Mechanics and Engineering, 2022. [paper](https://www.sciencedirect.com/science/article/pii/S0045782521006186)
 
    *N.Sukumar and Ankit Srivastava.*
@@ -268,6 +272,10 @@ Contributed by Chunyang Zhang.
 1. **A mixed formulation for physics-informed neural networks as a potential solver for engineering problems in heterogeneous domains: Comparison with finite element method.** Computer Methods in Applied Mechanics and Engineering, 2022. [paper](https://www.sciencedirect.com/science/article/pii/S0045782522005722)
 
    *Shahed Rezaei, Ali Harandi, Ahmad Moeineddin, Baixiang Xua, and Stefanie Reese.*
+
+1. **Physics-informed neural networks combined with polynomial interpolation to solve nonlinear partial differential equations.** Computers & Mathematics with Applications, 2023. [paper](https://www.sciencedirect.com/science/article/pii/S0898122122005090)
+
+   *Siping Tang, Xinlong Feng, Wei Wu, and Hui Xu.*
 
 1. **A novel sequential method to train physics informed neural networks for Allen Cahn and Cahn Hilliard equations.** Computer Methods in Applied Mechanics and Engineering, 2022. [paper](https://www.sciencedirect.com/science/article/pii/S0045782521006939)
 
