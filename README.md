@@ -1523,6 +1523,10 @@ physics-informed neural network training.** NIPS, 2021. [paper](https://arxiv.or
 
    *Fabricio Arend Torres, Marcello Massimo Negri, Monika Nagy-Huber, Maxim Samarin, and Volker Roth.*
 
+1. **Fixed-budget online adaptive mesh learning for physics-informed neural networks. Towards parameterized problem inference.** arXiv, 2022. [paper](https://arxiv.org/abs/2212.11776)
+
+   *Thi Nguyen Khoa Nguyen, Thibault Dairay, Raphaël Meunier, Christophe Millet, and Mathilde Mougeot.*
+
 ### [Generative Models](#content)
 1. **A framework for data-driven solution and parameter estimation of PDEs using conditional generative adversarial networks.** NCS, 2021. [paper](https://www.nature.com/articles/s43588-021-00171-3)
 
@@ -1588,6 +1592,10 @@ physics-informed neural network training.** NIPS, 2021. [paper](https://arxiv.or
 1. **Learning neural optimal interpolation models and solvers.** arXiv, 2022. [paper](https://arxiv.org/abs/2211.07209)
 
    *Maxime Beauchamp, Joseph Thompson, Hugo Georgenthum, Quentin Febvre, and Ronan Fablet.*
+
+1. **Inference of nonlinear partial differential equations via constrained Gaussian processes.** arXiv, 2022. [paper](https://arxiv.org/abs/2212.11880)
+
+   *Zhaohui Li, Shihao Yang, and Jeff Wu.*
 
 ### [Solver](#content)
 1. **Solver-in-the-loop: Learning from differentiable physics to interact with iterative PDE-solvers.** NIPS, 2020. [paper](https://dl.acm.org/doi/abs/10.5555/3495724.3496237)
