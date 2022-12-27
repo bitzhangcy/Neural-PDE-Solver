@@ -733,9 +733,14 @@ Contributed by Chunyang Zhang.
 
    *Rambod Mojgani and Maciej Balajewicz.*
 
+1. **Isogeometric neural networks: A new deep learning approach for solving parameterized partial differential equations.** Computer Methods in Applied Mechanics and Engineering, 2023. [paper](https://www.sciencedirect.com/science/article/pii/S0045782522007952)
+
+   *Joshua Gasick and Xiaoping Qian.*
+
 1. **A nonlocal physics-informed deep learning framework using the peridynamic differential operator.** Computer Methods in Applied Mechanics and Engineering, 2021. [paper](https://www.sciencedirect.com/science/article/pii/S0045782521003431)
 
    *Ehsan Haghighat, Ali CanBekar, Erdogan Madenci, and Ruben Juanes.*
+
 
 1. **Kernel Flows: From learning kernels from data into the abyss.** Journal of Computational Physics, 2019. [paper](https://www.sciencedirect.com/science/article/pii/S0021999119302232)
 
