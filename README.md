@@ -1602,6 +1602,10 @@ physics-informed neural network training.** NIPS, 2021. [paper](https://arxiv.or
 
    *Zhaohui Li, Shihao Yang, and Jeff Wu.*
 
+1. **Gaussian process priors for systems of linear partial differential equations with constant coefficients.** arXiv, 2022. [paper](https://arxiv.org/abs/2212.14319)
+
+   *Marc Härkönen, Markus Lange-Hegermann, and Bogdan Raiţă.*
+
 ### [Solver](#content)
 1. **Solver-in-the-loop: Learning from differentiable physics to interact with iterative PDE-solvers.** NIPS, 2020. [paper](https://dl.acm.org/doi/abs/10.5555/3495724.3496237)
 
