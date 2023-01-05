@@ -802,6 +802,10 @@ Contributed by Chunyang Zhang.
 
    *Zecheng Zhang, Wing Tat Leung, and Hayden Schaeffer.*
 
+1. **INO: Invariant neural operators for learning complex physical systems with momentum conservation.** arXiv, 2022. [paper](https://arxiv.org/abs/2212.14365)
+
+   *Ning Liu, Yue Yu, Huaiqian You, and Neeraj Tatikola.*
+
 ### [Identification](#content)
 1. **Data-driven discovery of partial differential equations.** SA, 2017. [paper](https://arxiv.org/abs/1910.11710)
 
