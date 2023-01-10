@@ -1139,10 +1139,13 @@ Contributed by Chunyang Zhang.
 
    *Oliver Hennigh, Susheela Narasimhan, Mohammad Amin Nabian, Akshay Subramaniam, Kaustubh Tangsali, Zhiwei Fang, Max Rietmann, Wonmin Byeon, and Sanjay Choudhry.*
 
-
 1. **PyDEns: A python framework for solving differential equations with neural networks.** arXiv, 2019. [paper](https://arxiv.org/abs/1909.11544)
 
    *Alexander Koryagin, Roman Khudorozkov, and Sergey Tsimfer.*
+
+1. **KoopmanLab: A PyTorch module of Koopman neural operator family for solving partial differential equations.** arXiv, 2023. [paper](https://arxiv.org/abs/2301.01104)
+
+   *Wei Xiong, Muyuan Ma, Pei Sun, and Yang Tian.*
 
 ### [Analysis](#content)
 1. **DPM: Physics-informed Karhunen-Loéve and neural network approximations for solving inverse differential equation problems.** AAAI, 2021. [paper](https://ojs.aaai.org/index.php/AAAI/article/view/16992/16799)
@@ -1969,6 +1972,10 @@ physics-informed neural network training.** NIPS, 2021. [paper](https://arxiv.or
 1. **Policy evaluation and temporal–difference learning in continuous time and space: A martingale approach.** JMLR, 2022. [paper](https://www.jmlr.org/papers/volume23/21-0947/21-0947.pdf)
 
    *Yanwei Jia and Xun Yu Zhou.*
+
+1. **Physics-informed kernel embeddings: Integrating prior system knowledge with data-driven control.** arXiv, 2023. [paper](https://arxiv.org/abs/2301.03565)
+
+   *Adam J. Thorpe, Cyrus Neary, Franck Djeumou, Meeko M. K. Oishi, and Ufuk Topcu.*
 
 ### [Quantum](#content)
 1. **Physics-informed neural networks for quantum eigenvalue problems.** IJCNN, 2022. [paper](https://ieeexplore.ieee.org/document/9891944)
