@@ -1232,6 +1232,10 @@ physics-informed neural network training.** NIPS, 2021. [paper](https://arxiv.or
 1. **Robustness of physics-informed neural networks to noise in sensor data.** arXiv, 2022. [paper](https://arxiv.org/abs/2211.12042)
    
    *Jian Cheng Wong, Pao-Hsiung Chiu, Chin Chun Ooi, and My Ha Da.* 
+   
+1. **Investigations on convergence behaviour of physics informed neural networks across spectral ranges and derivative orders.** arXiv, 2023. [paper](https://arxiv.org/abs/2301.02790)
+   
+   *Mayank Deshpande, Siddharth Agarwal, Vukka Snigdha, and Arya Kumar Bhattacharya.* 
 
 ### [Attention](#content)
 1. **Learning operators with coupled attention.** JMLR, 2022. [paper](https://www.jmlr.org/papers/v23/21-1521.html) 
