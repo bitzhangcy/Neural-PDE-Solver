@@ -353,6 +353,10 @@ Contributed by Chunyang Zhang.
 
    *Jiawei Guo, Yanzhong Yao, Han Wang, and Tongxiang Gu.*
 
+1. **L-HYDRA: Multi-head physics-informed neural networks.** arXiv, 2023. [paper](https://arxiv.org/abs/2301.02152)
+
+   *Zongren Zou and George Em Karniadakis.*
+
 ### [DeepONet](#content)
 1. **Learning nonlinear operators via DeepONet based on the universal approximation theorem of operators.** NMI, 2021. [paper](https://www.nature.com/articles/s42256-021-00302-5)
 
