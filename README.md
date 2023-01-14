@@ -810,6 +810,10 @@ Contributed by Chunyang Zhang.
 
    *Ning Liu, Yue Yu, Huaiqian You, and Neeraj Tatikola.*
 
+1. **BINN: A deep learning approach for computational mechanics problems based on boundary integral equations.** arXiv, 2023. [paper](https://arxiv.org/abs/2301.04480)
+
+   *Jia Sun, Yinghua Liu, Yizheng Wang, Zhenhan Yao, Xiaoping Zheng.*
+
 ### [Identification](#content)
 1. **Data-driven discovery of partial differential equations.** SA, 2017. [paper](https://arxiv.org/abs/1910.11710)
 
@@ -1328,6 +1332,10 @@ physics-informed neural network training.** NIPS, 2021. [paper](https://arxiv.or
 1. **One-shot learning for solution operators of partial differential equations.** ICLR, 2021. [paper](https://arxiv.org/abs/2104.05512) 
 
    *Lu Lu, Haiyang He, Priya Kasimbeg, Rishikesh Ranade, and Jay Pathak.*
+
+1. **A metalearning approach for physics-informed neural networks (PINNs): Application to parameterized PDEs .** Journal of Computational Physics, 2023. [paper](https://www.sciencedirect.com/science/article/pii/S0021999123000074)
+
+   *Michael Penwarden, Shandian Zhe, Akil Narayan, and Robert M.Kirby.*
 
 1. **Meta-MgNet: Meta multigrid networks for solving parameterized partial differential equations.** Journal of Computational Physics, 2022. [paper](https://www.sciencedirect.com/science/article/pii/S0021999122000584)
 
