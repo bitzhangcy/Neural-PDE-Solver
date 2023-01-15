@@ -357,6 +357,10 @@ Contributed by Chunyang Zhang.
 
    *Zongren Zou and George Em Karniadakis.*
 
+1. **PINN for dynamical partial differential equations is not training deeper networks rather learning advection and time variance.** arXiv, 2023. [paper](https://arxiv.org/abs/2301.04793)
+
+   *Siddharth Rout.*
+
 ### [DeepONet](#content)
 1. **Learning nonlinear operators via DeepONet based on the universal approximation theorem of operators.** NMI, 2021. [paper](https://www.nature.com/articles/s42256-021-00302-5)
 
