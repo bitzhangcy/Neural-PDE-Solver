@@ -959,6 +959,11 @@ Contributed by Chunyang Zhang.
 
    *Robert Stephany and Christopher Earls.*
 
+1. **Deep latent regularity network for modeling stochastic partial differential
+equations.** AAAI, 2023. [paper](https://discovery.ucl.ac.uk/id/eprint/10163280/1/Learning_SPDEs_via_Regularity_Structure.pdf)
+
+   *Shiqi Gong, Peiyan Hu, Qi Meng, Yue Wang, Rongchan Zhu, Bingguang Chen, Zhi-Ming Ma, Hao Ni, and Tie-Yan Liu.*
+
 ### [Machine Learning](#content)
 1. **Data-driven discovery of intrinsic dynamics.** NMI, 2022. [paper](https://www.nature.com/articles/s42256-022-00575-4)
 
@@ -1750,6 +1755,10 @@ physics-informed neural network training.** NIPS, 2021. [paper](https://arxiv.or
 
    *Olga Graf, Pablo Flores, Pavlos Protopapas, and Karim Pichara.*
 
+1. **Physics-informed information field theory for modeling physical systems with uncertainty quantification.** arXiv, 2023. [paper](https://arxiv.org/abs/:2301.07609)
+
+   *Alex Alberts and Ilias Bilionis.*
+
 ### [Active Learning](#content)
 1. **Neural Galerkin scheme with active learning for high-dimensional evolution equations.** arXiv, 2022. [paper](https://arxiv.org/abs/2203.01360)
 
@@ -1858,6 +1867,10 @@ physics-informed neural network training.** NIPS, 2021. [paper](https://arxiv.or
 1. **Neural operator prediction of linear instability waves in high-speed boundary layers.** Journal of Computational Physics, 2022. [paper](https://www.sciencedirect.com/science/article/pii/S0021999122008567)
 
    *Patricio Clark Di Leoni, Lu Lu, Charles Meneveau, George Karniadakis, and Tamer A. Zaki.*
+
+1. **A physics-informed convolutional neural network for the simulation and prediction of two-phase darcy flows in heterogeneous porous media.** Journal of Computational Physics, 2023. [paper](https://www.sciencedirect.com/science/article/pii/S0021999123000141)
+
+   *Zhao Zhang, Xia Yan, Piyang Liu, Kai Zhang, Renmin Han, and Sheng Wang.*
 
 1. **DiscretizationNet: A machine-learning based solver for Navier–Stokes equations using finite volume discretization.** Computer Methods in Applied Mechanics and Engineering, 2021. [paper](https://www.sciencedirect.com/science/article/pii/S004578252100058X)
 
@@ -2015,3 +2028,7 @@ physics-informed neural network training.** NIPS, 2021. [paper](https://arxiv.or
 1. **SciAI4Industry--Solving PDEs for industry-scale problems with deep learning.** arXiv, 2022. [paper](https://arxiv.org/abs/2211.12709)
 
    *Philipp A. Witte, Russell J. Hewett, Kumar Saurabh, AmirHossein Sojoodi, and Ranveer Chandra.*
+
+1. **Operator learning framework for digital twin and complex engineering systems.** arXiv, 2023. [paper](https://arxiv.org/abs/2301.06701)
+
+   *Kazuma Kobayashi, James Daniell, and Syed B. Alam.*
