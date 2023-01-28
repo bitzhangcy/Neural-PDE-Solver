@@ -960,7 +960,7 @@ Contributed by Chunyang Zhang.
    *Robert Stephany and Christopher Earls.*
 
 1. **Deep latent regularity network for modeling stochastic partial differential
-equations.** AAAI, 2023. [paper](https://discovery.ucl.ac.uk/id/eprint/10163280/1/Learning_SPDEs_via_Regularity_Structure.pdf)
+   equations.** AAAI, 2023. [paper](https://discovery.ucl.ac.uk/id/eprint/10163280/1/Learning_SPDEs_via_Regularity_Structure.pdf)
 
    *Shiqi Gong, Peiyan Hu, Qi Meng, Yue Wang, Rongchan Zhu, Bingguang Chen, Zhi-Ming Ma, Hao Ni, and Tie-Yan Liu.*
 
@@ -1408,6 +1408,10 @@ physics-informed neural network training.** NIPS, 2021. [paper](https://arxiv.or
    *Xinle Wu, Dalin Zhang, Miao Zhang, Chenjuan Guo, Shuai Zhao, Yi Zhang, Huai Wang, and Bin Yang.*
 
 ### [Sampling](#content)
+1. **ADLGM: An efficient adaptive sampling deep learning Galerkin method.** Journal of Computational Physics, 2023. [paper](https://www.sciencedirect.com/science/article/pii/S0021999123000396)
+
+   *Andreas C.Aristotelous, Edward C.Mitchell, and Vasileios Maroulasb.*
+
 1. **DMIS: Dynamic mesh-based importance sampling for training physics-informed neural networks.** AAAI, 2023. [paper](https://arxiv.org/abs/2211.13944)
 
    *Zijiang Yang, Zhongwei Qiu, and Dongmei Fu.*
