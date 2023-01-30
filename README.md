@@ -596,6 +596,10 @@ Contributed by Chunyang Zhang.
 
    *Sungyong Seo and Yan Liu.*
 
+1. **MG-GNN: Multigrid graph neural networks for learning multilevel domain decomposition methods.** arXiv, 2023. [paper](https://arxiv.org/abs/2301.11378)
+
+   *Ali Taghibakhshi, Nicolas Nytko, Tareq Uz Zaman, Scott MacLachlan, Luke Olson, and Matthew West.*
+
 ### [Green Function](#content)
 1. **Learning Green's functions associated with time-dependent partial differential equations.** JMLR, 2022. [paper](https://www.jmlr.org/papers/volume23/22-0433/22-0433.pdf)
 
@@ -816,7 +820,15 @@ Contributed by Chunyang Zhang.
 
 1. **BINN: A deep learning approach for computational mechanics problems based on boundary integral equations.** arXiv, 2023. [paper](https://arxiv.org/abs/2301.04480)
 
-   *Jia Sun, Yinghua Liu, Yizheng Wang, Zhenhan Yao, Xiaoping Zheng.*
+   *Jia Sun, Yinghua Liu, Yizheng Wang, Zhenhan Yao, and Xiaoping Zheng.*
+
+1. **Neural inverse operators for Solving PDE inverse problems.** arXiv, 2023. [paper](https://arxiv.org/abs/2301.11167)
+
+   *Roberto Molinaro, Yunan Yang, Björn Engquist, and Siddhartha Mishra.*
+
+1. **Koopman neural operator as a mesh-free solver of non-linear partial differential equations.** arXiv, 2023. [paper](https://arxiv.org/abs/2301.10022)
+
+   *Wei Xiong, Xiaomeng Huang, Ziyang Zhang, Ruixuan Deng, Pei Sun, and Yang Tian.*
 
 ### [Identification](#content)
 1. **Data-driven discovery of partial differential equations.** SA, 2017. [paper](https://arxiv.org/abs/1910.11710)
@@ -1389,6 +1401,10 @@ physics-informed neural network training.** NIPS, 2021. [paper](https://arxiv.or
 1. **Transfer learning based physics-informed neural networks for solving inverse problems in engineering structures under different loading scenarios.** arXiv, 2022. [paper](https://arxiv.org/abs/2205.07731)
 
    *Chen Xu, Ba Trung Cao, Yong Yuan, and Günther Meschke.*
+
+1. **TransNet: Transferable neural networks for partial differential equations.** arXiv, 2023. [paper](https://arxiv.org/abs/2301.11701)
+
+   *Zezhong Zhang, Feng Bao, Lili Ju, and Guannan Zhang.*
 
 ### [NAS](#content)
 1. **Auto-PINN: Understanding and optimizing physics-informed neural architecture.** arXiv, 2022. [paper](https://arxiv.org/abs/2110.13361)
@@ -2013,6 +2029,10 @@ physics-informed neural network training.** NIPS, 2021. [paper](https://arxiv.or
 1. **Physics-informed kernel embeddings: Integrating prior system knowledge with data-driven control.** arXiv, 2023. [paper](https://arxiv.org/abs/2301.03565)
 
    *Adam J. Thorpe, Cyrus Neary, Franck Djeumou, Meeko M. K. Oishi, and Ufuk Topcu.*
+
+1. **Distributed control of partial differential equations using convolutional reinforcement learning.** arXiv, 2023. [paper](https://arxiv.org/abs/2301.10737)
+
+   *Sebastian Peitz, Jan Stenner, Vikas Chidananda, Oliver Wallscheid, Steven L. Brunton, and Kunihiko Taira.*
 
 ### [Quantum](#content)
 1. **Physics-informed neural networks for quantum eigenvalue problems.** IJCNN, 2022. [paper](https://ieeexplore.ieee.org/document/9891944)
