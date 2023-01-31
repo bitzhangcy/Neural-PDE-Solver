@@ -1205,8 +1205,7 @@ Contributed by Chunyang Zhang.
 
    *Georg Kohl, Kiwon Um, and Nils Thuerey.*
 
-1. **A curriculum-training-based strategy for distributing collocation points during
-physics-informed neural network training.** NIPS, 2021. [paper](https://arxiv.org/abs/2211.11396)
+1. **A curriculum-training-based strategy for distributing collocation points during physics-informed neural network training.** NIPS, 2021. [paper](https://arxiv.org/abs/2211.11396)
 
    *Marcus Münzer and Chris Bard.*
 
@@ -1261,6 +1260,10 @@ physics-informed neural network training.** NIPS, 2021. [paper](https://arxiv.or
 1. **Investigations on convergence behaviour of physics informed neural networks across spectral ranges and derivative orders.** arXiv, 2023. [paper](https://arxiv.org/abs/2301.02790)
    
    *Mayank Deshpande, Siddharth Agarwal, Vukka Snigdha, and Arya Kumar Bhattacharya.* 
+   
+1. **Stochastic projection based approach for gradient free physics informed learning.** Computer Methods in Applied Mechanics and Engineering, 2023. [paper](https://www.sciencedirect.com/science/article/pii/S0045782522007988)
+   
+   *Navaneeth N. and Souvik Chakraborty.* 
 
 ### [Attention](#content)
 1. **Learning operators with coupled attention.** JMLR, 2022. [paper](https://www.jmlr.org/papers/v23/21-1521.html) 
