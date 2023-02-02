@@ -830,6 +830,10 @@ Contributed by Chunyang Zhang.
 
    *Wei Xiong, Xiaomeng Huang, Ziyang Zhang, Ruixuan Deng, Pei Sun, and Yang Tian.*
 
+1. **Deep operator learning lessens the curse of dimensionality for PDEs.** arXiv, 2023. [paper](https://arxiv.org/abs/2301.10022)
+
+   *Ke Chen, Chunmei Wang, and Haizhao Yang.*
+
 ### [Identification](#content)
 1. **Data-driven discovery of partial differential equations.** SA, 2017. [paper](https://arxiv.org/abs/1910.11710)
 
