@@ -1268,6 +1268,10 @@ Contributed by Chunyang Zhang.
 1. **Stochastic projection based approach for gradient free physics informed learning.** Computer Methods in Applied Mechanics and Engineering, 2023. [paper](https://www.sciencedirect.com/science/article/pii/S0045782522007988)
    
    *Navaneeth N. and Souvik Chakraborty.* 
+   
+1. **Temporal consistency loss for physics-informed neural networks.** arXiv, 2023. [paper](https://arxiv.org/abs/2301.13262)
+   
+   *Sukirt Thakur, Maziar Raissi, Harsa Mitra, and Arezoo Ardekani.* 
 
 ### [Attention](#content)
 1. **Learning operators with coupled attention.** JMLR, 2022. [paper](https://www.jmlr.org/papers/v23/21-1521.html) 
@@ -2040,6 +2044,14 @@ Contributed by Chunyang Zhang.
 1. **Distributed control of partial differential equations using convolutional reinforcement learning.** arXiv, 2023. [paper](https://arxiv.org/abs/2301.10737)
 
    *Sebastian Peitz, Jan Stenner, Vikas Chidananda, Oliver Wallscheid, Steven L. Brunton, and Kunihiko Taira.*
+
+1. **Neural control of parametric solutions for High-dimensional evolution PDEs.** arXiv, 2023. [paper](https://arxiv.org/abs/2302.00045)
+
+   *Nathan Gaby, Xiaojing Ye, and Haomin Zhou.*
+
+1. **Bridging physics-informed neural networks with reinforcement learning: Hamilton-Jacobi-Bellman proximal policy optimization (HJBPPO).** arXiv, 2023. [paper](https://arxiv.org/abs/2302.00237)
+
+   *Amartya Mukherjee and Jun Liu.*
 
 ### [Quantum](#content)
 1. **Physics-informed neural networks for quantum eigenvalue problems.** IJCNN, 2022. [paper](https://ieeexplore.ieee.org/document/9891944)
