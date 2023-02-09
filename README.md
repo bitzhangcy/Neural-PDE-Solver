@@ -1291,6 +1291,10 @@ Contributed by Chunyang Zhang.
 1. **Can physics-informed neural networks beat the finite element method?** arXiv, 2023. [paper](https://arxiv.org/abs/2302.04107)
    
    *Tamara G. Grossmann, Urszula Julia Komorowska, Jonas Latz, and Carola-Bibiane Schönlieb.* 
+   
+1. **LSA-PINN: Linear boundary connectivity loss for solving PDEs on complex geometry.** arXiv, 2023. [paper](https://arxiv.org/abs/2302.01518)
+   
+   *Jian Cheng Wong, Pao-Hsiung Chiu, Chinchun Ooi, and My Ha Dao, Yew-Soon Ong.* 
 
 ### [Attention](#content)
 1. **Learning operators with coupled attention.** JMLR, 2022. [paper](https://www.jmlr.org/papers/v23/21-1521.html) 
@@ -2071,6 +2075,10 @@ Contributed by Chunyang Zhang.
 1. **Bridging physics-informed neural networks with reinforcement learning: Hamilton-Jacobi-Bellman proximal policy optimization (HJBPPO).** arXiv, 2023. [paper](https://arxiv.org/abs/2302.00237)
 
    *Amartya Mukherjee and Jun Liu.*
+
+1. **AONN: An adjoint-oriented neural network method for all-at-once solutions of parametric optimal control problems.** arXiv, 2023. [paper](https://arxiv.org/abs/2302.02076)
+
+   *Pengfei Yin, Guangqiang Xiao, Kejun Tang, and Chao Yang.*
 
 ### [Quantum](#content)
 1. **Physics-informed neural networks for quantum eigenvalue problems.** IJCNN, 2022. [paper](https://ieeexplore.ieee.org/document/9891944)
