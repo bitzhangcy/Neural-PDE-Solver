@@ -600,6 +600,10 @@ Contributed by Chunyang Zhang.
 
    *Ali Taghibakhshi, Nicolas Nytko, Tareq Uz Zaman, Scott MacLachlan, Luke Olson, and Matthew West.*
 
+1. **Multi-scale message passing neural PDE solvers.** arXiv, 2023. [paper](https://arxiv.org/abs/2302.03580)
+
+   *Léonard Equer, T. Konstantin Rusch, and Siddhartha Mishra.*
+
 ### [Green Function](#content)
 1. **Learning Green's functions associated with time-dependent partial differential equations.** JMLR, 2022. [paper](https://www.jmlr.org/papers/volume23/22-0433/22-0433.pdf)
 
@@ -727,6 +731,10 @@ Contributed by Chunyang Zhang.
 
    *Chiyu Max Jiang, Soheil Esmaeilzadeh, Kamyar Azizzadenesheli, Karthik Kashinath, Mustafa Mustafa, Hamdi A. Tchelepi, Philip Marcus Prabhat, and Anima Anandkumar.*
 
+1. **Convolutional neural operators.** arXiv, 2023. [paper](https://arxiv.org/abs/2302.01178)
+
+   *Bogdan Raonić, Roberto Molinaro, Tobias Rohner, Siddhartha Mishra, and Emmanuel de Bezenac.*
+
 ### [AutoEncoder](#content)
 1. **Integral autoencoder network for discretization-invariant learning.** JMLR, 2022. [paper](https://www.jmlr.org/papers/v23/22-0297.html)
 
@@ -833,6 +841,10 @@ Contributed by Chunyang Zhang.
 1. **Deep operator learning lessens the curse of dimensionality for PDEs.** arXiv, 2023. [paper](https://arxiv.org/abs/2301.10022)
 
    *Ke Chen, Chunmei Wang, and Haizhao Yang.*
+
+1. **Algorithmically designed artificial neural networks (ADANNs): Higher order deep operator learning for parametric partial differential equations.** arXiv, 2023. [paper](https://arxiv.org/abs/2302.03286)
+
+   *Arnulf Jentzen, Adrian Riekert, and Philippe von Wurstemberger.*
 
 ### [Identification](#content)
 1. **Data-driven discovery of partial differential equations.** SA, 2017. [paper](https://arxiv.org/abs/1910.11710)
@@ -975,10 +987,13 @@ Contributed by Chunyang Zhang.
 
    *Robert Stephany and Christopher Earls.*
 
-1. **Deep latent regularity network for modeling stochastic partial differential
-   equations.** AAAI, 2023. [paper](https://discovery.ucl.ac.uk/id/eprint/10163280/1/Learning_SPDEs_via_Regularity_Structure.pdf)
+1. **Deep latent regularity network for modeling stochastic partial differential equations.** AAAI, 2023. [paper](https://discovery.ucl.ac.uk/id/eprint/10163280/1/Learning_SPDEs_via_Regularity_Structure.pdf)
 
    *Shiqi Gong, Peiyan Hu, Qi Meng, Yue Wang, Rongchan Zhu, Bingguang Chen, Zhi-Ming Ma, Hao Ni, and Tie-Yan Liu.*
+
+1. **Deep latent regularity network for modeling stochastic partial differential equations.** Mechanical Systems and Signal Processing, 2023. [paper](https://www.sciencedirect.com/science/article/pii/S0888327023000729)
+
+   *Fangzheng Sun, Yang Liu, Qi Wang, Hao Sun.*
 
 ### [Machine Learning](#content)
 1. **Data-driven discovery of intrinsic dynamics.** NMI, 2022. [paper](https://www.nature.com/articles/s42256-022-00575-4)
@@ -1272,6 +1287,10 @@ Contributed by Chunyang Zhang.
 1. **Temporal consistency loss for physics-informed neural networks.** arXiv, 2023. [paper](https://arxiv.org/abs/2301.13262)
    
    *Sukirt Thakur, Maziar Raissi, Harsa Mitra, and Arezoo Ardekani.* 
+   
+1. **Can physics-informed neural networks beat the finite element method?** arXiv, 2023. [paper](https://arxiv.org/abs/2302.04107)
+   
+   *Tamara G. Grossmann, Urszula Julia Komorowska, Jonas Latz, and Carola-Bibiane Schönlieb.* 
 
 ### [Attention](#content)
 1. **Learning operators with coupled attention.** JMLR, 2022. [paper](https://www.jmlr.org/papers/v23/21-1521.html) 
