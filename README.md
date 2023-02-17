@@ -764,8 +764,7 @@ Contributed by Chunyang Zhang.
 
    *Ehsan Haghighat, Ali CanBekar, Erdogan Madenci, and Ruben Juanes.*
 
-
-1. **Kernel Flows: From learning kernels from data into the abyss.** Journal of Computational Physics, 2019. [paper](https://www.sciencedirect.com/science/article/pii/S0021999119302232)
+1. **Kernel flows: From learning kernels from data into the abyss.** Journal of Computational Physics, 2019. [paper](https://www.sciencedirect.com/science/article/pii/S0021999119302232)
 
    *Houman Owhadi and Gene Ryan Yoo.*
 
@@ -1588,7 +1587,7 @@ Contributed by Chunyang Zhang.
 
    *Wenlei Shi, Xinquan Huang, Xiaotian Gao, Xinran Wei, Jia Zhang, Jiang Bian, Mao Yang, and Tie-Yan Liu.*
 
-1. **An optimisation–based domain–decomposition reduced order model for the incompressibleNavier-Stokes equations.** arXiv, 2022. [paper](https://arxiv.org/abs/2211.14528)
+1. **An optimisation–based domain–decomposition reduced order model for the incompressible Navier-Stokes equations.** arXiv, 2022. [paper](https://arxiv.org/abs/2211.14528)
 
    *Ivan Prusak, Monica Nonino, Davide Torlo, Francesco Ballarin, and Gianluigi Rozza.*
 
@@ -1685,7 +1684,7 @@ Contributed by Chunyang Zhang.
 
 1. **Neural-net-induced Gaussian process regression for function approximation and PDE solution.** Journal of Computational Physics, 2019. [paper](https://www.sciencedirect.com/science/article/pii/S0021999119301032)
 
-   *Guofei Pang, Liu Yang. and George Em Karniadakis.*
+   *Guofei Pang, Liu Yang, and George Em Karniadakis.*
 
 1. **Learning neural optimal interpolation models and solvers.** arXiv, 2022. [paper](https://arxiv.org/abs/2211.07209)
 
@@ -1729,7 +1728,7 @@ Contributed by Chunyang Zhang.
 
    *Weiheng Zhong and Hadi Meidani.*
 
-1. **Robust SDE-based variational formulations for solving linear pdes via deep learning.** ICML, 2022. [paper](https://proceedings.mlr.press/v162/richter22a.html)
+1. **Robust SDE-based variational formulations for solving linear PDEs via deep learning.** ICML, 2022. [paper](https://proceedings.mlr.press/v162/richter22a.html)
 
    *Lorenz Richter and Julius Berner.*
 
@@ -1827,7 +1826,7 @@ Contributed by Chunyang Zhang.
 
 1. **Discovering and forecasting extreme events via active learning in neural operators.** arXiv, 2022. [paper](https://arxiv.org/abs/2204.02488)
 
-   *Pickering, Ethan and Karniadakis, George Em and Sapsis, and Themistoklis P.*
+   *Ethan Pickering, Stephen Guth, George Em Karniadakis, and Themistoklis P. Sapsis.*
 
 ### [Multi Scale](#content)
 1. **Hierarchical deep learning of multiscale differential equation time-steppers.** Philosophical Transactions of the Royal Society A, 2022. [paper](https://royalsocietypublishing.org/doi/10.1098/rsta.2021.0200)
