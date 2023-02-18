@@ -1302,6 +1302,10 @@ Contributed by Chunyang Zhang.
 
    *Vladimir Fanaskov, Tianchi Yu, Alexander Rudikov, and Ivan Oseledets.* 
 
+1. **On the Hyperparameters influencing a PINN’s generalization beyond the training domain.** arXiv, 2023. [paper](https://arxiv.org/abs/2302.07557)
+
+   *Andrea Bonfanti, Roberto Santana, Marco Ellero, and Babak Gholami.* 
+
 ### [Attention](#content)
 1. **Learning operators with coupled attention.** JMLR, 2022. [paper](https://www.jmlr.org/papers/v23/21-1521.html) 
 
@@ -1672,6 +1676,10 @@ Contributed by Chunyang Zhang.
 1. **Physics-constrained generative adversarial networks for 3D turbulence.** arXiv, 2022. [paper](https://arxiv.org/abs/2212.00217)
 
    *Dima Tretiak, Arvind T. Mohan, and Daniel Livescu.*
+
+1. **Score-based diffusion models in function space.** arXiv, 2023. [paper](https://arxiv.org/abs/2212.00217)
+
+   *Jae Hyun Lim, Nikola B. Kovachki, Ricardo Baptista, Christopher Beckham, Kamyar Azizzadenesheli, Jean Kossaifi, Vikram Voleti, Jiaming Song, Karsten Kreis, Jan Kautz, Christopher Pal, Arash Vahdat, and Anima Anandkumar.*
 
 ### [Gaussian Process](#content)
 1. **PAGP: A physics-assisted Gaussian process framework with active learning for forward and inverse problems of partial differential equations.** arXiv, 2022. [paper](https://arxiv.org/abs/2204.02583)
@@ -2107,3 +2115,8 @@ Contributed by Chunyang Zhang.
 1. **Operator learning framework for digital twin and complex engineering systems.** arXiv, 2023. [paper](https://arxiv.org/abs/2301.06701)
 
    *Kazuma Kobayashi, James Daniell, and Syed B. Alam.*
+
+### [Inverse Design](#content)
+1. **GRIDS-Net: Inverse shape design and identification of scatterers via geometric regularization and physics-embedded deep learning.** arXiv, 2023. [paper](https://arxiv.org/abs/2302.07504)
+
+   *Siddharth Nair, Timothy F. Walsh, Greg Pickrell, and Fabio Semperlotti.*
