@@ -349,6 +349,10 @@ Contributed by Chunyang Zhang.
 
    *Siddharth Rout.*
 
+1. **Wavelets based physics informed neural networks to solve non-linear differential equations.** Scientific Reports, 2023. [paper](https://www.nature.com/articles/s41598-023-29806-3)
+
+   *Ziya Uddin, Sai Ganga, Rishi Asthana, and Wubshet Ibrahim.*
+
 ### [DeepONet](#content)
 1. **Learning nonlinear operators via DeepONet based on the universal approximation theorem of operators.** NMI, 2021. [paper](https://www.nature.com/articles/s42256-021-00302-5)
 
@@ -832,6 +836,14 @@ Contributed by Chunyang Zhang.
 1. **Algorithmically designed artificial neural networks (ADANNs): Higher order deep operator learning for parametric partial differential equations.** arXiv, 2023. [paper](https://arxiv.org/abs/2302.03286)
 
    *Arnulf Jentzen, Adrian Riekert, and Philippe von Wurstemberger.*
+
+1. **Entropy-dissipation informed neural network for McKean-Vlasov type.** arXiv, 2023. [paper](http://faculty.bicmr.pku.edu.cn/~zhenfuwang/Entropy_Dissipation.pdf)
+
+   *Zebang Shen and Zhenfu Wang.*
+
+1. **A neural PDE solver with temporal stencil modeling.** arXiv, 2023. [paper](https://arxiv.org/abs/2302.08105)
+
+   *Zhiqing Sun, Yiming Yang, and Shinjae Yoo.*
 
 ### [Identification](#content)
 1. **Data-driven discovery of partial differential equations.** SA, 2017. [paper](https://arxiv.org/abs/1910.11710)
@@ -1477,6 +1489,10 @@ Contributed by Chunyang Zhang.
 1. **A novel adaptive causal sampling method for physics-informed neural networks.** arXiv, 2022. [paper](https://arxiv.org/abs/2210.12914)
 
    *Jia Guo, Haifeng Wang, and Chenping Hou.*
+
+1. **Physics-informed neural networks with residual/gradient-based adaptive sampling methods for solving PDEs with sharp solutions.** arXiv, 2023. [paper](https://arxiv.org/abs/2302.08035)
+
+   *Zhiping Mao and  Xuhui Meng.*
 
 ### [Latent Space](#content)
 1. **Multiscale simulations of complex systems by learning their effective dynamics.** NMI, 2022. [paper](https://www.nature.com/articles/s42256-022-00464-w)
