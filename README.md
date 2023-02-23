@@ -1679,6 +1679,10 @@ Contributed by Chunyang Zhang.
 
    *Jae Hyun Lim, Nikola B. Kovachki, Ricardo Baptista, Christopher Beckham, Kamyar Azizzadenesheli, Jean Kossaifi, Vikram Voleti, Jiaming Song, Karsten Kreis, Jan Kautz, Christopher Pal, Arash Vahdat, and Anima Anandkumar.*
 
+1. **Infinite-dimensional diffusion models for function spaces.** arXiv, 2023. [paper](https://arxiv.org/abs/2302.10130)
+
+   *Jakiw Pidstrigach, Youssef Marzouk, Sebastian Reich, and Sven Wang.*
+
 ### [Gaussian Process](#content)
 1. **PAGP: A physics-assisted Gaussian process framework with active learning for forward and inverse problems of partial differential equations.** arXiv, 2022. [paper](https://arxiv.org/abs/2204.02583)
 
@@ -1738,7 +1742,7 @@ Contributed by Chunyang Zhang.
 
    *Lorenz Richter and Julius Berner.*
 
-1. **hp-VPINNs: Variational physics-informed neural networks with domain decomposition.** Computer Methods in Applied Mechanics and Engineering, 2021. [paper](https://www.sciencedirect.com/science/article/pii/S0045782520307325)
+1. **HP-VPINNs: Variational physics-informed neural networks with domain decomposition.** Computer Methods in Applied Mechanics and Engineering, 2021. [paper](https://www.sciencedirect.com/science/article/pii/S0045782520307325)
 
    *Ehsan Kharazmi, Zhongqiang Zhang, and George Em Karniadakis.*
 
