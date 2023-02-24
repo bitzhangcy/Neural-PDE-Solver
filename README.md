@@ -711,10 +711,6 @@ Contributed by Chunyang Zhang.
 
    *Matthias Fey, Jan Eric Lenssen, Frank Weichert, and Heinrich Muller.*
 
-1. **Spline-PINN: Approaching PDEs without data using fast, physics-informed Hermite-Spline CNNs.** AAAI, 2019. [paper](https://ojs.aaai.org/index.php/AAAI/article/view/20830/20589)
-
-   *Nils Wandel, Michael Weinmann, Michael Neidlin, and Reinhard Klein.*
-
 1. **Physics-informed deep super-resolution for spatiotemporal data.** arXiv, 2022. [paper](https://arxiv.org/abs/2208.01462)
 
    *Pu Ren, Chengping Rao, Yang Liu, Zihan Ma, Qi Wang, Jianxun Wang, and Hao Sun.*
@@ -1299,6 +1295,10 @@ Contributed by Chunyang Zhang.
 1. **On the Hyperparameters influencing a PINN’s generalization beyond the training domain.** arXiv, 2023. [paper](https://arxiv.org/abs/2302.07557)
 
    *Andrea Bonfanti, Roberto Santana, Marco Ellero, and Babak Gholami.* 
+
+1. **DPM: A novel training method for physics-informed neural networks in extrapolation.** AAAI, 2021. [paper](https://ojs.aaai.org/index.php/AAAI/article/view/16992)
+
+   *Jungeun Kim, Kookjin Lee, Dongeun Lee, Sheo Yon Jhin, and Noseong Park.* 
 
 ### [Attention](#content)
 1. **Learning operators with coupled attention.** JMLR, 2022. [paper](https://www.jmlr.org/papers/v23/21-1521.html) 
