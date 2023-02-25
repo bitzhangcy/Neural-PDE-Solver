@@ -732,6 +732,10 @@ Contributed by Chunyang Zhang.
 
    *Yong Zheng Ong, Zuowei Shen, and Haizhao Yang.*
 
+1. **Variational autoencoding neural operators.** arXiv, 2023. [paper](https://arxiv.org/abs/2302.10351)
+
+   *Jacob H. Seidman, Georgios Kissas, George J. Pappas, and Paris Perdikaris.*
+
 ### [Operator](#content)
 1. **Multiwavelet-based operator learning for differential equations.** NIPS, 2021. [paper](https://openreview.net/forum?id=LZDiWaC9CGL)
 
@@ -986,9 +990,13 @@ Contributed by Chunyang Zhang.
 
    *Shiqi Gong, Peiyan Hu, Qi Meng, Yue Wang, Rongchan Zhu, Bingguang Chen, Zhiming Ma, Hao Ni, and Tieyan Liu.*
 
-1. **Deep latent regularity network for modeling stochastic partial differential equations.** Mechanical Systems and Signal Processing, 2023. [paper](https://www.sciencedirect.com/science/article/pii/S0888327023000729)
+1. **Deep latent regularity network for modeling stochastic partial differential equations.** MSSP, 2023. [paper](https://www.sciencedirect.com/science/article/pii/S0888327023000729)
 
    *Fangzheng Sun, Yang Liu, Qi Wang, Hao Sun.*
+
+1. **Learning physical models that can respect conservation laws.** arXiv, 2023. [paper](https://arxiv.org/abs/2302.11002)
+
+   *Derek Hansen, Danielle C. Maddix, Shima Alizadeh, Gaurav Gupta, and Michael W. Mahoney.*
 
 ### [Machine Learning](#content)
 1. **Data-driven discovery of intrinsic dynamics.** NMI, 2022. [paper](https://www.nature.com/articles/s42256-022-00575-4)
@@ -1593,6 +1601,10 @@ Contributed by Chunyang Zhang.
 
    *Ivan Prusak, Monica Nonino, Davide Torlo, Francesco Ballarin, and Gianluigi Rozza.*
 
+1. **Physics-informed spectral learning: the Discrete Helmholtz--Hodge decomposition.** arXiv, 2023. [paper](https://arxiv.org/abs/2302.11061)
+
+   *Luis Espath, Pouria Behnoudfar, and Raul Tempone.*
+
 ### [Mesh](#content)
 1. **MeshingNet: A new mesh generation method based on deep learning.** ICCS, 2022. [paper](https://link.springer.com/chapter/10.1007/978-3-030-50420-5_14)
 
@@ -1766,6 +1778,10 @@ Contributed by Chunyang Zhang.
 
    *Shailesh Garg and Souvik Chakraborty.*
 
+1. **Variational inference in neural functional prior using normalizing flows: Application to differential equation and operator learning problems.** arXiv, 2023. [paper](https://arxiv.org/abs/2302.10448)
+
+   *Xuhui Meng.*
+
 ### [Bayesian](#content)
 1. **Bayesian deep learning for partial differential equation parameter discovery with sparse and noisy data.** Journal of Computational Physics: X, 2022. [paper](https://www.sciencedirect.com/science/article/pii/S2590055222000117?via%3Dihub)
 
@@ -1820,6 +1836,10 @@ Contributed by Chunyang Zhang.
 1. **Physics-informed information field theory for modeling physical systems with uncertainty quantification.** arXiv, 2023. [paper](https://arxiv.org/abs/:2301.07609)
 
    *Alex Alberts and Ilias Bilionis.*
+
+1. **Quantifying uncertainty for deep learning based forecasting and flow-reconstruction using neural architecture search ensembles.** arXiv, 2023. [paper](https://arxiv.org/abs/:2301.07609)
+
+   *Romit Maulik, Romain Egele, Krishnan Raghavan, and Prasanna Balaprakash.*
 
 ### [Active Learning](#content)
 1. **Neural Galerkin scheme with active learning for high-dimensional evolution equations.** arXiv, 2022. [paper](https://arxiv.org/abs/2203.01360)
@@ -1965,7 +1985,7 @@ Contributed by Chunyang Zhang.
 
    *John M.Hanna, José V.Aguado, Sebastien Comas-Cardona, Ramz Askri, and Domenico Borzacchiello.*
 
-1. **Learned turbulence modelling with differentiable fluid solvers: Physics-based loss-functions and optimisation horizons.** Journal of Fluid Mechanics, 2022. [paper](https://www.cambridge.org/core/journals/journal-of-fluid-mechanics/article/learned-turbulence-modelling-with-differentiable-fluid-solvers-physicsbased-loss-functions-and-optimisation-horizons/28D19239CEDB81A3DA58F32E0E8CB3B2)
+1. **Learned turbulence modelling with differentiable fluid solvers: Physics-based loss-functions and optimisation horizons.** JFM, 2022. [paper](https://www.cambridge.org/core/journals/journal-of-fluid-mechanics/article/learned-turbulence-modelling-with-differentiable-fluid-solvers-physicsbased-loss-functions-and-optimisation-horizons/28D19239CEDB81A3DA58F32E0E8CB3B2)
 
    *Björn List, Liwei Chen, and Nils Thuerey.*
 
