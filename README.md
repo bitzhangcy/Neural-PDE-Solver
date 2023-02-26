@@ -410,6 +410,14 @@ Contributed by Chunyang Zhang.
 
    *Wuzhe Xu, Yulong Lu, and Li Wang.*
 
+1. **B-DeepONet: An enhanced Bayesian DeepONet for solving noisy parametric PDEs using accelerated replica exchange SGLD.** Journal of Computational Physics, 2023. [paper](https://www.sciencedirect.com/science/article/pii/S0021999122007768)
+
+   *Guang Lin, Christian Moy, and Zecheng Zhang.*
+
+1. **VB-DeepONet: A Bayesian operator learning framework for uncertainty quantification.** Engineering Applications of Artificial Intelligence, 2023. [paper](https://www.sciencedirect.com/science/article/pii/S0952197622006753)
+
+   *Shailesh Garg and Souvik Chakraborty.*
+   
 ### [Fourier Operator](#content)
 1. **Fourier neural operator for parametric partial differential equations.** ICLR, 2021. [paper](https://openreview.net/forum?id=c8P9NQVtmnO)
 
@@ -726,6 +734,10 @@ Contributed by Chunyang Zhang.
 1. **Convolutional neural operators.** arXiv, 2023. [paper](https://arxiv.org/abs/2302.01178)
 
    *Bogdan Raonić, Roberto Molinaro, Tobias Rohner, Siddhartha Mishra, and Emmanuel de Bezenac.*
+
+1. **An unsupervised latent/output physics-informed convolutional-LSTM network for solving partial differential equations using peridynamic differential operator.** Computer Methods in Applied Mechanics and Engineering, 2023. [paper](https://www.sciencedirect.com/science/article/pii/S0045782523000671)
+
+   *Arda Mavi, Ali Can Bekar, Ehsan Haghigh, and Erdogan Madenci.*
 
 ### [AutoEncoder](#content)
 1. **Integral autoencoder network for discretization-invariant learning.** JMLR, 2022. [paper](https://www.jmlr.org/papers/v23/22-0297.html)
@@ -1118,6 +1130,14 @@ Contributed by Chunyang Zhang.
 1. **MOD-Net: A machine learning approach via model-operator-data network for solving PDEs.** Communications in Computational Physics, 2022. [paper](https://global-sci.org/intro/article_detail/cicp/20860.html#)
 
    *Shamsulhaq Basir and Inanc Senocak.*
+
+1. **A Deep Double Ritz Method (D^2RM) for solving Partial Differential Equations using Neural Networks.** Computer Methods in Applied Mechanics and Engineering, 2023. [paper](https://global-sci.org/intro/article_detail/cicp/20860.html#)
+
+   *Carlos Uriarte, David Pardo, Ignacio Muga, and Judit Muñoz-Matute.*
+
+1. **Data- and theory-guided learning of partial differential equations using SimultaNeous basis function Approximation and Parameter Estimation (SNAPE).** MSSP, 2023. [paper](https://www.sciencedirect.com/science/article/pii/S088832702201127X)
+
+   *Sutanu Bhowmick, Satish Nagarajaiah, and Anastasios Kyrillidis.*
 
 ### [ODE](#content)
 1. **Neural rough differential equations for long time series.** ICML, 2021. [paper](http://proceedings.mlr.press/v139/morrill21b.html)
@@ -1695,6 +1715,10 @@ Contributed by Chunyang Zhang.
 
    *Jakiw Pidstrigach, Youssef Marzouk, Sebastian Reich, and Sven Wang.*
 
+1. **A physics-informed diffusion model for high-fidelity flow field reconstruction.** Journal of Computational Physics, 2023. [paper](https://www.sciencedirect.com/science/article/pii/S0021999123000670)
+
+   *Dule Shu, Zijie Li, and Amir Barati Farimani.*
+
 ### [Gaussian Process](#content)
 1. **PAGP: A physics-assisted Gaussian process framework with active learning for forward and inverse problems of partial differential equations.** arXiv, 2022. [paper](https://arxiv.org/abs/2204.02583)
 
@@ -1850,6 +1874,10 @@ Contributed by Chunyang Zhang.
 
    *Ethan Pickering, Stephen Guth, George Em Karniadakis, and Themistoklis P. Sapsis.*
 
+1. **Active learning based sampling for high-dimensional nonlinear partial differential equations.** Journal of Computational Physics, 2023. [paper](https://www.sciencedirect.com/science/article/pii/S0021999122009111)
+
+   *Wenhan Gao and Chunmei Wang.*
+
 ### [Multi Scale](#content)
 1. **Hierarchical deep learning of multiscale differential equation time-steppers.** Philosophical Transactions of the Royal Society A, 2022. [paper](https://royalsocietypublishing.org/doi/10.1098/rsta.2021.0200)
 
@@ -1992,6 +2020,10 @@ Contributed by Chunyang Zhang.
 1. **Multi-scale digital twin: Developing a fast and physics-informed surrogate model for groundwater contamination with uncertain climate models.** arXiv, 2022. [paper](https://arxiv.org/abs/2211.10884)
 
    *Lijing Wang, Takuya Kurihana, Aurelien Meray, Ilijana Mastilovic, Satyarth Praveen, Zexuan Xu, Milad Memarzadeh, Alexander Lavin, and Haruko Wainwright.*
+
+1. **Learning hydrodynamic equations for active matter from particle simulations and experiments.** PNAS, 2023. [paper](https://www.pnas.org/doi/10.1073/pnas.2206994120)
+
+   *Rohit Supekar, Boya Song, Alasdair Hastewell, Gary P. T. Choi, Alexander Mietke, and Jörn Dunkel.*
 
 ### [Reconstruction](#content)
 1. **Occupancy networks: Learning 3D reconstruction in function space.** CVPR, 2019. [paper](https://openaccess.thecvf.com/content_CVPR_2019/papers/Mescheder_Occupancy_Networks_Learning_3D_Reconstruction_in_Function_Space_CVPR_2019_paper.pdf)
