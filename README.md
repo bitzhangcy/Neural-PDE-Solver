@@ -353,6 +353,10 @@ Contributed by Chunyang Zhang.
 
    *Ziya Uddin, Sai Ganga, Rishi Asthana, and Wubshet Ibrahim.*
 
+1. **Improved training of physics-informed neural networks using energy-based priors: A study on electrical impedance tomography.** ICLR, 2023. [paper](https://openreview.net/forum?id=zqkfJA6R1-r)
+
+   *Akarsh Pokkunuru, Pedram Rooshenas, Thilo Strauss, Anuj Abhishek, and Taufiquar Khan.*
+
 ### [DeepONet](#content)
 1. **Learning nonlinear operators via DeepONet based on the universal approximation theorem of operators.** NMI, 2021. [paper](https://www.nature.com/articles/s42256-021-00302-5)
 
@@ -739,6 +743,10 @@ Contributed by Chunyang Zhang.
 
    *Arda Mavi, Ali Can Bekar, Ehsan Haghigh, and Erdogan Madenci.*
 
+1. **Clifford neural layers for PDE modeling.** ICLR, 2023. [paper](https://openreview.net/forum?id=okwxL_c4x84)
+
+   *Johannes Brandstetter, Rianne van den Berg, Max Welling, and Jayesh K Gupta.*
+
 ### [AutoEncoder](#content)
 1. **Integral autoencoder network for discretization-invariant learning.** JMLR, 2022. [paper](https://www.jmlr.org/papers/v23/22-0297.html)
 
@@ -856,6 +864,10 @@ Contributed by Chunyang Zhang.
 1. **A neural PDE solver with temporal stencil modeling.** arXiv, 2023. [paper](https://arxiv.org/abs/2302.08105)
 
    *Zhiqing Sun, Yiming Yang, and Shinjae Yoo.*
+
+1. **Coupled multiwavelet operator learning for coupled differential equations.** ICLR, 2023. [paper](https://openreview.net/forum?id=kIo_C6QmMOM)
+
+   *Xiongye Xiao, Defu Cao, Ruochen Yang, Gaurav Gupta, Chenzhong Yin, Gengshuo Liu, Radu Balan, and Paul Bogdan.*
 
 ### [Identification](#content)
 1. **Data-driven discovery of partial differential equations.** SA, 2017. [paper](https://arxiv.org/abs/1910.11710)
@@ -1184,6 +1196,14 @@ Contributed by Chunyang Zhang.
 
    *Jared O'Leary, Joel A. Paulson, and Ali Mesbah.*
 
+1. **A stable and scalable method for solving initial value PDEs with neural networks.** ICLR, 2023. [paper](https://openreview.net/forum?id=vsMyHUq_C1c)
+
+   *Marc Anton Finzi, Andres Potapczynski, Matthew Choptuik, and Andrew Gordon Wilson.*
+
+1. **Characteristic neural ordinary differential equation.** ICLR, 2023. [paper](https://openreview.net/forum?id=loIfC8WHevK)
+
+   *Xingzi Xu, Ali Hasan, Khalil Elkhalil, Jie Ding, and Vahid Tarokh.*
+
 
 ## [Mechanism](#content) 
 ### [Library](#content)
@@ -1328,6 +1348,10 @@ Contributed by Chunyang Zhang.
 
    *Jungeun Kim, Kookjin Lee, Dongeun Lee, Sheo Yon Jhin, and Noseong Park.* 
 
+1. **Guiding continuous operator learning through physics-based boundary constraints.** ICLR, 2023. [paper](https://openreview.net/forum?id=gfWNItGOES6)
+
+   *Nadim Saad, Gaurav Gupta, Shima Alizadeh, and Danielle C. Maddix.* 
+
 ### [Attention](#content)
 1. **Learning operators with coupled attention.** JMLR, 2022. [paper](https://www.jmlr.org/papers/v23/21-1521.html) 
 
@@ -1369,6 +1393,10 @@ Contributed by Chunyang Zhang.
 
    *Levi Mc Clenny and Ulisses Braga-Neto.*
 
+1. **Nonlinear reconstruction for operator learning of PDEs with discontinuities.** ICLR, 2023. [paper](https://openreview.net/forum?id=CrfhZAsJDsZ) 
+
+   *Samuel Lanthaler, Roberto Molinaro, Patrik Hadorn, and Siddhartha Mishra.*
+
 ### [Neural Implicit Flow](#content)
 1. **Neural implicit flow: A mesh-agnostic dimensionality reduction paradigm of spatio-temporal data.** arXiv, 2022. [paper](https://arxiv.org/abs/2204.03216) 
 
@@ -1390,9 +1418,13 @@ Contributed by Chunyang Zhang.
 
    *Samuel Pfrommer, Mathew Halm, and Michael Posa.*
 
-1. **Continuous PDE dynamics forecasting with implicit neural representations.** arXiv, 2022. [paper](https://arxiv.org/abs/2209.14855) 
+1. **Continuous PDE dynamics forecasting with implicit neural representations.** ICLR, 2023. [paper](https://openreview.net/forum?id=B73niNjbPs) 
 
    *Yuan Yin, Matthieu Kirchmeyer, Jean-Yves Franceschi, Alain Rakotomamonjy, and Patrick Gallinari.*
+
+1. **CROM: Continuous reduced-order modeling of PDEs using implicit neural representations.** ICLR, 2023. [paper](https://openreview.net/forum?id=B73niNjbPs) 
+
+   *Peter Yichen Chen, Jinxu Xiang, Dong Heon Cho, Yue Chang, G A Pershing, Henrique Teles Maia, Maurizio M Chiaramonte, Kevin Thomas Carlberg, and Eitan Grinspun.*
 
 ### [Disentangle](#content)
 1. **PDE-driven spatiotemporal disentanglement.** ICLR, 2021. [paper](https://openreview.net/forum?id=vLaHRtHvfFp)
@@ -1658,6 +1690,10 @@ Contributed by Chunyang Zhang.
 
    *Thi Nguyen Khoa Nguyen, Thibault Dairay, Raphaël Meunier, Christophe Millet, and Mathilde Mougeot.*
 
+1. **Learning controllable adaptive simulation for multi-resolution physics.** ICLR, 2023. [paper](https://openreview.net/forum?id=PbfgkZ2HdbE)
+
+   *Tailin Wu, Takashi Maruyama, Qingqing Zhao, Gordon Wetzstein, and  Jure Leskovec.*
+
 ### [Generative Models](#content)
 1. **A framework for data-driven solution and parameter estimation of PDEs using conditional generative adversarial networks.** NCS, 2021. [paper](https://www.nature.com/articles/s43588-021-00171-3)
 
@@ -1683,9 +1719,9 @@ Contributed by Chunyang Zhang.
 
    *Yihang Gao and Michael K. Ng.*
 
-1. **Competitive physics informed networks.** ICLR, 2021. [paper](https://openreview.net/forum?id=rMz_scJ6lc)
+1. **Competitive physics informed networks.** ICLR, 2023. [paper](https://openreview.net/forum?id=z9SIj-IM7tn)
 
-   *Qi Zeng, Spencer H Bryngelson, and Florian Tobias Schaefer.*
+   *Qi Zeng, Yash Kothari, Spencer H Bryngelson, and Florian Tobias Schaefer.*
 
 1. **Learning generative neural networks with physics knowledge.** Research in the Mathematical Sciences, 2022. [paper](https://link.springer.com/article/10.1007/s40687-022-00329-z)
 
@@ -1718,6 +1754,18 @@ Contributed by Chunyang Zhang.
 1. **A physics-informed diffusion model for high-fidelity flow field reconstruction.** Journal of Computational Physics, 2023. [paper](https://www.sciencedirect.com/science/article/pii/S0021999123000670)
 
    *Dule Shu, Zijie Li, and Amir Barati Farimani.*
+
+1. **Generative modelling with inverse heat dissipation.** ICLR, 2023. [paper](https://openreview.net/forum?id=4PJUBT9f2Ol)
+
+   *Severi Rissanen, Markus Heinonen, and Arno Solin.*
+
+1. **Differentiable Gaussianization layers for inverse problems regularized by deep generative models.** ICLR, 2023. [paper](https://openreview.net/forum?id=OXP9Ns0gnIq)
+
+   *Dongzhuo Li.*
+
+1. **Transformer meets boundary value inverse problems.** ICLR, 2023. [paper](https://openreview.net/forum?id=HnlCZATopvr)
+
+   *Ruchi Guo, Shuhao Cao, and Long Chen.*
 
 ### [Gaussian Process](#content)
 1. **PAGP: A physics-assisted Gaussian process framework with active learning for forward and inverse problems of partial differential equations.** arXiv, 2022. [paper](https://arxiv.org/abs/2204.02583)
@@ -1952,7 +2000,7 @@ Contributed by Chunyang Zhang.
 
    *Lars Ruthottoa, Stanley J. Osherc, Wuchen Lic, Levon Nurbekyanc, and Samy Wu Fung.*
 
-1. **Bi-level physics-informed neural networks for PDE constrained optimization using Broyden's hypergradients.** arXiv, 2022. [paper](https://arxiv.org/abs/2209.07075)
+1. **Bi-level physics-informed neural networks for PDE constrained optimization using Broyden's hypergradients.** ICLR, 2023. [paper](https://openreview.net/forum?id=kkpL4zUXtiw)
 
    *Zhongkai Hao, Chengyang Ying, Hang Su, Jun Zhu, Jian Song, and Ze Cheng.*
 
@@ -1971,6 +2019,14 @@ Contributed by Chunyang Zhang.
 1. **The ADMM-PINNs algorithmic framework for nonsmooth PDE-constrained optimization: A deep learning approach.** arXiv, 2023. [paper](https://arxiv.org/abs/2302.08309)
 
    *Yongcun Song, Xiaoming Yuan, and Hangrui Yue.*
+
+1. **Learning differentiable solvers for systems with hard constraints.** ICLR, 2023. [paper](https://openreview.net/forum?id=vdv6CmGksr0)
+
+   *Geoffrey Négiar, Geoffrey_Négiar, Michael W. Mahoney, and Aditi Krishnapriyan.*
+
+1. **Volumetric optimal transportation by fast Fourier transform.** ICLR, 2023. [paper](https://openreview.net/forum?id=EVrz7UM-ZDm)
+
+   *Na Lei, DONGSHENG An, Min Zhang, Xiaoyin Xu, and David Gu.*
 
 ### [Fluid](#content)
 1. **Physics-informed neural networks (PINNs) for fluid mechanics: A review.** Acta Mechanica Sinica, 2021. [paper](https://link.springer.com/article/10.1007/s10409-021-01148-1)
@@ -2097,6 +2153,10 @@ Contributed by Chunyang Zhang.
 1. **Hybrid learning of time-series inverse dynamics models for locally isotropic robot motion.** RAL, 2022. [paper](https://ieeexplore.ieee.org/document/9954138)
 
    *Tolga-Can Çallar and Sven Böttger.*
+
+1. **NTFields: Neural time fields for physics-informed robot motion planning.** ICLR, 2023. [paper](https://openreview.net/forum?id=ApF0dmi1_9K)
+
+   *Ruiqi Ni and Ahmed H Qureshi.*
 
 ### [Cybernetics](#content)
 1. **Machine learning accelerated PDE backstepping observers.** arXiv, 2022. [paper](https://arxiv.org/abs/2211.15044)
