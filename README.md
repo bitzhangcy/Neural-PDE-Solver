@@ -57,7 +57,7 @@ Contributed by Chunyang Zhang.
     <td>&ensp;<a href="#mesh">3.12 Mesh</a></td>
 </tr>
  <tr>
-    <td>&ensp;<a href="#generative-models">3.13 Generative Models</a></td>
+    <td>&ensp;<a href="#generative-models">3.13 Generative Model</a></td>
     <td>&ensp;<a href="#gaussian-process">3.14 Gaussian Process</a></td>
 </tr>
  <tr>
@@ -102,7 +102,7 @@ Contributed by Chunyang Zhang.
     <td>&ensp;<a href="#quantum">4.10 Quantum</a></td>
 </tr> 
 <tr>
-    <td>&ensp;<a href="#nash-equilibrial">4.11 Nash Equilibrial</a></td>
+    <td>&ensp;<a href="#game-theory">4.11 Game Theory</a></td>
     <td>&ensp;<a href="#manufacturing">4.12 Manufacturing</a></td>
 
 </tr> 
@@ -1698,7 +1698,7 @@ Contributed by Chunyang Zhang.
 
    *Tailin Wu, Takashi Maruyama, Qingqing Zhao, Gordon Wetzstein, and  Jure Leskovec.*
 
-### [Generative Models](#content)
+### [Generative Model](#content)
 1. **A framework for data-driven solution and parameter estimation of PDEs using conditional generative adversarial networks.** NCS, 2021. [paper](https://www.nature.com/articles/s43588-021-00171-3)
 
    *Teeratorn Kadeethum, Daniel O’Malley, Jan Niklas Fuhg, Youngsoo Choi, Jonghyun Lee, Hari S. Viswanathan, and Nikolaos Bouklas.*
@@ -2245,7 +2245,7 @@ Contributed by Chunyang Zhang.
 
    *Henry Jin, Marios Mattheakis, and Pavlos Protopapas.*
 
-### [Nash Equilibria](#content)
+### [Game Theory](#content)
 1. **Approximating discontinuous Nash equilibria values of two-player general-sum differential games.** arXiv, 2022. [paper](https://arxiv.org/abs/2207.01773)
 
    *Lei Zhang, Mukesh Ghimire, Wenlong Zhang, Zhe Xu, and Yi Ren.*
