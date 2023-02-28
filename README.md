@@ -1608,10 +1608,6 @@ Contributed by Chunyang Zhang.
 
    *Chuwei Wang, Shanda Li, Di He, and Liwei Wang.*
 
-1. **Self-scalable Tanh (Stan): Faster convergence and better generalization in physics-informed neural networks.** arXiv, 2022. [paper](https://arxiv.org/abs/2204.12589)
-
-   *Raghav Gnanasambandam, Bo Shen, Jihoon Chung, Xubo Yue, and Zhenyu (James) Kong.*
-
 1. **Loss landscape engineering via data regulation on PINNs.** arXiv, 2022. [paper](https://arxiv.org/abs/2205.07843)
 
    *Vignesh Gopakumar, Stanislas Pamela, and Debasmita Samaddar.*
