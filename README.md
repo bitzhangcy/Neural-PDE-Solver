@@ -1426,10 +1426,6 @@ Contributed by Chunyang Zhang.
 
    *Yuan Yin, Matthieu Kirchmeyer, Jean-Yves Franceschi, Alain Rakotomamonjy, and Patrick Gallinari.*
 
-1. **CROM: Continuous reduced-order modeling of PDEs using implicit neural representations.** ICLR, 2023. [paper](https://openreview.net/forum?id=B73niNjbPs) 
-
-   *Peter Yichen Chen, Jinxu Xiang, Dong Heon Cho, Yue Chang, G A Pershing, Henrique Teles Maia, Maurizio M Chiaramonte, Kevin Thomas Carlberg, and Eitan Grinspun.*
-
 ### [Disentangle](#content)
 1. **PDE-driven spatiotemporal disentanglement.** ICLR, 2021. [paper](https://openreview.net/forum?id=vLaHRtHvfFp)
 
