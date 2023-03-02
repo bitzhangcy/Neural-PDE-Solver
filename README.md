@@ -104,7 +104,6 @@ Contributed by Chunyang Zhang.
 <tr>
     <td>&ensp;<a href="#game-theory">4.11 Game Theory</a></td>
     <td>&ensp;<a href="#manufacturing">4.12 Manufacturing</a></td>
-
 </tr> 
 </table>
 
@@ -360,6 +359,22 @@ Contributed by Chunyang Zhang.
 1. **Adaptive weighting of Bayesian physics informed neural networks for multitask and multiscale forward and inverse problems.** arXiv, 2023. [paper](https://arxiv.org/abs/2302.12697)
 
    *Sarah Perez, Suryanarayana Maddu, Ivo F. Sbalzarini, and Philippe Poncet.*
+
+1. **Efficient physics-informed neural networks using hash encoding.** arXiv, 2023. [paper](https://arxiv.org/abs/2302.13397)
+
+   *Xinquan Huang and Tariq Alkhalifah.*
+
+1. **Ensemble learning for physics informed neural networks: A gradient boosting approach.** arXiv, 2023. [paper](https://arxiv.org/abs/2302.13143)
+
+   *Zhiwei Fang, Sifan Wang, and Paris Perdikaris.*
+
+1. **On the limitations of physics-informed deep learning: Illustrations using first order hyperbolic conservation law-based traffic flow models.** arXiv, 2023. [paper](https://arxiv.org/abs/2302.12337)
+
+   *Archie J. Huang and Shaurya Agarwal.*
+
+1. **Achieving high accuracy with PINNs via energy natural gradients.** arXiv, 2023. [paper](https://arxiv.org/abs/2302.13163)
+
+   *Johannes Müller and Marius Zeinhofer.*
 
 ### [DeepONet](#content)
 1. **Learning nonlinear operators via DeepONet based on the universal approximation theorem of operators.** NMI, 2021. [paper](https://www.nature.com/articles/s42256-021-00302-5)
@@ -1503,6 +1518,10 @@ Contributed by Chunyang Zhang.
 1. **TransNet: Transferable neural networks for partial differential equations.** arXiv, 2023. [paper](https://arxiv.org/abs/2301.11701)
 
    *Zezhong Zhang, Feng Bao, Lili Ju, and Guannan Zhang.*
+
+1. **Adaptive weighting of Bayesian physics informed neural networks for multitask and multiscale forward and inverse problems.** arXiv, 2023. [paper](https://arxiv.org/abs/2302.12697)
+
+   *Sarah Perez, Suryanarayana Maddu, Ivo F. Sbalzarini, and Philippe Poncet.*
 
 ### [NAS](#content)
 1. **Auto-PINN: Understanding and optimizing physics-informed neural architecture.** arXiv, 2022. [paper](https://arxiv.org/abs/2110.13361)
