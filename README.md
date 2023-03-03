@@ -631,6 +631,10 @@ Contributed by Chunyang Zhang.
 
    *Léonard Equer, T. Konstantin Rusch, and Siddhartha Mishra.*
 
+1. **An implicit GNN solver for Poisson-like problems.** arXiv, 2023. [paper](https://arxiv.org/abs/2302.10891)
+
+   *Matthieu Nastorg, Michele-Alessandro Bucci, Thibault Faney, Jean-Marc Gratien, Guillaume Charpiat, and Marc Schoenauer.*
+
 ### [Green Function](#content)
 1. **Learning Green's functions associated with time-dependent partial differential equations.** JMLR, 2022. [paper](https://www.jmlr.org/papers/volume23/22-0433/22-0433.pdf)
 
@@ -1371,6 +1375,10 @@ Contributed by Chunyang Zhang.
 
    *Nadim Saad, Gaurav Gupta, Shima Alizadeh, and Danielle C. Maddix.* 
 
+1. **A unified scalable framework for causal sweeping strategies for physics-informed neural networks (PINNs) and their temporal decompositions.** arXiv, 2023. [paper](https://arxiv.org/abs/2302.14227)
+
+   *Michael Penwarden, Ameya D. Jagtap, Shandian Zhe, George Em Karniadakis, and Robert M. Kirby.* 
+
 ### [Attention](#content)
 1. **Learning operators with coupled attention.** JMLR, 2022. [paper](https://www.jmlr.org/papers/v23/21-1521.html) 
 
@@ -1415,6 +1423,10 @@ Contributed by Chunyang Zhang.
 1. **Nonlinear reconstruction for operator learning of PDEs with discontinuities.** ICLR, 2023. [paper](https://openreview.net/forum?id=CrfhZAsJDsZ) 
 
    *Samuel Lanthaler, Roberto Molinaro, Patrik Hadorn, and Siddhartha Mishra.*
+
+1. **GNOT: A general neural operator transformer for operator learning.** arXiv, 2023. [paper](https://arxiv.org/abs/2302.14376) 
+
+   *Zhongkai Hao, Chengyang Ying, Zhengyi Wang, Hang Su, Yinpeng Dong, Songming Liu, Ze Cheng, Jun Zhu, and Jian Song.*
 
 ### [Neural Implicit Flow](#content)
 1. **Neural implicit flow: A mesh-agnostic dimensionality reduction paradigm of spatio-temporal data.** arXiv, 2022. [paper](https://arxiv.org/abs/2204.03216) 
@@ -2213,6 +2225,10 @@ Contributed by Chunyang Zhang.
 1. **AONN: An adjoint-oriented neural network method for all-at-once solutions of parametric optimal control problems.** arXiv, 2023. [paper](https://arxiv.org/abs/2302.02076)
 
    *Pengfei Yin, Guangqiang Xiao, Kejun Tang, and Chao Yang.*
+
+1. **Neural operators for bypassing gain and control computations in PDE backstepping.** arXiv, 2023. [paper](https://arxiv.org/abs/2302.14265)
+
+   *Luke Bhan, Yuanyuan Shi, and Miroslav Krstic.*
 
 ### [Inverse Design](#content)
 1. **DPM: Physics-informed Karhunen-Loéve and neural network approximations for solving inverse differential equation problems.** AAAI, 2021. [paper](https://ojs.aaai.org/index.php/AAAI/article/view/16992/16799)
