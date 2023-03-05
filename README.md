@@ -1088,7 +1088,7 @@ Contributed by Chunyang Zhang.
 
 1. **Deep least-squares methods: An unsupervised learning-based numerical method for solving elliptic PDEs.** Journal of Computational Physics, 2020. [paper](https://www.sciencedirect.com/science/article/pii/S0021999120304812)
 
-   *Zhiqiang Cai, Jingshuang Chen, MinLiu, and Xinyu Liu.*
+   *Zhiqiang Cai, Jingshuang Chen, Min Liu, and Xinyu Liu.*
 
 1. **Local extreme learning machines and domain decomposition for solving linear and nonlinear partial differential equations.** Computer Methods in Applied Mechanics and Engineering, 2021. [paper](https://www.sciencedirect.com/science/article/pii/S0045782521004606)
 
