@@ -25,11 +25,11 @@ Contributed by Chunyang Zhang.
     <td>&ensp;<a href="#autoencoder">2.8 AutoEncoder</a></td>
 </tr>
 <tr>
-    <td>&ensp;<a href="#operator">2.9 Operator</a></td>
+    <td>&ensp;<a href="#neural-operator">2.9 Neural Operator</a></td>
     <td>&ensp;<a href="#identification">2.10 Identification</a></td>
 <tr>
     <td>&ensp;<a href="#machine-learning">2.11 Machine Learning</a></td>
-    <td>&ensp;<a href="#ode">2.12 ODE</a></td>
+    <td>&ensp;<a href="#neural-ode">2.12 Neural ODE</a></td>
 </tr>
 <tr><td colspan="2"><a href="#models">3. Mechanism</a></td></tr>
 <tr>
@@ -106,6 +106,7 @@ Contributed by Chunyang Zhang.
     <td>&ensp;<a href="#manufacturing">4.12 Manufacturing</a></td>
 </tr> 
 </table>
+
 
 
 ## [Survey Papers](#content)
@@ -371,6 +372,14 @@ Contributed by Chunyang Zhang.
 1. **Achieving high accuracy with PINNs via energy natural gradients.** arXiv, 2023. [paper](https://arxiv.org/abs/2302.13163)
 
    *Johannes Müller and Marius Zeinhofer.*
+
+1. **Implicit stochastic gradient descent for training physics-informed neural networks.** arXiv, 2023. [paper](https://arxiv.org/abs/2303.01767)
+
+   *Ye Li, Songcan Chen, and Shengjun Huang.*
+
+1. **NSGA-PINN: A multi-objective optimization method for physics-informed neural network training.** arXiv, 2023. [paper](https://arxiv.org/abs/2303.02219)
+
+   *Binghang Lu, Christian B. Moya, and Guang Lin.*
 
 ### [DeepONet](#content)
 1. **Learning nonlinear operators via DeepONet based on the universal approximation theorem of operators.** NMI, 2021. [paper](https://www.nature.com/articles/s42256-021-00302-5)
@@ -763,7 +772,7 @@ Contributed by Chunyang Zhang.
 
    *Jacob H. Seidman, Georgios Kissas, George J. Pappas, and Paris Perdikaris.*
 
-### [Operator](#content)
+### [Neural Operator](#content)
 1. **Multiwavelet-based operator learning for differential equations.** NIPS, 2021. [paper](https://openreview.net/forum?id=LZDiWaC9CGL)
 
    *Gaurav Gupta, Xiongye Xiao, and Paul Bogdan.*
@@ -875,6 +884,10 @@ Contributed by Chunyang Zhang.
 1. **A neural PDE solver with temporal stencil modeling.** arXiv, 2023. [paper](https://arxiv.org/abs/2302.08105)
 
    *Zhiqing Sun, Yiming Yang, and Shinjae Yoo.*
+
+1. **Neural operator learning for long-time integration in dynamical systems with recurrent neural networks.** arXiv, 2023. [paper](https://arxiv.org/abs/2303.02243)
+
+   *Katarzyna Michałowska, Somdatta Goswami, George Em Karniadakis, and Signe Riemer-Sørensen.*
 
 1. **Coupled multiwavelet operator learning for coupled differential equations.** ICLR, 2023. [paper](https://openreview.net/forum?id=kIo_C6QmMOM)
 
@@ -1150,7 +1163,7 @@ Contributed by Chunyang Zhang.
 
    *Sutanu Bhowmick, Satish Nagarajaiah, and Anastasios Kyrillidis.*
 
-### [ODE](#content)
+### [Neural ODE](#content)
 1. **Neural rough differential equations for long time series.** ICML, 2021. [paper](http://proceedings.mlr.press/v139/morrill21b.html)
 
    *James Morrill, Cristopher Salvi, Patrick Kidger, and James Foster.*
