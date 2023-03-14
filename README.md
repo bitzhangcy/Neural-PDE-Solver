@@ -381,6 +381,14 @@ Contributed by Chunyang Zhang.
 
    *Binghang Lu, Christian B. Moya, and Guang Lin.*
 
+1. **Improving physics-informed neural networks with meta-learned optimization.** arXiv, 2023. [paper](https://arxiv.org/abs/2303.07127)
+
+   *Alex Bihlo.*
+
+1. **MetaPhysiCa: OOD robustness in physics-informed machine learning.** arXiv, 2023. [paper](https://arxiv.org/abs/2303.03181)
+
+   *S Chandra Mouli, Muhammad Ashraful Alam, and Bruno Ribeiro.*
+
 ### [DeepONet](#content)
 1. **Learning nonlinear operators via DeepONet based on the universal approximation theorem of operators.** NMI, 2021. [paper](https://www.nature.com/articles/s42256-021-00302-5)
 
@@ -506,6 +514,11 @@ Contributed by Chunyang Zhang.
 1. **Non-equispaced Fourier neural solvers for PDEs.** arXiv, 2023. [paper](https://arxiv.org/abs/2212.04689)
 
    *Haitao Lin, Lirong Wu, Yongjie Xu, Yufei Huang, Siyuan Li, Guojiang Zhao, Stan Z, and Li Cari.*
+
+1. **Learning-based solutions to nonlinear hyperbolic PDEs: Empirical insights
+   on generalization errors.** NIPS, 2022. [paper](https://arxiv.org/abs/2302.08144)
+
+   *Bilal Thonnam Thodi, Sai Venkata Ramana Ambadipudi, and Saif Eddin Jabari.*
 
 ### [Graph Network](#content)
 1. **Message passing neural PDE solvers.** ICLR, 2022. [paper](https://openreview.net/forum?id=vSix3HPYKSU)
@@ -762,6 +775,10 @@ Contributed by Chunyang Zhang.
 1. **Clifford neural layers for PDE modeling.** ICLR, 2023. [paper](https://openreview.net/forum?id=okwxL_c4x84)
 
    *Johannes Brandstetter, Rianne van den Berg, Max Welling, and Jayesh K Gupta.*
+
+1. **Neural partial differential equations with functional convolution.** arXiv, 2023. [paper](https://arxiv.org/abs/2303.07194)
+
+   *Ziqian Wu, Xingzhe He, Yijun Li, Cheng Yang, Rui Liu, Shiying Xiong, and Bo Zhu.*
 
 ### [AutoEncoder](#content)
 1. **Integral autoencoder network for discretization-invariant learning.** JMLR, 2022. [paper](https://www.jmlr.org/papers/v23/22-0297.html)
@@ -1046,6 +1063,10 @@ Contributed by Chunyang Zhang.
 
    *Daniel Floryan and Michael D. Graham.*
 
+1. **Symbolic regression for PDEs using pruned differentiable programs.** ICLR, 2023. [paper](https://arxiv.org/abs/2303.07009)
+
+   *Ritam Majumdar, Vishal Jadhav, Anirudh Deodhar, Shirish Karande, Lovekesh Vig, and Venkataramana Runkana.*
+
 ### [Machine Learning](#content)
 1. **Machine learning–accelerated computational fluid dynamics.** PNAS, 2021. [paper](https://www.pnas.org/doi/10.1073/pnas.2101784118)
 
@@ -1216,6 +1237,10 @@ Contributed by Chunyang Zhang.
 
    *Xingzi Xu, Ali Hasan, Khalil Elkhalil, Jie Ding, and Vahid Tarokh.*
 
+1. **Efficient certified training and robustness verification of neural ODEs.** ICLR, 2023. [paper](https://openreview.net/forum?id=KyoVpYvWWnK)
+
+   *Mustafa Zeqiri, Mark Niklas Mueller, Marc Fischer, and Martin Vechev.*
+
 
 ## [Mechanism](#content) 
 ### [Library](#content)
@@ -1250,6 +1275,10 @@ Contributed by Chunyang Zhang.
 1. **KoopmanLab: A PyTorch module of Koopman neural operator family for solving partial differential equations.** arXiv, 2023. [paper](https://arxiv.org/abs/2301.01104)
 
    *Wei Xiong, Muyuan Ma, Pei Sun, and Yang Tian.*
+
+1. **Physics-driven machine learning models coupling PyTorch and Firedrake.** arXiv, 2023. [paper](https://arxiv.org/abs/2303.06871)
+
+   *Nacime Bouziani and David A. Ham.*
 
 ### [Analysis](#content)
 1. **Characterizing possible failure modes in physics-informed neural networks.** NIPS, 2021. [paper](https://openreview.net/forum?id=a2Gr9gNFD-J)
@@ -2173,6 +2202,10 @@ Contributed by Chunyang Zhang.
 1. **NTFields: Neural time fields for physics-informed robot motion planning.** ICLR, 2023. [paper](https://openreview.net/forum?id=ApF0dmi1_9K)
 
    *Ruiqi Ni and Ahmed H Qureshi.*
+
+1. **Online parameter estimation using physics-informed deep learning for vehicle stability algorithms.** arXiv, 2023. [paper](https://arxiv.org/abs/2303.00474)
+
+   *Kemal Koysuren, Ahmet Faruk Keles, and Melih Cakmakci.*
 
 ### [Cybernetics](#content)
 1. **Machine learning accelerated PDE backstepping observers.** arXiv, 2022. [paper](https://arxiv.org/abs/2211.15044)
