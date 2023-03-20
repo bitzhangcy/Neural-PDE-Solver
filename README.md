@@ -1067,6 +1067,10 @@ Contributed by Chunyang Zhang.
 
    *Ritam Majumdar, Vishal Jadhav, Anirudh Deodhar, Shirish Karande, Lovekesh Vig, and Venkataramana Runkana.*
 
+1. **Symbolic physics learner: Discovering governing equations via Monte Carlo tree search.** ICLR, 2023. [paper](https://openreview.net/forum?id=ZTK3SefE8_Z)
+
+   *Fangzheng Sun, Yang Liu, Jianxun Wang, Hao Sun.*
+
 ### [Machine Learning](#content)
 1. **Machine learning–accelerated computational fluid dynamics.** PNAS, 2021. [paper](https://www.pnas.org/doi/10.1073/pnas.2101784118)
 
@@ -2033,7 +2037,7 @@ Contributed by Chunyang Zhang.
 
    *Nicola Demo, Maria Strazzullo, and Gianluigi Rozza.*
 
-1. **Optimal control of PDEs using physics-informed neural networks.** ICLR, 2022. [paper](https://openreview.net/forum?id=a3Rhl617hW)
+1. **Optimal control of PDEs using physics-informed neural networks.** Journal of Computational Physics, 2023. [paper](https://www.sciencedirect.com/science/article/pii/S002199912200794X)
 
    *Saviz Mowlavi and Saleh Nabi.*
 
@@ -2190,7 +2194,7 @@ Contributed by Chunyang Zhang.
    *Pablo Arratia Lopez, Hernan Mella, Sergio Uribe, Daniel E. Hurtado, and Francisco Sahli Costabal.*
 
 ### [Mechanics](#content)
-1. **Wavelet Neural Operator for solving parametric partial differential equations in computational mechanics problems.** Computer Methods in Applied Mechanics and Engineering, 2022. [paper](https://www.sciencedirect.com/science/article/pii/S0045782522007393)
+1. **Wavelet neural operator for solving parametric partial differential equations in computational mechanics problems.** Computer Methods in Applied Mechanics and Engineering, 2022. [paper](https://www.sciencedirect.com/science/article/pii/S0045782522007393)
 
    *Tapas Tripura and Souvik Chakraborty.*
 
