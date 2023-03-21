@@ -910,6 +910,10 @@ Contributed by Chunyang Zhang.
 
    *Xiongye Xiao, Defu Cao, Ruochen Yang, Gaurav Gupta, Chenzhong Yin, Gengshuo Liu, Radu Balan, and Paul Bogdan.*
 
+1. **LNO: Laplace neural operator for solving differential equations.** arXiv, 2023. [paper](https://arxiv.org/abs/2303.10528)
+
+   *Qianying Cao, Somdatta Goswami, and George Em Karniadakis.*
+
 ### [Identification](#content)
 1. **Data-driven discovery of partial differential equations.** SA, 2017. [paper](https://arxiv.org/abs/1910.11710)
 
@@ -1816,6 +1820,10 @@ Contributed by Chunyang Zhang.
 
    *Ruchi Guo, Shuhao Cao, and Long Chen.*
 
+1. **ViTO: Vision Transformer-operator.** arXiv, 2023. [paper](https://arxiv.org/abs/2303.08891)
+
+   *Oded Ovadia, Adar Kahana, Panos Stinis, Eli Turkel, and George Em Karniadakis.*
+
 ### [Gaussian Process](#content)
 1. **PAGP: A physics-assisted Gaussian process framework with active learning for forward and inverse problems of partial differential equations.** arXiv, 2022. [paper](https://arxiv.org/abs/2204.02583)
 
@@ -2255,6 +2263,10 @@ Contributed by Chunyang Zhang.
 1. **Neural operators for bypassing gain and control computations in PDE backstepping.** arXiv, 2023. [paper](https://arxiv.org/abs/2302.14265)
 
    *Luke Bhan, Yuanyuan Shi, and Miroslav Krstic.*
+
+1. **Neural operators of backstepping controller and observer gain functions for reaction-diffusion PDEs.** arXiv, 2023. [paper](https://arxiv.org/abs/2303.10506)
+
+   *Miroslav Krstic, Luke Bhan, and Yuanyuan Shi.*
 
 ### [Inverse Design](#content)
 1. **DPM: Physics-informed Karhunen-Loéve and neural network approximations for solving inverse differential equation problems.** AAAI, 2021. [paper](https://ojs.aaai.org/index.php/AAAI/article/view/16992/16799)
