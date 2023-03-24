@@ -503,11 +503,11 @@ Contributed by Chunyang Zhang.
 
    *Haitao Lin, Lirong Wu, Yongjie Xu, Yufei Huang, Siyuan Li, Guojiang Zhao, Stan Z, and Li Cari.*
 
-1. **Incremental Fourier neural operator.** arXiv, 2022. [paper](https://arxiv.org/abs/2211.15188)
+1. **Incremental spectral learning Fourier neural operator.** arXiv, 2022. [paper](https://arxiv.org/abs/2211.15188)
 
    *Jiawei Zhao, Robert Joseph George, Yifei Zhang, Zongyi Li, and Anima Anandkumar.*
 
-1. **Fourier continuation for exact derivative computation in physics-informed neural operators.** NIPS, 2022. [paper](https://arxiv.org/abs/2211.15188)
+1. **Fourier continuation for exact derivative computation in physics-informed neural operators.** arXiv, 2022. [paper](https://arxiv.org/abs/2211.15960)
 
    *Haydn Maust, Zongyi Li, Yixuan Wang, Daniel Leibovici, Oscar Bruno, Thomas Hou, and Anima Anandkumar.*
 
@@ -515,8 +515,7 @@ Contributed by Chunyang Zhang.
 
    *Haitao Lin, Lirong Wu, Yongjie Xu, Yufei Huang, Siyuan Li, Guojiang Zhao, Stan Z, and Li Cari.*
 
-1. **Learning-based solutions to nonlinear hyperbolic PDEs: Empirical insights
-   on generalization errors.** NIPS, 2022. [paper](https://arxiv.org/abs/2302.08144)
+1. **Learning-based solutions to nonlinear hyperbolic PDEs: Empirical insights on generalization errors.** arXiv, 2023. [paper](https://arxiv.org/abs/2302.08144)
 
    *Bilal Thonnam Thodi, Sai Venkata Ramana Ambadipudi, and Saif Eddin Jabari.*
 
@@ -585,7 +584,7 @@ Contributed by Chunyang Zhang.
 
    *Léon Migus, Yuan Yin, Jocelyn Ahmed Mazari, and Patrick Gallinari.*
 
-1. **DS-GPS : A deep statistical graph Poisson solver (for faster CFD simulations).** NIPS, 2022. [paper](https://arxiv.org/abs/2211.11763)
+1. **DS-GPS: A deep statistical graph Poisson solver (for faster CFD simulations).** NIPS, 2022. [paper](https://arxiv.org/abs/2211.11763)
 
    *Matthieu Nastorg, Marc Schoenauer, Guillaume Charpiat, Thibault Faney, Jean-Marc Gratien, and Michele-Alessandro Bucci.*
 
@@ -714,7 +713,7 @@ Contributed by Chunyang Zhang.
 
 1. **PDE-Net 2.0: Learning PDEs from data with a numeric-symbolic hybrid deep network.** Journal of Computational Physics, 2019. [paper](https://www.sciencedirect.com/science/article/pii/S0021999119306308)
 
-   *ZichaoLong, YipingLu, and Bin Dong.*
+   *Zichao Long, Yiping Lu, and Bin Dong.*
 
 1. **Physics-informed CNNs for super-resolution of sparse observations on dynamical systems.** NIPS, 2022. [paper](https://arxiv.org/abs/2210.17319)
 
