@@ -2267,6 +2267,10 @@ Contributed by Chunyang Zhang.
 
    *Miroslav Krstic, Luke Bhan, and Yuanyuan Shi.*
 
+1. **Leveraging multi-time Hamilton-Jacobi PDEs for certain scientific machine learning problems.** arXiv, 2023. [paper](https://arxiv.org/abs/2303.12928)
+
+   *Paula Chen, Tingwei Meng, Zongren Zou, Jérôme Darbon, and George Em Karniadakis.*
+
 ### [Inverse Design](#content)
 1. **DPM: Physics-informed Karhunen-Loéve and neural network approximations for solving inverse differential equation problems.** AAAI, 2021. [paper](https://ojs.aaai.org/index.php/AAAI/article/view/16992/16799)
 
