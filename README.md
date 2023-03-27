@@ -1400,6 +1400,10 @@ Contributed by Chunyang Zhang.
 
    *Michael Penwarden, Ameya D. Jagtap, Shandian Zhe, George Em Karniadakis, and Robert M. Kirby.* 
 
+1. **Machine learning for elliptic PDEs: Fast rate generalization bound, neural scaling law and minimax optimality.** ICLR, 2022. [paper](https://openreview.net/forum?id=mhYUBYNoGz)
+
+   *Yiping Lu, Haoxuan Chen, Jianfeng Lu, Lexing Ying, and Jose Blanchet.* 
+
 ### [Attention](#content)
 1. **Learning operators with coupled attention.** JMLR, 2022. [paper](https://www.jmlr.org/papers/v23/21-1521.html) 
 
@@ -2092,6 +2096,10 @@ Contributed by Chunyang Zhang.
 
    *Na Lei, DONGSHENG An, Min Zhang, Xiaoyin Xu, and David Gu.*
 
+1. **PDE-based optimal strategy for unconstrained online learning.** ICML, 2022. [paper](https://proceedings.mlr.press/v162/zhang22d.html)
+
+   *Zhiyu Zhang, Ashok Cutkosky, and Ioannis Paschalidis.*
+
 ### [Fluid](#content)
 1. **Physics-informed neural networks (PINNs) for fluid mechanics: A review.** Acta Mechanica Sinica, 2021. [paper](https://link.springer.com/article/10.1007/s10409-021-01148-1)
 
@@ -2270,6 +2278,10 @@ Contributed by Chunyang Zhang.
 1. **Leveraging multi-time Hamilton-Jacobi PDEs for certain scientific machine learning problems.** arXiv, 2023. [paper](https://arxiv.org/abs/2303.12928)
 
    *Paula Chen, Tingwei Meng, Zongren Zou, Jérôme Darbon, and George Em Karniadakis.*
+
+1. **Learning to control PDEs with differentiable physics.** ICLR, 2020. [paper](https://openreview.net/forum?id=HyeSin4FPB)
+
+   *Philipp Holl, Nils Thuerey, and Vladlen Koltun.*
 
 ### [Inverse Design](#content)
 1. **DPM: Physics-informed Karhunen-Loéve and neural network approximations for solving inverse differential equation problems.** AAAI, 2021. [paper](https://ojs.aaai.org/index.php/AAAI/article/view/16992/16799)
