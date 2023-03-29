@@ -1191,6 +1191,10 @@ Contributed by Chunyang Zhang.
 
    *Sutanu Bhowmick, Satish Nagarajaiah, and Anastasios Kyrillidis.*
 
+1. **Invariant preservation in machine learned PDE solvers via error correction.** arXiv, 2023. [paper](https://arxiv.org/abs/2303.16110v1)
+
+   *Nick McGreivy and Ammar Hakim.*
+
 ### [Neural ODE](#content)
 1. **Neural rough differential equations for long time series.** ICML, 2021. [paper](http://proceedings.mlr.press/v139/morrill21b.html)
 
@@ -1560,6 +1564,10 @@ Contributed by Chunyang Zhang.
 
    *Sarah Perez, Suryanarayana Maddu, Ivo F. Sbalzarini, and Philippe Poncet.*
 
+1. **GPT-PINN: Generative pre-trained physics-informed neural networks toward non-intrusive meta-learning of parametric PDEs.** arXiv, 2023. [paper](https://arxiv.org/abs/2303.14878)
+
+   *Yanlai Chen and Shawn Koohy.*
+
 ### [NAS](#content)
 1. **Auto-PINN: Understanding and optimizing physics-informed neural architecture.** arXiv, 2022. [paper](https://arxiv.org/abs/2110.13361)
 
@@ -1667,6 +1675,10 @@ Contributed by Chunyang Zhang.
 1. **Loss landscape engineering via data regulation on PINNs.** arXiv, 2022. [paper](https://arxiv.org/abs/2205.07843)
 
    *Vignesh Gopakumar, Stanislas Pamela, and Debasmita Samaddar.*
+
+1. **Implicit stochastic gradient descent for training physics-informed neural networks.** AAAI, 2023. [paper](https://arxiv.org/abs/2303.01767)
+
+   *Ye Li, Songcan Chen, and Shengjun Huang.*
 
 ### [Decomposition](#content)
 1. **Composing partial differential equations with physics-aware neural networks.** ICLR, 2022. [paper](https://openreview.net/forum?id=DIsWHvtU7lF)
@@ -2148,6 +2160,10 @@ Contributed by Chunyang Zhang.
 1. **Learning hydrodynamic equations for active matter from particle simulations and experiments.** PNAS, 2023. [paper](https://www.pnas.org/doi/10.1073/pnas.2206994120)
 
    *Rohit Supekar, Boya Song, Alasdair Hastewell, Gary P. T. Choi, Alexander Mietke, and Jörn Dunkel.*
+
+1. **Physics informed neural networks: A case study for gas transport problems.** Journal of Computational Physics, 2023. [paper](https://www.sciencedirect.com/science/article/pii/S0021999123001365)
+
+   *Erik Laurin Strelow, Alf Gerisch, Jens Lang, and Marc E. Pfetsch.*
 
 ### [Reconstruction](#content)
 1. **Occupancy networks: Learning 3D reconstruction in function space.** CVPR, 2019. [paper](https://openaccess.thecvf.com/content_CVPR_2019/papers/Mescheder_Occupancy_Networks_Learning_3D_Reconstruction_in_Function_Space_CVPR_2019_paper.pdf)
