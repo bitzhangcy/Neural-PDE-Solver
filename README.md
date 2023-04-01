@@ -648,6 +648,10 @@ Contributed by Chunyang Zhang.
 
    *Matthieu Nastorg, Michele-Alessandro Bucci, Thibault Faney, Jean-Marc Gratien, Guillaume Charpiat, and Marc Schoenauer.*
 
+1. **GNN-based physics solver for time-independent PDEs.** arXiv, 2023. [paper](https://arxiv.org/abs/2303.15681v1)
+
+   *Rini Jasmine Gladstone, Helia Rahmani, Vishvas Suryakumar, Hadi Meidani, Marta D'Elia, and Ahmad Zareei.*
+
 ### [Green Function](#content)
 1. **Learning Green's functions associated with time-dependent partial differential equations.** JMLR, 2022. [paper](https://www.jmlr.org/papers/volume23/22-0433/22-0433.pdf)
 
@@ -1194,6 +1198,14 @@ Contributed by Chunyang Zhang.
 1. **Invariant preservation in machine learned PDE solvers via error correction.** arXiv, 2023. [paper](https://arxiv.org/abs/2303.16110v1)
 
    *Nick McGreivy and Ammar Hakim.*
+
+1. **Operator learning with PCA-Net: upper and lower complexity bounds.** arXiv, 2023. [paper](https://arxiv.org/abs/2303.16317v2)
+
+   *Samuel Lanthaler.*
+
+1. **Multiscale attention via wavelet neural operators for vision Transformers.** arXiv, 2023. [paper](https://arxiv.org/abs/2303.12398)
+
+   *Anahita Nekoozadeh, Mohammad Reza Ahmadzadeh, Zahra Mardani, and Morteza Mardani.*
 
 ### [Neural ODE](#content)
 1. **Neural rough differential equations for long time series.** ICML, 2021. [paper](http://proceedings.mlr.press/v139/morrill21b.html)
