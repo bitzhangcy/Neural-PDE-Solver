@@ -652,6 +652,10 @@ Contributed by Chunyang Zhang.
 
    *Rini Jasmine Gladstone, Helia Rahmani, Vishvas Suryakumar, Hadi Meidani, Marta D'Elia, and Ahmad Zareei.*
 
+1. **E(3) equivariant graph neural networks for particle-based fluid mechanics.** ICLR, 2023. [paper](https://arxiv.org/abs/2304.00150v1)
+
+   *Artur P. Toshev, Gianluca Galletti, Johannes Brandstetter, Stefan Adami, and Nikolaus A. Adams.*
+
 ### [Green Function](#content)
 1. **Learning Green's functions associated with time-dependent partial differential equations.** JMLR, 2022. [paper](https://www.jmlr.org/papers/volume23/22-0433/22-0433.pdf)
 
@@ -782,6 +786,10 @@ Contributed by Chunyang Zhang.
 1. **Neural partial differential equations with functional convolution.** arXiv, 2023. [paper](https://arxiv.org/abs/2303.07194)
 
    *Ziqian Wu, Xingzhe He, Yijun Li, Cheng Yang, Rui Liu, Shiying Xiong, and Bo Zhu.*
+
+1. **Multilevel CNNs for parametric PDEs.** arXiv, 2023. [paper](https://arxiv.org/abs/2304.00388v2)
+
+   *Cosmas Heiß, Ingo Gühring, and Martin Eigel.*
 
 ### [AutoEncoder](#content)
 1. **Integral autoencoder network for discretization-invariant learning.** JMLR, 2022. [paper](https://www.jmlr.org/papers/v23/22-0297.html)
