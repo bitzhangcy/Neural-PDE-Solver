@@ -1428,6 +1428,10 @@ Contributed by Chunyang Zhang.
 
    *Yiping Lu, Haoxuan Chen, Jianfeng Lu, Lexing Ying, and Jose Blanchet.* 
 
+1. **Probing optimisation in physics-informed neural networks.** ICLR, 2023. [paper](https://arxiv.org/abs/2303.15196v1)
+
+   *Nayara Fonseca, Veronica Guidetti, and Will Trojak.* 
+
 ### [Attention](#content)
 1. **Learning operators with coupled attention.** JMLR, 2022. [paper](https://www.jmlr.org/papers/v23/21-1521.html) 
 
@@ -1699,6 +1703,10 @@ Contributed by Chunyang Zhang.
 1. **Implicit stochastic gradient descent for training physics-informed neural networks.** AAAI, 2023. [paper](https://arxiv.org/abs/2303.01767)
 
    *Ye Li, Songcan Chen, and Shengjun Huang.*
+
+1. **About optimal loss function for training physics-informed neural networks under respecting causality.** arXiv, 2023. [paper](https://arxiv.org/abs/2304.02282v1)
+
+   *Vasiliy A. Es'kin, Danil V. Davydov, Ekaterina D. Egorova, Alexey O. Malkhanov, Mikhail A. Akhukov, and Mikhail E. Smorkalov.*
 
 ### [Decomposition](#content)
 1. **Composing partial differential equations with physics-aware neural networks.** ICLR, 2022. [paper](https://openreview.net/forum?id=DIsWHvtU7lF)
