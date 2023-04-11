@@ -389,6 +389,10 @@ Contributed by Chunyang Zhang.
 
    *S Chandra Mouli, Muhammad Ashraful Alam, and Bruno Ribeiro.*
 
+1. **HomPINNs: Homotopy physics-informed neural networks for solving the inverse problems of nonlinear differential equations with multiple solutions.** arXiv, 2023. [paper](https://arxiv.org/abs/2304.02811)
+
+   *Haoyang Zheng, Yao Huang, Ziyang Huang, Wenrui Hao, and Guang Lin.*
+
 ### [DeepONet](#content)
 1. **Learning nonlinear operators via DeepONet based on the universal approximation theorem of operators.** NMI, 2021. [paper](https://www.nature.com/articles/s42256-021-00302-5)
 
