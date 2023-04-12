@@ -393,6 +393,10 @@ Contributed by Chunyang Zhang.
 
    *Haoyang Zheng, Yao Huang, Ziyang Huang, Wenrui Hao, and Guang Lin.*
 
+1. **iPINNs: Incremental learning for physics-informed neural networks.** arXiv, 2023. [paper](https://arxiv.org/abs/2304.04854)
+
+   *Aleksandr Dekhovich, Marcel H.F. Sluiter, David M.J. Tax, and Miguel A. Bessa.*
+
 ### [DeepONet](#content)
 1. **Learning nonlinear operators via DeepONet based on the universal approximation theorem of operators.** NMI, 2021. [paper](https://www.nature.com/articles/s42256-021-00302-5)
 
