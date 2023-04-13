@@ -2368,6 +2368,10 @@ Contributed by Chunyang Zhang.
 
    *Xiongbin Yan, Zhiqin John Xu, and Zheng Ma.*
 
+1. **Maximum-likelihood estimators in physics-informed neural networks for high-dimensional inverse problems.** arXiv, 2023. [paper](https://arxiv.org/abs/2304.05991)
+
+   *Gabriel S. Gusmão and Andrew J. Medford.*
+
 ### [Quantum](#content)
 1. **Physics-informed neural networks for quantum eigenvalue problems.** IJCNN, 2022. [paper](https://ieeexplore.ieee.org/document/9891944)
 
