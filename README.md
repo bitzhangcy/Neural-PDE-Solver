@@ -1489,6 +1489,10 @@ Contributed by Chunyang Zhang.
 
    *Zhongkai Hao, Chengyang Ying, Zhengyi Wang, Hang Su, Yinpeng Dong, Songming Liu, Ze Cheng, Jun Zhu, and Jian Song.*
 
+1. **In-context operator learning for differential equation problems.** arXiv, 2023. [paper](https://arxiv.org/abs/2304.07993) 
+
+   *Liu Yang, Siting Liu, Tingwei Meng, and Stanley J. Osher.*
+
 ### [Neural Implicit Flow](#content)
 1. **Neural implicit flow: A mesh-agnostic dimensionality reduction paradigm of spatio-temporal data.** arXiv, 2022. [paper](https://arxiv.org/abs/2204.03216) 
 
@@ -1678,6 +1682,10 @@ Contributed by Chunyang Zhang.
 1. **Deep latent regularity network for modeling stochastic partial differential equations.** AAAI, 2023. [paper](https://discovery.ucl.ac.uk/id/eprint/10163280/1/Learning_SPDEs_via_Regularity_Structure.pdf)
 
    *Shiqi Gong, Peiyan Hu, Qi Meng, Yue Wang, Rongchan Zhu, Bingguang Chen, Zhiming Ma, Hao Ni, and Tieyan Liu.*
+
+1. **Learning in latent spaces improves the predictive accuracy of deep neural operators.** arXiv, 2023. [paper](https://arxiv.org/abs/2304.07599)
+
+   *Katiana Kontolati, Somdatta Goswami, George Em Karniadakis, and Michael D. Shields.*
 
 ### [Loss Function](#content)
 1. **Adaptive activation functions accelerate convergence in deep and physics-informed neural networks.** Journal of Computational Physics, 2021. [paper](https://www.sciencedirect.com/science/article/pii/S0021999119308411)
