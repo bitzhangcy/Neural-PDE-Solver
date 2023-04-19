@@ -1908,6 +1908,10 @@ Contributed by Chunyang Zhang.
 
    *Marc Härkönen, Markus Lange-Hegermann, and Bogdan Raiţă.*
 
+1. **Sparse Cholesky factorization for solving nonlinear PDEs via Gaussian processes.** arXiv, 2023. [paper](https://arxiv.org/abs/2304.01294)
+
+   *Yifan Chen, Houman Owhadi, and Florian Schäfer.*
+
 ### [Solver](#content)
 1. **Solver-in-the-loop: Learning from differentiable physics to interact with iterative PDE-solvers.** NIPS, 2020. [paper](https://dl.acm.org/doi/abs/10.5555/3495724.3496237)
 
