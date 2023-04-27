@@ -1074,6 +1074,10 @@ Contributed by Chunyang Zhang.
 
    *Sheikh Saqlain, Wei Zhu, Efstathios G. Charalampidis, and Panayotis G. Kevrekidis.*
 
+1. **Physics-guided generative adversarial network to learn physical models.** arXiv, 2023. [paper](https://arxiv.org/abs/2304.11488)
+
+   *Kazuo Yonekura.*
+
 1. **PDE-Learn: Using deep learning to discover partial differential equations from noisy, limited data.** arXiv, 2022. [paper](https://arxiv.org/abs/2212.04971)
 
    *Robert Stephany and Christopher Earls.*
@@ -1097,6 +1101,7 @@ Contributed by Chunyang Zhang.
 1. **Symbolic physics learner: Discovering governing equations via Monte Carlo tree search.** ICLR, 2023. [paper](https://openreview.net/forum?id=ZTK3SefE8_Z)
 
    *Fangzheng Sun, Yang Liu, Jianxun Wang, Hao Sun.*
+
 
 ### [Machine Learning](#content)
 1. **Machine learning–accelerated computational fluid dynamics.** PNAS, 2021. [paper](https://www.pnas.org/doi/10.1073/pnas.2101784118)
@@ -2262,6 +2267,10 @@ Contributed by Chunyang Zhang.
 1. **Spatio-temporal super-resolution of dynamical systems using physics-informed deep-learning.** AAAI, 2023. [paper](https://arxiv.org/abs/2212.04457)
 
    *Rajat Arora and Ankit Shrivastava.*
+
+1. **Rapid seismic waveform modeling and inversion with neural operators.** TGRS, 2023. [paper](https://ieeexplore.ieee.org/abstract/document/10091544)
+
+   *Yan Yang, Angela F. Gao, Kamyar Azizzadenesheli, Robert W. Clayton, and Zachary E. Ross.*
 
 ### [Image](#content)
 1. **Learning to diffuse: A new perspective to design PDEs for visual analysis.** TPAMI, 2016. [paper](https://ieeexplore.ieee.org/document/7393839)
