@@ -664,6 +664,10 @@ Contributed by Chunyang Zhang.
 
    *Artur P. Toshev, Gianluca Galletti, Johannes Brandstetter, Stefan Adami, and Nikolaus A. Adams.*
 
+1. **long-short-range message-passing: A physics-informed framework to capture non-local interaction for scalable molecular dynamics simulation.** arXiv, 2023. [paper](https://arxiv.org/abs/2304.13542)
+
+   *Yunyang Li, Yusong Wang, Lin Huang, Han Yang, Xinran Wei, Jia Zhang, Tong Wang, Zun Wang, Bin Shao, and Tieyan Liu.*
+
 ### [Green Function](#content)
 1. **Learning Green's functions associated with time-dependent partial differential equations.** JMLR, 2022. [paper](https://www.jmlr.org/papers/volume23/22-0433/22-0433.pdf)
 
