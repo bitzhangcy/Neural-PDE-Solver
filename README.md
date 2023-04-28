@@ -1102,6 +1102,9 @@ Contributed by Chunyang Zhang.
 
    *Fangzheng Sun, Yang Liu, Jianxun Wang, Hao Sun.*
 
+1. **Learning neural constitutive laws from motion observations for generalizable PDE dynamics.** ICML, 2023. [paper](https://arxiv.org/abs/2304.14369)
+
+   *Pingchuan Ma, Peter Yichen Chen, Bolei Deng, Joshua B. Tenenbaum, Tao Du, Chuang Gan, Wojciech Matusik*
 
 ### [Machine Learning](#content)
 1. **Machine learning–accelerated computational fluid dynamics.** PNAS, 2021. [paper](https://www.pnas.org/doi/10.1073/pnas.2101784118)
@@ -1501,6 +1504,10 @@ Contributed by Chunyang Zhang.
 1. **In-context operator learning for differential equation problems.** arXiv, 2023. [paper](https://arxiv.org/abs/2304.07993) 
 
    *Liu Yang, Siting Liu, Tingwei Meng, and Stanley J. Osher.*
+
+1. **Learning neural PDE solvers with parameter-guided channel attention.** ICML, 2023. [paper](https://arxiv.org/abs/2304.14118) 
+
+   *Makoto Takamoto, Francesco Alesiani, and Mathias Niepert.*
 
 ### [Neural Implicit Flow](#content)
 1. **Neural implicit flow: A mesh-agnostic dimensionality reduction paradigm of spatio-temporal data.** arXiv, 2022. [paper](https://arxiv.org/abs/2204.03216) 
