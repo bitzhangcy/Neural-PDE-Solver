@@ -1239,6 +1239,10 @@ Contributed by Chunyang Zhang.
 
    *Anahita Nekoozadeh, Mohammad Reza Ahmadzadeh, Zahra Mardani, and Morteza Mardani.*
 
+1. **Pseudo-Hamiltonian neural networks for learning partial differential equations.** arXiv, 2023. [paper](https://arxiv.org/abs/2304.14374)
+
+   *Sølve Eidnes and Kjetil Olsen Lye.*
+
 ### [Neural ODE](#content)
 1. **Neural rough differential equations for long time series.** ICML, 2021. [paper](http://proceedings.mlr.press/v139/morrill21b.html)
 
@@ -2060,6 +2064,10 @@ Contributed by Chunyang Zhang.
 1. **Quantifying uncertainty for deep learning based forecasting and flow-reconstruction using neural architecture search ensembles.** arXiv, 2023. [paper](https://arxiv.org/abs/:2301.07609)
 
    *Romit Maulik, Romain Egele, Krishnan Raghavan, and Prasanna Balaprakash.*
+
+1. **Physics-informed variational inference for uncertainty quantification of stochastic differential equations.** JCP, 2023. [paper](https://www.sciencedirect.com/science/article/pii/S0021999123002784)
+
+   *Hyomin Shin and Minseok Choi.*
 
 ### [Active Learning](#content)
 1. **Neural Galerkin scheme with active learning for high-dimensional evolution equations.** arXiv, 2022. [paper](https://arxiv.org/abs/2203.01360)
