@@ -527,6 +527,10 @@ Contributed by Chunyang Zhang.
 
    *Bilal Thonnam Thodi, Sai Venkata Ramana Ambadipudi, and Saif Eddin Jabari.*
 
+1. **Domain agnostic Fourier neural operators.** arXiv, 2023. [paper](https://arxiv.org/abs/2305.00478)
+
+   *Ning Liu, Siavash Jafarzadeh, and Yue Yu.*
+
 ### [Graph Network](#content)
 1. **Message passing neural PDE solvers.** ICLR, 2022. [paper](https://openreview.net/forum?id=vSix3HPYKSU)
 
