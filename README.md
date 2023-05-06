@@ -1108,7 +1108,11 @@ Contributed by Chunyang Zhang.
 
 1. **Learning neural constitutive laws from motion observations for generalizable PDE dynamics.** ICML, 2023. [paper](https://arxiv.org/abs/2304.14369)
 
-   *Pingchuan Ma, Peter Yichen Chen, Bolei Deng, Joshua B. Tenenbaum, Tao Du, Chuang Gan, Wojciech Matusik*
+   *Pingchuan Ma, Peter Yichen Chen, Bolei Deng, Joshua B. Tenenbaum, Tao Du, Chuang Gan, Wojciech Matusik.*
+
+1. **Learning partial differential equations in reproducing kernel Hilbert spaces.** JMLR, 2023. [paper](https://www.jmlr.org/papers/volume24/21-1363/21-1363.pdf)
+
+   *George Stepaniants.*
 
 ### [Machine Learning](#content)
 1. **Machine learning–accelerated computational fluid dynamics.** PNAS, 2021. [paper](https://www.pnas.org/doi/10.1073/pnas.2101784118)
