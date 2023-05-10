@@ -2330,6 +2330,10 @@ Contributed by Chunyang Zhang.
 
    *Tapas Tripura and Souvik Chakraborty.*
 
+1. **Graph neural networks for airfoil design.** arXiv, 2023. [paper](https://arxiv.org/abs/2305.05469)
+
+   *Florent Bonnet.*
+
 ### [Robotics](#content)
 1. **Hybrid learning of time-series inverse dynamics models for locally isotropic robot motion.** RAL, 2022. [paper](https://ieeexplore.ieee.org/document/9954138)
 
