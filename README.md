@@ -45,7 +45,7 @@ Contributed by Chunyang Zhang.
     <td>&ensp;<a href="#meta-learning">3.6 Meta Learning</a></td>
 </tr>
 <tr>
-    <td>&ensp;<a href="#nas">3.7 NAS</a></td>
+    <td>&ensp;<a href="#automl">3.7 AutoML</a></td>
     <td>&ensp;<a href="#sampling">3.8 Sampling</a></td>
 </tr>
 <tr>
@@ -106,6 +106,7 @@ Contributed by Chunyang Zhang.
     <td>&ensp;<a href="#manufacturing">4.12 Manufacturing</a></td>
 </tr> 
 </table>
+
 
 
 
@@ -185,7 +186,7 @@ Contributed by Chunyang Zhang.
 
    *Xiang Huang, Hongsheng Liu, Beiji Shi, Zidong Wang, Kang Yang, Yang Li, Min Wang, Haotian Chu, Jing Zhou, Fan Yu, Bei Hua, Bin Dong, and Lei Chen.*
 
-1. **Parallel physics-informed neural networks via domain decomposition.** Journal of Computational Physics, 2021. [paper](https://www.sciencedirect.com/science/article/pii/S0021999121005787)
+1. **Parallel physics-informed neural networks via domain decomposition.** JCP, 2021. [paper](https://www.sciencedirect.com/science/article/pii/S0021999121005787)
 
    *Khemraj Shukla, Ameya D.Jagtap, and George Em Karniadakis.*
 
@@ -249,11 +250,11 @@ Contributed by Chunyang Zhang.
 
    *Benjamin Wu, Oliver Hennigh, Jan Kautz, Sanjay Choudhry, and Wonmin Byeon.*
 
-1. **Theory-guided physics-informed neural networks for boundary layer problems with singular perturbation.** Journal of Computational Physics, 2022. [paper](https://www.sciencedirect.com/science/article/pii/S0021999122008312)
+1. **Theory-guided physics-informed neural networks for boundary layer problems with singular perturbation.** JCP, 2022. [paper](https://www.sciencedirect.com/science/article/pii/S0021999122008312)
 
    *Amirhossein Arzani, Kevin W.Cassel, and Roshan M.D'Souza.*
 
-1. **A-PINN: Auxiliary physics informed neural networks for forward and inverse problems of nonlinear integro-differential equations.** Journal of Computational Physics, 2022. [paper](https://www.sciencedirect.com/science/article/pii/S0021999122003229)
+1. **A-PINN: Auxiliary physics informed neural networks for forward and inverse problems of nonlinear integro-differential equations.** JCP, 2022. [paper](https://www.sciencedirect.com/science/article/pii/S0021999122003229)
 
    *Lei Yuan, Yiqing Ni, Xiangyun Deng, and Shuo Hao.*
 
@@ -450,7 +451,7 @@ Contributed by Chunyang Zhang.
 
    *Wuzhe Xu, Yulong Lu, and Li Wang.*
 
-1. **B-DeepONet: An enhanced Bayesian DeepONet for solving noisy parametric PDEs using accelerated replica exchange SGLD.** Journal of Computational Physics, 2023. [paper](https://www.sciencedirect.com/science/article/pii/S0021999122007768)
+1. **B-DeepONet: An enhanced Bayesian DeepONet for solving noisy parametric PDEs using accelerated replica exchange SGLD.** JCP, 2023. [paper](https://www.sciencedirect.com/science/article/pii/S0021999122007768)
 
    *Guang Lin, Christian Moy, and Zecheng Zhang.*
 
@@ -735,7 +736,7 @@ Contributed by Chunyang Zhang.
 
    *Zichao Long, Yiping Lu, Xianzhong Ma, and Bin Dong.*
 
-1. **PDE-Net 2.0: Learning PDEs from data with a numeric-symbolic hybrid deep network.** Journal of Computational Physics, 2019. [paper](https://www.sciencedirect.com/science/article/pii/S0021999119306308)
+1. **PDE-Net 2.0: Learning PDEs from data with a numeric-symbolic hybrid deep network.** JCP, 2019. [paper](https://www.sciencedirect.com/science/article/pii/S0021999119306308)
 
    *Zichao Long, Yiping Lu, and Bin Dong.*
 
@@ -747,11 +748,11 @@ Contributed by Chunyang Zhang.
 
    *Ana Paula O. Muller, Clecio R. Bom, Jessé C. Costa, Matheus Klatt, Elisângela L. Faria, Marcelo P. de Albuquerque, and Márcio P. de Albuquerque.*
 
-1. **Learning time-dependent PDEs with a linear and nonlinear separate convolutional neural network.** Journal of Computational Physics, 2022. [paper](https://www.sciencedirect.com/science/article/pii/S0021999121008238)
+1. **Learning time-dependent PDEs with a linear and nonlinear separate convolutional neural network.** JCP, 2022. [paper](https://www.sciencedirect.com/science/article/pii/S0021999121008238)
 
    *Jiagang Qu, Weihua Cai, and YijunZhao.*
 
-1. **PhyCRNet: Physics-informed convolutional-recurrent network for solving spatiotemporal PDEs.** Journal of Computational Physics, 2022. [paper](https://www.sciencedirect.com/science/article/pii/S0045782521006514)
+1. **PhyCRNet: Physics-informed convolutional-recurrent network for solving spatiotemporal PDEs.** JCP, 2022. [paper](https://www.sciencedirect.com/science/article/pii/S0045782521006514)
 
    *Pu Ren, Chengping Rao, Yang Liu, Jianxun Wang, and Hao Sun.*
 
@@ -837,7 +838,7 @@ Contributed by Chunyang Zhang.
 
    *Ehsan Haghighat, Ali CanBekar, Erdogan Madenci, and Ruben Juanes.*
 
-1. **Kernel flows: From learning kernels from data into the abyss.** Journal of Computational Physics, 2019. [paper](https://www.sciencedirect.com/science/article/pii/S0021999119302232)
+1. **Kernel flows: From learning kernels from data into the abyss.** JCP, 2019. [paper](https://www.sciencedirect.com/science/article/pii/S0021999119302232)
 
    *Houman Owhadi and Gene Ryan Yoo.*
 
@@ -986,31 +987,31 @@ Contributed by Chunyang Zhang.
 
    *Kailai Xua and Eric Darve.*
 
-1. **Deep neural network modeling of unknown partial differential equations in nodal space.** Journal of Computational Physics, 2022. [paper](https://www.sciencedirect.com/science/article/pii/S002199912100677X)
+1. **Deep neural network modeling of unknown partial differential equations in nodal space.** JCP, 2022. [paper](https://www.sciencedirect.com/science/article/pii/S002199912100677X)
 
    *Zhen Chen, and Victor Churchill, Kailiang Wu, and Dongbin Xiu.*
 
-1. **DeepMOD: Deep learning for model discovery in noisy data.** Journal of Computational Physics, 2021. [paper](https://www.sciencedirect.com/science/article/pii/S0021999120307592)
+1. **DeepMOD: Deep learning for model discovery in noisy data.** JCP, 2021. [paper](https://www.sciencedirect.com/science/article/pii/S0021999120307592)
 
    *Gert-Jan Both, Subham Choudhury, Pierre Sens, and Remy Kusters.*
 
-1. **Theory-guided hard constraint projection (HCP): A knowledge-based data-driven scientific machine learning method.** Journal of Computational Physics, 2021. [paper](https://www.sciencedirect.com/science/article/pii/S0021999121005192)
+1. **Theory-guided hard constraint projection (HCP): A knowledge-based data-driven scientific machine learning method.** JCP, 2021. [paper](https://www.sciencedirect.com/science/article/pii/S0021999121005192)
 
    *Yuntian Chen, Dou Huang, Dongxiao Zhang, Junsheng Zeng, Nanzhe Wang, Haoran Zhang, and Jinyue Yan.*
 
-1. **Deep-learning based discovery of partial differential equations in integral form from sparse and noisy data.** Journal of Computational Physics, 2021. [paper](https://www.sciencedirect.com/science/article/pii/S0021999121004873)
+1. **Deep-learning based discovery of partial differential equations in integral form from sparse and noisy data.** JCP, 2021. [paper](https://www.sciencedirect.com/science/article/pii/S0021999121004873)
 
    *Hao Xua, Dongxiao Zhang, and Nanzhe Wang.*
 
-1. **Peridynamics enabled learning partial differential equations.** Journal of Computational Physics, 2021. [paper](https://www.sciencedirect.com/science/article/pii/S0021999121000887)
+1. **Peridynamics enabled learning partial differential equations.** JCP, 2021. [paper](https://www.sciencedirect.com/science/article/pii/S0021999121000887)
 
    *Ali C.Bekar and Erdogan Madenci.*
 
-1. **Data-driven deep learning of partial differential equations in modal space.** Journal of Computational Physics, 2020. [paper](https://www.sciencedirect.com/science/article/pii/S0021999120300814)
+1. **Data-driven deep learning of partial differential equations in modal space.** JCP, 2020. [paper](https://www.sciencedirect.com/science/article/pii/S0021999120300814)
 
    *Kailiang Wu and Dongbin Xiu.*
 
-1. **DLGA-PDE: Discovery of PDEs with incomplete candidate library via combination of deep learning and genetic algorithm.** Journal of Computational Physics, 2020. [paper](https://www.sciencedirect.com/science/article/pii/S0021999120303582)
+1. **DLGA-PDE: Discovery of PDEs with incomplete candidate library via combination of deep learning and genetic algorithm.** JCP, 2020. [paper](https://www.sciencedirect.com/science/article/pii/S0021999120303582)
 
    *Hao Xu, Haibin Chang, and Dongxiao Zhang.*
 
@@ -1038,7 +1039,7 @@ Contributed by Chunyang Zhang.
 
    *Hao Xu and Dongxiao Zhang.*
 
-1. **Modeling the dynamics of PDE systems with physics-constrained deep auto-regressive networks.** Journal of Computational Physics, 2020. [paper](https://www.sciencedirect.com/science/article/pii/S0021999119307612)
+1. **Modeling the dynamics of PDE systems with physics-constrained deep auto-regressive networks.** JCP, 2020. [paper](https://www.sciencedirect.com/science/article/pii/S0021999119307612)
 
    *Nicholas Geneva and Nicholas Zabaras.*
 
@@ -1143,31 +1144,31 @@ Contributed by Chunyang Zhang.
 
    *Julius Berner, Markus Dablander, and Philipp Grohs.*
 
-1. **Nonlocal kernel network (NKN): A stable and resolution-independent deep neural network.** Journal of Computational Physics, 2022. [paper](https://www.sciencedirect.com/science/article/pii/S0021999122005988)
+1. **Nonlocal kernel network (NKN): A stable and resolution-independent deep neural network.** JCP, 2022. [paper](https://www.sciencedirect.com/science/article/pii/S0021999122005988)
 
    *Huaiqian You, Yue Yu, Marta D'Elia, Tian Gao, and Stewart Silling.*
 
-1. **On computing the hyperparameter of extreme learning machines: Algorithm and application to computational PDEs, and comparison with classical and high-order finite elements.** Journal of Computational Physics, 2022. [paper](https://www.sciencedirect.com/science/article/pii/S0021999122003527#!)
+1. **On computing the hyperparameter of extreme learning machines: Algorithm and application to computational PDEs, and comparison with classical and high-order finite elements.** JCP, 2022. [paper](https://www.sciencedirect.com/science/article/pii/S0021999122003527#!)
 
    *Suchuan Dong and Jielin Yang.*
 
-1. **Int-Deep: A deep learning initialized iterative method for nonlinear problems.** Journal of Computational Physics, 2022. [paper](https://www.sciencedirect.com/science/article/pii/S0021999120304496)
+1. **Int-Deep: A deep learning initialized iterative method for nonlinear problems.** JCP, 2022. [paper](https://www.sciencedirect.com/science/article/pii/S0021999120304496)
 
    *Jianguo Huang, Haoqin Wang, and Haizhao Yang.*
 
-1. **DeLISA: Deep learning based iteration scheme approximation for solving PDEs.** Journal of Computational Physics, 2022. [paper](https://www.sciencedirect.com/science/article/pii/S0021999121007798)
+1. **DeLISA: Deep learning based iteration scheme approximation for solving PDEs.** JCP, 2022. [paper](https://www.sciencedirect.com/science/article/pii/S0021999121007798)
 
    *Ying Li, Zuojia Zhou, and Shihui Ying.*
 
-1. **Physics-informed machine learning for reduced-order modeling of nonlinear problems.** Journal of Computational Physics, 2021. [paper](https://www.sciencedirect.com/science/article/pii/S0021999121005611)
+1. **Physics-informed machine learning for reduced-order modeling of nonlinear problems.** JCP, 2021. [paper](https://www.sciencedirect.com/science/article/pii/S0021999121005611)
 
    *Wenqian Chen, Qian Wang, Jan S.Hesthaven, and Chuhua Zhang.*
 
-1. **SelectNet: Self-paced learning for high-dimensional partial differential equations.** Journal of Computational Physics, 2021. [paper](https://www.sciencedirect.com/science/article/pii/S0021999121003399)
+1. **SelectNet: Self-paced learning for high-dimensional partial differential equations.** JCP, 2021. [paper](https://www.sciencedirect.com/science/article/pii/S0021999121003399)
 
    *Yiqi Gu, Haizhao Yang, and Chao Zhou.*
 
-1. **Deep least-squares methods: An unsupervised learning-based numerical method for solving elliptic PDEs.** Journal of Computational Physics, 2020. [paper](https://www.sciencedirect.com/science/article/pii/S0021999120304812)
+1. **Deep least-squares methods: An unsupervised learning-based numerical method for solving elliptic PDEs.** JCP, 2020. [paper](https://www.sciencedirect.com/science/article/pii/S0021999120304812)
 
    *Zhiqiang Cai, Jingshuang Chen, Min Liu, and Xinyu Liu.*
 
@@ -1187,7 +1188,7 @@ Contributed by Chunyang Zhang.
 
    *E. Samaniego, C. Anitescu, S.Goswami, V.M.Nguyen-Thanh, H.Guo, K.Hamdia, X.Zhuang, and T.Rabczuk.*
 
-1. **Reduced order modeling for parameterized time-dependent PDEs using spatially and memory aware deep learning.** Journal of Computational Physics, 2021. [paper](https://www.sciencedirect.com/science/article/pii/S1877750321000934)
+1. **Reduced order modeling for parameterized time-dependent PDEs using spatially and memory aware deep learning.** JCP, 2021. [paper](https://www.sciencedirect.com/science/article/pii/S1877750321000934)
 
    *Nikolaj T.Mücke, Sander M.Bohté, and Cornelis W.Oosterlee.*
 
@@ -1352,7 +1353,7 @@ Contributed by Chunyang Zhang.
 
    *Sifan Wang, Yujun Teng, and Paris Perdikaris.*
 
-1. **When and why PINNs fail to train: A neural tangent kernel perspective.** Journal of Computational Physics, 2022. [paper](https://www.sciencedirect.com/science/article/pii/S002199912100663X)
+1. **When and why PINNs fail to train: A neural tangent kernel perspective.** JCP, 2022. [paper](https://www.sciencedirect.com/science/article/pii/S002199912100663X)
 
    *SifanWang, XinlingYu, and Paris Perdikaris.*
 
@@ -1360,7 +1361,7 @@ Contributed by Chunyang Zhang.
 
    *Zheyuan Hu, Ameya D. Jagtap, George Em Karniadakis, and Kenji Kawaguchi.*
 
-1. **MARS: A method for the adaptive removal of stiffness in PDEs.** Journal of Computational Physics, 2022. [paper](https://www.sciencedirect.com/science/article/pii/S0021999122006878#!)
+1. **MARS: A method for the adaptive removal of stiffness in PDEs.** JCP, 2022. [paper](https://www.sciencedirect.com/science/article/pii/S0021999122006878#!)
 
    *Laurent Duchemin and Jen Eggers.*
 
@@ -1572,11 +1573,11 @@ Contributed by Chunyang Zhang.
 
    *Lu Lu, Haiyang He, Priya Kasimbeg, Rishikesh Ranade, and Jay Pathak.*
 
-1. **A metalearning approach for physics-informed neural networks (PINNs): Application to parameterized PDEs.** Journal of Computational Physics, 2023. [paper](https://www.sciencedirect.com/science/article/pii/S0021999123000074)
+1. **A metalearning approach for physics-informed neural networks (PINNs): Application to parameterized PDEs.** JCP, 2023. [paper](https://www.sciencedirect.com/science/article/pii/S0021999123000074)
 
    *Michael Penwarden, Shandian Zhe, Akil Narayan, and Robert M.Kirby.*
 
-1. **Meta-MgNet: Meta multigrid networks for solving parameterized partial differential equations.** Journal of Computational Physics, 2022. [paper](https://www.sciencedirect.com/science/article/pii/S0021999122000584)
+1. **Meta-MgNet: Meta multigrid networks for solving parameterized partial differential equations.** JCP, 2022. [paper](https://www.sciencedirect.com/science/article/pii/S0021999122000584)
 
    *Yuyan Chen, Bin Dong, and Jinchao Xu.*
 
@@ -1584,7 +1585,7 @@ Contributed by Chunyang Zhang.
 
    *Hengjie Wang, Robert Planas, Aparna Chandramowlishwaran, and Ramin Bostanabad.*
 
-1. **Meta-learning PINN loss functions.** Journal of Computational Physics, 2022. [paper](https://www.sciencedirect.com/science/article/pii/S0021999122001838)
+1. **Meta-learning PINN loss functions.** JCP, 2022. [paper](https://www.sciencedirect.com/science/article/pii/S0021999122001838)
 
    *Apostolos F Psaros,Kenji Kawaguchi, and George Em Karniadakis.*
 
@@ -1632,7 +1633,11 @@ Contributed by Chunyang Zhang.
 
    *Yanlai Chen and Shawn Koohy.*
 
-### [NAS](#content)
+1. **A metalearning approach for physics-informed neural networks (PINNs): Application to parameterized PDEs.** JCP, 2023. [paper](https://www.sciencedirect.com/science/article/pii/S0021999123000074)
+
+   *Michael Penwarden, Shandian Zhe, Akil Narayan, and Robert M. Kirby.*
+
+### [AutoML](#content)
 1. **Auto-PINN: Understanding and optimizing physics-informed neural architecture.** arXiv, 2022. [paper](https://arxiv.org/abs/2110.13361)
 
    *Yicheng Wang, Xiaotian Han, Chiayuan Chang, Daochen Zha, Ulisses Braga-Neto, and Xia Hu.*
@@ -1650,7 +1655,7 @@ Contributed by Chunyang Zhang.
    *Xinle Wu, Dalin Zhang, Miao Zhang, Chenjuan Guo, Shuai Zhao, Yi Zhang, Huai Wang, and Bin Yang.*
 
 ### [Sampling](#content)
-1. **ADLGM: An efficient adaptive sampling deep learning Galerkin method.** Journal of Computational Physics, 2023. [paper](https://www.sciencedirect.com/science/article/pii/S0021999123000396)
+1. **ADLGM: An efficient adaptive sampling deep learning Galerkin method.** JCP, 2023. [paper](https://www.sciencedirect.com/science/article/pii/S0021999123000396)
 
    *Andreas C.Aristotelous, Edward C.Mitchell, and Vasileios Maroulasb.*
 
@@ -1681,6 +1686,10 @@ Contributed by Chunyang Zhang.
 1. **Physics-informed neural networks with residual/gradient-based adaptive sampling methods for solving PDEs with sharp solutions.** arXiv, 2023. [paper](https://arxiv.org/abs/2302.08035)
 
    *Zhiping Mao and  Xuhui Meng.*
+
+1. **Active learning based sampling for high-dimensional nonlinear partial differential equations.** JCP, 2023. [paper](https://www.sciencedirect.com/science/article/pii/S0021999122009111)
+
+   *Wenhan Gao and Chunmei Wang.*
 
 ### [Latent Space](#content)
 1. **Multiscale simulations of complex systems by learning their effective dynamics.** NMI, 2022. [paper](https://www.nature.com/articles/s42256-022-00464-w)
@@ -1716,11 +1725,11 @@ Contributed by Chunyang Zhang.
    *Katiana Kontolati, Somdatta Goswami, George Em Karniadakis, and Michael D. Shields.*
 
 ### [Loss Function](#content)
-1. **Adaptive activation functions accelerate convergence in deep and physics-informed neural networks.** Journal of Computational Physics, 2021. [paper](https://www.sciencedirect.com/science/article/pii/S0021999119308411)
+1. **Adaptive activation functions accelerate convergence in deep and physics-informed neural networks.** JCP, 2021. [paper](https://www.sciencedirect.com/science/article/pii/S0021999119308411)
 
    *Ameya D.Jagtap, KenjiKawaguchi, and George Em Karniadakis.*
 
-1. **Adaptive deep neural networks methods for high-dimensional partial differential equations.** Journal of Computational Physics, 2022. [paper](https://www.sciencedirect.com/science/article/pii/S0021999122002947#)
+1. **Adaptive deep neural networks methods for high-dimensional partial differential equations.** JCP, 2022. [paper](https://www.sciencedirect.com/science/article/pii/S0021999122002947#)
 
    *Shaojie Zeng, Zong Zhang, and Qingsong Zou.*
 
@@ -1851,11 +1860,11 @@ Contributed by Chunyang Zhang.
 
    *Md Ashiqur Rahman, Manuel A Florez, Anima Anandkumar, Zachary E Ross, and Kamyar Azizzadenesheli.*
 
-1. **Weak adversarial networks for high-dimensional partial differential equations.** Journal of Computational Physics, 2020. [paper](https://www.sciencedirect.com/science/article/pii/S0021999120301832)
+1. **Weak adversarial networks for high-dimensional partial differential equations.** JCP, 2020. [paper](https://www.sciencedirect.com/science/article/pii/S0021999120301832)
 
    *Yaohua Zang, Gang Bao, Xiaojing Ye, and Haomin Zhou.*
 
-1. **Wasserstein generative adversarial uncertainty quantification in physics-informed neural networks.** Journal of Computational Physics, 2022. [paper](https://www.sciencedirect.com/science/article/pii/S0021999122003321)
+1. **Wasserstein generative adversarial uncertainty quantification in physics-informed neural networks.** JCP, 2022. [paper](https://www.sciencedirect.com/science/article/pii/S0021999122003321)
 
    *Yihang Gao and Michael K. Ng.*
 
@@ -1891,7 +1900,7 @@ Contributed by Chunyang Zhang.
 
    *Jakiw Pidstrigach, Youssef Marzouk, Sebastian Reich, and Sven Wang.*
 
-1. **A physics-informed diffusion model for high-fidelity flow field reconstruction.** Journal of Computational Physics, 2023. [paper](https://www.sciencedirect.com/science/article/pii/S0021999123000670)
+1. **A physics-informed diffusion model for high-fidelity flow field reconstruction.** JCP, 2023. [paper](https://www.sciencedirect.com/science/article/pii/S0021999123000670)
 
    *Dule Shu, Zijie Li, and Amir Barati Farimani.*
 
@@ -1916,11 +1925,11 @@ Contributed by Chunyang Zhang.
 
    *Jiahao Zhang, Shiqi Zhang, and Guang Lin.*
 
-1. **Solving and learning nonlinear PDEs with Gaussian processes.** Journal of Computational Physics, 2021. [paper](https://www.sciencedirect.com/science/article/pii/S0021999121005635)
+1. **Solving and learning nonlinear PDEs with Gaussian processes.** JCP, 2021. [paper](https://www.sciencedirect.com/science/article/pii/S0021999121005635)
 
    *Yifan Chen, Bamdad Hosseini, Houman Owhadi, and Andrew M.Stuart.*
 
-1. **Neural-net-induced Gaussian process regression for function approximation and PDE solution.** Journal of Computational Physics, 2019. [paper](https://www.sciencedirect.com/science/article/pii/S0021999119301032)
+1. **Neural-net-induced Gaussian process regression for function approximation and PDE solution.** JCP, 2019. [paper](https://www.sciencedirect.com/science/article/pii/S0021999119301032)
 
    *Guofei Pang, Liu Yang, and George Em Karniadakis.*
 
@@ -1965,7 +1974,7 @@ Contributed by Chunyang Zhang.
 
    *Eric Heiden, David Millard, Erwin Coumans, Yizhou Sheng, and Gaurav S. Sukhatme.*
 
-1. **DPM: A deep learning PDE augmentation method with application to large-eddy simulation.** Journal of Computational Physics, 2020. [paper](https://www.sciencedirect.com/science/article/pii/S0021999120305854)
+1. **DPM: A deep learning PDE augmentation method with application to large-eddy simulation.** JCP, 2020. [paper](https://www.sciencedirect.com/science/article/pii/S0021999120305854)
 
    *Justin Sirignano, Jonathan F.MacArt, and Jonathan B.Freund.*
 
@@ -2011,11 +2020,11 @@ Contributed by Chunyang Zhang.
    *Xuhui Meng.*
 
 ### [Bayesian](#content)
-1. **Bayesian deep learning for partial differential equation parameter discovery with sparse and noisy data.** Journal of Computational Physics: X, 2022. [paper](https://www.sciencedirect.com/science/article/pii/S2590055222000117?via%3Dihub)
+1. **Bayesian deep learning for partial differential equation parameter discovery with sparse and noisy data.** JCP: X, 2022. [paper](https://www.sciencedirect.com/science/article/pii/S2590055222000117?via%3Dihub)
 
    *Christophe Bonneville and Christopher Earls.*
 
-1. **B-PINNs: Bayesian physics-informed neural networks for forward and inverse PDE problems with noisy data.** Journal of Computational Physics, 2021. [paper](https://www.sciencedirect.com/science/article/pii/S0021999120306872)
+1. **B-PINNs: Bayesian physics-informed neural networks for forward and inverse PDE problems with noisy data.** JCP, 2021. [paper](https://www.sciencedirect.com/science/article/pii/S0021999120306872)
 
    *Liu Yang, Xuhui Meng, and George Em Karniadakis.*
 
@@ -2045,15 +2054,15 @@ Contributed by Chunyang Zhang.
 
    *Dongkun Zhang, Lu Lu, Ling Guo, and George Em Karniadakis.*
 
-1. **Adversarial uncertainty quantification in physics-informed neural networks.** Journal of Computational Physics, 2021. [paper](https://www.sciencedirect.com/science/article/pii/S0021999119303584)
+1. **Adversarial uncertainty quantification in physics-informed neural networks.** JCP, 2021. [paper](https://www.sciencedirect.com/science/article/pii/S0021999119303584)
 
    *Yibo Yang and Paris Perdikaris.*
 
-1. **Conditional Karhunen-Loève expansion for uncertainty quantification and active learning in partial differential equation models.** Journal of Computational Physics, 2020. [paper](https://www.sciencedirect.com/science/article/pii/S0021999120303788)
+1. **Conditional Karhunen-Loève expansion for uncertainty quantification and active learning in partial differential equation models.** JCP, 2020. [paper](https://www.sciencedirect.com/science/article/pii/S0021999120303788)
 
    *Ramakrishna Tipireddy, David A.Barajas-Solano, and Alexandre M.Tartakovsky.*
 
-1. **Physics-constrained deep learning for high-dimensional surrogate modeling and uncertainty quantification without labeled data.** Journal of Computational Physics, 2019. [paper](https://www.sciencedirect.com/science/article/pii/S0021999119303559)
+1. **Physics-constrained deep learning for high-dimensional surrogate modeling and uncertainty quantification without labeled data.** JCP, 2019. [paper](https://www.sciencedirect.com/science/article/pii/S0021999119303559)
 
    *Yinhao Zhu, Nicholas Zabarasa, Phaedon-Stelios Koutsourelakisb, and Paris Perdikaris.*
 
@@ -2073,6 +2082,10 @@ Contributed by Chunyang Zhang.
 
    *Hyomin Shin and Minseok Choi.*
 
+1. **Uncertainty quantification in scientific machine learning: Methods, metrics, and comparisons.** JCP, 2023. [paper](https://www.sciencedirect.com/science/article/pii/S0021999122009652)
+
+   *Apostolos F. Psaros, Xuhui Meng, Zongren Zou, Ling Guo, and George Em Karniadakis.*
+
 ### [Active Learning](#content)
 1. **Neural Galerkin scheme with active learning for high-dimensional evolution equations.** arXiv, 2022. [paper](https://arxiv.org/abs/2203.01360)
 
@@ -2082,7 +2095,7 @@ Contributed by Chunyang Zhang.
 
    *Ethan Pickering, Stephen Guth, George Em Karniadakis, and Themistoklis P. Sapsis.*
 
-1. **Active learning based sampling for high-dimensional nonlinear partial differential equations.** Journal of Computational Physics, 2023. [paper](https://www.sciencedirect.com/science/article/pii/S0021999122009111)
+1. **Active learning based sampling for high-dimensional nonlinear partial differential equations.** JCP, 2023. [paper](https://www.sciencedirect.com/science/article/pii/S0021999122009111)
 
    *Wenhan Gao and Chunmei Wang.*
 
@@ -2091,11 +2104,11 @@ Contributed by Chunyang Zhang.
 
    *Yuying Liu, J. Nathan Kutz, and Steven L. Brunton.*
 
-1. **NH-PINN: Neural homogenization-based physics-informed neural network for multiscale problems.** Journal of Computational Physics, 2022. [paper](https://www.sciencedirect.com/science/article/pii/S0021999122006015)
+1. **NH-PINN: Neural homogenization-based physics-informed neural network for multiscale problems.** JCP, 2022. [paper](https://www.sciencedirect.com/science/article/pii/S0021999122006015)
 
    *Wing Tat Leung, Guang Lin, and Zecheng Zhang.*
 
-1. **Deep multiscale model learning.** Journal of Computational Physics, 2020. [paper](https://www.sciencedirect.com/science/article/pii/S0021999119307764)
+1. **Deep multiscale model learning.** JCP, 2020. [paper](https://www.sciencedirect.com/science/article/pii/S0021999119307764)
 
    *Yating Wang, Siu Wun Cheung, Eric T.Chung, Yalchin Efendiev, and Min Wang.*
 
@@ -2112,11 +2125,11 @@ Contributed by Chunyang Zhang.
 
    *Amanda A. Howard, Mauro Perego, George Em Karniadakis, and Panos Stinis.*
 
-1. **Physics and equality constrained artificial neural networks: Application to forward and inverse problems with multi-fidelity data fusion.** Journal of Computational Physics, 2022. [paper](https://dl.acm.org/doi/abs/10.1016/j.jcp.2022.111301)
+1. **Physics and equality constrained artificial neural networks: Application to forward and inverse problems with multi-fidelity data fusion.** JCP, 2022. [paper](https://dl.acm.org/doi/abs/10.1016/j.jcp.2022.111301)
 
    *Lulu Zhang, Tao Luo, Yaoyu Zhang, Weinan E, Zhiqin John Xu, and Zheng Ma.*
 
-1. **A composite neural network that learns from multi-fidelity data: Application to function approximation and inverse PDE problems.** Journal of Computational Physics, 2020. [paper](https://www.sciencedirect.com/science/article/pii/S0021999119307260)
+1. **A composite neural network that learns from multi-fidelity data: Application to function approximation and inverse PDE problems.** JCP, 2020. [paper](https://www.sciencedirect.com/science/article/pii/S0021999119307260)
 
    *Xuhui Meng and George Em Karniadakis.*
 
@@ -2140,7 +2153,7 @@ Contributed by Chunyang Zhang.
 
    *Nicola Demo, Maria Strazzullo, and Gianluigi Rozza.*
 
-1. **Optimal control of PDEs using physics-informed neural networks.** Journal of Computational Physics, 2023. [paper](https://www.sciencedirect.com/science/article/pii/S002199912200794X)
+1. **Optimal control of PDEs using physics-informed neural networks.** JCP, 2023. [paper](https://www.sciencedirect.com/science/article/pii/S002199912200794X)
 
    *Saviz Mowlavi and Saleh Nabi.*
 
@@ -2192,16 +2205,20 @@ Contributed by Chunyang Zhang.
 
    *Zhiyu Zhang, Ashok Cutkosky, and Ioannis Paschalidis.*
 
+1. **PDE-constrained models with neural network terms: Optimization and global convergence.** JCP, 2023. [paper](https://www.sciencedirect.com/science/article/pii/S0021999123001110)
+
+   *Justin Sirignano, Jonathan MacArt, and Konstantinos Spiliopoulos.*
+
 ### [Fluid](#content)
 1. **Physics-informed neural networks (PINNs) for fluid mechanics: A review.** Acta Mechanica Sinica, 2021. [paper](https://link.springer.com/article/10.1007/s10409-021-01148-1)
 
    *Shengze Cai, Zhiping Mao, Zhicheng Wang, Minglang Yin, and George Em Karniadakis.*
 
-1. **Neural operator prediction of linear instability waves in high-speed boundary layers.** Journal of Computational Physics, 2022. [paper](https://www.sciencedirect.com/science/article/pii/S0021999122008567)
+1. **Neural operator prediction of linear instability waves in high-speed boundary layers.** JCP, 2022. [paper](https://www.sciencedirect.com/science/article/pii/S0021999122008567)
 
    *Patricio Clark Di Leoni, Lu Lu, Charles Meneveau, George Karniadakis, and Tamer A. Zaki.*
 
-1. **A physics-informed convolutional neural network for the simulation and prediction of two-phase darcy flows in heterogeneous porous media.** Journal of Computational Physics, 2023. [paper](https://www.sciencedirect.com/science/article/pii/S0021999123000141)
+1. **A physics-informed convolutional neural network for the simulation and prediction of two-phase darcy flows in heterogeneous porous media.** JCP, 2023. [paper](https://www.sciencedirect.com/science/article/pii/S0021999123000141)
 
    *Zhao Zhang, Xia Yan, Piyang Liu, Kai Zhang, Renmin Han, and Sheng Wang.*
 
@@ -2241,7 +2258,7 @@ Contributed by Chunyang Zhang.
 
    *Rohit Supekar, Boya Song, Alasdair Hastewell, Gary P. T. Choi, Alexander Mietke, and Jörn Dunkel.*
 
-1. **Physics informed neural networks: A case study for gas transport problems.** Journal of Computational Physics, 2023. [paper](https://www.sciencedirect.com/science/article/pii/S0021999123001365)
+1. **Physics informed neural networks: A case study for gas transport problems.** JCP, 2023. [paper](https://www.sciencedirect.com/science/article/pii/S0021999123001365)
 
    *Erik Laurin Strelow, Alf Gerisch, Jens Lang, and Marc E. Pfetsch.*
 
@@ -2392,7 +2409,7 @@ Contributed by Chunyang Zhang.
 
    *Roberto Molinaro, Yunan Yang, Björn Engquist, and Siddhartha Mishra.*
 
-1. **Physics-informed Karhunen-Loéve and neural network approximations for solving inverse differential equation problems.** Journal of Computational Physics, 2022. [paper](https://www.sciencedirect.com/science/article/pii/S0021999122002923)
+1. **Physics-informed Karhunen-Loéve and neural network approximations for solving inverse differential equation problems.** JCP, 2022. [paper](https://www.sciencedirect.com/science/article/pii/S0021999122002923)
 
    *Jing Li and Alexandre M.Tartakovsky.*
 
@@ -2404,7 +2421,7 @@ Contributed by Chunyang Zhang.
 
    *Lu Lu, Raphaël Pestourie, Wenjie Yao, Zhicheng Wang, Francesc Verdugo, and Steven G. Johnson.*
 
-1. **Physics-informed neural networks: A deep learning framework for solving forward and inverse problems involving nonlinear partial differential equations.** Journal of Computational Physics, 2019. [paper](https://www.sciencedirect.com/science/article/pii/S0021999118307125)
+1. **Physics-informed neural networks: A deep learning framework for solving forward and inverse problems involving nonlinear partial differential equations.** JCP, 2019. [paper](https://www.sciencedirect.com/science/article/pii/S0021999118307125)
 
    *M.Raissia, P.Perdikarisb, and George Em Karniadakis.*
 
