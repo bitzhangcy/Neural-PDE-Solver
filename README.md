@@ -398,6 +398,10 @@ Contributed by Chunyang Zhang.
 
    *Aleksandr Dekhovich, Marcel H.F. Sluiter, David M.J. Tax, and Miguel A. Bessa.*
 
+1. **Global convergence of deep Galerkin and PINNs methods for solving partial differential equations.** arXiv, 2023. [paper](https://arxiv.org/abs/2305.06000v1)
+
+   *Deqing Jiang, Justin Sirignano, and Samuel N. Cohen.*
+
 ### [DeepONet](#content)
 1. **Learning nonlinear operators via DeepONet based on the universal approximation theorem of operators.** NMI, 2021. [paper](https://www.nature.com/articles/s42256-021-00302-5)
 
@@ -1842,6 +1846,10 @@ Contributed by Chunyang Zhang.
 1. **Learning controllable adaptive simulation for multi-resolution physics.** ICLR, 2023. [paper](https://openreview.net/forum?id=PbfgkZ2HdbE)
 
    *Tailin Wu, Takashi Maruyama, Qingqing Zhao, Gordon Wetzstein, and  Jure Leskovec.*
+
+1. **A closest point method for surface PDEs with interior boundary conditions for geometry processing.** arXiv, 2023. [paper](https://arxiv.org/abs/2305.04711)
+
+   *Nathan King, Haozhe Su, Mridul Aanjaneya, Steven Ruuth, and Christopher Batty.*
 
 ### [Generative Model](#content)
 1. **A framework for data-driven solution and parameter estimation of PDEs using conditional generative adversarial networks.** NCS, 2021. [paper](https://www.nature.com/articles/s43588-021-00171-3)
