@@ -2412,6 +2412,10 @@ Contributed by Chunyang Zhang.
 
    *Philipp Holl, Nils Thuerey, and Vladlen Koltun.*
 
+1. **A generalizable physics-informed learning framework for risk probability estimation.** L4DC, 2020. [paper](https://arxiv.org/abs/2305.06432)
+
+   *Zhuoyuan Wang and Yorie Nakahira.*
+
 ### [Inverse Design](#content)
 1. **DPM: Physics-informed Karhunen-Loéve and neural network approximations for solving inverse differential equation problems.** AAAI, 2021. [paper](https://ojs.aaai.org/index.php/AAAI/article/view/16992/16799)
 
