@@ -2320,6 +2320,10 @@ Contributed by Chunyang Zhang.
 
    *Yan Yang, Angela F. Gao, Kamyar Azizzadenesheli, Robert W. Clayton, and Zachary E. Ross.*
 
+1. **Modelling atmospheric dynamics with spherical Fourier neural operators.** ICLR, 2023. [paper](https://s3.us-east-1.amazonaws.com/climate-change-ai/papers/iclr2023/47/paper.pdf)
+
+   *Boris Bonev, Thorsten Kurth, Christian Hundt, Jaideep Pathak, Maximilian Baust, Karthik Kashinath, and Anima Anandkumar.*
+
 ### [Image](#content)
 1. **Learning to diffuse: A new perspective to design PDEs for visual analysis.** TPAMI, 2016. [paper](https://ieeexplore.ieee.org/document/7393839)
 
