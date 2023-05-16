@@ -673,9 +673,13 @@ Contributed by Chunyang Zhang.
 
    *Artur P. Toshev, Gianluca Galletti, Johannes Brandstetter, Stefan Adami, and Nikolaus A. Adams.*
 
-1. **long-short-range message-passing: A physics-informed framework to capture non-local interaction for scalable molecular dynamics simulation.** arXiv, 2023. [paper](https://arxiv.org/abs/2304.13542)
+1. **Long-short-range message-passing: A physics-informed framework to capture non-local interaction for scalable molecular dynamics simulation.** arXiv, 2023. [paper](https://arxiv.org/abs/2304.13542)
 
    *Yunyang Li, Yusong Wang, Lin Huang, Han Yang, Xinran Wei, Jia Zhang, Tong Wang, Zun Wang, Bin Shao, and Tieyan Liu.*
+
+1. **A graph convolutional autoencoder approach to model order reduction for parametrized PDEs.** arXiv, 2023. [paper](https://arxiv.org/abs/2305.08573)
+
+   *Federico Pichi, Beatriz Moya, and Jan S. Hesthaven.*
 
 ### [Green Function](#content)
 1. **Learning Green's functions associated with time-dependent partial differential equations.** JMLR, 2022. [paper](https://www.jmlr.org/papers/volume23/22-0433/22-0433.pdf)
@@ -1119,6 +1123,10 @@ Contributed by Chunyang Zhang.
 
    *George Stepaniants.*
 
+1. **Finite expression methods for discovering physical laws from data.** arXiv, 2023. [paper](https://arxiv.org/abs/2305.08342)
+
+   *Zhongyi Jiang, Chunmei Wang, and Haizhao Yang.*
+
 ### [Machine Learning](#content)
 1. **Machine learning–accelerated computational fluid dynamics.** PNAS, 2021. [paper](https://www.pnas.org/doi/10.1073/pnas.2101784118)
 
@@ -1465,9 +1473,13 @@ Contributed by Chunyang Zhang.
 
    *Yiping Lu, Haoxuan Chen, Jianfeng Lu, Lexing Ying, and Jose Blanchet.* 
 
-1. **Probing optimisation in physics-informed neural networks.** ICLR, 2023. [paper](https://arxiv.org/abs/2303.15196v1)
+1. **Probing optimisation in physics-informed neural networks.** ICLR, 2023. [paper](https://arxiv.org/abs/2303.15196)
 
-   *Nayara Fonseca, Veronica Guidetti, and Will Trojak.* 
+   *Nayara Fonseca, Veronica Guidetti, and Will Trojak.*
+
+1. **Nearly optimal VC-dimension and Pseudo-dimension bounds for deep neural network derivatives.** arXiv, 2023. [paper](https://arxiv.org/abs/2305.08466)
+
+   *Yahong Yang, Haizhao Yang, and Yang Xiang.*
 
 ### [Attention](#content)
 1. **Learning operators with coupled attention.** JMLR, 2022. [paper](https://www.jmlr.org/papers/v23/21-1521.html) 
@@ -1525,6 +1537,10 @@ Contributed by Chunyang Zhang.
 1. **Learning neural PDE solvers with parameter-guided channel attention.** ICML, 2023. [paper](https://arxiv.org/abs/2304.14118) 
 
    *Makoto Takamoto, Francesco Alesiani, and Mathias Niepert.*
+
+1. **Physics informed token Transformer.** arXiv, 2023. [paper](https://arxiv.org/abs/2305.08757) 
+
+   *Cooper Lorsung, Zijie Li, and Amir Barati Farimani.*
 
 ### [Neural Implicit Flow](#content)
 1. **Neural implicit flow: A mesh-agnostic dimensionality reduction paradigm of spatio-temporal data.** arXiv, 2022. [paper](https://arxiv.org/abs/2204.03216) 
@@ -1640,6 +1656,10 @@ Contributed by Chunyang Zhang.
 1. **A metalearning approach for physics-informed neural networks (PINNs): Application to parameterized PDEs.** JCP, 2023. [paper](https://www.sciencedirect.com/science/article/pii/S0021999123000074)
 
    *Michael Penwarden, Shandian Zhe, Akil Narayan, and Robert M. Kirby.*
+
+1. **Gradient-enhanced physics-informed neural networks based on transfer learning for inverse problems of the variable coefficient differential equations.** arXiv, 2023. [paper](https://arxiv.org/abs/2305.08310)
+
+   *Shuning Lin and Yong Chen.*
 
 ### [AutoML](#content)
 1. **Auto-PINN: Understanding and optimizing physics-informed neural architecture.** arXiv, 2022. [paper](https://arxiv.org/abs/2110.13361)
@@ -1927,6 +1947,10 @@ Contributed by Chunyang Zhang.
 1. **ViTO: Vision Transformer-operator.** arXiv, 2023. [paper](https://arxiv.org/abs/2303.08891)
 
    *Oded Ovadia, Adar Kahana, Panos Stinis, Eli Turkel, and George Em Karniadakis.*
+
+1. **LatentPINNs: Generative physics-informed neural networks via a latent representation learning.** arXiv, 2023. [paper](https://arxiv.org/abs/2305.07671)
+
+   *Mohammad H. Taufik and Tariq Alkhalifah.*
 
 ### [Gaussian Process](#content)
 1. **PAGP: A physics-assisted Gaussian process framework with active learning for forward and inverse problems of partial differential equations.** arXiv, 2022. [paper](https://arxiv.org/abs/2204.02583)
