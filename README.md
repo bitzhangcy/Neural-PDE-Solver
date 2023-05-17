@@ -1127,6 +1127,10 @@ Contributed by Chunyang Zhang.
 
    *Zhongyi Jiang, Chunmei Wang, and Haizhao Yang.*
 
+1. **Physics-informed representation learning for emergent organization in complex dynamical systems.** arXiv, 2023. [paper](https://arxiv.org/abs/2304.12586)
+
+   *Adam Rupe, Karthik Kashinath, Nalini Kumar, and James P. Crutchfield.*
+
 ### [Machine Learning](#content)
 1. **Machine learning–accelerated computational fluid dynamics.** PNAS, 2021. [paper](https://www.pnas.org/doi/10.1073/pnas.2101784118)
 
