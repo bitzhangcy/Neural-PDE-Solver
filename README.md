@@ -398,7 +398,11 @@ Contributed by Chunyang Zhang.
 
    *Aleksandr Dekhovich, Marcel H.F. Sluiter, David M.J. Tax, and Miguel A. Bessa.*
 
-1. **Global convergence of deep Galerkin and PINNs methods for solving partial differential equations.** arXiv, 2023. [paper](https://arxiv.org/abs/2305.06000v1)
+1. **Global convergence of deep Galerkin and PINNs methods for solving partial differential equations.** arXiv, 2023. [paper](https://arxiv.org/abs/2305.06000)
+
+   *Francisco Eiras, Adel Bibi, Rudy Bunel, Krishnamurthy Dj Dvijotham, Philip Torr, and M. Pawan Kumar.*
+
+1. **Provably correct physics-informed neural networks.** arXiv, 2023. [paper](https://arxiv.org/abs/2305.10157)
 
    *Deqing Jiang, Justin Sirignano, and Samuel N. Cohen.*
 
@@ -1263,6 +1267,10 @@ Contributed by Chunyang Zhang.
 1. **Pseudo-Hamiltonian neural networks for learning partial differential equations.** arXiv, 2023. [paper](https://arxiv.org/abs/2304.14374)
 
    *Sølve Eidnes and Kjetil Olsen Lye.*
+
+1. **SHoP: A deep learning framework for solving high-order partial differential equations.** arXiv, 2023. [paper](https://arxiv.org/abs/2305.10033)
+
+   *Tingxiong Xiao, Runzhao Yang, Yuxiao Cheng, Jinli Suo, and Qionghai Dai.*
 
 ### [Neural ODE](#content)
 1. **Neural rough differential equations for long time series.** ICML, 2021. [paper](http://proceedings.mlr.press/v139/morrill21b.html)
@@ -2364,6 +2372,10 @@ Contributed by Chunyang Zhang.
 1. **WarpPINN: Cine-MR image registration with physics-informed neural networks.** arXiv, 2022. [paper](https://arxiv.org/abs/2211.12549)
 
    *Pablo Arratia Lopez, Hernan Mella, Sergio Uribe, Daniel E. Hurtado, and Francisco Sahli Costabal.*
+
+1. **NODE-ImgNet: a PDE-informed effective and robust model for image denoising.** arXiv, 2023. [paper](https://arxiv.org/abs/2305.11049)
+
+   *Xinheng Xie, Yue Wu, Hao Nib, and Cuiyu He.*
 
 ### [Mechanics](#content)
 1. **Wavelet neural operator for solving parametric partial differential equations in computational mechanics problems.** Computer Methods in Applied Mechanics and Engineering, 2022. [paper](https://www.sciencedirect.com/science/article/pii/S0045782522007393)
