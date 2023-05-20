@@ -1690,6 +1690,10 @@ Contributed by Chunyang Zhang.
 
    *Xinle Wu, Dalin Zhang, Miao Zhang, Chenjuan Guo, Shuai Zhao, Yi Zhang, Huai Wang, and Bin Yang.*
 
+1. **NAS-PINN: Neural architecture search-guided physics-informed neural network for solving PDEs.** arXiv, 2023. [paper](https://arxiv.org/abs/2305.10127)
+
+   *Yifan Wang and Linlin Zhong.*
+
 ### [Sampling](#content)
 1. **ADLGM: An efficient adaptive sampling deep learning Galerkin method.** JCP, 2023. [paper](https://www.sciencedirect.com/science/article/pii/S0021999123000396)
 
