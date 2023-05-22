@@ -669,11 +669,11 @@ Contributed by Chunyang Zhang.
 
    *Matthieu Nastorg, Michele-Alessandro Bucci, Thibault Faney, Jean-Marc Gratien, Guillaume Charpiat, and Marc Schoenauer.*
 
-1. **GNN-based physics solver for time-independent PDEs.** arXiv, 2023. [paper](https://arxiv.org/abs/2303.15681v1)
+1. **GNN-based physics solver for time-independent PDEs.** arXiv, 2023. [paper](https://arxiv.org/abs/2303.15681)
 
    *Rini Jasmine Gladstone, Helia Rahmani, Vishvas Suryakumar, Hadi Meidani, Marta D'Elia, and Ahmad Zareei.*
 
-1. **E(3) equivariant graph neural networks for particle-based fluid mechanics.** ICLR, 2023. [paper](https://arxiv.org/abs/2304.00150v1)
+1. **E(3) equivariant graph neural networks for particle-based fluid mechanics.** ICLR, 2023. [paper](https://arxiv.org/abs/2304.00150)
 
    *Artur P. Toshev, Gianluca Galletti, Johannes Brandstetter, Stefan Adami, and Nikolaus A. Adams.*
 
@@ -1252,7 +1252,7 @@ Contributed by Chunyang Zhang.
 
    *Sutanu Bhowmick, Satish Nagarajaiah, and Anastasios Kyrillidis.*
 
-1. **Invariant preservation in machine learned PDE solvers via error correction.** arXiv, 2023. [paper](https://arxiv.org/abs/2303.16110v1)
+1. **Invariant preservation in machine learned PDE solvers via error correction.** arXiv, 2023. [paper](https://arxiv.org/abs/2303.16110)
 
    *Nick McGreivy and Ammar Hakim.*
 
@@ -1324,6 +1324,10 @@ Contributed by Chunyang Zhang.
 1. **Characteristic neural ordinary differential equation.** ICLR, 2023. [paper](https://openreview.net/forum?id=loIfC8WHevK)
 
    *Xingzi Xu, Ali Hasan, Khalil Elkhalil, Jie Ding, and Vahid Tarokh.*
+
+1. **Efficient certified training and robustness verification of neural ODEs.** ICLR, 2023. [paper](https://openreview.net/forum?id=KyoVpYvWWnK)
+
+   *Mustafa Zeqiri, Mark Niklas Mueller, Marc Fischer, and Martin Vechev.*
 
 1. **Efficient certified training and robustness verification of neural ODEs.** ICLR, 2023. [paper](https://openreview.net/forum?id=KyoVpYvWWnK)
 
@@ -1797,7 +1801,7 @@ Contributed by Chunyang Zhang.
 
    *Ye Li, Songcan Chen, and Shengjun Huang.*
 
-1. **About optimal loss function for training physics-informed neural networks under respecting causality.** arXiv, 2023. [paper](https://arxiv.org/abs/2304.02282v1)
+1. **About optimal loss function for training physics-informed neural networks under respecting causality.** arXiv, 2023. [paper](https://arxiv.org/abs/2304.02282)
 
    *Vasiliy A. Es'kin, Danil V. Davydov, Ekaterina D. Egorova, Alexey O. Malkhanov, Mikhail A. Akhukov, and Mikhail E. Smorkalov.*
 
@@ -2256,6 +2260,10 @@ Contributed by Chunyang Zhang.
 1. **PDE-constrained models with neural network terms: Optimization and global convergence.** JCP, 2023. [paper](https://www.sciencedirect.com/science/article/pii/S0021999123001110)
 
    *Justin Sirignano, Jonathan MacArt, and Konstantinos Spiliopoulos.*
+
+1. **Topology optimization using neural networks with conditioning field initialization for improved efficiency.** arXiv, 2023. [paper](https://arxiv.org/abs/2305.10460)
+
+   *Hongrui Chen, Aditya Joglekar, and Levent Burak Kara.*
 
 ### [Fluid](#content)
 1. **Physics-informed neural networks (PINNs) for fluid mechanics: A review.** Acta Mechanica Sinica, 2021. [paper](https://link.springer.com/article/10.1007/s10409-021-01148-1)
