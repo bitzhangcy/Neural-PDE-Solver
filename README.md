@@ -1972,6 +1972,10 @@ Contributed by Chunyang Zhang.
 
    *Mohammad H. Taufik and Tariq Alkhalifah.*
 
+1. **Generative diffusion learning for parametric partial differential equations.** arXiv, 2023. [paper](https://arxiv.org/abs/2305.14703)
+
+   *Ting Wang, Petr Plechac, and Jaroslaw Knap.*
+
 ### [Gaussian Process](#content)
 1. **PAGP: A physics-assisted Gaussian process framework with active learning for forward and inverse problems of partial differential equations.** arXiv, 2022. [paper](https://arxiv.org/abs/2204.02583)
 
