@@ -2476,6 +2476,10 @@ Contributed by Chunyang Zhang.
 
    *Zhuoyuan Wang and Yorie Nakahira.*
 
+1. **Operator learning for nonlinear adaptive control.** L4DC, 2023. [paper](https://lukebhan.com/l4dc2023.pdf)
+
+   *Luke Bhan, Yuanyuan Shi and Miroslav Krstic.*
+
 ### [Inverse Design](#content)
 1. **DPM: Physics-informed Karhunen-Loéve and neural network approximations for solving inverse differential equation problems.** AAAI, 2021. [paper](https://ojs.aaai.org/index.php/AAAI/article/view/16992/16799)
 
