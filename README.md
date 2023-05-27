@@ -102,10 +102,15 @@ Contributed by Chunyang Zhang.
     <td>&ensp;<a href="#quantum">4.10 Quantum</a></td>
 </tr> 
 <tr>
-    <td>&ensp;<a href="#game-theory">4.11 Game Theory</a></td>
-    <td>&ensp;<a href="#manufacturing">4.12 Manufacturing</a></td>
+    <td>&ensp;<a href="#climate">4.11 Climate</a></td>
+    <td>&ensp;<a href="#game-theory">4.12 Game Theory</a></td>
+</tr>
+<tr>
+    <td>&ensp;<a href="#manufacturing">4.13 Manufacturing</a></td>
+    <td>&ensp;<a href="#"></a></td>
 </tr> 
 </table>
+
 
 
 
@@ -1497,6 +1502,10 @@ Contributed by Chunyang Zhang.
 
    *Yahong Yang, Haizhao Yang, and Yang Xiang.*
 
+1. **PDE+: Enhancing generalization via PDE with adaptive distributional diffusion.** arXiv, 2023. [paper](https://arxiv.org/abs/2305.15835)
+
+   *Yige Yuan, Bingbing Xu, Bo Lin, Liang Hou, Fei Sun, Huawei Shen, and Xueqi Cheng.*
+
 ### [Attention](#content)
 1. **Learning operators with coupled attention.** JMLR, 2022. [paper](https://www.jmlr.org/papers/v23/21-1521.html) 
 
@@ -2336,17 +2345,9 @@ Contributed by Chunyang Zhang.
    *Matthieu Barreau, John Liu, and Karl Henrik Johansson.*
 
 ### [Physics](#content)
-1. **FourCastNet: A global data-driven high-resolution weather model using adaptive Fourier neural operators.** arXiv, 2022. [paper](https://arxiv.org/abs/2202.11214)
-
-   *Jaideep Pathak, Shashank Subramanian, Peter Harrington, Sanjeev Raja, Ashesh Chattopadhyay, Morteza Mardani, Thorsten Kurth, David Hall, Zongyi Li, Kamyar Azizzadenesheli, Pedram Hassanzadeh, Karthik Kashinath, and Animashree Anandkumar.*
-
 1. **Dynamic weights enabled physics-informed neural network for simulating the mobility of engineered nano-particles in a contaminated aquifer.** NIPS, 2022. [paper](https://arxiv.org/pdf/2211.03525.pdf)
 
    *Shikhar Nilabh and Fidel Grandia.*
-
-1. **Spatiotemporal modeling of European paleoclimate using doubly sparse Gaussian processes.** NIPS, 2022. [paper](https://arxiv.org/abs/2211.08160)
-
-   *Seth D. Axen, Alexandra Gessner, Christian Sommer, Nils Weitzel, and Álvaro Tejero-Cantero.*
 
 1. **Learning two-phase microstructure evolution using neural operators and autoencoder architectures.** NPJ Computational Materials, 2022. [paper](https://www.nature.com/articles/s41524-022-00876-7)
 
@@ -2371,10 +2372,6 @@ Contributed by Chunyang Zhang.
 1. **Rapid seismic waveform modeling and inversion with neural operators.** TGRS, 2023. [paper](https://ieeexplore.ieee.org/abstract/document/10091544)
 
    *Yan Yang, Angela F. Gao, Kamyar Azizzadenesheli, Robert W. Clayton, and Zachary E. Ross.*
-
-1. **Modelling atmospheric dynamics with spherical Fourier neural operators.** ICLR, 2023. [paper](https://s3.us-east-1.amazonaws.com/climate-change-ai/papers/iclr2023/47/paper.pdf)
-
-   *Boris Bonev, Thorsten Kurth, Christian Hundt, Jaideep Pathak, Maximilian Baust, Karthik Kashinath, and Anima Anandkumar.*
 
 ### [Image](#content)
 1. **Learning to diffuse: A new perspective to design PDEs for visual analysis.** TPAMI, 2016. [paper](https://ieeexplore.ieee.org/document/7393839)
@@ -2525,6 +2522,23 @@ Contributed by Chunyang Zhang.
 1. **Quantum-inspired tensor neural networks for partial differential equations.** arXiv, 2022. [paper](https://arxiv.org/abs/2208.02235)
 
    *Raj Patel, Chia-Wei Hsing, Serkan Sahin, Saeed S. Jahromi, Samuel Palmer, Shivam Sharma, Christophe Michel, Vincent Porte, Mustafa Abid, Stephane Aubert, Pierre Castellani, Chi-Guhn Lee, Samuel Mugel, and Roman Orus.*
+
+### [Climate](#content)
+1. **FourCastNet: A global data-driven high-resolution weather model using adaptive Fourier neural operators.** arXiv, 2022. [paper](https://arxiv.org/abs/2202.11214)
+
+   *Jaideep Pathak, Shashank Subramanian, Peter Harrington, Sanjeev Raja, Ashesh Chattopadhyay, Morteza Mardani, Thorsten Kurth, David Hall, Zongyi Li, Kamyar Azizzadenesheli, Pedram Hassanzadeh, Karthik Kashinath, and Animashree Anandkumar.*
+
+1. **Fourier neural operators for arbitrary resolution climate data downscaling.** JMLR, 2023. [paper](https://arxiv.org/abs/2305.14452)
+
+   *Qidong Yang, Alex Hernandez-Garcia, Paula Harder, Venkatesh Ramesh, Prasanna Sattegeri, Daniela Szwarcman, Campbell D. Watson, and David Rolnick.*
+
+1. **Modelling atmospheric dynamics with spherical Fourier neural operators.** ICLR, 2023. [paper](https://s3.us-east-1.amazonaws.com/climate-change-ai/papers/iclr2023/47/paper.pdf)
+
+   *Boris Bonev, Thorsten Kurth, Christian Hundt, Jaideep Pathak, Maximilian Baust, Karthik Kashinath, and Anima Anandkumar.*
+
+1. **Spatiotemporal modeling of European paleoclimate using doubly sparse Gaussian processes.** NIPS, 2022. [paper](https://arxiv.org/abs/2211.08160)
+
+   *Seth D. Axen, Alexandra Gessner, Christian Sommer, Nils Weitzel, and Álvaro Tejero-Cantero.*
 
 ### [Game Theory](#content)
 1. **Approximating discontinuous Nash equilibria values of two-player general-sum differential games.** arXiv, 2022. [paper](https://arxiv.org/abs/2207.01773)
