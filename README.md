@@ -2278,6 +2278,10 @@ Contributed by Chunyang Zhang.
 
    *Hongrui Chen, Aditya Joglekar, and Levent Burak Kara.*
 
+1. **Deep reinforcement learning for optimal well control in subsurface systems with uncertain geology.** JCP, 2023. [paper](https://www.sciencedirect.com/science/article/pii/S0021999123000402)
+
+   *Yusuf Nasir and Louis J. Durlofsky.*
+
 ### [Fluid](#content)
 1. **Physics-informed neural networks (PINNs) for fluid mechanics: A review.** Acta Mechanica Sinica, 2021. [paper](https://link.springer.com/article/10.1007/s10409-021-01148-1)
 
