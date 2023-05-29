@@ -2047,6 +2047,10 @@ Contributed by Chunyang Zhang.
 
    *Vladimir Fanaskov, Tianchi Yu, Alexander Rudikov, and Ivan Oseledets.* 
 
+1. **Learning preconditioners for conjugate gradient PDE solvers.** ICML, 2023. [paper](https://arxiv.org/abs/2305.16432)
+
+   *Yichen Li, Peter Yichen Chen, Tao Du, and Wojciech Matusik.* 
+
 ### [Variation](#content) 
 1. **PI-VAE: Physics-informed variational auto-encoder for stochastic differential equations.** Computer Methods in Applied Mechanics and Engineering, 2022. [paper](https://www.sciencedirect.com/science/article/pii/S0045782522006193)
 
@@ -2113,6 +2117,10 @@ Contributed by Chunyang Zhang.
 1. **AL-PINNs: Augmented Lagrangian relaxation method for physics-informed neural networks.** arXiv, 2022. [paper](https://arxiv.org/abs/2205.01059)
 
    *Hwijae Son, Sung Woong Cho, and Hyung Ju Hwang.*
+
+1. **Lagrangian flow networks for conservation laws.** arXiv, 2023. [paper](https://arxiv.org/abs/2305.16846)
+
+   *Fabricio Arend Torres, Marcello Massimo Negri, Marco Inversi, and Jonathan Aellen.*
 
 ### [Uncertainty Quantification](#content)
 1. **Quantifying total uncertainty in physics-informed neural networks for solving forward and inverse stochastic problems.** arXiv, 2021. [paper](https://www.sciencedirect.com/science/article/pii/S0021999119305340)
