@@ -1985,6 +1985,10 @@ Contributed by Chunyang Zhang.
 
    *Ting Wang, Petr Plechac, and Jaroslaw Knap.*
 
+1. **Scalable Transformer for PDE surrogate modeling.** arXiv, 2023. [paper](https://arxiv.org/abs/2305.17560)
+
+   *Zijie Li, Dule Shu, and Amir Barati Farimani.*
+
 ### [Gaussian Process](#content)
 1. **PAGP: A physics-assisted Gaussian process framework with active learning for forward and inverse problems of partial differential equations.** arXiv, 2022. [paper](https://arxiv.org/abs/2204.02583)
 
@@ -2050,6 +2054,10 @@ Contributed by Chunyang Zhang.
 1. **Learning preconditioners for conjugate gradient PDE solvers.** ICML, 2023. [paper](https://arxiv.org/abs/2305.16432)
 
    *Yichen Li, Peter Yichen Chen, Tao Du, and Wojciech Matusik.* 
+
+1. **Stability of implicit neural networks for long-term forecasting in dynamical systems** ICLR, 2023. [paper](https://arxiv.org/abs/2305.17155)
+
+   *Leon Migus, Julien Salomon, and Patrick Gallinari.* 
 
 ### [Variation](#content) 
 1. **PI-VAE: Physics-informed variational auto-encoder for stochastic differential equations.** Computer Methods in Applied Mechanics and Engineering, 2022. [paper](https://www.sciencedirect.com/science/article/pii/S0045782522006193)
