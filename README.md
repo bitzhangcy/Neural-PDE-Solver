@@ -959,6 +959,10 @@ Contributed by Chunyang Zhang.
 
    *Qianying Cao, Somdatta Goswami, and George Em Karniadakis.*
 
+1. **Vandermonde neural operator.** arXiv, 2023. [paper](https://arxiv.org/abs/2305.19663)
+
+   *Levi Lingsch, Mike Michelis, Sirani M. Perera, Robert K. Katzschmann, and Siddartha Mishra.*
+
 ### [Identification](#content)
 1. **Data-driven discovery of partial differential equations.** SA, 2017. [paper](https://arxiv.org/abs/1910.11710)
 
@@ -1744,6 +1748,10 @@ Contributed by Chunyang Zhang.
 
    *Wenhan Gao and Chunmei Wang.*
 
+1. **Adversarial adaptive sampling: Unify PINN and optimal yransport for the approximation of PDEs.** arXiv, 2023. [paper](https://arxiv.org/abs/2305.18702)
+
+   *Kejun Tang, Jiayu Zhai, Xiaoliang Wan, and Chao Yang.*
+
 ### [Latent Space](#content)
 1. **Multiscale simulations of complex systems by learning their effective dynamics.** NMI, 2022. [paper](https://www.nature.com/articles/s42256-022-00464-w)
 
@@ -1855,9 +1863,10 @@ Contributed by Chunyang Zhang.
 
    *Ivan Prusak, Monica Nonino, Davide Torlo, Francesco Ballarin, and Gianluigi Rozza.*
 
-1. **Physics-informed spectral learning: the Discrete Helmholtz-Hodge decomposition.** arXiv, 2023. [paper](https://arxiv.org/abs/2302.11061)
+1. **NUNO: A general gramework for learning parametric PDEs with non-uniform data.** ICML, 2023. [paper](https://arxiv.org/abs/2305.18694v2)
 
-   *Luis Espath, Pouria Behnoudfar, and Raul Tempone.*
+   *Songming Liu, Zhongkai Hao, Chengyang Ying, Hang Su, Ze Cheng, and  Jun Zhu.*
+
 
 ### [Mesh](#content)
 1. **MeshingNet: A new mesh generation method based on deep learning.** ICCS, 2022. [paper](https://link.springer.com/chapter/10.1007/978-3-030-50420-5_14)
@@ -2297,6 +2306,14 @@ Contributed by Chunyang Zhang.
 1. **Deep reinforcement learning for optimal well control in subsurface systems with uncertain geology.** JCP, 2023. [paper](https://www.sciencedirect.com/science/article/pii/S0021999123000402)
 
    *Yusuf Nasir and Louis J. Durlofsky.*
+
+1. **Constrained optimization via exact augmented lagrangian and randomized iterative sketching.** ICML, 2023. [paper](https://arxiv.org/abs/2305.18379)
+
+   *Ilgee Hong, Sen Na, Michael W. Mahoney, and Mladen Kolar.*
+
+1. **Efficient PDE-Constrained optimization under high-dimensional uncertainty using derivative-informed neural operators.** arXiv, 2023. [paper](https://arxiv.org/abs/2305.20053)
+
+   *Dingcheng Luo, Thomas O'Leary-Roseberry, Peng Chen, and Omar Ghattas.*
 
 ### [Fluid](#content)
 1. **Physics-informed neural networks (PINNs) for fluid mechanics: A review.** Acta Mechanica Sinica, 2021. [paper](https://link.springer.com/article/10.1007/s10409-021-01148-1)
