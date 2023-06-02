@@ -411,6 +411,10 @@ Contributed by Chunyang Zhang.
 
    *Deqing Jiang, Justin Sirignano, and Samuel N. Cohen.*
 
+1. **Predictive limitations of physics-informed neural networks in vortex shedding.** arXiv, 2023. [paper](https://arxiv.org/abs/2306.00230)
+
+   *Pi-Yueh Chuang and Lorena A. Barba.*
+
 ### [DeepONet](#content)
 1. **Learning nonlinear operators via DeepONet based on the universal approximation theorem of operators.** NMI, 2021. [paper](https://www.nature.com/articles/s42256-021-00302-5)
 
@@ -1510,6 +1514,10 @@ Contributed by Chunyang Zhang.
 
    *Yige Yuan, Bingbing Xu, Bo Lin, Liang Hou, Fei Sun, Huawei Shen, and Xueqi Cheng.*
 
+1. **Towards foundation models for scientific machine learning: Characterizing scaling and transfer behavior.** arXiv, 2023. [paper](https://arxiv.org/abs/2306.00258)
+
+   *Shashank Subramanian, Peter Harrington, Kurt Keutzer, Wahid Bhimji, Dmitriy Morozov, Michael Mahoney, and Amir Gholami.*
+
 ### [Attention](#content)
 1. **Learning operators with coupled attention.** JMLR, 2022. [paper](https://www.jmlr.org/papers/v23/21-1521.html) 
 
@@ -2026,6 +2034,10 @@ Contributed by Chunyang Zhang.
 1. **Sparse Cholesky factorization for solving nonlinear PDEs via Gaussian processes.** arXiv, 2023. [paper](https://arxiv.org/abs/2304.01294)
 
    *Yifan Chen, Houman Owhadi, and Florian Schäfer.*
+
+1. **A mini-batch method for solving nonlinear PDEs with Gaussian processes.** arXiv, 2023. [paper](https://arxiv.org/abs/2306.00307)
+
+   *Xianjin Yang and Houman Owhadi.*
 
 ### [Solver](#content)
 1. **Solver-in-the-loop: Learning from differentiable physics to interact with iterative PDE-solvers.** NIPS, 2020. [paper](https://dl.acm.org/doi/abs/10.5555/3495724.3496237)
