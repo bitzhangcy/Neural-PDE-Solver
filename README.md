@@ -1285,6 +1285,10 @@ Contributed by Chunyang Zhang.
 
    *Tingxiong Xiao, Runzhao Yang, Yuxiao Cheng, Jinli Suo, and Qionghai Dai.*
 
+1. **A Neural RDE-based model for solving path-dependent PDEs.** arXiv, 2023. [paper](https://arxiv.org/abs/2306.01123)
+
+   *Bowen Fang, Hao Ni, and Yue Wu.*
+
 ### [Neural ODE](#content)
 1. **Neural rough differential equations for long time series.** ICML, 2021. [paper](http://proceedings.mlr.press/v139/morrill21b.html)
 
@@ -2379,6 +2383,10 @@ Contributed by Chunyang Zhang.
 1. **Physics informed neural networks: A case study for gas transport problems.** JCP, 2023. [paper](https://www.sciencedirect.com/science/article/pii/S0021999123001365)
 
    *Erik Laurin Strelow, Alf Gerisch, Jens Lang, and Marc E. Pfetsch.*
+
+1. **Turbulence model augmented physics informed neural networks for mean flow reconstruction.** arXiv, 2023. [paper](https://arxiv.org/abs/2306.01065)
+
+   *Yusuf Patel, Vincent Mons, Olivier Marquet, and Georgios Rigas.*
 
 ### [Reconstruction](#content)
 1. **Occupancy networks: Learning 3D reconstruction in function space.** CVPR, 2019. [paper](https://openaccess.thecvf.com/content_CVPR_2019/papers/Mescheder_Occupancy_Networks_Learning_3D_Reconstruction_in_Function_Space_CVPR_2019_paper.pdf)
