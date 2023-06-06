@@ -694,6 +694,10 @@ Contributed by Chunyang Zhang.
 
    *Federico Pichi, Beatriz Moya, and Jan S. Hesthaven.*
 
+1. **GAD-NR: Graph anomaly detection via neighborhood reconstruction.** arXiv, 2023. [paper](https://arxiv.org/abs/2306.01951)
+
+   *Amit Roy, Juan Shu, Jia Li, Carl Yang, Olivier Elshocht, Jeroen Smeets, and Pan Li.*
+
 ### [Green Function](#content)
 1. **Learning Green's functions associated with time-dependent partial differential equations.** JMLR, 2022. [paper](https://www.jmlr.org/papers/volume23/22-0433/22-0433.pdf)
 
@@ -718,6 +722,10 @@ Contributed by Chunyang Zhang.
 1. **Principled interpolation of Green's functions learned from data.** arXiv, 2022. [paper](https://arxiv.org/abs/2211.06299)
 
    *Harshwardhan Praveen, Nicolas Boulle, and Christopher Earls.*
+
+1. **Deep generalized Green's functions.** arXiv, 2023. [paper](https://arxiv.org/abs/2306.02925)
+
+   *Rixi Peng, Juncheng Dong, Jordan Malof, Willie J. Padilla, Vahid Tarokh.*
 
 ### [Finite Element](#content)
 1. **Composing partial differential equations with physics-aware neural networks.** ICML, 2022. [paper](https://proceedings.mlr.press/v162/karlbauer22a/karlbauer22a.pdf)
@@ -1522,6 +1530,10 @@ Contributed by Chunyang Zhang.
 
    *Shashank Subramanian, Peter Harrington, Kurt Keutzer, Wahid Bhimji, Dmitriy Morozov, Michael Mahoney, and Amir Gholami.*
 
+1. **Uadb: Unsupervised anomaly detection booster.** arXiv, 2023. [paper](https://arxiv.org/abs/2306.01997)
+
+   *Hangting Ye, Zhining Liu, Xinyi Shen, Wei Cao, Shun Zheng, Xiaofan Gui, Huishuai Zhang, Yi Chang, and Jiang Bian.*
+
 ### [Attention](#content)
 1. **Learning operators with coupled attention.** JMLR, 2022. [paper](https://www.jmlr.org/papers/v23/21-1521.html) 
 
@@ -1701,6 +1713,10 @@ Contributed by Chunyang Zhang.
 1. **Gradient-enhanced physics-informed neural networks based on transfer learning for inverse problems of the variable coefficient differential equations.** arXiv, 2023. [paper](https://arxiv.org/abs/2305.08310)
 
    *Shuning Lin and Yong Chen.*
+
+1. **Towards foundation models for scientific machine learning: Characterizing scaling and transfer behavior.** arXiv, 2023. [paper](https://arxiv.org/abs/2306.00258)
+
+   *Shashank Subramanian, Peter Harrington, Kurt Keutzer, Wahid Bhimji, Dmitriy Morozov, Michael Mahoney, and Amir Gholami.*
 
 ### [AutoML](#content)
 1. **Auto-PINN: Understanding and optimizing physics-informed neural architecture.** arXiv, 2022. [paper](https://arxiv.org/abs/2110.13361)
@@ -2226,6 +2242,10 @@ Contributed by Chunyang Zhang.
 
    *Jayesh K. Gupta and Johannes Brandstetter.*
 
+1. **MultiAdam: Parameter-wise scale-invariant optimizer for multiscale training of physics-informed neural networks.** ICML, 2023. [paper](https://arxiv.org/abs/2306.02816)
+
+   *Jiachen Yao, Chang Su, Zhongkai Hao, Songming Liu, Hang Su, and Jun Zhu.*
+
 ### [Multi Fidelity](#content)
 1. **Multifidelity deep operator networks.** arXiv, 2022. [paper](https://arxiv.org/abs/2204.09157)
 
@@ -2446,6 +2466,10 @@ Contributed by Chunyang Zhang.
 1. **NODE-ImgNet: a PDE-informed effective and robust model for image denoising.** arXiv, 2023. [paper](https://arxiv.org/abs/2305.11049)
 
    *Xinheng Xie, Yue Wu, Hao Nib, and Cuiyu He.*
+
+1. **Microscopy image reconstruction with physics-informed denoising diffusion probabilistic model.** arXiv, 2023. [paper](https://arxiv.org/abs/2306.02929)
+
+   *Rui Li, Gabriel della Maggiora, Vardan Andriasyan, Anthony Petkidis, Artsemi Yushkevich, Mikhail Kudryashev, and Artur Yakimovich.*
 
 ### [Mechanics](#content)
 1. **Wavelet neural operator for solving parametric partial differential equations in computational mechanics problems.** Computer Methods in Applied Mechanics and Engineering, 2022. [paper](https://www.sciencedirect.com/science/article/pii/S0045782522007393)
