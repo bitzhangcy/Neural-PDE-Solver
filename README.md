@@ -415,6 +415,10 @@ Contributed by Chunyang Zhang.
 
    *Pi-Yueh Chuang and Lorena A. Barba.*
 
+1. **Residual-based error bound for physics-informed neural networks.** arXiv, 2023. [paper](https://arxiv.org/abs/2306.03786)
+
+   *Shuheng Liu, Xiyue Huang, and Pavlos Protopapas.*
+
 ### [DeepONet](#content)
 1. **Learning nonlinear operators via DeepONet based on the universal approximation theorem of operators.** NMI, 2021. [paper](https://www.nature.com/articles/s42256-021-00302-5)
 
@@ -548,6 +552,10 @@ Contributed by Chunyang Zhang.
 1. **Domain agnostic Fourier neural operators.** arXiv, 2023. [paper](https://arxiv.org/abs/2305.00478)
 
    *Ning Liu, Siavash Jafarzadeh, and Yue Yu.*
+
+1. **Spherical Fourier neural operators: Learning stable dynamics on the sphere.** ICML, 2023. [paper](https://arxiv.org/abs/2306.03838)
+
+   *Boris Bonev, Thorsten Kurth, Christian Hundt, Jaideep Pathak, Maximilian Baust, Karthik Kashinath, and Anima Anandkumar.*
 
 ### [Graph Network](#content)
 1. **Message passing neural PDE solvers.** ICLR, 2022. [paper](https://openreview.net/forum?id=vSix3HPYKSU)
@@ -1296,6 +1304,10 @@ Contributed by Chunyang Zhang.
 1. **A Neural RDE-based model for solving path-dependent PDEs.** arXiv, 2023. [paper](https://arxiv.org/abs/2306.01123)
 
    *Bowen Fang, Hao Ni, and Yue Wu.*
+
+1. **Global universal approximation of functional input maps on weighted spaces.** arXiv, 2023. [paper](https://arxiv.org/abs/2306.03303)
+
+   *Christa Cuchiero, Philipp Schmocker, and Josef Teichmann.*
 
 ### [Neural ODE](#content)
 1. **Neural rough differential equations for long time series.** ICML, 2021. [paper](http://proceedings.mlr.press/v139/morrill21b.html)
