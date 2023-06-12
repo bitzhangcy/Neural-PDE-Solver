@@ -557,6 +557,10 @@ Contributed by Chunyang Zhang.
 
    *Boris Bonev, Thorsten Kurth, Christian Hundt, Jaideep Pathak, Maximilian Baust, Karthik Kashinath, and Anima Anandkumar.*
 
+1. **Group equivariant Fourier neural operators for partial differential equations.** ICML, 2023. [paper](https://arxiv.org/abs/2306.05697)
+
+   *Jacob Helwig, Xuan Zhang, Cong Fu, Jerry Kurtin, Stephan Wojtowytsch, and Shuiwang Ji.*
+
 ### [Graph Network](#content)
 1. **Message passing neural PDE solvers.** ICLR, 2022. [paper](https://openreview.net/forum?id=vSix3HPYKSU)
 
@@ -2419,6 +2423,10 @@ Contributed by Chunyang Zhang.
 1. **Turbulence model augmented physics informed neural networks for mean flow reconstruction.** arXiv, 2023. [paper](https://arxiv.org/abs/2306.01065)
 
    *Yusuf Patel, Vincent Mons, Olivier Marquet, and Georgios Rigas.*
+
+1. **RANS-PINN based simulation surrogates for predicting turbulent flows.** arXiv, 2023. [paper](https://arxiv.org/abs/2306.06034)
+
+   *Shinjan Ghosh, Amit Chakraborty, Georgia Olympia Brikis, and Biswadip Dey.*
 
 ### [Reconstruction](#content)
 1. **Occupancy networks: Learning 3D reconstruction in function space.** CVPR, 2019. [paper](https://openaccess.thecvf.com/content_CVPR_2019/papers/Mescheder_Occupancy_Networks_Learning_3D_Reconstruction_in_Function_Space_CVPR_2019_paper.pdf)
