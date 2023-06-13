@@ -987,6 +987,10 @@ Contributed by Chunyang Zhang.
 
    *Levi Lingsch, Mike Michelis, Sirani M. Perera, Robert K. Katzschmann, and Siddartha Mishra.*
 
+1. **Energy-dissipative evolutionary deep operator neural networks.** arXiv, 2023. [paper](https://arxiv.org/abs/2306.06281)
+
+   *Jiahao Zhang, Shiheng Zhang, Jie Shen, and Guang Lin.*
+
 ### [Identification](#content)
 1. **Data-driven discovery of partial differential equations.** SA, 2017. [paper](https://arxiv.org/abs/1910.11710)
 
@@ -1635,6 +1639,10 @@ Contributed by Chunyang Zhang.
 1. **Continuous PDE dynamics forecasting with implicit neural representations.** ICLR, 2023. [paper](https://openreview.net/forum?id=B73niNjbPs) 
 
    *Yuan Yin, Matthieu Kirchmeyer, Jean-Yves Franceschi, Alain Rakotomamonjy, and Patrick Gallinari.*
+
+1. **Operator learning with neural fields: Tackling PDEs on general geometries.** arXiv, 2023. [paper](https://arxiv.org/abs/2306.07266) 
+
+   *Louis Serrano, Lise Le Boudec, Armand Kassaï Koupaï, Thomas X Wang, Yuan Yin, Jean-Noël Vittaut, and Patrick Gallinari.*
 
 ### [Disentangle](#content)
 1. **PDE-driven spatiotemporal disentanglement.** ICLR, 2021. [paper](https://openreview.net/forum?id=vLaHRtHvfFp)
