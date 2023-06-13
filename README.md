@@ -1317,6 +1317,10 @@ Contributed by Chunyang Zhang.
 
    *Christa Cuchiero, Philipp Schmocker, and Josef Teichmann.*
 
+1. **Accelerating explicit time-stepping with spatially variable time steps through machine learning.**  Journal of Scientific Computing, 2023. [paper](https://link.springer.com/article/10.1007/s10915-023-02260-z)
+
+   *Kiera van der Sande, Natasha Flyer, and Bengt Fornberg.*
+
 ### [Neural ODE](#content)
 1. **Neural rough differential equations for long time series.** ICML, 2021. [paper](http://proceedings.mlr.press/v139/morrill21b.html)
 
@@ -2195,6 +2199,10 @@ Contributed by Chunyang Zhang.
 
    *Fabricio Arend Torres, Marcello Massimo Negri, Marco Inversi, and Jonathan Aellen.*
 
+1. **An adaptive augmented Lagrangian method for training physics and equality constrained artificial neural networks.** arXiv, 2023. [paper](https://arxiv.org/abs/2306.04904)
+
+   *Shamsulhaq Basir and Inanc Senocak.*
+
 ### [Uncertainty Quantification](#content)
 1. **Quantifying total uncertainty in physics-informed neural networks for solving forward and inverse stochastic problems.** arXiv, 2021. [paper](https://www.sciencedirect.com/science/article/pii/S0021999119305340)
 
@@ -2586,6 +2594,10 @@ Contributed by Chunyang Zhang.
 
    *Luke Bhan, Yuanyuan Shi and Miroslav Krstic.*
 
+1. **Optimal temperature trajectory for tubular reactor using physics informed neural networks.** JCP, 2023. [paper](https://www.sciencedirect.com/science/article/pii/S0959152423000823)
+
+   *Rahul Patel, Sharad Bhartiya, and Ravindra Gudi.*
+
 ### [Inverse Design](#content)
 1. **DPM: Physics-informed Karhunen-Loéve and neural network approximations for solving inverse differential equation problems.** AAAI, 2021. [paper](https://ojs.aaai.org/index.php/AAAI/article/view/16992/16799)
 
@@ -2622,6 +2634,10 @@ Contributed by Chunyang Zhang.
 1. **Maximum-likelihood estimators in physics-informed neural networks for high-dimensional inverse problems.** arXiv, 2023. [paper](https://arxiv.org/abs/2304.05991)
 
    *Gabriel S. Gusmão and Andrew J. Medford.*
+
+1. **Solution of physics-based inverse problems using conditional generative adversarial networks with full gradient penalty.** arXiv, 2023. [paper](https://arxiv.org/abs/2306.04895)
+
+   *Deep Ray, Javier Murgoitio-Esandi, Agnimitra Dasgupta, and Assad A. Oberai.*
 
 ### [Quantum](#content)
 1. **Physics-informed neural networks for quantum eigenvalue problems.** IJCNN, 2022. [paper](https://ieeexplore.ieee.org/document/9891944)
