@@ -7,7 +7,7 @@ Contributed by Chunyang Zhang.
 ## [Content](#content)
 <table>
 <tr><td colspan="2"><a href="#survey-papers">1. Survey</a></td></tr> 
-<tr><td colspan="2"><a href="#models">2. Models</a></td></tr>
+<tr><td colspan="2"><a href="#model">2. Model</a></td></tr>
 <tr>
     <td>&ensp;<a href="#pinn">2.1 PINN</a></td>
     <td>&ensp;<a href="#deeponet">2.2 DeepONet</a></td>
@@ -31,7 +31,7 @@ Contributed by Chunyang Zhang.
     <td>&ensp;<a href="#machine-learning">2.11 Machine Learning</a></td>
     <td>&ensp;<a href="#neural-ode">2.12 Neural ODE</a></td>
 </tr>
-<tr><td colspan="2"><a href="#models">3. Mechanism</a></td></tr>
+<tr><td colspan="2"><a href="#mechanism">3. Mechanism</a></td></tr>
 <tr>
     <td>&ensp;<a href="#library">3.1 Library</a></td>
     <td>&ensp;<a href="#analysis">3.2 Analysis</a></td>
@@ -112,9 +112,6 @@ Contributed by Chunyang Zhang.
 </table>
 
 
-
-
-
 ## [Survey Papers](#content)
 1. **Physics-informed machine learning.** Nature Reviews Physics, 2021. [paper](https://www.nature.com/articles/s42254-021-00314-5)
 
@@ -177,7 +174,7 @@ Contributed by Chunyang Zhang.
    *Shudong Huang, Wentao Feng, Chenwei Tang, and Jiancheng Lv.* 
 
 
-## [Models](#content) 
+## [Model](#content) 
 ### [PINN](#content)
 1. **Hidden fluid mechanics: Learning velocity and pressure fields from flow visualizations.** Science, 2020. [paper](https://www.science.org/doi/10.1126/science.aaw4741)
 
@@ -719,7 +716,7 @@ Contributed by Chunyang Zhang.
 
    *Guochang Lin, Fukai Chen, Pipi Hu, Xiang Chen, Junqing Chen, Jun Wang, and Zuoqiang Shi.*
 
-1. **DeepGreen: deep learning of Green’s functions for nonlinear boundary value problems.** Scientific Reports, 2021. [paper](https://www.nature.com/articles/s41598-021-00773-x)
+1. **DeepGreen: Deep learning of Green’s functions for nonlinear boundary value problems.** Scientific Reports, 2021. [paper](https://www.nature.com/articles/s41598-021-00773-x)
 
    *Craig R. Gin, Daniel E. Shea, Steven L. Brunton, and J. Nathan Kutz.*
 
@@ -1261,7 +1258,7 @@ Contributed by Chunyang Zhang.
 
    *Ludovica Cicci, Stefania Fresca, and Andrea Manzoni.*
 
-1. **HybridNet: Integrating Model-based and Data-driven Learning to Predict Evolution of Dynamical Systems.** CoRL, 2018. [paper](https://proceedings.mlr.press/v87/long18a.html)
+1. **HybridNet: Integrating model-based and data-driven learning to predict evolution of dynamical systems.** CoRL, 2018. [paper](https://proceedings.mlr.press/v87/long18a.html)
 
    *Yun Long, Xueyuan She, and Saibal Mukhopadhyay.*
 
@@ -1285,11 +1282,11 @@ Contributed by Chunyang Zhang.
 
    *Shamsulhaq Basir and Inanc Senocak.*
 
-1. **A Deep Double Ritz Method (D^2RM) for solving Partial Differential Equations using Neural Networks.** Computer Methods in Applied Mechanics and Engineering, 2023. [paper](https://global-sci.org/intro/article_detail/cicp/20860.html#)
+1. **A deep double Ritz method (D^2RM) for solving partial differential equations using neural networks.** Computer Methods in Applied Mechanics and Engineering, 2023. [paper](https://global-sci.org/intro/article_detail/cicp/20860.html#)
 
    *Carlos Uriarte, David Pardo, Ignacio Muga, and Judit Muñoz-Matute.*
 
-1. **Data- and theory-guided learning of partial differential equations using SimultaNeous basis function Approximation and Parameter Estimation (SNAPE).** MSSP, 2023. [paper](https://www.sciencedirect.com/science/article/pii/S088832702201127X)
+1. **Data- and theory-guided learning of partial differential equations using simultaneous basis function approximation and parameter estimation (SNAPE).** MSSP, 2023. [paper](https://www.sciencedirect.com/science/article/pii/S088832702201127X)
 
    *Sutanu Bhowmick, Satish Nagarajaiah, and Anastasios Kyrillidis.*
 
@@ -1387,7 +1384,7 @@ Contributed by Chunyang Zhang.
    *Mustafa Zeqiri, Mark Niklas Mueller, Marc Fischer, and Martin Vechev.*
 
 
-## [Mechanism](#content) 
+## [Mechanism](#content)
 ### [Library](#content)
 1. **PDEBench: An extensive benchmark for scientific machine learning.** NIPS, 2022. [paper](https://openreview.net/forum?id=dh_MkX0QfrK)
 
@@ -1931,7 +1928,6 @@ Contributed by Chunyang Zhang.
 
    *Songming Liu, Zhongkai Hao, Chengyang Ying, Hang Su, Ze Cheng, and  Jun Zhu.*
 
-
 ### [Mesh](#content)
 1. **MeshingNet: A new mesh generation method based on deep learning.** ICCS, 2022. [paper](https://link.springer.com/chapter/10.1007/978-3-030-50420-5_14)
 
@@ -2387,7 +2383,7 @@ Contributed by Chunyang Zhang.
 
    *Ilgee Hong, Sen Na, Michael W. Mahoney, and Mladen Kolar.*
 
-1. **Efficient PDE-Constrained optimization under high-dimensional uncertainty using derivative-informed neural operators.** arXiv, 2023. [paper](https://arxiv.org/abs/2305.20053)
+1. **Efficient PDE-constrained optimization under high-dimensional uncertainty using derivative-informed neural operators.** arXiv, 2023. [paper](https://arxiv.org/abs/2305.20053)
 
    *Dingcheng Luo, Thomas O'Leary-Roseberry, Peng Chen, and Omar Ghattas.*
 
@@ -2507,7 +2503,7 @@ Contributed by Chunyang Zhang.
 
    *Pablo Arratia Lopez, Hernan Mella, Sergio Uribe, Daniel E. Hurtado, and Francisco Sahli Costabal.*
 
-1. **NODE-ImgNet: a PDE-informed effective and robust model for image denoising.** arXiv, 2023. [paper](https://arxiv.org/abs/2305.11049)
+1. **NODE-ImgNet: A PDE-informed effective and robust model for image denoising.** arXiv, 2023. [paper](https://arxiv.org/abs/2305.11049)
 
    *Xinheng Xie, Yue Wu, Hao Nib, and Cuiyu He.*
 
