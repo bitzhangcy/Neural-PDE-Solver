@@ -991,6 +991,10 @@ Contributed by Chunyang Zhang.
 
    *Jiahao Zhang, Shiheng Zhang, Jie Shen, and Guang Lin.*
 
+1. **Physics informed WNO.** arXiv, 2023. [paper](https://arxiv.org/abs/2302.05925)
+
+   *Navaneeth N, Tapas Tripura, and Souvik Chakraborty.*
+
 ### [Identification](#content)
 1. **Data-driven discovery of partial differential equations.** SA, 2017. [paper](https://arxiv.org/abs/1910.11710)
 
@@ -1553,6 +1557,10 @@ Contributed by Chunyang Zhang.
 1. **Towards foundation models for scientific machine learning: Characterizing scaling and transfer behavior.** arXiv, 2023. [paper](https://arxiv.org/abs/2306.00258)
 
    *Shashank Subramanian, Peter Harrington, Kurt Keutzer, Wahid Bhimji, Dmitriy Morozov, Michael Mahoney, and Amir Gholami.*
+
+1. **Stability of implicit neural networks for long-term forecasting in dynamical systems.** ICLR, 2023. [paper](https://arxiv.org/abs/2305.17155v2)
+
+   *Leon Migus, Julien Salomon, and Patrick Gallinari.*
 
 1. **Uadb: Unsupervised anomaly detection booster.** arXiv, 2023. [paper](https://arxiv.org/abs/2306.01997)
 
