@@ -2602,6 +2602,10 @@ Contributed by Chunyang Zhang.
 
    *Rahul Patel, Sharad Bhartiya, and Ravindra Gudi.*
 
+1. **Physics-informed recurrent neural network modeling for predictive control of nonlinear processes.** Journal of Process Control, 2023. [paper](https://www.sciencedirect.com/science/article/pii/S0959152423000847)
+
+   *Yingzhe Zheng, Cheng Hu, Xiaonan Wang, and Zhe Wu.*
+
 ### [Inverse Design](#content)
 1. **DPM: Physics-informed Karhunen-Loéve and neural network approximations for solving inverse differential equation problems.** AAAI, 2021. [paper](https://ojs.aaai.org/index.php/AAAI/article/view/16992/16799)
 
