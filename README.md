@@ -707,6 +707,10 @@ Contributed by Chunyang Zhang.
 
    *Amit Roy, Juan Shu, Jia Li, Carl Yang, Olivier Elshocht, Jeroen Smeets, and Pan Li.*
 
+1. **GPINN: Physics-informed neural network with graph embedding.** arXiv, 2023. [paper](https://arxiv.org/abs/2306.09792)
+
+   *Yuyang Miao and Haolin Li.*
+
 ### [Green Function](#content)
 1. **Learning Green's functions associated with time-dependent partial differential equations.** JMLR, 2022. [paper](https://www.jmlr.org/papers/volume23/22-0433/22-0433.pdf)
 
@@ -1558,6 +1562,10 @@ Contributed by Chunyang Zhang.
 1. **Stability of implicit neural networks for long-term forecasting in dynamical systems.** ICLR, 2023. [paper](https://arxiv.org/abs/2305.17155v2)
 
    *Leon Migus, Julien Salomon, and Patrick Gallinari.*
+
+1. **Understanding and mitigating extrapolation failures in physics-informed neural networks.** arXiv, 2023. [paper](https://arxiv.org/abs/2306.09478)
+
+   *Lukas Fesser, Richard Qiu, and Luca D'Amico-Wong.*
 
 1. **Uadb: Unsupervised anomaly detection booster.** arXiv, 2023. [paper](https://arxiv.org/abs/2306.01997)
 
