@@ -476,7 +476,11 @@ Contributed by Chunyang Zhang.
 1. **VB-DeepONet: A Bayesian operator learning framework for uncertainty quantification.** Engineering Applications of Artificial Intelligence, 2023. [paper](https://www.sciencedirect.com/science/article/pii/S0952197622006753)
 
    *Shailesh Garg and Souvik Chakraborty.*
-   
+
+1. **Sequential deep learning operator network (S-DeepONet) for time-dependent loads.** arXiv, 2023. [paper](https://arxiv.org/abs/2306.08218)
+
+   *Jaewan Park, Shashank Kushwaha, Junyan He, Seid Koric, Diab Abueidda, and Iwona Jasiuk.*
+
 ### [Fourier Operator](#content)
 1. **Fourier neural operator for parametric partial differential equations.** ICLR, 2021. [paper](https://openreview.net/forum?id=c8P9NQVtmnO)
 
@@ -1177,6 +1181,10 @@ Contributed by Chunyang Zhang.
 
    *Adam Rupe, Karthik Kashinath, Nalini Kumar, and James P. Crutchfield.*
 
+1. **An analysis of universal differential equations for data-driven discovery of ordinary differential equations.** arXiv, 2023. [paper](https://arxiv.org/abs/2306.10335)
+
+   *Mattia Silvestri, Federico Baldo, Eleonora Misino, and Michele Lombardi.*
+
 ### [Machine Learning](#content)
 1. **Machine learning–accelerated computational fluid dynamics.** PNAS, 2021. [paper](https://www.pnas.org/doi/10.1073/pnas.2101784118)
 
@@ -1759,6 +1767,10 @@ Contributed by Chunyang Zhang.
 
    *Shashank Subramanian, Peter Harrington, Kurt Keutzer, Wahid Bhimji, Dmitriy Morozov, Michael Mahoney, and Amir Gholami.*
 
+1. **Adaptive transfer learning for PINN.** JCP, 2023. [paper](https://www.sciencedirect.com/science/article/pii/S0021999123003868)
+
+   *Yang Liu, Wen Liu, Xunshi Yan, Shuaiqi Guo, and Chen-an Zhang.*
+
 ### [AutoML](#content)
 1. **Auto-PINN: Understanding and optimizing physics-informed neural architecture.** arXiv, 2022. [paper](https://arxiv.org/abs/2110.13361)
 
@@ -1976,6 +1988,10 @@ Contributed by Chunyang Zhang.
 1. **A closest point method for surface PDEs with interior boundary conditions for geometry processing.** arXiv, 2023. [paper](https://arxiv.org/abs/2305.04711)
 
    *Nathan King, Haozhe Su, Mridul Aanjaneya, Steven Ruuth, and Christopher Batty.*
+
+1. **Efficient training of physics-informed neural networks with direct grid refinement algorithm.** arXiv, 2023. [paper](https://arxiv.org/abs/2306.08293)
+
+   *Shikhar Nilabh and Fidel Grandia.*
 
 ### [Generative Model](#content)
 1. **A framework for data-driven solution and parameter estimation of PDEs using conditional generative adversarial networks.** NCS, 2021. [paper](https://www.nature.com/articles/s43588-021-00171-3)
@@ -2456,6 +2472,10 @@ Contributed by Chunyang Zhang.
 
    *Shinjan Ghosh, Amit Chakraborty, Georgia Olympia Brikis, and Biswadip Dey.*
 
+1. **Meta-learning for airflow simulations with graph neural networks.** arXiv, 2023. [paper](https://arxiv.org/abs/2306.10624)
+
+   *Wenzhuo Liu, Mouadh Yagoubi, and Marc Schoenauer.*
+
 ### [Reconstruction](#content)
 1. **Occupancy networks: Learning 3D reconstruction in function space.** CVPR, 2019. [paper](https://openaccess.thecvf.com/content_CVPR_2019/papers/Mescheder_Occupancy_Networks_Learning_3D_Reconstruction_in_Function_Space_CVPR_2019_paper.pdf)
 
@@ -2680,6 +2700,10 @@ Contributed by Chunyang Zhang.
 1. **Spatiotemporal modeling of European paleoclimate using doubly sparse Gaussian processes.** NIPS, 2022. [paper](https://arxiv.org/abs/2211.08160)
 
    *Seth D. Axen, Alexandra Gessner, Christian Sommer, Nils Weitzel, and Álvaro Tejero-Cantero.*
+
+1. **ClimSim: An open large-scale dataset for training high-resolution physics emulators in hybrid multi-scale climate simulators.** arXiv, 2023. [paper](https://arxiv.org/abs/2306.08754v2)
+
+   *Sungduk Yu, Walter M. Hannah, Liran Peng, Mohamed Aziz Bhouri, Ritwik Gupta, Jerry Lin, Björn Lütjens, Justus C. Will, Tom Beucler, Bryce E. Harrop, Benjamin R. Hillman, Andrea M. Jenney, Savannah L. Ferretti, Nana Liu, Anima Anandkumar, Noah D. Brenowitz, Veronika Eyring, Pierre Gentine, Stephan Mandt, Jaideep Pathak, Carl Vondrick, Rose Yu, Laure Zanna, Ryan P. Abernathey, Fiaz Ahmed, David C. Bader, Pierre Baldi, Elizabeth A. Barnes, Gunnar Behrens, Christopher S. Bretherton, Julius J. M. Busecke, Peter M. Caldwell, Wayne Chuang, Yilun Han, Yu Huang, Fernando Iglesias-Suarez, Sanket Jantre, Karthik Kashinath, Marat Khairoutdinov, Thorsten Kurth, Nicholas J. Lutsko, Po-Lun Ma, Griffin Mooers, J. David Neelin, David A. Randall, Sara Shamekh, Akshay Subramaniam, Mark A. Taylor, Nathan M. Urban, Janni Yuval, Guang J. Zhang, Tian Zheng, and Michael S. Pritchard.*
 
 ### [Game Theory](#content)
 1. **Approximating discontinuous Nash equilibria values of two-player general-sum differential games.** arXiv, 2022. [paper](https://arxiv.org/abs/2207.01773)
