@@ -2306,6 +2306,10 @@ Contributed by Chunyang Zhang.
 
    *Jiachen Yao, Chang Su, Zhongkai Hao, Songming Liu, Hang Su, and Jun Zhu.*
 
+1. **Learning homogenization for elliptic operators.** arXiv, 2023. [paper](https://arxiv.org/abs/2306.12006)
+
+   *Kaushik Bhattacharya, Nikola Kovachki, Aakila Rajan, Andrew M. Stuart, and Margaret Trautner.*
+
 ### [Multi Fidelity](#content)
 1. **Multifidelity deep operator networks.** arXiv, 2022. [paper](https://arxiv.org/abs/2204.09157)
 
