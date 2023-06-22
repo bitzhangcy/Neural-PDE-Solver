@@ -107,9 +107,10 @@ Contributed by Chunyang Zhang.
 </tr>
 <tr>
     <td>&ensp;<a href="#manufacturing">4.13 Manufacturing</a></td>
-    <td>&ensp;<a href="#"></a></td>
+    <td>&ensp;<a href="#molecules">4.14 Molecules</a></td>
 </tr> 
 </table>
+
 
 
 ## [Survey Papers](#content)
@@ -1334,6 +1335,10 @@ Contributed by Chunyang Zhang.
 
    *Kiera van der Sande, Natasha Flyer, and Bengt Fornberg.*
 
+1. **A deep double Ritz method (D^2RM) for solving partial differential equations using neural networks.**  Computer Methods in Applied Mechanics and Engineering, 2023. [paper](https://www.sciencedirect.com/science/article/pii/S0045782523000154)
+
+   *Carlos Uriarte, David Pardo, Ignacio Mug, and Judit Muñoz-Matute.*
+
 ### [Neural ODE](#content)
 1. **Neural rough differential equations for long time series.** ICML, 2021. [paper](http://proceedings.mlr.press/v139/morrill21b.html)
 
@@ -1433,6 +1438,10 @@ Contributed by Chunyang Zhang.
 1. **Physics-driven machine learning models coupling PyTorch and Firedrake.** arXiv, 2023. [paper](https://arxiv.org/abs/2303.06871)
 
    *Nacime Bouziani and David A. Ham.*
+
+1. **PINNacle: A comprehensive benchmark of physics-informed neural networks for solving PDEs.** arXiv, 2023. [paper](https://arxiv.org/abs/2306.08827)
+
+   *Zhongkai Hao, Jiachen Yao, Chang Su, Hang Su, Ziao Wang, Fanzhi Lu, Zeyu Xia, Yichi Zhang, Songming Liu, Lu Lu, and Jun Zhu.*
 
 ### [Analysis](#content)
 1. **Characterizing possible failure modes in physics-informed neural networks.** NIPS, 2021. [paper](https://openreview.net/forum?id=a2Gr9gNFD-J)
@@ -1575,10 +1584,6 @@ Contributed by Chunyang Zhang.
 
    *Lukas Fesser, Richard Qiu, and Luca D'Amico-Wong.*
 
-1. **Uadb: Unsupervised anomaly detection booster.** arXiv, 2023. [paper](https://arxiv.org/abs/2306.01997)
-
-   *Hangting Ye, Zhining Liu, Xinyi Shen, Wei Cao, Shun Zheng, Xiaofan Gui, Huishuai Zhang, Yi Chang, and Jiang Bian.*
-
 ### [Attention](#content)
 1. **Learning operators with coupled attention.** JMLR, 2022. [paper](https://www.jmlr.org/papers/v23/21-1521.html) 
 
@@ -1668,6 +1673,10 @@ Contributed by Chunyang Zhang.
 1. **Operator learning with neural fields: Tackling PDEs on general geometries.** arXiv, 2023. [paper](https://arxiv.org/abs/2306.07266) 
 
    *Louis Serrano, Lise Le Boudec, Armand Kassaï Koupaï, Thomas X Wang, Yuan Yin, Jean-Noël Vittaut, and Patrick Gallinari.*
+
+1. **Accelerated solutions of convection-dominated partial differential equations using implicit feature tracking and empirical quadrature.** arXiv, 2023. [paper](https://arxiv.org/abs/2305.15661) 
+
+   *Marzieh Alireza Mirhoseini and Matthew J. Zahr.*
 
 ### [Disentangle](#content)
 1. **PDE-driven spatiotemporal disentanglement.** ICLR, 2021. [paper](https://openreview.net/forum?id=vLaHRtHvfFp)
@@ -1902,6 +1911,10 @@ Contributed by Chunyang Zhang.
 1. **About optimal loss function for training physics-informed neural networks under respecting causality.** arXiv, 2023. [paper](https://arxiv.org/abs/2304.02282)
 
    *Vasiliy A. Es'kin, Danil V. Davydov, Ekaterina D. Egorova, Alexey O. Malkhanov, Mikhail A. Akhukov, and Mikhail E. Smorkalov.*
+
+1. **Learning from integral losses in physics informed neural networks.** arXiv, 2023. [paper](https://arxiv.org/abs/2305.17387)
+
+   *Ehsan Saleh, Saba Ghaffari, Timothy Bretl, Luke Olson, and Matthew West.*
 
 ### [Decomposition](#content)
 1. **Composing partial differential equations with physics-aware neural networks.** ICLR, 2022. [paper](https://openreview.net/forum?id=DIsWHvtU7lF)
@@ -2730,3 +2743,8 @@ Contributed by Chunyang Zhang.
 1. **Operator learning framework for digital twin and complex engineering systems.** arXiv, 2023. [paper](https://arxiv.org/abs/2301.06701)
 
    *Kazuma Kobayashi, James Daniell, and Syed B. Alam.*
+
+### [Molecules](#content)
+1. **Symmetry-informed geometric representation for molecules, proteins, and crystalline materials.** arXiv, 2023. [paper](https://arxiv.org/abs/2306.09375)
+
+   *Shengchao Liu, Weitao Du, Yanjing Li, Zhuoxinran Li, Zhiling Zheng, Chenru Duan, Zhiming Ma, Omar Yaghi, Anima Anandkumar, Christian Borgs, Jennifer Chayes, Hongyu Guo, and Jian Tang.*
