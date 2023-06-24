@@ -417,6 +417,10 @@ Contributed by Chunyang Zhang.
 
    *Shuheng Liu, Xiyue Huang, and Pavlos Protopapas.*
 
+1. **Automatic boundary fitting framework of boundary dependent physics-informed neural network solving partial differential equation with complex boundary conditions.** Computer Methods in Applied Mechanics and Engineering, 2023. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0045782523002633)
+
+   *Yuchen Xie, Yu Ma, and Yahui Wang.*
+
 ### [DeepONet](#content)
 1. **Learning nonlinear operators via DeepONet based on the universal approximation theorem of operators.** NMI, 2021. [paper](https://www.nature.com/articles/s42256-021-00302-5)
 
@@ -1000,6 +1004,10 @@ Contributed by Chunyang Zhang.
 1. **Physics informed WNO.** arXiv, 2023. [paper](https://arxiv.org/abs/2302.05925)
 
    *Navaneeth N, Tapas Tripura, and Souvik Chakraborty.*
+
+1. **Corrector operator to enhance accuracy and reliability of neural operator surrogates of nonlinear variational boundary-value problems.** arXiv, 2023. [paper](https://arxiv.org/abs/2306.12047v2)
+
+   *Prashant K. Jha and J. Tinsley Oden.*
 
 ### [Identification](#content)
 1. **Data-driven discovery of partial differential equations.** SA, 2017. [paper](https://arxiv.org/abs/1910.11710)
@@ -2492,6 +2500,10 @@ Contributed by Chunyang Zhang.
 1. **Meta-learning for airflow simulations with graph neural networks.** arXiv, 2023. [paper](https://arxiv.org/abs/2306.10624)
 
    *Wenzhuo Liu, Mouadh Yagoubi, and Marc Schoenauer.*
+
+1. **Learning operators for identifying weak solutions to the Navier-Stokes equations.** arXiv, 2023. [paper](https://arxiv.org/abs/2306.10685)
+
+   *Dixi Wang and Cheng Yu.*
 
 ### [Reconstruction](#content)
 1. **Occupancy networks: Learning 3D reconstruction in function space.** CVPR, 2019. [paper](https://openaccess.thecvf.com/content_CVPR_2019/papers/Mescheder_Occupancy_Networks_Learning_3D_Reconstruction_in_Function_Space_CVPR_2019_paper.pdf)
