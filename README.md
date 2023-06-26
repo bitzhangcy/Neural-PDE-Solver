@@ -421,6 +421,10 @@ Contributed by Chunyang Zhang.
 
    *Yuchen Xie, Yu Ma, and Yahui Wang.*
 
+1. **Solving a class of multi-scale elliptic PDEs by means of Fourier-based mixed physics informed neural networks.** arXiv, 2023. [paper](https://arxiv.org/abs/2306.13385)
+
+   *Xi'an Li, Jinran Wu, Zhi-Qin John Xu, and You-Gan Wang.*
+
 ### [DeepONet](#content)
 1. **Learning nonlinear operators via DeepONet based on the universal approximation theorem of operators.** NMI, 2021. [paper](https://www.nature.com/articles/s42256-021-00302-5)
 
@@ -2504,6 +2508,14 @@ Contributed by Chunyang Zhang.
 1. **Learning operators for identifying weak solutions to the Navier-Stokes equations.** arXiv, 2023. [paper](https://arxiv.org/abs/2306.10685)
 
    *Dixi Wang and Cheng Yu.*
+
+1. **Physics-informed neural networks modeling for systems with moving immersed boundaries: Application to an unsteady flow past a plunging foil.** arXiv, 2023. [paper](https://arxiv.org/abs/2306.13395)
+
+   *Rahul Sundar, Dipanjan Majumdar, Didier Lucor, and Sunetra Sarkar.*
+
+1. **A machine learning pressure emulator for hydrogen embrittlement.** ICML, 2023. [paper](https://arxiv.org/abs/2306.13116)
+
+   *Minh Triet Chau, João Lucas de Sousa Almeida, Elie Alhajjar, and Alberto Costa Nogueira Junior.*
 
 ### [Reconstruction](#content)
 1. **Occupancy networks: Learning 3D reconstruction in function space.** CVPR, 2019. [paper](https://openaccess.thecvf.com/content_CVPR_2019/papers/Mescheder_Occupancy_Networks_Learning_3D_Reconstruction_in_Function_Space_CVPR_2019_paper.pdf)
