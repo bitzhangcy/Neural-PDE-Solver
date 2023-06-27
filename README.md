@@ -1198,6 +1198,10 @@ Contributed by Chunyang Zhang.
 
    *Mattia Silvestri, Federico Baldo, Eleonora Misino, and Michele Lombardi.*
 
+1. **TaylorPDENet: Learning PDEs from non-grid data.** arXiv, 2023. [paper](https://arxiv.org/abs/:2306.14511)
+
+   *Paul Heinisch, Andrzej Dulny, Anna Krause, and Andreas Hotho.*
+
 ### [Machine Learning](#content)
 1. **Machine learning–accelerated computational fluid dynamics.** PNAS, 2021. [paper](https://www.pnas.org/doi/10.1073/pnas.2101784118)
 
