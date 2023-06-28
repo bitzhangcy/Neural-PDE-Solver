@@ -1416,6 +1416,10 @@ Contributed by Chunyang Zhang.
 
    *Mustafa Zeqiri, Mark Niklas Mueller, Marc Fischer, and Martin Vechev.*
 
+1. **Physics-informed neural ODE (PINODE): embedding physics into models using collocation points.** Scientific Reports, 2023. [paper](https://www.nature.com/articles/s41598-023-36799-6)
+
+   *Aleksei Sholokhov, Yuying Liu, Hassan Mansour, and Saleh Nabi .*
+
 
 ## [Mechanism](#content)
 ### [Library](#content)
@@ -1599,6 +1603,10 @@ Contributed by Chunyang Zhang.
 1. **Understanding and mitigating extrapolation failures in physics-informed neural networks.** arXiv, 2023. [paper](https://arxiv.org/abs/2306.09478)
 
    *Lukas Fesser, Richard Qiu, and Luca D'Amico-Wong.*
+
+1. **Physics-informed neural network based on a new adaptive gradient descent algorithm for solving partial differential equations of flow problems.** Physics of Fluids, 2023. [paper](https://pubs.aip.org/aip/pof/article/35/6/063608/2899773)
+
+   *Xiaojian Li,  Yuhao Liu, and Zhengxian Liu.*
 
 ### [Attention](#content)
 1. **Learning operators with coupled attention.** JMLR, 2022. [paper](https://www.jmlr.org/papers/v23/21-1521.html) 
@@ -1931,6 +1939,10 @@ Contributed by Chunyang Zhang.
 1. **Learning from integral losses in physics informed neural networks.** arXiv, 2023. [paper](https://arxiv.org/abs/2305.17387)
 
    *Ehsan Saleh, Saba Ghaffari, Timothy Bretl, Luke Olson, and Matthew West.*
+
+1. **A symmetry group based supervised learning method for solving partial differential equations.** Computer Methods in Applied Mechanics and Engineering, 2023. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0045782523003055)
+
+   *Zhiyong Zhang, Shengjie Cai, and Hui Zhang.*
 
 ### [Decomposition](#content)
 1. **Composing partial differential equations with physics-aware neural networks.** ICLR, 2022. [paper](https://openreview.net/forum?id=DIsWHvtU7lF)
@@ -2679,6 +2691,10 @@ Contributed by Chunyang Zhang.
 
    *Yingzhe Zheng, Cheng Hu, Xiaonan Wang, and Zhe Wu.*
 
+1. **Physics-guided neural networks for inversion-based feedforward control applied to hybrid stepper motors.**arXiv, 2023. [paper](https://arxiv.org/abs/2306.12817)
+
+   *Daiwei Fan, Max Bolderman, Sjirk Koekebakker, Hans Butler, and Mircea Lazar.*
+
 ### [Inverse Design](#content)
 1. **DPM: Physics-informed Karhunen-Loéve and neural network approximations for solving inverse differential equation problems.** AAAI, 2021. [paper](https://ojs.aaai.org/index.php/AAAI/article/view/16992/16799)
 
@@ -2728,6 +2744,10 @@ Contributed by Chunyang Zhang.
 1. **Quantum-inspired tensor neural networks for partial differential equations.** arXiv, 2022. [paper](https://arxiv.org/abs/2208.02235)
 
    *Raj Patel, Chia-Wei Hsing, Serkan Sahin, Saeed S. Jahromi, Samuel Palmer, Shivam Sharma, Christophe Michel, Vincent Porte, Mustafa Abid, Stephane Aubert, Pierre Castellani, Chi-Guhn Lee, Samuel Mugel, and Roman Orus.*
+
+1. **Quantum Fourier networks for solving parametric PDEs.** arXiv, 2023. [paper](https://arxiv.org/abs/2306.15415)
+
+   *Nishant Jain, Jonas Landman, Natansh Mathur, and Iordanis Kerenidis.*
 
 ### [Climate](#content)
 1. **FourCastNet: A global data-driven high-resolution weather model using adaptive Fourier neural operators.** arXiv, 2022. [paper](https://arxiv.org/abs/2202.11214)
