@@ -425,6 +425,10 @@ Contributed by Chunyang Zhang.
 
    *Xi'an Li, Jinran Wu, Zhi-Qin John Xu, and You-Gan Wang.*
 
+1. **Separable physics informed neural networks.** arXiv, 2023. [paper](https://arxiv.org/abs/2306.15969)
+
+   *Junwoo Cho, Seungtae Nam, Hyunmo Yang, Seok-Bae Yun, Youngjoon Hong, and Eunbyung Park.*
+
 ### [DeepONet](#content)
 1. **Learning nonlinear operators via DeepONet based on the universal approximation theorem of operators.** NMI, 2021. [paper](https://www.nature.com/articles/s42256-021-00302-5)
 
@@ -2193,9 +2197,13 @@ Contributed by Chunyang Zhang.
 
    *Yichen Li, Peter Yichen Chen, Tao Du, and Wojciech Matusik.* 
 
-1. **Stability of implicit neural networks for long-term forecasting in dynamical systems** ICLR, 2023. [paper](https://arxiv.org/abs/2305.17155)
+1. **Stability of implicit neural networks for long-term forecasting in dynamical systems.** ICLR, 2023. [paper](https://arxiv.org/abs/2305.17155)
 
    *Leon Migus, Julien Salomon, and Patrick Gallinari.* 
+
+1. **Training deep surrogate models with large scale online learning.** ICML, 2023. [paper](https://arxiv.org/abs/2306.16133)
+
+   *Lucas Meyer, Marc Schouler, Robert A. Caulk, Alejandro Ribes, and Bruno Raffin.* 
 
 ### [Variation](#content) 
 1. **PI-VAE: Physics-informed variational auto-encoder for stochastic differential equations.** Computer Methods in Applied Mechanics and Engineering, 2022. [paper](https://www.sciencedirect.com/science/article/pii/S0045782522006193)
