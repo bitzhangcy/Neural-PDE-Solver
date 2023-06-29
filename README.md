@@ -1422,7 +1422,11 @@ Contributed by Chunyang Zhang.
 
 1. **Physics-informed neural ODE (PINODE): embedding physics into models using collocation points.** Scientific Reports, 2023. [paper](https://www.nature.com/articles/s41598-023-36799-6)
 
-   *Aleksei Sholokhov, Yuying Liu, Hassan Mansour, and Saleh Nabi .*
+   *Aleksei Sholokhov, Yuying Liu, Hassan Mansour, and Saleh Nabi.*
+
+1. **Data-adaptive probabilistic likelihood approximation for ordinary differential equations.** arXiv, 2023. [paper](https://arxiv.org/abs/2306.05566)
+
+   *Mohan Wu and Martin Lysy.*
 
 
 ## [Mechanism](#content)
@@ -1869,6 +1873,10 @@ Contributed by Chunyang Zhang.
 1. **Adversarial adaptive sampling: Unify PINN and optimal yransport for the approximation of PDEs.** arXiv, 2023. [paper](https://arxiv.org/abs/2305.18702)
 
    *Kejun Tang, Jiayu Zhai, Xiaoliang Wan, and Chao Yang.*
+
+1. **Coupling parameter and particle dynamics for adaptive sampling in neural Galerkin schemes.** arXiv, 2023. [paper](https://arxiv.org/abs/2306.15630)
+
+   *Yuxiao Wen, Eric Vanden-Eijnden, and Benjamin Peherstorfer.*
 
 ### [Latent Space](#content)
 1. **Multiscale simulations of complex systems by learning their effective dynamics.** NMI, 2022. [paper](https://www.nature.com/articles/s42256-022-00464-w)
