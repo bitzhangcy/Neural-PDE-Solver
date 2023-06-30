@@ -1017,6 +1017,10 @@ Contributed by Chunyang Zhang.
 
    *Prashant K. Jha and J. Tinsley Oden.*
 
+1. **HNO: Hyena neural operator for solving PDEs.** arXiv, 2023. [paper](https://arxiv.org/abs/2306.16524)
+
+   *Saurabh Patil, Zijie Li, and Amir Barati Farimani.*
+
 ### [Identification](#content)
 1. **Data-driven discovery of partial differential equations.** SA, 2017. [paper](https://arxiv.org/abs/1910.11710)
 
