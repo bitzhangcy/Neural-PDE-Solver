@@ -502,6 +502,10 @@ Contributed by Chunyang Zhang.
 
    *Jaewan Park, Shashank Kushwaha, Junyan He, Seid Koric, Diab Abueidda, and Iwona Jasiuk.*
 
+1. **Asymptotic-preserving convolutional DeepONets capture the diffusive behavior of the multiscale linear transport equations.** arXiv, 2023. [paper](https://arxiv.org/abs/2306.15891)
+
+   *Keke Wu, Xiong-bin Yan, Shi Jin, and Zheng Ma.*
+
 ### [Fourier Operator](#content)
 1. **Fourier neural operator for parametric partial differential equations.** ICLR, 2021. [paper](https://openreview.net/forum?id=c8P9NQVtmnO)
 
@@ -1648,6 +1652,10 @@ Contributed by Chunyang Zhang.
 
    *Varun Kumar, Leonard Gleyzer, Adar Kahana, Khemraj Shukla, and George Em Karniadakis.*
 
+1. **The curse of dimensionality in operator learning.** arXiv, 2023. [paper](https://arxiv.org/abs/2306.15924v1)
+
+   *Samuel Lanthaler and Andrew M. Stuart.*
+
 ### [Attention](#content)
 1. **Learning operators with coupled attention.** JMLR, 2022. [paper](https://www.jmlr.org/papers/v23/21-1521.html) 
 
@@ -2688,6 +2696,10 @@ Contributed by Chunyang Zhang.
 1. **Graph neural networks for airfoil design.** arXiv, 2023. [paper](https://arxiv.org/abs/2305.05469)
 
    *Florent Bonnet.*
+
+1. **Exact Dirichlet boundary physics-informed neural network EPINN for solid mechanics.** Computer Methods in Applied Mechanics and Engineering, 2023. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0045782523003080)
+
+   *Jiaji Wang, Y.L. Mo, Bassam Izzuddin, and Chul-Woo Kim.*
 
 ### [Robotics](#content)
 1. **Hybrid learning of time-series inverse dynamics models for locally isotropic robot motion.** RAL, 2022. [paper](https://ieeexplore.ieee.org/document/9954138)
