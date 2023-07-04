@@ -2548,6 +2548,10 @@ Contributed by Chunyang Zhang.
 
    *Jiaxiang Ren, Yang Zhou, Jiayin Jin, Lingjuan Lyu, and Da Yan.*
 
+1. **Accelerated primal-dual methods with enlarged step sizes and operator learning for nonsmooth optimal control problems.** arXiv, 2023. [paper](https://arxiv.org/abs/2307.00296)
+
+   *Yongcun Song, Xiaoming Yuan, and Hangrui Yue.*
+
 ### [Fluid](#content)
 1. **Physics-informed neural networks (PINNs) for fluid mechanics: A review.** Acta Mechanica Sinica, 2021. [paper](https://link.springer.com/article/10.1007/s10409-021-01148-1)
 
