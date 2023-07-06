@@ -437,6 +437,10 @@ Contributed by Chunyang Zhang.
 
    *Yihang Gao, Yiqi Gu, and Michael Ng.*
 
+1. **Residual-based attention and connection to information bottleneck theory in PINNs.** arXiv, 2023. [paper](https://arxiv.org/abs/2307.00379)
+
+   *Sokratis J. Anagnostopoulos, Juan Diego Toscano, Nikolaos Stergiopulos, and George Em Karniadakis.*
+
 ### [DeepONet](#content)
 1. **Learning nonlinear operators via DeepONet based on the universal approximation theorem of operators.** NMI, 2021. [paper](https://www.nature.com/articles/s42256-021-00302-5)
 
@@ -2053,6 +2057,10 @@ Contributed by Chunyang Zhang.
 
    *Songming Liu, Zhongkai Hao, Chengyang Ying, Hang Su, Ze Cheng, and  Jun Zhu.*
 
+1. **Enhancing training of physics-informed neural networks using domain-decomposition based preconditioning strategies.** arXiv, 2023. [paper](https://arxiv.org/abs/2306.17648)
+
+   *Alena Kopaničáková, Hardik Kothari, George Em Karniadakis, and Rolf Krause.*
+
 ### [Mesh](#content)
 1. **MeshingNet: A new mesh generation method based on deep learning.** ICCS, 2022. [paper](https://link.springer.com/chapter/10.1007/978-3-030-50420-5_14)
 
@@ -2704,6 +2712,10 @@ Contributed by Chunyang Zhang.
 1. **Exact Dirichlet boundary physics-informed neural network EPINN for solid mechanics.** Computer Methods in Applied Mechanics and Engineering, 2023. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0045782523003080)
 
    *Jiaji Wang, Y.L. Mo, Bassam Izzuddin, and Chul-Woo Kim.*
+
+1. **Solving multi-material problems in solid mechanics using physics-informed neural networks based on domain decomposition technology.** Computer Methods in Applied Mechanics and Engineering, 2023. [paper](https://www.sciencedirect.com/science/article/abs/pii/S004578252300244X)
+
+   *Yu Diao, Jianchuan Yang, Ying Zhang, Dawei Zhang, and Yiming Du.*
 
 ### [Robotics](#content)
 1. **Hybrid learning of time-series inverse dynamics models for locally isotropic robot motion.** RAL, 2022. [paper](https://ieeexplore.ieee.org/document/9954138)
