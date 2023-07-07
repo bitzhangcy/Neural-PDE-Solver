@@ -2637,6 +2637,10 @@ Contributed by Chunyang Zhang.
 
    *Minh Triet Chau, João Lucas de Sousa Almeida, Elie Alhajjar, and Alberto Costa Nogueira Junior.*
 
+1. **A probabilistic, data-driven closure model for RANS simulations with aleatoric, model uncertainty.** arXiv, 2023. [paper](https://arxiv.org/abs/2307.02432)
+
+   *Atul Agrawal and Phaedon-Stelios Koutsourelakis.*
+
 ### [Reconstruction](#content)
 1. **Occupancy networks: Learning 3D reconstruction in function space.** CVPR, 2019. [paper](https://openaccess.thecvf.com/content_CVPR_2019/papers/Mescheder_Occupancy_Networks_Learning_3D_Reconstruction_in_Function_Space_CVPR_2019_paper.pdf)
 
