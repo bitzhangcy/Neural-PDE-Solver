@@ -2061,6 +2061,10 @@ Contributed by Chunyang Zhang.
 
    *Alena Kopaničáková, Hardik Kothari, George Em Karniadakis, and Rolf Krause.*
 
+1. **Multilevel domain decomposition-based architectures for physics-informed neural networks.** arXiv, 2023. [paper](https://arxiv.org/abs/2306.05486)
+
+   *Victorita Dolean, Alexander Heinlein, Siddhartha Mishra, and Ben Moseley.*
+
 ### [Mesh](#content)
 1. **MeshingNet: A new mesh generation method based on deep learning.** ICCS, 2022. [paper](https://link.springer.com/chapter/10.1007/978-3-030-50420-5_14)
 
@@ -2364,9 +2368,13 @@ Contributed by Chunyang Zhang.
 
    *Shamsulhaq Basir and Inanc Senocak.*
 
-1. **Constrained optimization via exact augmented lagrangian and randomized iterative sketching.** ICML, 2023. [paper](https://openreview.net/forum?id=oxS8hNmCuW)
+1. **Constrained optimization via exact augmented Lagrangian and randomized iterative sketching.** ICML, 2023. [paper](https://openreview.net/forum?id=oxS8hNmCuW)
 
    *Ilgee Hong, Sen Na, Michael W. Mahoney, and Mladen Kolar.*
+
+1. **An adaptive augmented Lagrangian method for training physics and equality constrained artificial neural networks.** arXiv, 2023. [paper](https://arxiv.org/abs/2306.04904)
+
+   *Shamsulhaq Basir and Inanc Senocak.*
 
 ### [Uncertainty Quantification](#content)
 1. **Quantifying total uncertainty in physics-informed neural networks for solving forward and inverse stochastic problems.** arXiv, 2021. [paper](https://www.sciencedirect.com/science/article/pii/S0021999119305340)
