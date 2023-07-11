@@ -1379,6 +1379,10 @@ Contributed by Chunyang Zhang.
 
    *Carlos Uriarte, David Pardo, Ignacio Mug, and Judit Muñoz-Matute.*
 
+1. **A deep learning framework for solving hyperbolic partial differential equations: Part I.** arXiv, 2023. [paper](https://arxiv.org/abs/2307.04121)
+
+   *Rajat Arora.*
+
 ### [Neural ODE](#content)
 1. **Neural rough differential equations for long time series.** ICML, 2021. [paper](http://proceedings.mlr.press/v139/morrill21b.html)
 
@@ -2203,6 +2207,10 @@ Contributed by Chunyang Zhang.
 
    *Yue Song, T. Anderson Keller, Nicu Sebe, and Max Welling.*
 
+1. **Learning space-time continuous neural PDEs from partially observed states.** arXiv, 2023. [paper](https://arxiv.org/abs/2307.04110)
+
+   *Valerii Iakovlev, Markus Heinonen, and Harri Lähdesmäki.*
+
 ### [Gaussian Process](#content)
 1. **PAGP: A physics-assisted Gaussian process framework with active learning for forward and inverse problems of partial differential equations.** arXiv, 2022. [paper](https://arxiv.org/abs/2204.02583)
 
@@ -2859,6 +2867,10 @@ Contributed by Chunyang Zhang.
 1. **Solution of physics-based inverse problems using conditional generative adversarial networks with full gradient penalty.** arXiv, 2023. [paper](https://arxiv.org/abs/2306.04895)
 
    *Deep Ray, Javier Murgoitio-Esandi, Agnimitra Dasgupta, and Assad A. Oberai.*
+
+1. **Entropy structure informed learning for inverse XDE problems.** arXiv, 2023. [paper](https://arxiv.org/abs/2306.08241)
+
+   *Yan Jiang, Wuyue Yang, Yi Zhu, and Liu Hong.*
 
 ### [Quantum](#content)
 1. **Physics-informed neural networks for quantum eigenvalue problems.** IJCNN, 2022. [paper](https://ieeexplore.ieee.org/document/9891944)
