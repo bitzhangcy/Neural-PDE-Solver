@@ -2297,6 +2297,10 @@ Contributed by Chunyang Zhang.
 
    *Lucas Meyer, Marc Schouler, Robert A. Caulk, Alejandro Ribes, and Bruno Raffin.* 
 
+1. **Self-supervised learning with Lie symmetries for partial differential equations.** arXiv, 2023. [paper](https://arxiv.org/abs/2307.05432)
+
+   *Grégoire Mialon, Quentin Garrido, Hannah Lawrence, Danyal Rehman, Yann LeCun, and Bobak T. Kiani.*
+
 ### [Variation](#content) 
 1. **PI-VAE: Physics-informed variational auto-encoder for stochastic differential equations.** Computer Methods in Applied Mechanics and Engineering, 2022. [paper](https://www.sciencedirect.com/science/article/pii/S0045782522006193)
 
