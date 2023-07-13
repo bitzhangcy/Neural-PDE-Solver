@@ -441,6 +441,10 @@ Contributed by Chunyang Zhang.
 
    *Sokratis J. Anagnostopoulos, Juan Diego Toscano, Nikolaos Stergiopulos, and George Em Karniadakis.*
 
+1. **Auxiliary-tasks learning for physics-informed neural network-based partial differential equations solving.** arXiv, 2023. [paper](https://arxiv.org/abs/2307.06167)
+
+   *Junjun Yan, Xinhai Chen, Zhichao Wang, Enqiang Zhou, and Jie Liu.*
+
 ### [DeepONet](#content)
 1. **Learning nonlinear operators via DeepONet based on the universal approximation theorem of operators.** NMI, 2021. [paper](https://www.nature.com/articles/s42256-021-00302-5)
 
@@ -1934,6 +1938,10 @@ Contributed by Chunyang Zhang.
 
    *Yuxiao Wen, Eric Vanden-Eijnden, and Benjamin Peherstorfer.*
 
+1. **Mitigating propagation failures in physics-informed neural networks using retain-resample-release (R3) sampling.** ICML, 2023. [paper](https://openreview.net/forum?id=rhvb4kprWB)
+
+   *Arka Daw, Jie Bu, Sifan Wang, Paris Perdikaris, and Anuj Karpatne.*
+
 ### [Latent Space](#content)
 1. **Multiscale simulations of complex systems by learning their effective dynamics.** NMI, 2022. [paper](https://www.nature.com/articles/s42256-022-00464-w)
 
@@ -2661,6 +2669,10 @@ Contributed by Chunyang Zhang.
 
    *Atul Agrawal and Phaedon-Stelios Koutsourelakis.*
 
+1. **Physics-informed machine learning for calibrating macroscopic traffic flow models.** arXiv, 2023. [paper](https://arxiv.org/abs/2307.06267)
+
+   *Yu Tang, Li Jin, and Kaan Ozbay.*
+
 ### [Reconstruction](#content)
 1. **Occupancy networks: Learning 3D reconstruction in function space.** CVPR, 2019. [paper](https://openaccess.thecvf.com/content_CVPR_2019/papers/Mescheder_Occupancy_Networks_Learning_3D_Reconstruction_in_Function_Space_CVPR_2019_paper.pdf)
 
@@ -2830,6 +2842,10 @@ Contributed by Chunyang Zhang.
 1. **Physics-guided neural networks for inversion-based feedforward control applied to hybrid stepper motors.**arXiv, 2023. [paper](https://arxiv.org/abs/2306.12817)
 
    *Daiwei Fan, Max Bolderman, Sjirk Koekebakker, Hans Butler, and Mircea Lazar.*
+
+1. **Physics-informed recurrent neural network modeling for predictive control of nonlinear processes.** JCP, 2023. [paper](https://www.sciencedirect.com/science/article/pii/S0959152423000847)
+
+   *Yingzhe Zheng, Cheng Hu, Xiaonan Wang, and Zhe Wu.*
 
 ### [Inverse Design](#content)
 1. **DPM: Physics-informed Karhunen-Loéve and neural network approximations for solving inverse differential equation problems.** AAAI, 2021. [paper](https://ojs.aaai.org/index.php/AAAI/article/view/16992/16799)
