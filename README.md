@@ -1668,6 +1668,10 @@ Contributed by Chunyang Zhang.
 
    *Samuel Lanthaler and Andrew M. Stuart.*
 
+1. **Inverse evolution layers: Physics-informed regularizers for deep neural networks.** arXiv, 2023. [paper](https://arxiv.org/abs/2307.07344)
+
+   *Chaoyu Liu, Zhonghua Qiao, Chao Li, and Carola-Bibiane Schönlieb.*
+
 ### [Attention](#content)
 1. **Learning operators with coupled attention.** JMLR, 2022. [paper](https://www.jmlr.org/papers/v23/21-1521.html) 
 
@@ -2846,6 +2850,10 @@ Contributed by Chunyang Zhang.
 1. **Physics-informed recurrent neural network modeling for predictive control of nonlinear processes.** JCP, 2023. [paper](https://www.sciencedirect.com/science/article/pii/S0959152423000847)
 
    *Yingzhe Zheng, Cheng Hu, Xiaonan Wang, and Zhe Wu.*
+
+1. **Optimal Dirichlet boundary control by Fourier neural operators applied to nonlinear optics.**arXiv, 2023. [paper](https://arxiv.org/abs/2307.07292)
+
+   *Nils Margenberg, Franz X. Kärtner, and Markus Bause.*
 
 ### [Inverse Design](#content)
 1. **DPM: Physics-informed Karhunen-Loéve and neural network approximations for solving inverse differential equation problems.** AAAI, 2021. [paper](https://ojs.aaai.org/index.php/AAAI/article/view/16992/16799)
