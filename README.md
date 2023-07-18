@@ -2501,6 +2501,10 @@ Contributed by Chunyang Zhang.
 
    *Daniel Greenfeld, Meirav Galun, Ronen Basri, Irad Yavneh, and Ron Kimmel.*
 
+1. **Reducing operator complexity in algebraic multigrid with machine learning approaches.** arXiv, 2023. [paper](https://arxiv.org/abs/2307.07695)
+
+   *Ru Huang, Kai Chang, Huan He, Ruipeng Li, and Yuanzhe Xi.*
+
 
 ## [Applications](#content)
 ### [Optimization](#content)
