@@ -2223,6 +2223,10 @@ Contributed by Chunyang Zhang.
 
    *Valerii Iakovlev, Markus Heinonen, and Harri Lähdesmäki.*
 
+1. **DiTTO: Diffusion-inspired temporal Transformer operator.** arXiv, 2023. [paper](https://arxiv.org/abs/2307.09072)
+
+   *Oded Ovadia, Eli Turkel, Adar Kahana, and George Em Karniadakis.*
+
 ### [Gaussian Process](#content)
 1. **PAGP: A physics-assisted Gaussian process framework with active learning for forward and inverse problems of partial differential equations.** arXiv, 2022. [paper](https://arxiv.org/abs/2204.02583)
 
