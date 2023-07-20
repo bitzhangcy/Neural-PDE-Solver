@@ -887,6 +887,10 @@ Contributed by Chunyang Zhang.
 
    *Cosmas Heiß, Ingo Gühring, and Martin Eigel.*
 
+1. **Encoding physics to learn reaction–diffusion processes.** NMI, 2023. [paper](https://www.nature.com/articles/s42256-023-00685-7)
+
+   *Chengping Rao, Pu Ren, Qi Wang, Oral Buyukozturk, Hao Sun, and Yang Liu.*
+
 ### [AutoEncoder](#content)
 1. **Integral autoencoder network for discretization-invariant learning.** JMLR, 2022. [paper](https://www.jmlr.org/papers/v23/22-0297.html)
 
@@ -1230,6 +1234,10 @@ Contributed by Chunyang Zhang.
 
    *Paul Heinisch, Andrzej Dulny, Anna Krause, and Andreas Hotho.*
 
+1. **Discovering a reaction-diffusion model for Alzheimer's disease by combining PINNs with symbolic regression.** arXiv, 2023. [paper](https://arxiv.org/abs/2307.08107)
+
+   *Zhen Zhang, Zongren Zou, Ellen Kuhl, and George Em Karniadakis.*
+
 ### [Machine Learning](#content)
 1. **Machine learning–accelerated computational fluid dynamics.** PNAS, 2021. [paper](https://www.pnas.org/doi/10.1073/pnas.2101784118)
 
@@ -1386,6 +1394,10 @@ Contributed by Chunyang Zhang.
 1. **A deep learning framework for solving hyperbolic partial differential equations: Part I.** arXiv, 2023. [paper](https://arxiv.org/abs/2307.04121)
 
    *Rajat Arora.*
+
+1. **Fully probabilistic deep models for forward and inverse problems in parametric PDEs.** JCP, 2023. [paper](https://www.sciencedirect.com/science/article/pii/S0021999123004643)
+
+   *Arnaud Vadeboncoeur, Ömer Deniz Akyildiz, Ieva Kazlauskaite, Mark Girolami, and Fehmi Cirak.*
 
 ### [Neural ODE](#content)
 1. **Neural rough differential equations for long time series.** ICML, 2021. [paper](http://proceedings.mlr.press/v139/morrill21b.html)
