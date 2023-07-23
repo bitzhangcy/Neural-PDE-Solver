@@ -1684,6 +1684,10 @@ Contributed by Chunyang Zhang.
 
    *Chaoyu Liu, Zhonghua Qiao, Chao Li, and Carola-Bibiane Schönlieb.*
 
+1. **A discretization-invariant extension and analysis of some deep operator networks.** arXiv, 2023. [paper](https://arxiv.org/abs/2307.09738)
+
+   *Zecheng Zhang, Wing Tat Leung , and Hayden Schaeffer.*
+
 ### [Attention](#content)
 1. **Learning operators with coupled attention.** JMLR, 2022. [paper](https://www.jmlr.org/papers/v23/21-1521.html) 
 
