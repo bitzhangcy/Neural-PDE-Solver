@@ -112,7 +112,6 @@ Contributed by Chunyang Zhang.
 </table>
 
 
-
 ## [Survey Papers](#content)
 1. **Physics-informed machine learning.** Nature Reviews Physics, 2021. [paper](https://www.nature.com/articles/s42254-021-00314-5)
 
@@ -173,6 +172,10 @@ Contributed by Chunyang Zhang.
 1. **Partial differential equations meet deep neural networks: A survey.** arXiv, 2022. [paper](https://arxiv.org/abs/2211.05567)
 
    *Shudong Huang, Wentao Feng, Chenwei Tang, and Jiancheng Lv.* 
+
+1. **Solving differential equations with Deep Learning: A beginner's guide.** arXiv, 2023. [paper](https://arxiv.org/abs/2307.11237)
+
+   *Luis Medrano Navarro, Luis Martín Moreno, and Sergio G Rodrigo.* 
 
 
 ## [Model](#content) 
@@ -899,6 +902,10 @@ Contributed by Chunyang Zhang.
 1. **Variational autoencoding neural operators.** arXiv, 2023. [paper](https://arxiv.org/abs/2302.10351)
 
    *Jacob H. Seidman, Georgios Kissas, George J. Pappas, and Paris Perdikaris.*
+
+1. **PI-VEGAN: Physics informed variational embedding generative adversarial networks for stochastic differential equations.** arXiv, 2023. [paper](https://arxiv.org/abs/2302.10351)
+
+   *Ruisong Gao, Yufeng Wang, Min Yang, and Chuanjun Chen.*
 
 ### [Neural Operator](#content)
 1. **Multiwavelet-based operator learning for differential equations.** NIPS, 2021. [paper](https://openreview.net/forum?id=LZDiWaC9CGL)
@@ -2883,6 +2890,10 @@ Contributed by Chunyang Zhang.
 
    *Nils Margenberg, Franz X. Kärtner, and Markus Bause.*
 
+1. **Neural operators for delay-compensating control of hyperbolic PIDEs.**arXiv, 2023. [paper](https://arxiv.org/abs/2307.11436)
+
+   *Jie Qi, Jing Zhang, and Miroslav Krstic.*
+
 ### [Inverse Design](#content)
 1. **DPM: Physics-informed Karhunen-Loéve and neural network approximations for solving inverse differential equation problems.** AAAI, 2021. [paper](https://ojs.aaai.org/index.php/AAAI/article/view/16992/16799)
 
@@ -2927,6 +2938,10 @@ Contributed by Chunyang Zhang.
 1. **Entropy structure informed learning for inverse XDE problems.** arXiv, 2023. [paper](https://arxiv.org/abs/2306.08241)
 
    *Yan Jiang, Wuyue Yang, Yi Zhu, and Liu Hong.*
+
+1. **Solving multiphysics-based inverse problems with learned surrogates and constraints.** arXiv, 2023. [paper](https://arxiv.org/abs/2307.11099)
+
+   *Ziyi Yin, Rafael Orozco, Mathias Louboutin, and Felix J. Herrmann.*
 
 ### [Quantum](#content)
 1. **Physics-informed neural networks for quantum eigenvalue problems.** IJCNN, 2022. [paper](https://ieeexplore.ieee.org/document/9891944)
