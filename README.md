@@ -1406,6 +1406,10 @@ Contributed by Chunyang Zhang.
 
    *Arnaud Vadeboncoeur, Ömer Deniz Akyildiz, Ieva Kazlauskaite, Mark Girolami, and Fehmi Cirak.*
 
+1. **An axiomatized PDE model of deep neural networks.** arXiv, 2023. [paper](https://arxiv.org/abs/2307.12333)
+
+   *Tangjun Wang, Wenqi Tao, Chenglong Bao, and Zuoqiang Shi.*
+
 ### [Neural ODE](#content)
 1. **Neural rough differential equations for long time series.** ICML, 2021. [paper](http://proceedings.mlr.press/v139/morrill21b.html)
 
@@ -2249,6 +2253,10 @@ Contributed by Chunyang Zhang.
 1. **DiTTO: Diffusion-inspired temporal Transformer operator.** arXiv, 2023. [paper](https://arxiv.org/abs/2307.09072)
 
    *Oded Ovadia, Eli Turkel, Adar Kahana, and George Em Karniadakis.*
+
+1. **PINNsFormer: A Transformer-based framework For physics-informed neural networks.** arXiv, 2023. [paper](https://arxiv.org/abs/2307.11833)
+
+   *Leo Zhiyuan Zhao, Xueying Ding, and B. Aditya Prakash.*
 
 ### [Gaussian Process](#content)
 1. **PAGP: A physics-assisted Gaussian process framework with active learning for forward and inverse problems of partial differential equations.** arXiv, 2022. [paper](https://arxiv.org/abs/2204.02583)
