@@ -2716,9 +2716,13 @@ Contributed by Chunyang Zhang.
 
    *Yu Tang, Li Jin, and Kaan Ozbay.*
 
-1. **Radial basis function-differential quadrature-based physics-informed neural network for steady incompressible flows .** Physics of Fluids, 2023. [paper](https://pubs.aip.org/aip/pof/article/35/7/073607/2902185)
+1. **Radial basis function-differential quadrature-based physics-informed neural network for steady incompressible flows.** Physics of Fluids, 2023. [paper](https://pubs.aip.org/aip/pof/article/35/7/073607/2902185)
 
    *Yang Xiao, Liming Yang, Yinjie Du, Yuxin Song, and Chang Shu.*
+
+1. **Long-term predictions of turbulence by implicit U-Net enhanced Fourier neural operator.** Physics of Fluids, 2023. [paper](https://pubs.aip.org/aip/pof/article/35/7/075145/2903750)
+
+   *Zhijie Li, Wenhui Peng, Zelong Yuan, and Jianchun Wang.*
 
 ### [Reconstruction](#content)
 1. **Occupancy networks: Learning 3D reconstruction in function space.** CVPR, 2019. [paper](https://openaccess.thecvf.com/content_CVPR_2019/papers/Mescheder_Occupancy_Networks_Learning_3D_Reconstruction_in_Function_Space_CVPR_2019_paper.pdf)
