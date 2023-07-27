@@ -1973,6 +1973,10 @@ Contributed by Chunyang Zhang.
 
    *Arka Daw, Jie Bu, Sifan Wang, Paris Perdikaris, and Anuj Karpatne.*
 
+1. **Good lattice training: Physics-informed neural networks accelerated by number theory.** arXiv, 2023. [paper](https://arxiv.org/abs/2307.13869)
+
+   *Takashi Matsubara and Takaharu Yaguchi.*
+
 ### [Latent Space](#content)
 1. **Multiscale simulations of complex systems by learning their effective dynamics.** NMI, 2022. [paper](https://www.nature.com/articles/s42256-022-00464-w)
 
@@ -2107,6 +2111,10 @@ Contributed by Chunyang Zhang.
 1. **Multilevel domain decomposition-based architectures for physics-informed neural networks.** arXiv, 2023. [paper](https://arxiv.org/abs/2306.05486)
 
    *Victorita Dolean, Alexander Heinlein, Siddhartha Mishra, and Ben Moseley.*
+
+1. **A generalized Schwarz-type non-overlapping domain decomposition method using Physics-constrained neural networks.** arXiv, 2023. [paper](https://arxiv.org/abs/2307.12435)
+
+   *Shamsulhaq Basir and Inanc Senocak.*
 
 ### [Mesh](#content)
 1. **MeshingNet: A new mesh generation method based on deep learning.** ICCS, 2022. [paper](https://link.springer.com/chapter/10.1007/978-3-030-50420-5_14)
@@ -2723,6 +2731,10 @@ Contributed by Chunyang Zhang.
 1. **Long-term predictions of turbulence by implicit U-Net enhanced Fourier neural operator.** Physics of Fluids, 2023. [paper](https://pubs.aip.org/aip/pof/article/35/7/075145/2903750)
 
    *Zhijie Li, Wenhui Peng, Zelong Yuan, and Jianchun Wang.*
+
+1. **Physics-informed neural networks for parametric compressible Euler equations.** arXiv, 2023. [paper](https://arxiv.org/abs/2307.14045)
+
+   *Simon Wassing, Stefan Langer, and Philipp Bekemeyer.*
 
 ### [Reconstruction](#content)
 1. **Occupancy networks: Learning 3D reconstruction in function space.** CVPR, 2019. [paper](https://openaccess.thecvf.com/content_CVPR_2019/papers/Mescheder_Occupancy_Networks_Learning_3D_Reconstruction_in_Function_Space_CVPR_2019_paper.pdf)
