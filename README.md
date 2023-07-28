@@ -448,6 +448,10 @@ Contributed by Chunyang Zhang.
 
    *Junjun Yan, Xinhai Chen, Zhichao Wang, Enqiang Zhou, and Jie Liu.*
 
+1. **Tackling the curse of dimensionality with physics-informed neural networks.** arXiv, 2023. [paper](https://arxiv.org/abs/2307.12306)
+
+   *Zheyuan Hu, Khemraj Shukla, George Em Karniadakis, and Kenji Kawaguchi.*
+
 ### [DeepONet](#content)
 1. **Learning nonlinear operators via DeepONet based on the universal approximation theorem of operators.** NMI, 2021. [paper](https://www.nature.com/articles/s42256-021-00302-5)
 
@@ -597,6 +601,10 @@ Contributed by Chunyang Zhang.
 1. **Group equivariant Fourier neural operators for partial differential equations.** ICML, 2023. [paper](https://openreview.net/forum?id=kgAOY5x4fi)
 
    *Jacob Helwig, Xuan Zhang, Cong Fu, Jerry Kurtin, Stephan Wojtowytsch, and Shuiwang Ji.*
+
+1. **Speeding up Fourier neural operators via mixed precision.** arXiv, 2023. [paper](https://arxiv.org/abs/2307.15034)
+
+   *Colin White, Renbo Tu, Jean Kossaifi, Gennady Pekhimenko, Kamyar Azizzadenesheli, and Anima Anandkumar.*
 
 ### [Graph Network](#content)
 1. **Message passing neural PDE solvers.** ICLR, 2022. [paper](https://openreview.net/forum?id=vSix3HPYKSU)
