@@ -788,6 +788,10 @@ Contributed by Chunyang Zhang.
 
    *Rixi Peng, Juncheng Dong, Jordan Malof, Willie J. Padilla, Vahid Tarokh.*
 
+1. **Operator approximation of the wave equation based on deep learning of Green’s function.** arXiv, 2023. [paper](https://arxiv.org/abs/2307.13902)
+
+   *Ziad Aldirany, R´egis Cottereau, Marc Laforest, and Serge Prudhomme.*
+
 ### [Finite Element](#content)
 1. **Composing partial differential equations with physics-aware neural networks.** ICML, 2022. [paper](https://proceedings.mlr.press/v162/karlbauer22a/karlbauer22a.pdf)
 
@@ -2743,6 +2747,10 @@ Contributed by Chunyang Zhang.
 1. **Physics-informed neural networks for parametric compressible Euler equations.** arXiv, 2023. [paper](https://arxiv.org/abs/2307.14045)
 
    *Simon Wassing, Stefan Langer, and Philipp Bekemeyer.*
+
+1. **Simulation of rarefied gas flows using physics-informed neural network combined with discrete velocity method.** Physics of Fluids, 2023. [paper](https://pubs.aip.org/aip/pof/article/35/7/077124/2903882)
+
+   *Linying Zhang, Wenjun Ma, Qin Lou, and  Jun Zhang.*
 
 ### [Reconstruction](#content)
 1. **Occupancy networks: Learning 3D reconstruction in function space.** CVPR, 2019. [paper](https://openaccess.thecvf.com/content_CVPR_2019/papers/Mescheder_Occupancy_Networks_Learning_3D_Reconstruction_in_Function_Space_CVPR_2019_paper.pdf)
