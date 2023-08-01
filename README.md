@@ -1550,6 +1550,10 @@ Contributed by Chunyang Zhang.
 
    *Zhongkai Hao, Jiachen Yao, Chang Su, Hang Su, Ziao Wang, Fanzhi Lu, Zeyu Xia, Yichi Zhang, Songming Liu, Lu Lu, and Jun Zhu.*
 
+1. **BubbleML: A multi-physics dataset and benchmarks for machine learning.** arXiv, 2023. [paper](https://arxiv.org/abs/2307.14623)
+
+   *Sheikh Md Shakeel Hassan, Arthur Feeney, Akash Dhruv, Jihoon Kim, Youngjoon Suh, Jaiyoung Ryu, Yoonjin Won, and Aparna Chandramowlishwaran.*
+
 ### [Analysis](#content)
 1. **Characterizing possible failure modes in physics-informed neural networks.** NIPS, 2021. [paper](https://openreview.net/forum?id=a2Gr9gNFD-J)
 
@@ -1710,6 +1714,10 @@ Contributed by Chunyang Zhang.
 1. **A discretization-invariant extension and analysis of some deep operator networks.** arXiv, 2023. [paper](https://arxiv.org/abs/2307.09738)
 
    *Zecheng Zhang, Wing Tat Leung , and Hayden Schaeffer.*
+
+1. **Modeling accurate long rollouts with temporal neural PDE solvers.** ICML, 2023. [paper](https://openreview.net/pdf?id=EGTY6V76b3)
+
+   *Phillip Lippe, Bastiaan S. Veeling, Paris Perdikaris, Richard E. Turner, and  Johannes Brandstetter.*
 
 ### [Attention](#content)
 1. **Learning operators with coupled attention.** JMLR, 2022. [paper](https://www.jmlr.org/papers/v23/21-1521.html) 
@@ -2926,13 +2934,17 @@ Contributed by Chunyang Zhang.
 
    *Yingzhe Zheng, Cheng Hu, Xiaonan Wang, and Zhe Wu.*
 
-1. **Optimal Dirichlet boundary control by Fourier neural operators applied to nonlinear optics.**arXiv, 2023. [paper](https://arxiv.org/abs/2307.07292)
+1. **Optimal Dirichlet boundary control by Fourier neural operators applied to nonlinear optics.** arXiv, 2023. [paper](https://arxiv.org/abs/2307.07292)
 
    *Nils Margenberg, Franz X. Kärtner, and Markus Bause.*
 
-1. **Neural operators for delay-compensating control of hyperbolic PIDEs.**arXiv, 2023. [paper](https://arxiv.org/abs/2307.11436)
+1. **Neural operators for delay-compensating control of hyperbolic PIDEs.** arXiv, 2023. [paper](https://arxiv.org/abs/2307.11436)
 
    *Jie Qi, Jing Zhang, and Miroslav Krstic.*
+
+1. **Physics-informed online learning of gray-box models by moving horizon estimation.** European Journal of Control, 2023. [paper](https://www.sciencedirect.com/science/article/pii/S0947358023000900)
+
+   *Kristoffer Fink Løwenstein, Daniele Bernardini, Lorenzo Fagiano, and Alberto Bemporad.*
 
 ### [Inverse Design](#content)
 1. **DPM: Physics-informed Karhunen-Loéve and neural network approximations for solving inverse differential equation problems.** AAAI, 2021. [paper](https://ojs.aaai.org/index.php/AAAI/article/view/16992/16799)
