@@ -3012,6 +3012,10 @@ Contributed by Chunyang Zhang.
 
    *Owen M Dugan, Peter Y. Lu, Rumen Dangovski, Di Luo, and Marin Soljacic.*
 
+1. **Physics-Informed Quantum Machine Learning: Solving nonlinear differential equations in latent spaces without costly grid evaluations.** arXiv, 2023. [paper](https://arxiv.org/abs/2308.01827)
+
+   *Annie E. Paine, Vincent E. Elfving, and Oleksandr Kyriienko.*
+
 ### [Climate](#content)
 1. **FourCastNet: A global data-driven high-resolution weather model using adaptive Fourier neural operators.** arXiv, 2022. [paper](https://arxiv.org/abs/2202.11214)
 
