@@ -1422,6 +1422,10 @@ Contributed by Chunyang Zhang.
 
    *Tangjun Wang, Wenqi Tao, Chenglong Bao, and Zuoqiang Shi.*
 
+1. **Element learning: A systematic approach of accelerating finite element-type methods via machine learning, with applications to radiative transfer.** arXiv, 2023. [paper](https://arxiv.org/abs/2308.02467)
+
+   *Shukai Du and Samuel N. Stechmann.*
+
 ### [Neural ODE](#content)
 1. **Neural rough differential equations for long time series.** ICML, 2021. [paper](http://proceedings.mlr.press/v139/morrill21b.html)
 
