@@ -1723,6 +1723,10 @@ Contributed by Chunyang Zhang.
 
    *Phillip Lippe, Bastiaan S. Veeling, Paris Perdikaris, Richard E. Turner, and  Johannes Brandstetter.*
 
+1. **Positional embeddings for solving PDEs with evolutional deep neural networks.** arXiv, 2023. [paper](https://arxiv.org/abs/2308.03461)
+
+   *Mariella Kast and Jan S Hesthaven.*
+
 ### [Attention](#content)
 1. **Learning operators with coupled attention.** JMLR, 2022. [paper](https://www.jmlr.org/papers/v23/21-1521.html) 
 
@@ -2139,6 +2143,10 @@ Contributed by Chunyang Zhang.
 1. **A generalized Schwarz-type non-overlapping domain decomposition method using Physics-constrained neural networks.** arXiv, 2023. [paper](https://arxiv.org/abs/2307.12435)
 
    *Shamsulhaq Basir and Inanc Senocak.*
+
+1. **Friedrichs' systems discretized with the Discontinuous Galerkin method: Domain decomposable model order reduction and Graph Neural Networks approximating vanishing viscosity solutions.** arXiv, 2023. [paper](https://arxiv.org/abs/2308.03378)
+
+   *Francesco Romor, Davide Torlo, and Gianluigi Rozza.*
 
 ### [Mesh](#content)
 1. **MeshingNet: A new mesh generation method based on deep learning.** ICCS, 2022. [paper](https://link.springer.com/chapter/10.1007/978-3-030-50420-5_14)
