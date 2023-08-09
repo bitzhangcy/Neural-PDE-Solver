@@ -1727,6 +1727,10 @@ Contributed by Chunyang Zhang.
 
    *Mariella Kast and Jan S Hesthaven.*
 
+1. **Learning specialized activation functions for physics-informed neural networks.** arXiv, 2023. [paper](https://arxiv.org/abs/2308.04073)
+
+   *Honghui Wang, Lu Lu, Shiji Song, and Gao Huang.*
+
 ### [Attention](#content)
 1. **Learning operators with coupled attention.** JMLR, 2022. [paper](https://www.jmlr.org/papers/v23/21-1521.html) 
 
@@ -2957,6 +2961,10 @@ Contributed by Chunyang Zhang.
 1. **Physics-informed online learning of gray-box models by moving horizon estimation.** European Journal of Control, 2023. [paper](https://www.sciencedirect.com/science/article/pii/S0947358023000900)
 
    *Kristoffer Fink Løwenstein, Daniele Bernardini, Lorenzo Fagiano, and Alberto Bemporad.*
+
+1. **Online identification and control of PDEs via reinforcement learning methods.** arXiv, 2023. [paper](https://arxiv.org/abs/2308.04068v1)
+
+   *Alessandro Alla, Agnese Pacifico, Michele Palladino, and Andrea Pesare.*
 
 ### [Inverse Design](#content)
 1. **DPM: Physics-informed Karhunen-Loéve and neural network approximations for solving inverse differential equation problems.** AAAI, 2021. [paper](https://ojs.aaai.org/index.php/AAAI/article/view/16992/16799)
