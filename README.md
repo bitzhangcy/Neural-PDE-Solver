@@ -182,6 +182,10 @@ Contributed by Chunyang Zhang.
 
    *Luis Medrano Navarro, Luis Martín Moreno, and Sergio G Rodrigo.* 
 
+1. **Deep learning algorithms for solving differential equations: a survey.** Journal of Experimental & Theoretical Artificial Intelligence, 2023. [paper](https://www.tandfonline.com/doi/abs/10.1080/0952813X.2023.2242356)
+
+   *Harender Kumara and Neha Yadav.* 
+
 
 ## [Model](#content) 
 ### [PINN](#content)
