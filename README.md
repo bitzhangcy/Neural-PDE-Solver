@@ -31,6 +31,10 @@ Contributed by Chunyang Zhang.
     <td>&ensp;<a href="#machine-learning">2.11 Machine Learning</a></td>
     <td>&ensp;<a href="#neural-ode">2.12 Neural ODE</a></td>
 </tr>
+<tr>
+    <td>&ensp;<a href="#large-model">2.13 Large Model</a></td>
+    <td>&ensp;<a href="#"></a></td>
+</tr>
 <tr><td colspan="2"><a href="#mechanism">3. Mechanism</a></td></tr>
 <tr>
     <td>&ensp;<a href="#library">3.1 Library</a></td>
@@ -110,6 +114,7 @@ Contributed by Chunyang Zhang.
     <td>&ensp;<a href="#molecules">4.14 Molecules</a></td>
 </tr> 
 </table>
+
 
 
 ## [Survey Papers](#content)
@@ -1064,6 +1069,10 @@ Contributed by Chunyang Zhang.
 
    *Saurabh Patil, Zijie Li, and Amir Barati Farimani.*
 
+1. **Finite element operator network for solving parametric PDEs.** arXiv, 2023. [paper](https://arxiv.org/abs/2308.04690)
+
+   *Jae Yong Lee, Seungchan Ko, and Youngjoon Hong.*
+
 ### [Identification](#content)
 1. **Data-driven discovery of partial differential equations.** SA, 2017. [paper](https://arxiv.org/abs/1910.11710)
 
@@ -1253,9 +1262,9 @@ Contributed by Chunyang Zhang.
 
    *Paul Heinisch, Andrzej Dulny, Anna Krause, and Andreas Hotho.*
 
-1. **Discovering a reaction-diffusion model for Alzheimer's disease by combining PINNs with symbolic regression.** arXiv, 2023. [paper](https://arxiv.org/abs/2307.08107)
+1. **Learning of discrete models of variational PDEs from data.** arXiv, 2023. [paper](https://arxiv.org/abs/2308.05082)
 
-   *Zhen Zhang, Zongren Zou, Ellen Kuhl, and George Em Karniadakis.*
+   *Christian Offen and Sina Ober-Blöbaum.*
 
 ### [Machine Learning](#content)
 1. **Machine learning–accelerated computational fluid dynamics.** PNAS, 2021. [paper](https://www.pnas.org/doi/10.1073/pnas.2101784118)
@@ -1510,6 +1519,11 @@ Contributed by Chunyang Zhang.
 1. **Predicting ordinary differential equations with Transformers.** ICML, 2023. [paper](https://openreview.net/forum?id=LztkK0UZxS)
 
    *Sören Becker, Michal Klein, Alexander Neitz, Giambattista Parascandolo, and Niki Kilbertus.*
+
+### [Large Model](#content)
+1. **Prompting in-context operator learning with sensor data, equations, and natural language.** arXiv, 2023. [paper](https://arxiv.org/abs/2308.05061)
+
+   *Liu Yang, Tingwei Meng, Siting Liu, and Stanley J. Osher.*
 
 
 ## [Mechanism](#content)
