@@ -1077,6 +1077,10 @@ Contributed by Chunyang Zhang.
 
    *Jae Yong Lee, Seungchan Ko, and Youngjoon Hong.*
 
+1. **PDE-Refiner: Achieving accurate long rollouts with neural PDE solvers.** arXiv, 2023. [paper](https://arxiv.org/abs/2308.05732)
+
+   *Phillip Lippe, Bastiaan S. Veeling, Paris Perdikaris, Richard E. Turner, and Johannes Brandstetter.*
+
 ### [Identification](#content)
 1. **Data-driven discovery of partial differential equations.** SA, 2017. [paper](https://arxiv.org/abs/1910.11710)
 
