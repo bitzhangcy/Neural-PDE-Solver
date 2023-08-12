@@ -1274,6 +1274,10 @@ Contributed by Chunyang Zhang.
 
    *Christian Offen and Sina Ober-Blöbaum.*
 
+1. **Towards true discovery of the differential equations.** arXiv, 2023. [paper](https://arxiv.org/abs/2308.04901)
+
+   *Alexander Hvatov and Roman Titov.*
+
 ### [Machine Learning](#content)
 1. **Machine learning–accelerated computational fluid dynamics.** PNAS, 2021. [paper](https://www.pnas.org/doi/10.1073/pnas.2101784118)
 
@@ -2174,6 +2178,10 @@ Contributed by Chunyang Zhang.
 
    *Francesco Romor, Davide Torlo, and Gianluigi Rozza.*
 
+1. **A generalized Schwarz-type non-overlapping domain decomposition method using physics-constrained neural networks.** arXiv, 2023. [paper](https://arxiv.org/abs/2307.12435)
+
+   *Shamsulhaq Basir and Inanc Senocak.*
+
 ### [Mesh](#content)
 1. **MeshingNet: A new mesh generation method based on deep learning.** ICCS, 2022. [paper](https://link.springer.com/chapter/10.1007/978-3-030-50420-5_14)
 
@@ -3036,6 +3044,10 @@ Contributed by Chunyang Zhang.
 1. **Solving multiphysics-based inverse problems with learned surrogates and constraints.** arXiv, 2023. [paper](https://arxiv.org/abs/2307.11099)
 
    *Ziyi Yin, Rafael Orozco, Mathias Louboutin, and Felix J. Herrmann.*
+
+1. **Enforcing continuous symmetries in physics-informed neural network for solving forward and inverse problems of partial differential equations.** JCP, 2023. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0021999123005107)
+
+   *Zhiyong Zhang , Hui Zhang , Lisheng Zhang, and Leilei Guo.*
 
 ### [Quantum](#content)
 1. **Physics-informed neural networks for quantum eigenvalue problems.** IJCNN, 2022. [paper](https://ieeexplore.ieee.org/document/9891944)
