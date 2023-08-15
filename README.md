@@ -1757,6 +1757,10 @@ Contributed by Chunyang Zhang.
 
    *Honghui Wang, Lu Lu, Shiji Song, and Gao Huang.*
 
+1. **Size lowerbounds for deep operator networks.** arXiv, 2023. [paper](https://arxiv.org/abs/2308.06338)
+
+   *Anirbit Mukherjee and Amartya Roy.*
+
 ### [Attention](#content)
 1. **Learning operators with coupled attention.** JMLR, 2022. [paper](https://www.jmlr.org/papers/v23/21-1521.html) 
 
@@ -1960,6 +1964,10 @@ Contributed by Chunyang Zhang.
 1. **Meta learning of interface conditions for multi-domain physics-informed neural networks.** ICML, 2023. [paper](https://openreview.net/forum?id=e694Xvz6Q6)
 
    *Shibo Li, Michael Penwarden, Yiming Xu, Conor Tillinghast, Akil Narayan, Robert Kirby, and Shandian Zhe.*
+
+1. **A sequential meta-transfer (SMT) learning to combat complexities of physics-informed neural networks: Application to composites autoclave processing.** arXiv, 2023. [paper](https://arxiv.org/abs/2308.06447)
+
+   *Milad Ramezankhani and Abbas S. Milani.*
 
 ### [AutoML](#content)
 1. **Auto-PINN: Understanding and optimizing physics-informed neural architecture.** arXiv, 2022. [paper](https://arxiv.org/abs/2110.13361)
@@ -2995,6 +3003,10 @@ Contributed by Chunyang Zhang.
 1. **Online identification and control of PDEs via reinforcement learning methods.** arXiv, 2023. [paper](https://arxiv.org/abs/2308.04068v1)
 
    *Alessandro Alla, Agnese Pacifico, Michele Palladino, and Andrea Pesare.*
+
+1. **The hard-constraint PINNs for interface optimal control problems.** arXiv, 2023. [paper](https://arxiv.org/abs/2308.06709)
+
+   *Ming-Chih Lai, Yongcun Song, Xiaoming Yuan, Hangrui Yue, and Tianyou Zeng.*
 
 ### [Inverse Design](#content)
 1. **DPM: Physics-informed Karhunen-Loéve and neural network approximations for solving inverse differential equation problems.** AAAI, 2021. [paper](https://ojs.aaai.org/index.php/AAAI/article/view/16992/16799)
