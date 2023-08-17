@@ -186,6 +186,10 @@ Contributed by Chunyang Zhang.
 
    *Harender Kumara and Neha Yadav.* 
 
+1. **An expert's guide to training physics-informed neural networks.** arXiv, 2023. [paper](https://arxiv.org/abs/2308.08468)
+
+   *Sifan Wang, Shyam Sankaran, Hanwen Wang, and Paris Perdikaris.* 
+
 
 ## [Model](#content) 
 ### [PINN](#content)
