@@ -465,6 +465,10 @@ Contributed by Chunyang Zhang.
 
    *Zheyuan Hu, Khemraj Shukla, George Em Karniadakis, and Kenji Kawaguchi.*
 
+1. **Solving PDEs on spheres with physics-informed convolutional neural networks.** arXiv, 2023. [paper](https://arxiv.org/abs/2308.09605)
+
+   *Guanhang Lei, Zhen Lei, Lei Shi, Chenyu Zeng, and Dingxuan Zhou.*
+
 ### [DeepONet](#content)
 1. **Learning nonlinear operators via DeepONet based on the universal approximation theorem of operators.** NMI, 2021. [paper](https://www.nature.com/articles/s42256-021-00302-5)
 
@@ -1765,6 +1769,14 @@ Contributed by Chunyang Zhang.
 
    *Anirbit Mukherjee and Amartya Roy.*
 
+1. **How important are specialized transforms in neural operators?** arXiv, 2023. [paper](https://arxiv.org/abs/2308.09293)
+
+   *Ritam Majumdar, Shirish Karande, and Lovekesh Vig.*
+
+1. **Neural oscillators for generalization of physics-informed machine learning.** arXiv, 2023. [paper](https://arxiv.org/abs/2308.08989)
+
+   *Taniya Kapoor, Abhishek Chandra, Daniel M. Tartakovsky, Hongrui Wang, Alfredo Nunez, and Rolf Dollevoet.*
+
 ### [Attention](#content)
 1. **Learning operators with coupled attention.** JMLR, 2022. [paper](https://www.jmlr.org/papers/v23/21-1521.html) 
 
@@ -1972,6 +1984,10 @@ Contributed by Chunyang Zhang.
 1. **A sequential meta-transfer (SMT) learning to combat complexities of physics-informed neural networks: Application to composites autoclave processing.** arXiv, 2023. [paper](https://arxiv.org/abs/2308.06447)
 
    *Milad Ramezankhani and Abbas S. Milani.*
+
+1. **HyperLoRA for PDEs.** arXiv, 2023. [paper](https://arxiv.org/abs/2308.09290)
+
+   *Ritam Majumdar, Vishal Jadhav, Anirudh Deodhar, Shirish Karande, Lovekesh Vig, and Venkataramana Runkana.*
 
 ### [AutoML](#content)
 1. **Auto-PINN: Understanding and optimizing physics-informed neural architecture.** arXiv, 2022. [paper](https://arxiv.org/abs/2110.13361)
