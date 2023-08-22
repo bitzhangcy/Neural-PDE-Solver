@@ -477,6 +477,14 @@ Contributed by Chunyang Zhang.
 
    *Yequan Zhao, Xinling Yu, Zhixiong Chen, Ziyue Liu, Sijia Liu, and Zheng Zhang.*
 
+1. **How to select physics-informed neural networks in the absence of ground truth: A pareto front-based strategy.** ICML, 2023. [paper](https://openreview.net/pdf?id=i3Hjq9Wcvq)
+
+   *Zhao Wei, Jian Cheng Wong, Nicholas Wei Yong Sung, Abhishek Gupta, Chin Chun Ooi, Pao-Hsiung Chiu, My Ha Dao, and Yew-Soon Ong.*
+
+1. **A gradient-enhanced physics-informed neural network (gPINN) scheme for the coupled non-fickian/non-fourierian diffusion-thermoelasticity analysis: A novel gPINN structure.** Engineering Applications of Artificial Intelligence, 2023. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0952197623010928)
+
+   *Katayoun Eshkofti and Seyed Mahmoud Hosseini.*
+
 ### [DeepONet](#content)
 1. **Learning nonlinear operators via DeepONet based on the universal approximation theorem of operators.** NMI, 2021. [paper](https://www.nature.com/articles/s42256-021-00302-5)
 
