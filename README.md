@@ -469,6 +469,14 @@ Contributed by Chunyang Zhang.
 
    *Guanhang Lei, Zhen Lei, Lei Shi, Chenyu Zeng, and Dingxuan Zhou.*
 
+1. **Solving PDEs on spheres with physics-informed convolutional neural networks.** arXiv, 2023. [paper](https://arxiv.org/abs/2308.09605)
+
+   *Guanhang Lei, Zhen Lei, Lei Shi, Chenyu Zeng, and Dingxuan Zhou.*
+
+1. **Tensor-compressed back-propagation-free training for (physics-informed) neural networks.** arXiv, 2023. [paper](https://arxiv.org/abs/2308.09858)
+
+   *Yequan Zhao, Xinling Yu, Zhixiong Chen, Ziyue Liu, Sijia Liu, and Zheng Zhang.*
+
 ### [DeepONet](#content)
 1. **Learning nonlinear operators via DeepONet based on the universal approximation theorem of operators.** NMI, 2021. [paper](https://www.nature.com/articles/s42256-021-00302-5)
 
@@ -1285,6 +1293,10 @@ Contributed by Chunyang Zhang.
 1. **Towards true discovery of the differential equations.** arXiv, 2023. [paper](https://arxiv.org/abs/2308.04901)
 
    *Alexander Hvatov and Roman Titov.*
+
+1. **Adaptive uncertainty-guided model selection for data-driven PDE discovery.** arXiv, 2023. [paper](https://arxiv.org/abs/2308.04901)
+
+   *Pongpisit Thanasutives, Takashi Morita, Masayuki Numao, and Ken-ichi Fukui.*
 
 ### [Machine Learning](#content)
 1. **Machine learning–accelerated computational fluid dynamics.** PNAS, 2021. [paper](https://www.pnas.org/doi/10.1073/pnas.2101784118)
@@ -3027,6 +3039,10 @@ Contributed by Chunyang Zhang.
 1. **The hard-constraint PINNs for interface optimal control problems.** arXiv, 2023. [paper](https://arxiv.org/abs/2308.06709)
 
    *Ming-Chih Lai, Yongcun Song, Xiaoming Yuan, Hangrui Yue, and Tianyou Zeng.*
+
+1. **Deep learning of delay-compensated backstepping for reaction-diffusion PDEs.** arXiv, 2023. [paper](https://arxiv.org/abs/2308.10501)
+
+   *Shanshan Wang, Mamadou Diagne, and Miroslav Krstić.*
 
 ### [Inverse Design](#content)
 1. **DPM: Physics-informed Karhunen-Loéve and neural network approximations for solving inverse differential equation problems.** AAAI, 2021. [paper](https://ojs.aaai.org/index.php/AAAI/article/view/16992/16799)
