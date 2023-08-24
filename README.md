@@ -554,6 +554,10 @@ Contributed by Chunyang Zhang.
 
    *Keke Wu, Xiong-bin Yan, Shi Jin, and Zheng Ma.*
 
+1. **A hybrid decoder-DeepONet operator regression framework for unaligned observation data.** arXiv, 2023. [paper](https://arxiv.org/abs/2308.09274)
+
+   *Bo Chen, Chenyu Wang, Weipeng Li, and Haiyang Fu.*
+
 ### [Fourier Operator](#content)
 1. **Fourier neural operator for parametric partial differential equations.** ICLR, 2021. [paper](https://openreview.net/forum?id=c8P9NQVtmnO)
 
@@ -938,6 +942,10 @@ Contributed by Chunyang Zhang.
 1. **Encoding physics to learn reaction–diffusion processes.** NMI, 2023. [paper](https://www.nature.com/articles/s42256-023-00685-7)
 
    *Chengping Rao, Pu Ren, Qi Wang, Oral Buyukozturk, Hao Sun, and Yang Liu.*
+
+1. **PhySR: Physics-informed deep super-resolution for spatiotemporal data.** JCP, 2023. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0021999123005338)
+
+   *Pu Ren, Chengping Rao, Yang Liu, Zihan Ma, Qi Wang, Jianxun Wang, and Hao Sun.*
 
 ### [AutoEncoder](#content)
 1. **Integral autoencoder network for discretization-invariant learning.** JMLR, 2022. [paper](https://www.jmlr.org/papers/v23/22-0297.html)
