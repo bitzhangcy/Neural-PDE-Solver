@@ -485,6 +485,10 @@ Contributed by Chunyang Zhang.
 
    *Katayoun Eshkofti and Seyed Mahmoud Hosseini.*
 
+1. **Learning only on boundaries: A physics-informed neural operator for solving parametric partial differential equations in complex geometries.** arXiv, 2023. [paper](https://arxiv.org/abs/2308.12939)
+
+   *Zhiwei Fang, Sifan Wang, and Paris Perdikaris.*
+
 ### [DeepONet](#content)
 1. **Learning nonlinear operators via DeepONet based on the universal approximation theorem of operators.** NMI, 2021. [paper](https://www.nature.com/articles/s42256-021-00302-5)
 
@@ -2601,6 +2605,10 @@ Contributed by Chunyang Zhang.
 1. **Uncertainty quantification in scientific machine learning: Methods, metrics, and comparisons.** JCP, 2023. [paper](https://www.sciencedirect.com/science/article/pii/S0021999122009652)
 
    *Apostolos F. Psaros, Xuhui Meng, Zongren Zou, Ling Guo, and George Em Karniadakis.*
+
+1. **Auto-weighted Bayesian physics-informed neural networks and robust estimations for multitask inverse problems in pore-scale imaging of dissolution.** arXiv, 2023. [paper](https://arxiv.org/abs/2308.12864)
+
+   *Sarah Perez and Philippe Poncet.*
 
 ### [Active Learning](#content)
 1. **Neural Galerkin scheme with active learning for high-dimensional evolution equations.** arXiv, 2022. [paper](https://arxiv.org/abs/2203.01360)
