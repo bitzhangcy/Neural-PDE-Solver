@@ -1487,6 +1487,10 @@ Contributed by Chunyang Zhang.
 
    *Shukai Du and Samuel N. Stechmann.*
 
+1. **Deep multi-step mixed algorithm for high dimensional non-linear PDEs and associated BSDEs.** arXiv, 2023. [paper](https://arxiv.org/abs/2308.14487)
+
+   *Daniel Bussell and Camilo Andrés García-Trillos.*
+
 ### [Neural ODE](#content)
 1. **Neural rough differential equations for long time series.** ICML, 2021. [paper](http://proceedings.mlr.press/v139/morrill21b.html)
 
@@ -2242,6 +2246,10 @@ Contributed by Chunyang Zhang.
 
    *Shamsulhaq Basir and Inanc Senocak.*
 
+1. **Breaking boundaries: Distributed domain decomposition with scalable physics-informed neural PDE solvers.** arXiv, 2023. [paper](https://arxiv.org/abs/2308.14258)
+
+   *Arthur Feeney, Zitong Li, Ramin Bostanabad, and Aparna Chandramowlishwaran.*
+
 ### [Mesh](#content)
 1. **MeshingNet: A new mesh generation method based on deep learning.** ICCS, 2022. [paper](https://link.springer.com/chapter/10.1007/978-3-030-50420-5_14)
 
@@ -2543,6 +2551,10 @@ Contributed by Chunyang Zhang.
 1. **Bayesian physics informed neural networks for data assimilation and spatio-temporal modelling of wildfires.** arXiv, 2022. [paper](https://arxiv.org/abs/2212.00970)
 
    *Joel Janek Dabrowski, Daniel Edward Pagendam, James Hilton, Conrad Sanderson, Daniel MacKinlay, Carolyn Huston, Andrew Bolt, and Petra Kuhnert.*
+
+1. **Bayesian deep operator learning for homogenized to fine-scale maps for multiscale PDE.** arXiv, 2023. [paper](https://arxiv.org/abs/2308.14188)
+
+   *Zecheng Zhang, Christian Moya, Wing Tat Leung, Guang Lin, and Hayden Schaeffer.*
 
 ### [Lagrangian](#content)
 1. **Lagrangian PINNs: A causality–conforming solution to failure modes of physics-informed neural networks.** arXiv, 2022. [paper](https://arxiv.org/abs/2205.02902)
