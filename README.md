@@ -2681,6 +2681,10 @@ Contributed by Chunyang Zhang.
 
    *Lu Lu, Raphaël Pestourie, Steven G. Johnson, and Giuseppe Romano.*
 
+1. **Multi-fidelity reduced-order surrogate modeling.** arXiv, 2023. [paper](https://arxiv.org/abs/2309.00325)
+
+   *Paolo Conti, Mengwu Guo, Andrea Manzoni, Attilio Frangi, Steven L. Brunton, and J. Nathan Kutz.*
+
 ### [Multi Grid](#content)
 1. **Learning to optimize multigrid PDE solvers.** ICML, 2019. [paper](http://proceedings.mlr.press/v97/greenfeld19a.html)
 
@@ -2978,6 +2982,10 @@ Contributed by Chunyang Zhang.
 1. **Online parameter estimation using physics-informed deep learning for vehicle stability algorithms.** arXiv, 2023. [paper](https://arxiv.org/abs/2303.00474)
 
    *Kemal Koysuren, Ahmet Faruk Keles, and Melih Cakmakci.*
+
+1. **A locality-based neural solver for optical motion capture.** SIGGRAPH, 2023. [paper](https://arxiv.org/abs/2309.00428)
+
+   *Xiaoyu Pan, Bowen Zheng, Xinwei Jiang, Guanglong Xu, Xianli Gu, Jingxiang Li, Qilong Kou, He Wang, Tianjia Shao, Kun Zhou, and Xiaogang Jin.*
 
 ### [Cybernetics](#content)
 1. **Machine learning accelerated PDE backstepping observers.** arXiv, 2022. [paper](https://arxiv.org/abs/2211.15044)
