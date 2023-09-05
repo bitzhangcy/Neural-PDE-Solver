@@ -1491,6 +1491,10 @@ Contributed by Chunyang Zhang.
 
    *Daniel Bussell and Camilo Andrés García-Trillos.*
 
+1. **Artificial to spiking neural networks conversion for scientific machine learning.** arXiv, 2023. [paper](https://arxiv.org/abs/2308.16372)
+
+   *Qian Zhang, Chenxi Wu, Adar Kahana, Youngeun Kim, Yuhang Li, George Em Karniadakis, and Priyadarshini Panda.*
+
 ### [Neural ODE](#content)
 1. **Neural rough differential equations for long time series.** ICML, 2021. [paper](http://proceedings.mlr.press/v139/morrill21b.html)
 
@@ -2685,6 +2689,10 @@ Contributed by Chunyang Zhang.
 
    *Paolo Conti, Mengwu Guo, Andrea Manzoni, Attilio Frangi, Steven L. Brunton, and J. Nathan Kutz.*
 
+1. **Multifidelity deep operator networks for data-driven and physics-informed problems.** JCP, 2023. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0021999123005570)
+
+   *Amanda A. Howard, Mauro Perego, George Em Karniadakis, and Panos Stinis.*
+
 ### [Multi Grid](#content)
 1. **Learning to optimize multigrid PDE solvers.** ICML, 2019. [paper](http://proceedings.mlr.press/v97/greenfeld19a.html)
 
@@ -3213,3 +3221,7 @@ Contributed by Chunyang Zhang.
 1. **Symmetry-informed geometric representation for molecules, proteins, and crystalline materials.** arXiv, 2023. [paper](https://arxiv.org/abs/2306.09375)
 
    *Shengchao Liu, Weitao Du, Yanjing Li, Zhuoxinran Li, Zhiling Zheng, Chenru Duan, Zhiming Ma, Omar Yaghi, Anima Anandkumar, Christian Borgs, Jennifer Chayes, Hongyu Guo, and Jian Tang.*
+
+1. **Solving nonconvex energy minimization problems in martensitic phase transitions with a mesh-free deep learning approach.** Computer Methods in Applied Mechanics and Engineering, 2023. [paper](https://www.sciencedirect.com/science/article/abs/pii/S004578252300508X)
+
+   *Xiaoli Chen, Phoebus Rosakis, Zhizhang Wu, and Zhiwen Zhang.*
