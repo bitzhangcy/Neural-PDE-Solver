@@ -190,6 +190,10 @@ Contributed by Chunyang Zhang.
 
    *Sifan Wang, Shyam Sankaran, Hanwen Wang, and Paris Perdikaris.* 
 
+1. **A survey on physics informed reinforcement learning: Review and open problems.** arXiv, 2023. [paper](https://arxiv.org/abs/2309.01909)
+
+   *Chayan Banerjee, Kien Nguyen, Clinton Fookes, and Maziar Raissi.* 
+
 
 ## [Model](#content) 
 ### [PINN](#content)
@@ -2897,6 +2901,10 @@ Contributed by Chunyang Zhang.
 1. **Influence of adversarial training on super-resolution turbulence models.** arXiv, 2023. [paper](https://arxiv.org/abs/2308.16015)
 
    *Ludovico Nista, Christoph David Karl Schumann, Mathis Bode, Temistocle Grenga, Jonathan F. MacArt, Antonio Attili, and Heinz Pitsch.*
+
+1. **Turbulent flow simulation using autoregressive conditional diffusion models.** arXiv, 2023. [paper](https://arxiv.org/abs/2309.01745)
+
+   *Georg Kohl, Liwei Chen, and Nils Thuerey.*
 
 ### [Reconstruction](#content)
 1. **Occupancy networks: Learning 3D reconstruction in function space.** CVPR, 2019. [paper](https://openaccess.thecvf.com/content_CVPR_2019/papers/Mescheder_Occupancy_Networks_Learning_3D_Reconstruction_in_Function_Space_CVPR_2019_paper.pdf)
