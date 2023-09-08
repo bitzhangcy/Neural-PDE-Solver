@@ -3030,6 +3030,10 @@ Contributed by Chunyang Zhang.
 
    *Rui Li, Gabriel della Maggiora, Vardan Andriasyan, Anthony Petkidis, Artsemi Yushkevich, Mikhail Kudryashev, and Artur Yakimovich.*
 
+1. **TGM-Nets: A deep learning framework for enhanced forecasting of tumor growth by integrating imaging and modeling.** Engineering Applications of Artificial Intelligence, 2023. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0952197623010515)
+
+   *Qijing Chen, Qi Ye, Weiqi Zhang, He Li , and Xiaoning Zheng.*
+
 ### [Mechanics](#content)
 1. **Wavelet neural operator for solving parametric partial differential equations in computational mechanics problems.** Computer Methods in Applied Mechanics and Engineering, 2022. [paper](https://www.sciencedirect.com/science/article/pii/S0045782522007393)
 
