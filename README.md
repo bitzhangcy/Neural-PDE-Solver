@@ -1301,6 +1301,10 @@ Contributed by Chunyang Zhang.
 
    *Qian Zhang, Chenxi Wu, Adar Kahana, Youngeun Kim, Yuhang Li, George Em Karniadakis, and Priyadarshini Panda.*
 
+1. **Data generation-based operator learning for solving partial differential equations on unbounded domains.** arXiv, 2023. [paper](https://arxiv.org/abs/2309.02446)
+
+   *Jihong Wang, Xin Wang, Jing Li, and Bin Liu.*
+
 ### [Identification](#content)
 1. **Data-driven discovery of partial differential equations.** SA, 2017. [paper](https://arxiv.org/abs/1910.11710)
 
@@ -3068,6 +3072,10 @@ Contributed by Chunyang Zhang.
 
    *Xiaoyu Pan, Bowen Zheng, Xinwei Jiang, Guanglong Xu, Xianli Gu, Jingxiang Li, Qilong Kou, He Wang, Tianjia Shao, Kun Zhou, and Xiaogang Jin.*
 
+1. **Approximating high-dimensional minimal surfaces with physics-informed neural networks.** arXiv, 2023. [paper](https://arxiv.org/abs/2309.02589)
+
+   *Steven Zhou and Xiaojing Ye.*
+
 ### [Cybernetics](#content)
 1. **Machine learning accelerated PDE backstepping observers.** arXiv, 2022. [paper](https://arxiv.org/abs/2211.15044)
 
@@ -3245,3 +3253,7 @@ Contributed by Chunyang Zhang.
 1. **Operator learning framework for digital twin and complex engineering systems.** arXiv, 2023. [paper](https://arxiv.org/abs/2301.06701)
 
    *Kazuma Kobayashi, James Daniell, and Syed B. Alam.*
+
+1. **Towards solving industry-grade surrogate modeling problems using physics informed machine learning.** arXiv, 2023. [paper](https://arxiv.org/abs/2309.03374)
+
+   *Saakaar Bhatnagar, Andrew Comerford, and Araz Banaeizadeh.*
