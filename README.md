@@ -1510,6 +1510,10 @@ Contributed by Chunyang Zhang.
 
    *Alexander Hvatov and Roman Titov.*
 
+1. **Weak-PDE-LEARN: A weak form based approach to discovering pdes from noisy, limited data.** arXiv, 2023. [paper](https://arxiv.org/abs/2309.04699)
+
+   *Robert Stephany and Christopher Earls.*
+
 ### [Inverse Design](#content)
 1. **DPM: Physics-informed Karhunen-Loéve and neural network approximations for solving inverse differential equation problems.** AAAI, 2021. [paper](https://ojs.aaai.org/index.php/AAAI/article/view/16992/16799)
 
