@@ -2766,6 +2766,10 @@ Contributed by Chunyang Zhang.
 
    *Amanda A. Howard, Mauro Perego, George Em Karniadakis, and Panos Stinis.*
 
+1. **A multi-fidelity machine learning based semi-Lagrangian finite volume scheme for linear transport equations and the nonlinear Vlasov-Poisson system.** arXiv, 2023. [paper](https://arxiv.org/abs/2309.04943)
+
+   *Yongsheng Chen, Wei Guo, and Xinghui Zhong.*
+
 ### [Multi Grid](#content)
 1. **Learning to optimize multigrid PDE solvers.** ICML, 2019. [paper](http://proceedings.mlr.press/v97/greenfeld19a.html)
 
