@@ -1653,6 +1653,10 @@ Contributed by Chunyang Zhang.
 
    *Sören Becker, Michal Klein, Alexander Neitz, Giambattista Parascandolo, and Niki Kilbertus.*
 
+1. **Elucidating the solution space of extended reverse-time SDE for diffusion models.** arXiv, 2023. [paper](https://arxiv.org/abs/2309.06169)
+
+   *Qinpeng Cui, Xinyi Zhang, Zongqing Lu, and Qingmin Liao.*
+
 ### [Large Model](#content)
 1. **Prompting in-context operator learning with sensor data, equations, and natural language.** arXiv, 2023. [paper](https://arxiv.org/abs/2308.05061)
 
@@ -2711,6 +2715,10 @@ Contributed by Chunyang Zhang.
 1. **Active learning based sampling for high-dimensional nonlinear partial differential equations.** JCP, 2023. [paper](https://www.sciencedirect.com/science/article/pii/S0021999122009111)
 
    *Wenhan Gao and Chunmei Wang.*
+
+1. **An extreme learning machine-based method for computational PDEs in higher dimensions.** arXiv, 2023. [paper](https://arxiv.org/abs/2309.07049)
+
+   *Yiran Wang and Suchuan Dong.*
 
 ### [Multi Scale](#content)
 1. **Hierarchical deep learning of multiscale differential equation time-steppers.** Philosophical Transactions of the Royal Society A, 2022. [paper](https://royalsocietypublishing.org/doi/10.1098/rsta.2021.0200)
