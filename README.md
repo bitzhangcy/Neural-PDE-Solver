@@ -2987,6 +2987,10 @@ Contributed by Chunyang Zhang.
 
    *Georg Kohl, Liwei Chen, and Nils Thuerey.*
 
+1. **Physics-informed neural networks for studying heat transfer in porous media.** International Journal of Heat and Mass Transfer, 2023. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0017931023008165)
+
+   *Jiaxuan Xu, Han Wei, and Hua Bao.*
+
 ### [Reconstruction](#content)
 1. **Occupancy networks: Learning 3D reconstruction in function space.** CVPR, 2019. [paper](https://openaccess.thecvf.com/content_CVPR_2019/papers/Mescheder_Occupancy_Networks_Learning_3D_Reconstruction_in_Function_Space_CVPR_2019_paper.pdf)
 
@@ -3196,6 +3200,10 @@ Contributed by Chunyang Zhang.
 1. **Deep learning of delay-compensated backstepping for reaction-diffusion PDEs.** arXiv, 2023. [paper](https://arxiv.org/abs/2308.10501)
 
    *Shanshan Wang, Mamadou Diagne, and Miroslav Krstić.*
+
+1. **Computationally efficient data-driven discovery and linear representation of nonlinear systems for control.** arXiv, 2023. [paper](https://arxiv.org/abs/2309.04074)
+
+   *Madhur Tiwari, George Nehma, and Bethany Lusch.*
 
 ### [Molecules](#content)
 1. **Symmetry-informed geometric representation for molecules, proteins, and crystalline materials.** arXiv, 2023. [paper](https://arxiv.org/abs/2306.09375)
