@@ -565,6 +565,10 @@ Contributed by Chunyang Zhang.
 
    *Bo Chen, Chenyu Wang, Weipeng Li, and Haiyang Fu.*
 
+1. **Improving physics-informed DeepONets with hard constraints.** arXiv, 2023. [paper](https://arxiv.org/abs/2309.07899)
+
+   *Rüdiger Brecht, Dmytro R. Popovych, Alex Bihlo, and Roman O. Popovych.*
+
 ### [Fourier Operator](#content)
 1. **Fourier neural operator for parametric partial differential equations.** ICLR, 2021. [paper](https://openreview.net/forum?id=c8P9NQVtmnO)
 
@@ -1514,6 +1518,10 @@ Contributed by Chunyang Zhang.
 
    *Robert Stephany and Christopher Earls.*
 
+1. **Physics-constrained robust learning of open-form PDEs from limited and noisy data.** arXiv, 2023. [paper](https://arxiv.org/abs/2309.07672)
+
+   *Mengge Du, Longfeng Nie, Siyu Lou, Yuntian Chenc, and Dongxiao Zhang.*
+
 ### [Inverse Design](#content)
 1. **DPM: Physics-informed Karhunen-Loéve and neural network approximations for solving inverse differential equation problems.** AAAI, 2021. [paper](https://ojs.aaai.org/index.php/AAAI/article/view/16992/16799)
 
@@ -2331,6 +2339,10 @@ Contributed by Chunyang Zhang.
 
    *Arthur Feeney, Zitong Li, Ramin Bostanabad, and Aparna Chandramowlishwaran.*
 
+1. **Efficient learning of PDEs via Taylor expansion and sparse decomposition into value and Fourier domains.** arXiv, 2023. [paper](https://arxiv.org/abs/2309.07344)
+
+   *Md Nasim and Yexiang Xue.*
+
 ### [Mesh](#content)
 1. **MeshingNet: A new mesh generation method based on deep learning.** ICCS, 2022. [paper](https://link.springer.com/chapter/10.1007/978-3-030-50420-5_14)
 
@@ -2748,6 +2760,10 @@ Contributed by Chunyang Zhang.
 1. **Learning homogenization for elliptic operators.** arXiv, 2023. [paper](https://arxiv.org/abs/2306.12006)
 
    *Kaushik Bhattacharya, Nikola Kovachki, Aakila Rajan, Andrew M. Stuart, and Margaret Trautner.*
+
+1. **Multi-grade deep learning for partial differential equations with applications to the Burgers equation.** arXiv, 2023. [paper](https://arxiv.org/abs/2309.07401)
+
+   *Yuesheng Xu and Taishan Zeng.*
 
 ### [Multi Fidelity](#content)
 1. **Multifidelity deep operator networks.** arXiv, 2022. [paper](https://arxiv.org/abs/2204.09157)
