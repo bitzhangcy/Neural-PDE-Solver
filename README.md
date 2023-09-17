@@ -1128,6 +1128,14 @@ Contributed by Chunyang Zhang.
 
    *Phillip Lippe, Bastiaan S. Veeling, Paris Perdikaris, Richard E. Turner, and Johannes Brandstetter.*
 
+1. **Online infinite-dimensional regression: Learning linear operators.** arXiv, 2023. [paper](https://arxiv.org/abs/2309.06548)
+
+   *Vinod Raman, Unique Subedi, and Ambuj Tewari.*
+
+1. **Online infinite-dimensional regression: Learning linear operators.** arXiv, 2023. [paper](https://arxiv.org/abs/2309.06548)
+
+   *Vinod Raman, Unique Subedi, and Ambuj Tewari.*
+
 ### [Machine Learning](#content)
 1. **Machine learning–accelerated computational fluid dynamics.** PNAS, 2021. [paper](https://www.pnas.org/doi/10.1073/pnas.2101784118)
 
@@ -3006,6 +3014,14 @@ Contributed by Chunyang Zhang.
 1. **Physics-informed neural networks for studying heat transfer in porous media.** International Journal of Heat and Mass Transfer, 2023. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0017931023008165)
 
    *Jiaxuan Xu, Han Wei, and Hua Bao.*
+
+1. **Solution multiplicity and effects of data and eddy viscosity on Navier-Stokes solutions inferred by physics-informed neural networks.** arXiv, 2023. [paper](https://arxiv.org/abs/2309.06010)
+
+   *Zhicheng Wang, Xuhui Meng, Xiaomo Jiang, Hui Xiang, and George Em Karniadakis.*
+
+1. **Towards real-time training of physics-informed neural networks: Applications in ultrafast ultrasound blood flow imaging.** arXiv, 2023. [paper](https://arxiv.org/abs/2309.04755)
+
+   *Haotian Guan, Jinping Dong, and Weining Lee.*
 
 ### [Reconstruction](#content)
 1. **Occupancy networks: Learning 3D reconstruction in function space.** CVPR, 2019. [paper](https://openaccess.thecvf.com/content_CVPR_2019/papers/Mescheder_Occupancy_Networks_Learning_3D_Reconstruction_in_Function_Space_CVPR_2019_paper.pdf)
