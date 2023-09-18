@@ -1317,6 +1317,10 @@ Contributed by Chunyang Zhang.
 
    *Jihong Wang, Xin Wang, Jing Li, and Bin Liu.*
 
+1. **Slow invariant manifolds of singularly perturbed systems via physics-informed machine learning.** arXiv, 2023. [paper](https://arxiv.org/abs/2309.07946)
+
+   *Dimitrios G. Patsatzis, Gianluca Fabiani, Lucia Russo, and Constantinos Siettos.*
+
 ### [Identification](#content)
 1. **Data-driven discovery of partial differential equations.** SA, 2017. [paper](https://arxiv.org/abs/1910.11710)
 
