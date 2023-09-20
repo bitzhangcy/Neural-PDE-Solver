@@ -3225,6 +3225,10 @@ Contributed by Chunyang Zhang.
 
    *Yan Yang, Angela F. Gao, Kamyar Azizzadenesheli, Robert W. Clayton, and Zachary E. Ross.*
 
+1. **Accelerating heat exchanger design by combining Physics-Informed deep learning and transfer learning.** Chemical Engineering Science, 2023. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0009250923008412)
+
+   *Zhiyong Wu, Bingjian Zhang, Haoshui Yu, Jingzheng Ren, Ming Pan, Chang He, and Qinglin Chen.*
+
 ### [Image](#content)
 1. **Learning to diffuse: A new perspective to design PDEs for visual analysis.** TPAMI, 2016. [paper](https://ieeexplore.ieee.org/document/7393839)
 
