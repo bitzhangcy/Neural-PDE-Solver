@@ -1322,6 +1322,10 @@ Contributed by Chunyang Zhang.
 
    *Dimitrios G. Patsatzis, Gianluca Fabiani, Lucia Russo, and Constantinos Siettos.*
 
+1. **Deep-OSG: Deep learning of operators in semigroup.** JCP, 2023. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0021999123005934)
+
+   *Junfeng Chen and Kailiang Wu.*
+
 ### [Identification](#content)
 1. **Data-driven discovery of partial differential equations.** SA, 2017. [paper](https://arxiv.org/abs/1910.11710)
 
