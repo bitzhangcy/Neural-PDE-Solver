@@ -2024,6 +2024,10 @@ Contributed by Chunyang Zhang.
 
    *Ritam Majumdar, Vishal Jadhav, Anirudh Deodhar, Shirish Karande, Lovekesh Vig, and Venkataramana Runkana.*
 
+1. **In-context operator learning with data prompts for differential equation problems.** PNAS, 2023. [paper](https://www.pnas.org/doi/abs/10.1073/pnas.2310142120)
+
+   *Liu Yang, Siting Liu, Tingwei Meng, and Stanley J. Osher.*
+
 ### [Loss Function](#content)
 1. **Adaptive activation functions accelerate convergence in deep and physics-informed neural networks.** JCP, 2021. [paper](https://www.sciencedirect.com/science/article/pii/S0021999119308411)
 
@@ -3141,6 +3145,10 @@ Contributed by Chunyang Zhang.
 
    *Madhur Tiwari, George Nehma, and Bethany Lusch.*
 
+1. **Physics-informed state-space neural networks for transport phenomena.** arXiv, 2023. [paper](https://arxiv.org/abs/2309.12211)
+
+   *Akshay J Dave and Richard B. Vilim.*
+
 ### [Climate](#content)
 1. **FourCastNet: A global data-driven high-resolution weather model using adaptive Fourier neural operators.** arXiv, 2022. [paper](https://arxiv.org/abs/2202.11214)
 
@@ -3232,6 +3240,10 @@ Contributed by Chunyang Zhang.
 1. **Accelerating heat exchanger design by combining Physics-Informed deep learning and transfer learning.** Chemical Engineering Science, 2023. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0009250923008412)
 
    *Zhiyong Wu, Bingjian Zhang, Haoshui Yu, Jingzheng Ren, Ming Pan, Chang He, and Qinglin Chen.*
+
+1. **Energy stable neural network for gradient flow equations.** arXiv, 2023. [paper](https://arxiv.org/abs/2309.10002)
+
+   *Ganghua Fan, Tianyu Jin, Yuan Lan, Yang Xiang, and Luchan Zhang.*
 
 ### [Image](#content)
 1. **Learning to diffuse: A new perspective to design PDEs for visual analysis.** TPAMI, 2016. [paper](https://ieeexplore.ieee.org/document/7393839)
