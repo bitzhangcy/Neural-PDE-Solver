@@ -1682,6 +1682,10 @@ Contributed by Chunyang Zhang.
 
    *Qinpeng Cui, Xinyi Zhang, Zongqing Lu, and Qingmin Liao.*
 
+1. **ODE-based recurrent model-free reinforcement learning for POMDPs.** arXiv, 2023. [paper](https://arxiv.org/abs/2309.14078)
+
+   *Xuanle Zhao, Duzhen Zhang, Liyuan Han, Tielin Zhang, and Bo Xu.*
+
 ### [Large Model](#content)
 1. **Prompting in-context operator learning with sensor data, equations, and natural language.** arXiv, 2023. [paper](https://arxiv.org/abs/2308.05061)
 
@@ -1918,6 +1922,10 @@ Contributed by Chunyang Zhang.
 1. **Neural oscillators for generalization of physics-informed machine learning.** arXiv, 2023. [paper](https://arxiv.org/abs/2308.08989)
 
    *Taniya Kapoor, Abhishek Chandra, Daniel M. Tartakovsky, Hongrui Wang, Alfredo Nunez, and Rolf Dollevoet.*
+
+1. **Deep neural networks with ReLU, leaky ReLU, and softplus activation provably overcome the curse of dimensionality for Kolmogorov partial differential equations with Lipschitz nonlinearities in the L^p-sense.** arXiv, 2023. [paper](https://arxiv.org/abs/2309.13722)
+
+   *Julia Ackermann, Arnulf Jentzen, Thomas Kruse, Benno Kuckuck, and Joshua Lee Padgett.*
 
 ### [Domain Adaptation](#content)
 1. **Meta-auto-decoder for solving parametric partial differential equations.** NIPS, 2022. [paper](https://openreview.net/pdf?id=PwlW5Jri1Xt) 
