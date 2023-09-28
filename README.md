@@ -116,7 +116,6 @@ Contributed by Chunyang Zhang.
 </table>
 
 
-
 ## [Survey Papers](#content)
 1. **Physics-informed machine learning.** Nature Reviews Physics, 2021. [paper](https://www.nature.com/articles/s42254-021-00314-5)
 
@@ -193,6 +192,10 @@ Contributed by Chunyang Zhang.
 1. **A survey on physics informed reinforcement learning: Review and open problems.** arXiv, 2023. [paper](https://arxiv.org/abs/2309.01909)
 
    *Chayan Banerjee, Kien Nguyen, Clinton Fookes, and Maziar Raissi.* 
+
+1. **Neural operators for accelerating scientific simulations and design.** arXiv, 2023. [paper](https://arxiv.org/abs/2309.15325)
+
+   *Kamyar Azzizadenesheli, Nikola Kovachki, Zongyi Li, Miguel Liu-Schiaffini, Jean Kossaifi, and Anima Anandkumar.* 
 
 
 ## [Model](#content) 
