@@ -1689,6 +1689,10 @@ Contributed by Chunyang Zhang.
 
    *Xuanle Zhao, Duzhen Zhang, Liyuan Han, Tielin Zhang, and Bo Xu.*
 
+1. **A spectral approach for learning spatiotemporal neural differential equations.** arXiv, 2023. [paper](https://arxiv.org/abs/2309.16131)
+
+   *Mingtao Xia, Xiangting Li, Qijing Shen, and Tom Chou.*
+
 ### [Large Model](#content)
 1. **Prompting in-context operator learning with sensor data, equations, and natural language.** arXiv, 2023. [paper](https://arxiv.org/abs/2308.05061)
 
@@ -1740,6 +1744,10 @@ Contributed by Chunyang Zhang.
 1. **BubbleML: A multi-physics dataset and benchmarks for machine learning.** arXiv, 2023. [paper](https://arxiv.org/abs/2307.14623)
 
    *Sheikh Md Shakeel Hassan, Arthur Feeney, Akash Dhruv, Jihoon Kim, Youngjoon Suh, Jaiyoung Ryu, Yoonjin Won, and Aparna Chandramowlishwaran.*
+
+1. **LagrangeBench: A Lagrangian fluid nechanics benchmarking suite.** NIPS, 2023. [paper](https://arxiv.org/abs/2309.16342)
+
+   *Artur P. Toshev, Gianluca Galletti, Fabian Fritz, Stefan Adami, and Nikolaus A. Adams.*
 
 ### [Analysis](#content)
 1. **Characterizing possible failure modes in physics-informed neural networks.** NIPS, 2021. [paper](https://openreview.net/forum?id=a2Gr9gNFD-J)
