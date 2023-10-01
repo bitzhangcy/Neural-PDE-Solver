@@ -2664,6 +2664,10 @@ Contributed by Chunyang Zhang.
 
    *Marc Harkonen, Markus Lange-Hegermann, and Bogdan Raita.*
 
+1. **GPLaSDI: Gaussian process-based interpretable latent space dynamics identification through deep autoencoder.** arXiv, 2023. [paper](https://arxiv.org/abs/2308.05882)
+
+   *Christophe Bonneville, Youngsoo Choi, Debojyoti Ghosh, and Jonathan L.Belof.*
+
 ### [Variation](#content) 
 1. **PI-VAE: Physics-informed variational auto-encoder for stochastic differential equations.** Computer Methods in Applied Mechanics and Engineering, 2022. [paper](https://www.sciencedirect.com/science/article/pii/S0045782522006193)
 
