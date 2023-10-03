@@ -815,6 +815,10 @@ Contributed by Chunyang Zhang.
 
    *Yuyang Miao and Haolin Li.*
 
+1. **GNRK: Graph Neural Runge-Kutta method for solving partial differential equations.** arXiv, 2023. [paper](https://arxiv.org/abs/2310.00618)
+
+   *Hoyun Choi, Sungyeop Lee, B. Kahng, and Junghyo Jo.*
+
 ### [Green Function](#content)
 1. **Learning Green's functions associated with time-dependent partial differential equations.** JMLR, 2022. [paper](https://www.jmlr.org/papers/volume23/22-0433/22-0433.pdf)
 
@@ -2846,6 +2850,10 @@ Contributed by Chunyang Zhang.
 1. **Reducing operator complexity in algebraic multigrid with machine learning approaches.** arXiv, 2023. [paper](https://arxiv.org/abs/2307.07695)
 
    *Ru Huang, Kai Chang, Huan He, Ruipeng Li, and Yuanzhe Xi.*
+
+1. **Multi-grid tensorized Fourier neural operator for high-resolution PDEs.** arXiv, 2023. [paper](https://arxiv.org/abs/2310.00120)
+
+   *Jean Kossaifi, Nikola Kovachki, Kamyar Azizzadenesheli, and Anima Anandkumar.*
 
 
 ## [Applications](#content)
