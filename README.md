@@ -1144,6 +1144,10 @@ Contributed by Chunyang Zhang.
 
    *Vinod Raman, Unique Subedi, and Ambuj Tewari.*
 
+1. **Deep-OSG: Deep learning of operators in semigroup.** JCP, 2023. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0021999123005934)
+
+   *Junfeng Chen and Kailiang Wu.*
+
 ### [Machine Learning](#content)
 1. **Machine learning–accelerated computational fluid dynamics.** PNAS, 2021. [paper](https://www.pnas.org/doi/10.1073/pnas.2101784118)
 
@@ -1329,9 +1333,9 @@ Contributed by Chunyang Zhang.
 
    *Dimitrios G. Patsatzis, Gianluca Fabiani, Lucia Russo, and Constantinos Siettos.*
 
-1. **Deep-OSG: Deep learning of operators in semigroup.** JCP, 2023. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0021999123005934)
+1. **Spectral operator learning for parametric PDEs without data reliance.** arXiv, 2023. [paper](https://arxiv.org/abs/2310.02013)
 
-   *Junfeng Chen and Kailiang Wu.*
+   *Junho Choi, Taehyun Yun, Namjung Kim, and Youngjoon Hong.*
 
 ### [Identification](#content)
 1. **Data-driven discovery of partial differential equations.** SA, 2017. [paper](https://arxiv.org/abs/1910.11710)
@@ -3348,6 +3352,10 @@ Contributed by Chunyang Zhang.
 1. **Approximating discontinuous Nash equilibria values of two-player general-sum differential games.** arXiv, 2022. [paper](https://arxiv.org/abs/2207.01773)
 
    *Lei Zhang, Mukesh Ghimire, Wenlong Zhang, Zhe Xu, and Yi Ren.*
+
+1. **Solving two-player general-sum games between swarms.** arXiv, 2023. [paper](https://arxiv.org/abs/2310.01682)
+
+   *Mukesh Ghimire, Lei Zhang, Wenlong Zhang, Yi Ren, and Zhe Xu.*
 
 ### [Manufacturing](#content)
 1. **Physics-aware machine learning surrogates for real-time manufacturing digital twin.** Manufacturing Letters, 2022. [paper](https://www.sciencedirect.com/science/article/abs/pii/S2213846322001845)
