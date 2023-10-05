@@ -496,6 +496,10 @@ Contributed by Chunyang Zhang.
 
    *Zhiwei Fang, Sifan Wang, and Paris Perdikaris.*
 
+1. **Exact and soft boundary conditions in physics-informed neural networks for the variable coefficient poisson equation.** arXiv, 2023. [paper](https://arxiv.org/abs/2310.02548)
+
+   *Sebastian Barschkis.*
+
 ### [DeepONet](#content)
 1. **Learning nonlinear operators via DeepONet based on the universal approximation theorem of operators.** NMI, 2021. [paper](https://www.nature.com/articles/s42256-021-00302-5)
 
@@ -3183,6 +3187,10 @@ Contributed by Chunyang Zhang.
 1. **Physics-informed state-space neural networks for transport phenomena.** arXiv, 2023. [paper](https://arxiv.org/abs/2309.12211)
 
    *Akshay J Dave and Richard B. Vilim.*
+
+1. **A comparison of mesh-free differentiable programming and data-driven strategies for optimal control under PDE constraints.** arXiv, 2023. [paper](https://arxiv.org/abs/2310.02286)
+
+   *Roussel Desmond Nzoyem, David A.W. Barton, and Tom Deakin.*
 
 ### [Climate](#content)
 1. **FourCastNet: A global data-driven high-resolution weather model using adaptive Fourier neural operators.** arXiv, 2022. [paper](https://arxiv.org/abs/2202.11214)
