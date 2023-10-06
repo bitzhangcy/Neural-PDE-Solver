@@ -856,6 +856,10 @@ Contributed by Chunyang Zhang.
 
    *Ziad Aldirany, R´egis Cottereau, Marc Laforest, and Serge Prudhomme.*
 
+1. **Deep surrogate model for learning Green's function associated with linear reaction-diffusion operator.** arXiv, 2023. [paper](https://arxiv.org/abs/2310.03642)
+
+   *Junqing Ji, Lili Ju, and Xiaoping Zhang.*
+
 ### [Finite Element](#content)
 1. **Composing partial differential equations with physics-aware neural networks.** ICML, 2022. [paper](https://proceedings.mlr.press/v162/karlbauer22a/karlbauer22a.pdf)
 
@@ -1340,6 +1344,10 @@ Contributed by Chunyang Zhang.
 1. **Spectral operator learning for parametric PDEs without data reliance.** arXiv, 2023. [paper](https://arxiv.org/abs/2310.02013)
 
    *Junho Choi, Taehyun Yun, Namjung Kim, and Youngjoon Hong.*
+
+1. **The deep minimizing movement scheme.** JCP, 2023. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0021999123006137)
+
+   *Min Sue Park, Cheolhyeong Kim, Hwijae Son, and Hyung Ju Hwang .*
 
 ### [Identification](#content)
 1. **Data-driven discovery of partial differential equations.** SA, 2017. [paper](https://arxiv.org/abs/1910.11710)
@@ -3250,6 +3258,10 @@ Contributed by Chunyang Zhang.
 1. **Approximating high-dimensional minimal surfaces with physics-informed neural networks.** arXiv, 2023. [paper](https://arxiv.org/abs/2309.02589)
 
    *Steven Zhou and Xiaojing Ye.*
+
+1. **A spatial-temporally adaptive PINN framework for 3D bi-ventricular electrophysiological simulations and parameter inference.** MICCAI, 2023. [paper](https://link.springer.com/chapter/10.1007/978-3-031-43990-2_16)
+
+   *Yubo Ye, Huafeng Liu, Xiajun Jiang, Maryam Toloubidokhti, and Linwei Wang .*
 
 ### [Physics](#content)
 1. **Dynamic weights enabled physics-informed neural network for simulating the mobility of engineered nano-particles in a contaminated aquifer.** NIPS, 2022. [paper](https://arxiv.org/pdf/2211.03525.pdf)
