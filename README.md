@@ -500,6 +500,10 @@ Contributed by Chunyang Zhang.
 
    *Sebastian Barschkis.*
 
+1. **Physics-informed neural networks for approximating dynamic (hyperbolic) PDEs of second order in time: Error analysis and algorithms.** JCP, 2023. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0021999123006228)
+
+   *Yanxia Qian, Yongchao Zhang, Yunqing Huang, and Suchuan Dong.*
+
 ### [DeepONet](#content)
 1. **Learning nonlinear operators via DeepONet based on the universal approximation theorem of operators.** NMI, 2021. [paper](https://www.nature.com/articles/s42256-021-00302-5)
 
@@ -3082,6 +3086,10 @@ Contributed by Chunyang Zhang.
 1. **Towards real-time training of physics-informed neural networks: Applications in ultrafast ultrasound blood flow imaging.** arXiv, 2023. [paper](https://arxiv.org/abs/2309.04755)
 
    *Haotian Guan, Jinping Dong, and Weining Lee.*
+
+1. **Multi-physical predictions in electro-osmotic micromixer by auto-encoder physics-informed neural networks .** Physics of Fluids, 2023. [paper](https://pubs.aip.org/aip/pof/article-abstract/35/10/102007/2914663/Multi-physical-predictions-in-electro-osmotic?redirectedFrom=fulltext)
+
+   *Naiwen Chang, Ying Huai, Tingting Liu, Xi Chen, and Yuqi Jin .*
 
 ### [Cybernetics](#content)
 1. **Machine learning accelerated PDE backstepping observers.** arXiv, 2022. [paper](https://arxiv.org/abs/2211.15044)
