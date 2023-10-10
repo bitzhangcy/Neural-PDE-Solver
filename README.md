@@ -504,6 +504,10 @@ Contributed by Chunyang Zhang.
 
    *Yanxia Qian, Yongchao Zhang, Yunqing Huang, and Suchuan Dong.*
 
+1. **Investigating the ability of PINNs to solve burgers’ PDE near finite-time blowup.** arXiv, 2023. [paper](https://arxiv.org/abs/2310.05169)
+
+   *Dibyakanti Kumar and Anirbit Mukherjee.*
+
 ### [DeepONet](#content)
 1. **Learning nonlinear operators via DeepONet based on the universal approximation theorem of operators.** NMI, 2021. [paper](https://www.nature.com/articles/s42256-021-00302-5)
 
@@ -1566,6 +1570,10 @@ Contributed by Chunyang Zhang.
 
    *Mengge Du, Longfeng Nie, Siyu Lou, Yuntian Chenc, and Dongxiao Zhang.*
 
+1. **Equation discovery with bayesian spike-and-slab priors and efficient kernels.** arXiv, 2023. [paper](https://arxiv.org/abs/2310.05387)
+
+   *Da Long, Wei W. Xing, Aditi S. Krishnapriyan, Robert M. Kirby, Shandian Zhe, and Michael W. Mahoney.*
+
 ### [Inverse Design](#content)
 1. **DPM: Physics-informed Karhunen-Loéve and neural network approximations for solving inverse differential equation problems.** AAAI, 2021. [paper](https://ojs.aaai.org/index.php/AAAI/article/view/16992/16799)
 
@@ -1961,6 +1969,10 @@ Contributed by Chunyang Zhang.
 1. **Deep neural networks with ReLU, leaky ReLU, and softplus activation provably overcome the curse of dimensionality for Kolmogorov partial differential equations with Lipschitz nonlinearities in the L^p-sense.** arXiv, 2023. [paper](https://arxiv.org/abs/2309.13722)
 
    *Julia Ackermann, Arnulf Jentzen, Thomas Kruse, Benno Kuckuck, and Joshua Lee Padgett.*
+
+1. **An operator preconditioning perspective on training in physics-informed machine learning.** arXiv, 2023. [paper](https://arxiv.org/abs/2310.05801)
+
+   *Tim De Ryck, Florent Bonnet, Siddhartha Mishra, and Emmanuel de Bézenac.*
 
 ### [Domain Adaptation](#content)
 1. **Meta-auto-decoder for solving parametric partial differential equations.** NIPS, 2022. [paper](https://openreview.net/pdf?id=PwlW5Jri1Xt) 
