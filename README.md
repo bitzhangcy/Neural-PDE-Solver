@@ -1574,6 +1574,10 @@ Contributed by Chunyang Zhang.
 
    *Da Long, Wei W. Xing, Aditi S. Krishnapriyan, Robert M. Kirby, Shandian Zhe, and Michael W. Mahoney.*
 
+1. **A Bayesian framework for discovering interpretable Lagrangian of dynamical systems from data.** arXiv, 2023. [paper](https://arxiv.org/abs/2310.06241)
+
+   *Tapas Tripura and Souvik Chakraborty.*
+
 ### [Inverse Design](#content)
 1. **DPM: Physics-informed Karhunen-Loéve and neural network approximations for solving inverse differential equation problems.** AAAI, 2021. [paper](https://ojs.aaai.org/index.php/AAAI/article/view/16992/16799)
 
@@ -2082,6 +2086,10 @@ Contributed by Chunyang Zhang.
 1. **In-context operator learning with data prompts for differential equation problems.** PNAS, 2023. [paper](https://www.pnas.org/doi/abs/10.1073/pnas.2310142120)
 
    *Liu Yang, Siting Liu, Tingwei Meng, and Stanley J. Osher.*
+
+1. **SONets: Sub-operator learning enhanced neural networks for solving parametric partial differential equations.** JCP, 2023. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0021999123006319)
+
+   *Xiaowei Jin and Hui Li.*
 
 ### [Loss Function](#content)
 1. **Adaptive activation functions accelerate convergence in deep and physics-informed neural networks.** JCP, 2021. [paper](https://www.sciencedirect.com/science/article/pii/S0021999119308411)
