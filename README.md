@@ -1578,6 +1578,10 @@ Contributed by Chunyang Zhang.
 
    *Tapas Tripura and Souvik Chakraborty.*
 
+1. **HyperSINDy: Deep generative modeling of nonlinear stochastic governing equations.** arXiv, 2023. [paper](https://arxiv.org/abs/2310.04832)
+
+   *Mozes Jacobs, Bingni W. Brunton, Steven L. Brunton, J. Nathan Kutz, and Ryan V. Raut.*
+
 ### [Inverse Design](#content)
 1. **DPM: Physics-informed Karhunen-Loéve and neural network approximations for solving inverse differential equation problems.** AAAI, 2021. [paper](https://ojs.aaai.org/index.php/AAAI/article/view/16992/16799)
 
@@ -2819,6 +2823,10 @@ Contributed by Chunyang Zhang.
 1. **An extreme learning machine-based method for computational PDEs in higher dimensions.** arXiv, 2023. [paper](https://arxiv.org/abs/2309.07049)
 
    *Yiran Wang and Suchuan Dong.*
+
+1. **Multi-resolution active learning of Fourier neural operators.** arXiv, 2023. [paper](https://arxiv.org/abs/2309.16971)
+
+   *Shibo Li, Xin Yu, Wei Xing, Mike Kirby, Akil Narayan, and Shandian Zhe.*
 
 ### [Multi Scale](#content)
 1. **Hierarchical deep learning of multiscale differential equation time-steppers.** Philosophical Transactions of the Royal Society A, 2022. [paper](https://royalsocietypublishing.org/doi/10.1098/rsta.2021.0200)
