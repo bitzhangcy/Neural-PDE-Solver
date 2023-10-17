@@ -1635,6 +1635,9 @@ Contributed by Chunyang Zhang.
 
    *Zhiyong Zhang , Hui Zhang , Lisheng Zhang, and Leilei Guo.*
 
+1. **let data talk: Data-regularized operator learning theory for inverse problems.** arXiv, 2023. [paper](https://arxiv.org/abs/2310.09854)
+
+   *Ke Chen, Chunmei Wang, and Haizhao Yang.*
 
 ### [Neural ODE](#content)
 1. **Neural rough differential equations for long time series.** ICML, 2021. [paper](http://proceedings.mlr.press/v139/morrill21b.html)
@@ -2094,6 +2097,10 @@ Contributed by Chunyang Zhang.
 1. **SONets: Sub-operator learning enhanced neural networks for solving parametric partial differential equations.** JCP, 2023. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0021999123006319)
 
    *Xiaowei Jin and Hui Li.*
+
+1. **Hypernetwork-based meta-learning for low-rank physics-informed neural networks.** NIPS, 2023. [paper](https://arxiv.org/abs/2310.09528)
+
+   *Woojin Cho, Kookjin Lee, Donsub Rim, and Noseong Park.*
 
 ### [Loss Function](#content)
 1. **Adaptive activation functions accelerate convergence in deep and physics-informed neural networks.** JCP, 2021. [paper](https://www.sciencedirect.com/science/article/pii/S0021999119308411)
