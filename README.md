@@ -585,6 +585,10 @@ Contributed by Chunyang Zhang.
 
    *Rüdiger Brecht, Dmytro R. Popovych, Alex Bihlo, and Roman O. Popovych.*
 
+1. **Capturing the diffusive behavior of the multiscale linear transport equations by asymptotic-preserving convolutional DeepONets.** Computer Methods in Applied Mechanics and Engineering, 2023. [paper](https://www.sciencedirect.com/science/article/pii/S0045782523006552)
+
+   *Keke Wu, Xiong-Bin Yan, Shi Jin, and Zheng Ma.*
+
 ### [Fourier Operator](#content)
 1. **Fourier neural operator for parametric partial differential equations.** ICLR, 2021. [paper](https://openreview.net/forum?id=c8P9NQVtmnO)
 
@@ -1581,6 +1585,14 @@ Contributed by Chunyang Zhang.
 1. **HyperSINDy: Deep generative modeling of nonlinear stochastic governing equations.** arXiv, 2023. [paper](https://arxiv.org/abs/2310.04832)
 
    *Mozes Jacobs, Bingni W. Brunton, Steven L. Brunton, J. Nathan Kutz, and Ryan V. Raut.*
+
+1. **Sparse Bayesian machine learning for the interpretable identification of nonlinear structural dynamics: Towards the experimental data-driven discovery of a quasi zero stiffness device.** MSSP, 2023. [paper](https://www.sciencedirect.com/science/article/pii/S0888327023007665)
+
+   *Tanmoy Chatterjee, Alexander D. Shaw, Michael I. Friswell, and Hamed Haddad Khodaparast.*
+
+1. **SD-PINN: Deep learning based spatially dependent PDEs recovery.** IEEE Access, 2023. [paper](https://arxiv.org/abs/2310.10970)
+
+   *Ruixian Liu and Peter Gerstoft.*
 
 ### [Inverse Design](#content)
 1. **DPM: Physics-informed Karhunen-Loéve and neural network approximations for solving inverse differential equation problems.** AAAI, 2021. [paper](https://ojs.aaai.org/index.php/AAAI/article/view/16992/16799)
