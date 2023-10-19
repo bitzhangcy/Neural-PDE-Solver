@@ -1003,6 +1003,10 @@ Contributed by Chunyang Zhang.
 
    *Ruisong Gao, Yufeng Wang, Min Yang, and Chuanjun Chen.*
 
+1. **On the latent dimension of deep autoencoders for reduced order modeling of PDEs parametrized by random fields.** arXiv, 2023. [paper](https://arxiv.org/abs/2310.12095)
+
+   *Nicola Rares Franco, Daniel Fraulin, Andrea Manzoni, and Paolo Zunino.*
+
 ### [Neural Operator](#content)
 1. **Multiwavelet-based operator learning for differential equations.** NIPS, 2021. [paper](https://openreview.net/forum?id=LZDiWaC9CGL)
 
