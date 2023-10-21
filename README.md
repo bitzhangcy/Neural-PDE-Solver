@@ -1651,7 +1651,11 @@ Contributed by Chunyang Zhang.
 
    *Zhiyong Zhang , Hui Zhang , Lisheng Zhang, and Leilei Guo.*
 
-1. **let data talk: Data-regularized operator learning theory for inverse problems.** arXiv, 2023. [paper](https://arxiv.org/abs/2310.09854)
+1. **Learning prediction function of prior measures for statistical inverse problems of partial differential equations.** arXiv, 2023. [paper](https://arxiv.org/abs/2310.12436)
+
+   *Junxiong Jia, Deyu Meng, Zongben Xu, and Fang Yao.*
+
+1. **Let data talk: Data-regularized operator learning theory for inverse problems.** arXiv, 2023. [paper](https://arxiv.org/abs/2310.09854)
 
    *Ke Chen, Chunmei Wang, and Haizhao Yang.*
 
@@ -2656,6 +2660,10 @@ Contributed by Chunyang Zhang.
 1. **Physics informed token Transformer.** arXiv, 2023. [paper](https://arxiv.org/abs/2305.08757) 
 
    *Cooper Lorsung, Zijie Li, and Amir Barati Farimani.*
+
+1. **Improved operator learning by orthogonal attention.** arXiv, 2023. [paper](https://arxiv.org/abs/2310.12487) 
+
+   *Zipeng Xiao, Zhongkai Hao, Bokai Lin, Zhijie Deng, and Hang Su.*
 
 ### [Latent Space](#content)
 1. **Multiscale simulations of complex systems by learning their effective dynamics.** NMI, 2022. [paper](https://www.nature.com/articles/s42256-022-00464-w)
