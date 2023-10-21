@@ -508,6 +508,10 @@ Contributed by Chunyang Zhang.
 
    *Dibyakanti Kumar and Anirbit Mukherjee.*
 
+1. **Correcting model misspecification in physics-informed neural networks (PINNs).** arXiv, 2023. [paper](https://arxiv.org/abs/2310.10776)
+
+   *Zongren Zou, Xuhui Meng, and George Em Karniadakis.*
+
 ### [DeepONet](#content)
 1. **Learning nonlinear operators via DeepONet based on the universal approximation theorem of operators.** NMI, 2021. [paper](https://www.nature.com/articles/s42256-021-00302-5)
 
@@ -1659,6 +1663,10 @@ Contributed by Chunyang Zhang.
 
    *Ke Chen, Chunmei Wang, and Haizhao Yang.*
 
+1. **Pseudo-differential integral autoencoder network for inverse PDE operators.** arXiv, 2023. [paper](https://arxiv.org/abs/2310.09856)
+
+   *Ke Chen, Jasen Lai, and Chunmei Wang.*
+
 ### [Neural ODE](#content)
 1. **Neural rough differential equations for long time series.** ICML, 2021. [paper](http://proceedings.mlr.press/v139/morrill21b.html)
 
@@ -2004,6 +2012,10 @@ Contributed by Chunyang Zhang.
 1. **An operator preconditioning perspective on training in physics-informed machine learning.** arXiv, 2023. [paper](https://arxiv.org/abs/2310.05801)
 
    *Tim De Ryck, Florent Bonnet, Siddhartha Mishra, and Emmanuel de Bézenac.*
+
+1. **Error estimates of residual minimization using neural networks for linear PDEs.** Journal of Machine Learning for Modeling and Computing, 2023. [paper](https://arxiv.org/abs/2010.08019)
+
+   *Yeonjong Shin, Zhongqiang Zhang, and George Em Karniadakis.*
 
 ### [Domain Adaptation](#content)
 1. **Meta-auto-decoder for solving parametric partial differential equations.** NIPS, 2022. [paper](https://openreview.net/pdf?id=PwlW5Jri1Xt) 
