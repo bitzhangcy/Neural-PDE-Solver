@@ -2134,6 +2134,10 @@ Contributed by Chunyang Zhang.
 
    *Woojin Cho, Kookjin Lee, Donsub Rim, and Noseong Park.*
 
+1. **Meta-learning of physics-informed neural networks for efficiently solving newly given PDEs.** arXiv, 2023. [paper](https://arxiv.org/abs/2310.13270)
+
+   *Tomoharu Iwata, Yusuke Tanaka, and Naonori Ueda.*
+
 ### [Loss Function](#content)
 1. **Adaptive activation functions accelerate convergence in deep and physics-informed neural networks.** JCP, 2021. [paper](https://www.sciencedirect.com/science/article/pii/S0021999119308411)
 
