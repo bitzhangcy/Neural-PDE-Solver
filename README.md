@@ -1764,6 +1764,10 @@ Contributed by Chunyang Zhang.
 
    *Mingtao Xia, Xiangting Li, Qijing Shen, and Tom Chou.*
 
+1. **Invariant physics-informed neural networks for ordinary differential equations.** arXiv, 2023. [paper](https://arxiv.org/abs/2310.17053)
+
+   *Shivam Arora, Alex Bihlo, and Francis Valiquette.*
+
 ### [Large Model](#content)
 1. **Prompting in-context operator learning with sensor data, equations, and natural language.** arXiv, 2023. [paper](https://arxiv.org/abs/2308.05061)
 
@@ -3041,6 +3045,10 @@ Contributed by Chunyang Zhang.
 
    *Yongcun Song, Xiaoming Yuan, and Hangrui Yue.*
 
+1. **Accelerated primal-dual methods with enlarged step sizes and operator learning for nonsmooth optimal control problems.** arXiv, 2023. [paper](https://arxiv.org/abs/2307.00296)
+
+   *Yongcun Song, Xiaoming Yuan, and Hangrui Yue.*
+
 ### [Fluid](#content)
 1. **Physics-informed neural networks (PINNs) for fluid mechanics: A review.** Acta Mechanica Sinica, 2021. [paper](https://link.springer.com/article/10.1007/s10409-021-01148-1)
 
@@ -3386,6 +3394,10 @@ Contributed by Chunyang Zhang.
 1. **Energy stable neural network for gradient flow equations.** arXiv, 2023. [paper](https://arxiv.org/abs/2309.10002)
 
    *Ganghua Fan, Tianyu Jin, Yuan Lan, Yang Xiang, and Luchan Zhang.*
+
+1. **Physics-informed neural network with transfer learning (TL-PINN) based on domain similarity measure for prediction of nuclear reactor transients.** Scientific Reports, 2023. [paper](https://www.nature.com/articles/s41598-023-43325-1)
+
+   *Konstantinos Prantikos, Stylianos Chatzidakis, Lefteri H. Tsoukalas, and Alexander Heifetz.*
 
 ### [Image](#content)
 1. **Learning to diffuse: A new perspective to design PDEs for visual analysis.** TPAMI, 2016. [paper](https://ieeexplore.ieee.org/document/7393839)
