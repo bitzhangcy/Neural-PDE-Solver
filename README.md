@@ -593,6 +593,10 @@ Contributed by Chunyang Zhang.
 
    *Keke Wu, Xiong-Bin Yan, Shi Jin, and Zheng Ma.*
 
+1. **DON-LSTM: Multi-resolution learning with DeepONets and long short-term memory neural networks.** arXiv, 2023. [paper](https://arxiv.org/abs/2310.02491)
+
+   *Katarzyna Michałowska, Somdatta Goswami, George Em Karniadakis, and Signe Riemer-Sørensen.*
+
 ### [Fourier Operator](#content)
 1. **Fourier neural operator for parametric partial differential equations.** ICLR, 2021. [paper](https://openreview.net/forum?id=c8P9NQVtmnO)
 
@@ -1601,6 +1605,10 @@ Contributed by Chunyang Zhang.
 1. **SD-PINN: Deep learning based spatially dependent PDEs recovery.** IEEE Access, 2023. [paper](https://arxiv.org/abs/2310.10970)
 
    *Ruixian Liu and Peter Gerstoft.*
+
+1. **PROSE: Predicting operators and symbolic expressions using multimodal transformers.** arXiv, 2023. [paper](https://arxiv.org/abs/2309.16816)
+
+   *Yuxuan Liu, Zecheng Zhang, and Hayden Schaeffer∗.*
 
 ### [Inverse Design](#content)
 1. **DPM: Physics-informed Karhunen-Loéve and neural network approximations for solving inverse differential equation problems.** AAAI, 2021. [paper](https://ojs.aaai.org/index.php/AAAI/article/view/16992/16799)
