@@ -512,6 +512,10 @@ Contributed by Chunyang Zhang.
 
    *Zongren Zou, Xuhui Meng, and George Em Karniadakis.*
 
+1. **On residual minimization for PDEs: Failure of PINN, modified equation, and implicit bias.** arXiv, 2023. [paper](https://arxiv.org/abs/2310.18201)
+
+   *Tao Luo and Qixuan Zhou.*
+
 ### [DeepONet](#content)
 1. **Learning nonlinear operators via DeepONet based on the universal approximation theorem of operators.** NMI, 2021. [paper](https://www.nature.com/articles/s42256-021-00302-5)
 
@@ -1675,6 +1679,10 @@ Contributed by Chunyang Zhang.
 
    *Ke Chen, Jasen Lai, and Chunmei Wang.*
 
+1. **Adaptive operator learning for infinite-dimensional Bayesian inverse problems.** arXiv, 2023. [paper](https://arxiv.org/abs/2310.17844)
+
+   *Zhiwei Gao, Liang Yan, and Tao Zhou.*
+
 ### [Neural ODE](#content)
 1. **Neural rough differential equations for long time series.** ICML, 2021. [paper](http://proceedings.mlr.press/v139/morrill21b.html)
 
@@ -1780,6 +1788,10 @@ Contributed by Chunyang Zhang.
 1. **Prompting in-context operator learning with sensor data, equations, and natural language.** arXiv, 2023. [paper](https://arxiv.org/abs/2308.05061)
 
    *Liu Yang, Tingwei Meng, Siting Liu, and Stanley J. Osher.*
+
+1. **CrunchGPT: A chatGPT assisted framework for scientific machine learning.** arXiv, 2023. [paper](https://arxiv.org/abs/2306.15551)
+
+   *Varun Kumar, Leonard Gleyzer, Adar Kahana, Khemraj Shukla, and George Em Karniadakis.*
 
 
 ## [Mechanism](#content)
@@ -1977,10 +1989,6 @@ Contributed by Chunyang Zhang.
 
    *Xiaojian Li,  Yuhao Liu, and Zhengxian Liu.*
 
-1. **CrunchGPT: A chatGPT assisted framework for scientific machine learning.** arXiv, 2023. [paper](https://arxiv.org/abs/2306.15551)
-
-   *Varun Kumar, Leonard Gleyzer, Adar Kahana, Khemraj Shukla, and George Em Karniadakis.*
-
 1. **The curse of dimensionality in operator learning.** arXiv, 2023. [paper](https://arxiv.org/abs/2306.15924v1)
 
    *Samuel Lanthaler and Andrew M. Stuart.*
@@ -2028,6 +2036,10 @@ Contributed by Chunyang Zhang.
 1. **Error estimates of residual minimization using neural networks for linear PDEs.** Journal of Machine Learning for Modeling and Computing, 2023. [paper](https://arxiv.org/abs/2010.08019)
 
    *Yeonjong Shin, Zhongqiang Zhang, and George Em Karniadakis.*
+
+1. **Analysis of the generalization error of deep learning based on randomized quasi-Monte Carlo for solving linear Kolmogorov PDEs.** arXiv, 2023. [paper](https://arxiv.org/abs/2310.18100)
+
+   *Jichang Xiao, Fengjiang Fu, and Xiaoqun Wang.*
 
 ### [Domain Adaptation](#content)
 1. **Meta-auto-decoder for solving parametric partial differential equations.** NIPS, 2022. [paper](https://openreview.net/pdf?id=PwlW5Jri1Xt) 
