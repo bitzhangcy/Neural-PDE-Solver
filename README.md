@@ -2041,6 +2041,10 @@ Contributed by Chunyang Zhang.
 
    *Jichang Xiao, Fengjiang Fu, and Xiaoqun Wang.*
 
+1. **Autoregressive renaissance in neural PDE solvers.** ICLR, 2023. [paper](https://arxiv.org/abs/2310.19763)
+
+   *Yolanne Yi Ran Lee.*
+
 ### [Domain Adaptation](#content)
 1. **Meta-auto-decoder for solving parametric partial differential equations.** NIPS, 2022. [paper](https://openreview.net/pdf?id=PwlW5Jri1Xt) 
 
@@ -2898,6 +2902,10 @@ Contributed by Chunyang Zhang.
 1. **Multi-resolution active learning of Fourier neural operators.** arXiv, 2023. [paper](https://arxiv.org/abs/2309.16971)
 
    *Shibo Li, Xin Yu, Wei Xing, Mike Kirby, Akil Narayan, and Shandian Zhe.*
+
+1. **A foundational neural operator that continuously learns without forgetting.** arXiv, 2023. [paper](https://arxiv.org/abs/2310.18885)
+
+   *Tapas Tripura and Souvik Chakraborty.*
 
 ### [Multi Scale](#content)
 1. **Hierarchical deep learning of multiscale differential equation time-steppers.** Philosophical Transactions of the Royal Society A, 2022. [paper](https://royalsocietypublishing.org/doi/10.1098/rsta.2021.0200)
