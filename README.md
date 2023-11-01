@@ -1789,7 +1789,7 @@ Contributed by Chunyang Zhang.
 
    *Liu Yang, Tingwei Meng, Siting Liu, and Stanley J. Osher.*
 
-1. **CrunchGPT: A chatGPT assisted framework for scientific machine learning.** arXiv, 2023. [paper](https://arxiv.org/abs/2306.15551)
+1. **CrunchGPT: A chatGPT assisted framework for scientific machine learning.** Journal of Machine Learning for Modeling and Computing, 2023. [paper](https://arxiv.org/abs/2306.15551)
 
    *Varun Kumar, Leonard Gleyzer, Adar Kahana, Khemraj Shukla, and George Em Karniadakis.*
 
@@ -2264,6 +2264,10 @@ Contributed by Chunyang Zhang.
 
    *Takashi Matsubara and Takaharu Yaguchi.*
 
+1. **Adaptive importance sampling for Deep Ritz.** arXiv, 2023. [paper](https://arxiv.org/abs/2310.17185)
+
+   *Xiaoliang Wan, Tao Zhou, and Yuancheng Zhou.*
+
 ### [Mesh](#content)
 1. **MeshingNet: A new mesh generation method based on deep learning.** ICCS, 2022. [paper](https://link.springer.com/chapter/10.1007/978-3-030-50420-5_14)
 
@@ -2439,6 +2443,10 @@ Contributed by Chunyang Zhang.
 1. **Self-supervised learning with Lie symmetries for partial differential equations.** arXiv, 2023. [paper](https://arxiv.org/abs/2307.05432)
 
    *Grégoire Mialon, Quentin Garrido, Hannah Lawrence, Danyal Rehman, Yann LeCun, and Bobak T. Kiani.*
+
+1. **Interpretable neural PDE solvers using symbolic frameworks.** arXiv, 2023. [paper](https://arxiv.org/abs/2310.20463)
+
+   *Yolanne Yi Ran Lee.*
 
 ### [AutoML](#content)
 1. **Auto-PINN: Understanding and optimizing physics-informed neural architecture.** arXiv, 2022. [paper](https://arxiv.org/abs/2110.13361)
