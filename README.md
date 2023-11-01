@@ -2990,6 +2990,10 @@ Contributed by Chunyang Zhang.
 
    *Jean Kossaifi, Nikola Kovachki, Kamyar Azizzadenesheli, and Anima Anandkumar.*
 
+1. **MgNO: Efficient parameterization of linear operators via multigrid.** arXiv, 2023. [paper](https://arxiv.org/abs/2310.19809)
+
+   *Juncai He, Xinliang Liu, and Jinchao Xu.*
+
 
 ## [Applications](#content)
 ### [Optimization](#content)
