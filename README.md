@@ -2045,6 +2045,10 @@ Contributed by Chunyang Zhang.
 
    *Yolanne Yi Ran Lee.*
 
+1. **A unified framework for the error analysis of physics-informed neural networks.** arXiv, 2023. [paper](https://arxiv.org/abs/2311.00529)
+
+   *Marius Zeinhofer, Rami Masri, and Kent-André Mardal.*
+
 ### [Domain Adaptation](#content)
 1. **Meta-auto-decoder for solving parametric partial differential equations.** NIPS, 2022. [paper](https://openreview.net/pdf?id=PwlW5Jri1Xt) 
 
