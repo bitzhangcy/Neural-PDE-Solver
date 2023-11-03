@@ -516,6 +516,10 @@ Contributed by Chunyang Zhang.
 
    *Tao Luo and Qixuan Zhou.*
 
+1. **Operator learning enhanced physics-informed neural networks for solving partial differential equations characterized by sharp solutions.** arXiv, 2023. [paper](https://arxiv.org/abs/2310.19590)
+
+   *Bin Lin, Zhiping Mao, Zhicheng Wang, and George Em Karniadakis.*
+
 ### [DeepONet](#content)
 1. **Learning nonlinear operators via DeepONet based on the universal approximation theorem of operators.** NMI, 2021. [paper](https://www.nature.com/articles/s42256-021-00302-5)
 
@@ -1184,6 +1188,10 @@ Contributed by Chunyang Zhang.
 
    *Junfeng Chen and Kailiang Wu.*
 
+1. **D2NO: Efficient handling of heterogeneous input function spaces with distributed deep neural operators.** arXiv, 2023. [paper](https://arxiv.org/abs/2310.18888)
+
+   *Zecheng Zhang, Christian Moya, Lu Lu, Guang Lin, and Hayden Schaeffer.*
+
 ### [Machine Learning](#content)
 1. **Machine learning–accelerated computational fluid dynamics.** PNAS, 2021. [paper](https://www.pnas.org/doi/10.1073/pnas.2101784118)
 
@@ -1844,6 +1852,10 @@ Contributed by Chunyang Zhang.
 
    *Artur P. Toshev, Gianluca Galletti, Fabian Fritz, Stefan Adami, and Nikolaus A. Adams.*
 
+1. **Zero coordinate shift: Whetted automatic differentiation for physics-informed operator learning.** arXiv, 2023. [paper](https://arxiv.org/abs/2311.00860)
+
+   *Kuangdai Leng, Mallikarjun Shankar, and Jeyan Thiyagalingam.*
+
 ### [Analysis](#content)
 1. **Characterizing possible failure modes in physics-informed neural networks.** NIPS, 2021. [paper](https://openreview.net/forum?id=a2Gr9gNFD-J)
 
@@ -2048,6 +2060,10 @@ Contributed by Chunyang Zhang.
 1. **A unified framework for the error analysis of physics-informed neural networks.** arXiv, 2023. [paper](https://arxiv.org/abs/2311.00529)
 
    *Marius Zeinhofer, Rami Masri, and Kent-André Mardal.*
+
+1. **A trial solution for imposing boundary conditions of partial differential equations in physics-informed neural networks.** EAAI, 2023. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0952197623014203)
+
+   *Seyedalborz Manavi, Ehsan Fattahi, and Thomas Becker.*
 
 ### [Domain Adaptation](#content)
 1. **Meta-auto-decoder for solving parametric partial differential equations.** NIPS, 2022. [paper](https://openreview.net/pdf?id=PwlW5Jri1Xt) 
