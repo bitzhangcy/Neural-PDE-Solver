@@ -2065,6 +2065,10 @@ Contributed by Chunyang Zhang.
 
    *Seyedalborz Manavi, Ehsan Fattahi, and Thomas Becker.*
 
+1. **Multiple physics pretraining for physical surrogate models.** arXiv, 2023. [paper](https://arxiv.org/abs/2310.02994)
+
+   *Michael McCabe, Bruno Régaldo-Saint Blancard, Liam Holden Parker, Ruben Ohana, Miles Cranmer, Alberto Bietti, Michael Eickenberg, Siavash Golkar, Geraud Krawezik, Francois Lanusse, Mariel Pettee, Tiberiu Tesileanu, Kyunghyun Cho, and Shirley Ho.*
+
 ### [Domain Adaptation](#content)
 1. **Meta-auto-decoder for solving parametric partial differential equations.** NIPS, 2022. [paper](https://openreview.net/pdf?id=PwlW5Jri1Xt) 
 
