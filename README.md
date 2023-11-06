@@ -1856,6 +1856,10 @@ Contributed by Chunyang Zhang.
 
    *Kuangdai Leng, Mallikarjun Shankar, and Jeyan Thiyagalingam.*
 
+1. **CFDBench: A comprehensive benchmark for machine learning methods in fluid dynamics.** arXiv, 2023. [paper](https://arxiv.org/abs/2310.05963)
+
+   *Yining Luo, Yingfa Chen, and Zhen Zhang.*
+
 ### [Analysis](#content)
 1. **Characterizing possible failure modes in physics-informed neural networks.** NIPS, 2021. [paper](https://openreview.net/forum?id=a2Gr9gNFD-J)
 
