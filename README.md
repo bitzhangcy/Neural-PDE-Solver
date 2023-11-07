@@ -2579,6 +2579,10 @@ Contributed by Chunyang Zhang.
 
    *Maxime Beauchamp, Hugo Georgenthum, and Ronan Fablet.*
 
+1. **Ensemble models outperform single model uncertainties and predictions for operator-learning of hypersonic flows.** NIPS, 2023. [paper](https://arxiv.org/abs/2311.00060)
+
+   *Victor J. Leon, Noah Ford, Honest Mrema, Jeffrey Gilbert, and Alexander New.*
+
 ### [Generative Model](#content)
 1. **A framework for data-driven solution and parameter estimation of PDEs using conditional generative adversarial networks.** NCS, 2021. [paper](https://www.nature.com/articles/s43588-021-00171-3)
 
