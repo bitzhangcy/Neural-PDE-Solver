@@ -2575,6 +2575,10 @@ Contributed by Chunyang Zhang.
 
    *Sarah Perez and Philippe Poncet.*
 
+1. **Neural SPDE solver for uncertainty quantification in high-dimensional space-time dynamics.** arXiv, 2023. [paper](https://arxiv.org/abs/2311.01783)
+
+   *Maxime Beauchamp, Hugo Georgenthum, and Ronan Fablet.*
+
 ### [Generative Model](#content)
 1. **A framework for data-driven solution and parameter estimation of PDEs using conditional generative adversarial networks.** NCS, 2021. [paper](https://www.nature.com/articles/s43588-021-00171-3)
 
@@ -2745,6 +2749,10 @@ Contributed by Chunyang Zhang.
 
    *Zipeng Xiao, Zhongkai Hao, Bokai Lin, Zhijie Deng, and Hang Su.*
 
+1. **Multi-scale time-stepping of partial differential equations with Transformers.** arXiv, 2023. [paper](https://arxiv.org/abs/2311.02225) 
+
+   *AmirPouya Hemmasian and Amir Barati Farimani.*
+
 ### [Latent Space](#content)
 1. **Multiscale simulations of complex systems by learning their effective dynamics.** NMI, 2022. [paper](https://www.nature.com/articles/s42256-022-00464-w)
 
@@ -2781,6 +2789,10 @@ Contributed by Chunyang Zhang.
 1. **Solving high-dimensional PDEs with latent spectral models.** ICML, 2023. [paper](https://openreview.net/forum?id=GwBsk5F1ti)
 
    *Haixu Wu, Tengge Hu, Huakun Luo, Jianmin Wang, and Mingsheng Long.*
+
+1. **Physics-informed generator-encoder adversarial networks with latent space matching for stochastic differential equations.** arXiv, 2023. [paper](https://arxiv.org/abs/2311.01708)
+
+   *Ruisong Gao, Min Yang, and Jin Zhang.*
 
 ### [Gaussian Process](#content)
 1. **PAGP: A physics-assisted Gaussian process framework with active learning for forward and inverse problems of partial differential equations.** arXiv, 2022. [paper](https://arxiv.org/abs/2204.02583)
