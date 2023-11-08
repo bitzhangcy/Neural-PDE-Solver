@@ -520,6 +520,14 @@ Contributed by Chunyang Zhang.
 
    *Bin Lin, Zhiping Mao, Zhicheng Wang, and George Em Karniadakis.*
 
+1. **PINNs-TF2: Fast and user-friendly physics-informed neural networks in TensorFlow V2.** arXiv, 2023. [paper](https://arxiv.org/abs/2311.03626)
+
+   *Reza Akbarian Bafghi and Maziar Raissi.*
+
+1. **Filtered partial differential equations: A robust surrogate constraint in physics-informed deep learning framework.** arXiv, 2023. [paper](https://arxiv.org/abs/2311.03776)
+
+   *Dashan Zhang, Yuntian Chen, and Shiyi Chen.*
+
 ### [DeepONet](#content)
 1. **Learning nonlinear operators via DeepONet based on the universal approximation theorem of operators.** NMI, 2021. [paper](https://www.nature.com/articles/s42256-021-00302-5)
 
@@ -3399,6 +3407,10 @@ Contributed by Chunyang Zhang.
 1. **ClimSim: An open large-scale dataset for training high-resolution physics emulators in hybrid multi-scale climate simulators.** arXiv, 2023. [paper](https://arxiv.org/abs/2306.08754v2)
 
    *Sungduk Yu, Walter M. Hannah, Liran Peng, Mohamed Aziz Bhouri, Ritwik Gupta, Jerry Lin, Björn Lütjens, Justus C. Will, Tom Beucler, Bryce E. Harrop, Benjamin R. Hillman, Andrea M. Jenney, Savannah L. Ferretti, Nana Liu, Anima Anandkumar, Noah D. Brenowitz, Veronika Eyring, Pierre Gentine, Stephan Mandt, Jaideep Pathak, Carl Vondrick, Rose Yu, Laure Zanna, Ryan P. Abernathey, Fiaz Ahmed, David C. Bader, Pierre Baldi, Elizabeth A. Barnes, Gunnar Behrens, Christopher S. Bretherton, Julius J. M. Busecke, Peter M. Caldwell, Wayne Chuang, Yilun Han, Yu Huang, Fernando Iglesias-Suarez, Sanket Jantre, Karthik Kashinath, Marat Khairoutdinov, Thorsten Kurth, Nicholas J. Lutsko, Po-Lun Ma, Griffin Mooers, J. David Neelin, David A. Randall, Sara Shamekh, Akshay Subramaniam, Mark A. Taylor, Nathan M. Urban, Janni Yuval, Guang J. Zhang, Tian Zheng, and Michael S. Pritchard.*
+
+1. **Seismic traveltime simulation for variable velocity models using physics-informed Fourier neural operator.** arXiv, 2023. [paper](https://arxiv.org/abs/2311.03751)
+
+   *Chao Song, Tianshuo Zhao, Umair bin Waheed, and Cai Liu.*
 
 ### [Mechanics](#content)
 1. **Wavelet neural operator for solving parametric partial differential equations in computational mechanics problems.** Computer Methods in Applied Mechanics and Engineering, 2022. [paper](https://www.sciencedirect.com/science/article/pii/S0045782522007393)
