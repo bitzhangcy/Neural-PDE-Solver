@@ -2081,6 +2081,10 @@ Contributed by Chunyang Zhang.
 
    *Michael McCabe, Bruno Régaldo-Saint Blancard, Liam Holden Parker, Ruben Ohana, Miles Cranmer, Alberto Bietti, Michael Eickenberg, Siavash Golkar, Geraud Krawezik, Francois Lanusse, Mariel Pettee, Tiberiu Tesileanu, Kyunghyun Cho, and Shirley Ho.*
 
+1. **Lie point symmetry and physics informed networks.** NIPS, 2023. [paper](https://openreview.net/forum?id=VlUf77e9cR)
+
+   *Tara Akhound-Sadegh, Laurence Perreault-Levasseur, Johannes Brandstetter, Max Welling, and Siamak Ravanbakhsh.*
+
 ### [Domain Adaptation](#content)
 1. **Meta-auto-decoder for solving parametric partial differential equations.** NIPS, 2022. [paper](https://openreview.net/pdf?id=PwlW5Jri1Xt) 
 
@@ -2591,6 +2595,10 @@ Contributed by Chunyang Zhang.
 
    *Victor J. Leon, Noah Ford, Honest Mrema, Jeffrey Gilbert, and Alexander New.*
 
+1. **Evaluating Uncertainty Quantification approaches for Neural PDEs in scientific applications.** NIPS, 2023. [paper](https://arxiv.org/abs/2311.04457)
+
+   *Vardhan Dongre and Gurpreet Singh Hora.*
+
 ### [Generative Model](#content)
 1. **A framework for data-driven solution and parameter estimation of PDEs using conditional generative adversarial networks.** NCS, 2021. [paper](https://www.nature.com/articles/s43588-021-00171-3)
 
@@ -2850,6 +2858,10 @@ Contributed by Chunyang Zhang.
 1. **GPLaSDI: Gaussian process-based interpretable latent space dynamics identification through deep autoencoder.** arXiv, 2023. [paper](https://arxiv.org/abs/2308.05882)
 
    *Christophe Bonneville, Youngsoo Choi, Debojyoti Ghosh, and Jonathan L.Belof.*
+
+1. **Solving high frequency and multi-scale PDEs with Gaussian processes.** arXiv, 2023. [paper](https://arxiv.org/abs/2311.04465)
+
+   *Shikai Fang, Madison Cooley, Da Long, Shibo Li, Robert Kirby, and Shandian Zhe.*
 
 ### [Variation](#content) 
 1. **PI-VAE: Physics-informed variational auto-encoder for stochastic differential equations.** Computer Methods in Applied Mechanics and Engineering, 2022. [paper](https://www.sciencedirect.com/science/article/pii/S0045782522006193)
