@@ -1200,6 +1200,10 @@ Contributed by Chunyang Zhang.
 
    *Zecheng Zhang, Christian Moya, Lu Lu, Guang Lin, and Hayden Schaeffer.*
 
+1. **Physics informed WNO.** Computer Methods in Applied Mechanics and Engineering, 2023. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0045782523006709)
+
+   *Navaneeth N., Tapas Tripura, and Souvik Chakraborty.*
+
 ### [Machine Learning](#content)
 1. **Machine learning–accelerated computational fluid dynamics.** PNAS, 2021. [paper](https://www.pnas.org/doi/10.1073/pnas.2101784118)
 
@@ -2206,6 +2210,10 @@ Contributed by Chunyang Zhang.
 
    *Tomoharu Iwata, Yusuke Tanaka, and Naonori Ueda.*
 
+1. **Generalized one-shot transfer learning of linear ordinary and partial differential equations.** NIPS, 2023. [paper](https://openreview.net/pdf?id=x2Mscu1b7H)
+
+   *Tomoharu Iwata, Yusuke Tanaka, and Naonori Ueda.*
+
 ### [Loss Function](#content)
 1. **Adaptive activation functions accelerate convergence in deep and physics-informed neural networks.** JCP, 2021. [paper](https://www.sciencedirect.com/science/article/pii/S0021999119308411)
 
@@ -2425,6 +2433,10 @@ Contributed by Chunyang Zhang.
 1. **Efficient learning of PDEs via Taylor expansion and sparse decomposition into value and Fourier domains.** arXiv, 2023. [paper](https://arxiv.org/abs/2309.07344)
 
    *Md Nasim and Yexiang Xue.*
+
+1. **Adaptive task decomposition physics-informed neural networks.** Computer Methods in Applied Mechanics and Engineering, 2023. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0045782523006850)
+
+   *Jianchuan Yang, Xuanqi Liu, Yu Diao, Xi Chen, and Haikuo Hu.*
 
 ### [Disentangle](#content)
 1. **PDE-driven spatiotemporal disentanglement.** ICLR, 2021. [paper](https://openreview.net/forum?id=vLaHRtHvfFp)
@@ -3440,6 +3452,11 @@ Contributed by Chunyang Zhang.
 1. **Solving multi-material problems in solid mechanics using physics-informed neural networks based on domain decomposition technology.** Computer Methods in Applied Mechanics and Engineering, 2023. [paper](https://www.sciencedirect.com/science/article/abs/pii/S004578252300244X)
 
    *Yu Diao, Jianchuan Yang, Ying Zhang, Dawei Zhang, and Yiming Du.*
+
+1. **A novel key performance analysis method for permanent magnet coupler using physics-informed neural networks.** Engineering with Computers, 2023. [paper](https://link.springer.com/article/10.1007/s00366-023-01914-8)
+
+   *Huayan Pu, Bo Tan, Jin Yi, Shujin Yuan, Jinglei Zhao, Ruqing Bai, and Jun Luo .*
+
 
 ### [Robotics](#content)
 1. **Hybrid learning of time-series inverse dynamics models for locally isotropic robot motion.** RAL, 2022. [paper](https://ieeexplore.ieee.org/document/9954138)
