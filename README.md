@@ -3286,9 +3286,13 @@ Contributed by Chunyang Zhang.
 
    *Haotian Guan, Jinping Dong, and Weining Lee.*
 
-1. **Multi-physical predictions in electro-osmotic micromixer by auto-encoder physics-informed neural networks .** Physics of Fluids, 2023. [paper](https://pubs.aip.org/aip/pof/article-abstract/35/10/102007/2914663/Multi-physical-predictions-in-electro-osmotic?redirectedFrom=fulltext)
+1. **Multi-physical predictions in electro-osmotic micromixer by auto-encoder physics-informed neural networks.** Physics of Fluids, 2023. [paper](https://pubs.aip.org/aip/pof/article-abstract/35/10/102007/2914663/Multi-physical-predictions-in-electro-osmotic?redirectedFrom=fulltext)
 
-   *Naiwen Chang, Ying Huai, Tingting Liu, Xi Chen, and Yuqi Jin .*
+   *Naiwen Chang, Ying Huai, Tingting Liu, Xi Chen, and Yuqi Jin.*
+
+1. **Studying turbulent flows with physics-informed neural networks and sparse data.** International Journal of Heat and Fluid Flow, 2023. [paper](https://www.sciencedirect.com/science/article/pii/S0142727X23001315)
+
+   *S. Hanrahan, M. Kozul, and R.D. Sandberg.*
 
 ### [Cybernetics](#content)
 1. **Machine learning accelerated PDE backstepping observers.** arXiv, 2022. [paper](https://arxiv.org/abs/2211.15044)
