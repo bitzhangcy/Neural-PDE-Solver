@@ -528,6 +528,10 @@ Contributed by Chunyang Zhang.
 
    *Dashan Zhang, Yuntian Chen, and Shiyi Chen.*
 
+1. **Enhanced physics-informed neural networks with domain scaling and residual correction methods for multi-frequency elliptic problems.** arXiv, 2023. [paper](https://arxiv.org/abs/2311.03746)
+
+   *Deok-Kyu Jang, Hyea Hyun Kim, and Kyungsoo Kim.*
+
 ### [DeepONet](#content)
 1. **Learning nonlinear operators via DeepONet based on the universal approximation theorem of operators.** NMI, 2021. [paper](https://www.nature.com/articles/s42256-021-00302-5)
 
@@ -1204,6 +1208,10 @@ Contributed by Chunyang Zhang.
 
    *Navaneeth N., Tapas Tripura, and Souvik Chakraborty.*
 
+1. **Neural oscillators for generalizing parametric PDEs.** NIPS, 2023. [paper](https://nips.cc/virtual/2023/75490)
+
+   *Taniya Kapoor, Abhishek Chandra, and Daniel M. Tartakovsky.*
+
 ### [Machine Learning](#content)
 1. **Machine learning–accelerated computational fluid dynamics.** PNAS, 2021. [paper](https://www.pnas.org/doi/10.1073/pnas.2101784118)
 
@@ -1396,6 +1404,10 @@ Contributed by Chunyang Zhang.
 1. **The deep minimizing movement scheme.** JCP, 2023. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0021999123006137)
 
    *Min Sue Park, Cheolhyeong Kim, Hwijae Son, and Hyung Ju Hwang .*
+
+1. **Learning nonlinear integral operators via recurrent neural networks and its application in solving integro-differential equations.** arXiv, 2023. [paper](https://arxiv.org/abs/2310.09434)
+
+   *Hardeep Bassi, Yuanran Zhu, Senwei Liang, Jia Yin, Cian C. Reeves, Vojtech Vlcek, and Chao Yang.*
 
 ### [Identification](#content)
 1. **Data-driven discovery of partial differential equations.** SA, 2017. [paper](https://arxiv.org/abs/1910.11710)
@@ -1871,6 +1883,10 @@ Contributed by Chunyang Zhang.
 1. **CFDBench: A comprehensive benchmark for machine learning methods in fluid dynamics.** arXiv, 2023. [paper](https://arxiv.org/abs/2310.05963)
 
    *Yining Luo, Yingfa Chen, and Zhen Zhang.*
+
+1. **An operator learning framework for spatiotemporal super-resolution of scientific simulations.** arXiv, 2023. [paper](https://arxiv.org/abs/2311.02328)
+
+   *Valentin Duruisseaux and Amit Chakraborty.*
 
 ### [Analysis](#content)
 1. **Characterizing possible failure modes in physics-informed neural networks.** NIPS, 2021. [paper](https://openreview.net/forum?id=a2Gr9gNFD-J)
@@ -3561,6 +3577,10 @@ Contributed by Chunyang Zhang.
 1. **Solving nonconvex energy minimization problems in martensitic phase transitions with a mesh-free deep learning approach.** Computer Methods in Applied Mechanics and Engineering, 2023. [paper](https://www.sciencedirect.com/science/article/abs/pii/S004578252300508X)
 
    *Xiaoli Chen, Phoebus Rosakis, Zhizhang Wu, and Zhiwen Zhang.*
+
+1. **A physics-guided bi-fidelity Fourier-featured operator learning framework for predicting time evolution of drag and lift coefficients.** arXiv, 2023. [paper](https://arxiv.org/abs/2311.03639)
+
+   *Amirhossein Mollaali, Izzet Sahin, Iqrar Raza, Christian Moya, Guillermo Paniagua, and Guang Lin.*
 
 ### [Reconstruction](#content)
 1. **Occupancy networks: Learning 3D reconstruction in function space.** CVPR, 2019. [paper](https://openaccess.thecvf.com/content_CVPR_2019/papers/Mescheder_Occupancy_Networks_Learning_3D_Reconstruction_in_Function_Space_CVPR_2019_paper.pdf)
