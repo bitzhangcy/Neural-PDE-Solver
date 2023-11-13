@@ -3040,6 +3040,10 @@ Contributed by Chunyang Zhang.
 
    *Yuesheng Xu and Taishan Zeng.*
 
+1. **Multiscale neural operators for solving time-independent PDEs.** NIPS, 2023. [paper](https://nips.cc/virtual/2023/75473)
+
+   *Winfried Ripken, Lisa Coiffard, Felix Pieper, and Sebastian Dziadzio.*
+
 ### [Multi Fidelity](#content)
 1. **Multifidelity deep operator networks.** arXiv, 2022. [paper](https://arxiv.org/abs/2204.09157)
 
