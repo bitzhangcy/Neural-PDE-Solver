@@ -488,7 +488,7 @@ Contributed by Chunyang Zhang.
 
    *Zhao Wei, Jian Cheng Wong, Nicholas Wei Yong Sung, Abhishek Gupta, Chin Chun Ooi, Pao-Hsiung Chiu, My Ha Dao, and Yew-Soon Ong.*
 
-1. **A gradient-enhanced physics-informed neural network (gPINN) scheme for the coupled non-fickian/non-fourierian diffusion-thermoelasticity analysis: A novel gPINN structure.** Engineering Applications of Artificial Intelligence, 2023. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0952197623010928)
+1. **A gradient-enhanced physics-informed neural network (gPINN) scheme for the coupled non-fickian/non-fourierian diffusion-thermoelasticity analysis: A novel gPINN structure.** EAAI, 2023. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0952197623010928)
 
    *Katayoun Eshkofti and Seyed Mahmoud Hosseini.*
 
@@ -589,7 +589,7 @@ Contributed by Chunyang Zhang.
 
    *Guang Lin, Christian Moy, and Zecheng Zhang.*
 
-1. **VB-DeepONet: A Bayesian operator learning framework for uncertainty quantification.** Engineering Applications of Artificial Intelligence, 2023. [paper](https://www.sciencedirect.com/science/article/pii/S0952197622006753)
+1. **VB-DeepONet: A Bayesian operator learning framework for uncertainty quantification.** EAAI, 2023. [paper](https://www.sciencedirect.com/science/article/pii/S0952197622006753)
 
    *Shailesh Garg and Souvik Chakraborty.*
 
@@ -1887,6 +1887,14 @@ Contributed by Chunyang Zhang.
 1. **An operator learning framework for spatiotemporal super-resolution of scientific simulations.** arXiv, 2023. [paper](https://arxiv.org/abs/2311.02328)
 
    *Valentin Duruisseaux and Amit Chakraborty.*
+
+1. **ClimSim: A large multi-scale dataset for hybrid physics-ML climate emulation.** NIPS, 2023. [paper](https://arxiv.org/abs/2306.08754)
+
+   *Busecke, Nora Loose, Charles I Stern, Tom Beucler, Bryce Harrop, Benjamin R Hillman, Andrea Jenney, Savannah Ferretti, Nana Liu, Anima Anandkumar, Noah D Brenowitz, Veronika Eyring, Nicholas Geneva, Pierre Gentine, Stephan Mandt, Jaideep Pathak, Akshay Subramaniam, Carl Vondrick, Rose Yu, Laure Zanna, Tian Zheng, Ryan Abernathey, Fiaz Ahmed, David C Bader, Pierre Baldi, Elizabeth Barnes, Christopher Bretherton, Peter Caldwell, Wayne Chuang, Yilun Han, Yu Huang, Fernando Iglesias-Suarez, Sanket Jantre, Karthik Kashinath, Marat Khairoutdinov, Thorsten Kurth, Nicholas Lutsko, Po-Lun Ma, Griffin Mooers, J. David Neelin, David Randall, Sara Shamekh, Mark A Taylor, Nathan Urban, Janni Yuval, Guang Zhang, and Michael Pritchard.*
+
+1. **Benchmarking the robustness of neural network-based partial differential equation solvers.** ICCAD, 2023. [paper](https://fastmachinelearning.org/iccad2023/file/fastml-iccad-23-final5.pdf)
+
+   *Jiaqi Gu, Mohit Dighamber, Zhengqi Gao, and Duane S. Boning.*
 
 ### [Analysis](#content)
 1. **Characterizing possible failure modes in physics-informed neural networks.** NIPS, 2021. [paper](https://openreview.net/forum?id=a2Gr9gNFD-J)
@@ -3569,9 +3577,13 @@ Contributed by Chunyang Zhang.
 
    *Rui Li, Gabriel della Maggiora, Vardan Andriasyan, Anthony Petkidis, Artsemi Yushkevich, Mikhail Kudryashev, and Artur Yakimovich.*
 
-1. **TGM-Nets: A deep learning framework for enhanced forecasting of tumor growth by integrating imaging and modeling.** Engineering Applications of Artificial Intelligence, 2023. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0952197623010515)
+1. **TGM-Nets: A deep learning framework for enhanced forecasting of tumor growth by integrating imaging and modeling.** EAAI, 2023. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0952197623010515)
 
    *Qijing Chen, Qi Ye, Weiqi Zhang, He Li , and Xiaoning Zheng.*
+
+1. **The use of physics-informed neural network approach to image restoration via nonlinear PDE tools.** Computers & Mathematics with Applications, 2023. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0898122123004431)
+
+   *Neda Namaki, M.R. Eslahchi, and Rezvan Salehi.*
 
 ### [Molecules](#content)
 1. **Symmetry-informed geometric representation for molecules, proteins, and crystalline materials.** arXiv, 2023. [paper](https://arxiv.org/abs/2306.09375)
@@ -3585,6 +3597,10 @@ Contributed by Chunyang Zhang.
 1. **A physics-guided bi-fidelity Fourier-featured operator learning framework for predicting time evolution of drag and lift coefficients.** arXiv, 2023. [paper](https://arxiv.org/abs/2311.03639)
 
    *Amirhossein Mollaali, Izzet Sahin, Iqrar Raza, Christian Moya, Guillermo Paniagua, and Guang Lin.*
+
+1. **Mixed form based physics-informed neural networks for performance evaluation of two-phase random materials.** EAAI, 2023. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0952197623014343)
+
+   *Xiaodan Ren and Xianrui Lyu.*
 
 ### [Reconstruction](#content)
 1. **Occupancy networks: Learning 3D reconstruction in function space.** CVPR, 2019. [paper](https://openaccess.thecvf.com/content_CVPR_2019/papers/Mescheder_Occupancy_Networks_Learning_3D_Reconstruction_in_Function_Space_CVPR_2019_paper.pdf)
