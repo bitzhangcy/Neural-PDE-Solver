@@ -3441,7 +3441,11 @@ Contributed by Chunyang Zhang.
 
 1. **A data-driven tracking control framework using physics-informed neural networks and deep reinforcement learning for dynamical systems.** JCP, 2023. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0952197623014409)
 
-   *R.R. Faria, B.D.O. Capron, A.R. Secchi, and M.B. De Souza Jr..*
+   *R.R. Faria, B.D.O. Capron, A.R. Secchi, and M.B. De Souza Jr.*
+
+1. **Leveraging Hamilton-Jacobi PDEs with time-dependent Hamiltonians for continual scientific machine learning.** L4DC, 2023. [paper](https://arxiv.org/abs/2311.07790)
+
+   *Paula Chen, Tingwei Meng, Zongren Zou, Jérôme Darbon, and George Em Karniadakis.*
 
 ### [Climate](#content)
 1. **FourCastNet: A global data-driven high-resolution weather model using adaptive Fourier neural operators.** arXiv, 2022. [paper](https://arxiv.org/abs/2202.11214)
