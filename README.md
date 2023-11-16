@@ -520,7 +520,7 @@ Contributed by Chunyang Zhang.
 
    *Bin Lin, Zhiping Mao, Zhicheng Wang, and George Em Karniadakis.*
 
-1. **PINNs-TF2: Fast and user-friendly physics-informed neural networks in TensorFlow V2.** arXiv, 2023. [paper](https://arxiv.org/abs/2311.03626)
+1. **PINNs-TF2: Fast and user-friendly physics-informed neural networks in TensorFlow V2.** NIPS, 2023. [paper](https://arxiv.org/abs/2311.03626)
 
    *Reza Akbarian Bafghi and Maziar Raissi.*
 
