@@ -2113,6 +2113,10 @@ Contributed by Chunyang Zhang.
 
    *Tara Akhound-Sadegh, Laurence Perreault-Levasseur, Johannes Brandstetter, Max Welling, and Siamak Ravanbakhsh.*
 
+1. **Stacked networks improve physics-informed training: Applications to neural networks and deep operator networks.** arXiv, 2023. [paper](https://arxiv.org/abs/2311.06483)
+
+   *Amanda A Howard, Sarah H Murphy, Shady E Ahmed, and Panos Stinis.*
+
 ### [Domain Adaptation](#content)
 1. **Meta-auto-decoder for solving parametric partial differential equations.** NIPS, 2022. [paper](https://openreview.net/pdf?id=PwlW5Jri1Xt) 
 
@@ -2384,6 +2388,10 @@ Contributed by Chunyang Zhang.
 1. **Efficient training of physics-informed neural networks with direct grid refinement algorithm.** arXiv, 2023. [paper](https://arxiv.org/abs/2306.08293)
 
    *Shikhar Nilabh and Fidel Grandia.*
+
+1. **Redefining Super-Resolution: Fine-mesh PDE predictions without classical simulations.** arXiv, 2023. [paper](https://arxiv.org/abs/2311.09740)
+
+   *Rajat Kumar Sarkar, Ritam Majumdar, Vishal Jadhav, Sagar Srinivas Sakhinana, and Venkataramana Runkana.*
 
 ### [Decomposition](#content)
 1. **Composing partial differential equations with physics-aware neural networks.** ICLR, 2022. [paper](https://openreview.net/forum?id=DIsWHvtU7lF)
@@ -3559,6 +3567,10 @@ Contributed by Chunyang Zhang.
 1. **Physics-informed neural network with transfer learning (TL-PINN) based on domain similarity measure for prediction of nuclear reactor transients.** Scientific Reports, 2023. [paper](https://www.nature.com/articles/s41598-023-43325-1)
 
    *Konstantinos Prantikos, Stylianos Chatzidakis, Lefteri H. Tsoukalas, and Alexander Heifetz.*
+
+1. **Plasma surrogate modelling using Fourier neural operators.** arXiv, 2023. [paper](https://arxiv.org/abs/2311.05967)
+
+   *Vignesh Gopakumar, Stanislas Pamela, Lorenzo Zanisi, Zongyi Li, Ander Gray, Daniel Brennand, Nitesh Bhatia, Gregory Stathopoulos, Matt Kusner, Marc Peter Deisenroth, Anima Anandkumar, JOREK Team, and MAST Team.*
 
 ### [Image](#content)
 1. **Learning to diffuse: A new perspective to design PDEs for visual analysis.** TPAMI, 2016. [paper](https://ieeexplore.ieee.org/document/7393839)
