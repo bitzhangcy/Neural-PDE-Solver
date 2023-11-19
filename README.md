@@ -2117,6 +2117,10 @@ Contributed by Chunyang Zhang.
 
    *Amanda A Howard, Sarah H Murphy, Shady E Ahmed, and Panos Stinis.*
 
+1. **Is the neural tangent kernel of PINNs deep learning general partial differential equations always convergent?** Physica D: Nonlinear Phenomena, 2023. [paper](https://www.sciencedirect.com/science/article/pii/S016727892300341X)
+
+   *Zijian Zhou and Zhenya Yan.*
+
 ### [Domain Adaptation](#content)
 1. **Meta-auto-decoder for solving parametric partial differential equations.** NIPS, 2022. [paper](https://openreview.net/pdf?id=PwlW5Jri1Xt) 
 
