@@ -3576,6 +3576,10 @@ Contributed by Chunyang Zhang.
 
    *Vignesh Gopakumar, Stanislas Pamela, Lorenzo Zanisi, Zongyi Li, Ander Gray, Daniel Brennand, Nitesh Bhatia, Gregory Stathopoulos, Matt Kusner, Marc Peter Deisenroth, Anima Anandkumar, JOREK Team, and MAST Team.*
 
+1. **Training a deep operator network as a surrogate solver for two-dimensional parabolic-equation models.** Journal of the Acoustical Society of America, 2023. [paper](https://pubs.aip.org/asa/jasa/article-abstract/154/5/3276/2922093/Training-a-deep-operator-network-as-a-surrogate?redirectedFrom=fulltext)
+
+   *Liang Xu, Haigang Zhang, and Minghui Zhang.*
+
 ### [Image](#content)
 1. **Learning to diffuse: A new perspective to design PDEs for visual analysis.** TPAMI, 2016. [paper](https://ieeexplore.ieee.org/document/7393839)
 
