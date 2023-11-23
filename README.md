@@ -1018,6 +1018,10 @@ Contributed by Chunyang Zhang.
 
    *Pu Ren, Chengping Rao, Yang Liu, Zihan Ma, Qi Wang, Jianxun Wang, and Hao Sun.*
 
+1. **Local convolution enhanced global Fourier neural operator for multiscale dynamic spaces prediction.** arXiv, 2023. [paper](https://arxiv.org/abs/2311.12902)
+
+   *Xuanle Zhao, Yue Sun, Tielin Zhang, and Bo Xu.*
+
 ### [AutoEncoder](#content)
 1. **Integral autoencoder network for discretization-invariant learning.** JMLR, 2022. [paper](https://www.jmlr.org/papers/v23/22-0297.html)
 
@@ -3579,6 +3583,10 @@ Contributed by Chunyang Zhang.
 1. **Training a deep operator network as a surrogate solver for two-dimensional parabolic-equation models.** Journal of the Acoustical Society of America, 2023. [paper](https://pubs.aip.org/asa/jasa/article-abstract/154/5/3276/2922093/Training-a-deep-operator-network-as-a-surrogate?redirectedFrom=fulltext)
 
    *Liang Xu, Haigang Zhang, and Minghui Zhang.*
+
+1. **Grad-Shafranov equilibria via data-free physics informed neural networks.** arXiv, 2023. [paper](https://arxiv.org/abs/2311.13491)
+
+   *Byoungchan Jang, Alan A. Kaptanoglu, Rahul Gaur, Shaw Pan, Matt Landreman, and William Dorland.*
 
 ### [Image](#content)
 1. **Learning to diffuse: A new perspective to design PDEs for visual analysis.** TPAMI, 2016. [paper](https://ieeexplore.ieee.org/document/7393839)
