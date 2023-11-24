@@ -2651,6 +2651,10 @@ Contributed by Chunyang Zhang.
 
    *Vardhan Dongre and Gurpreet Singh Hora.*
 
+1. **Uncertainty quantification for noisy inputs-outputs in physics-informed neural networks and neural operators.** arXiv, 2023. [paper](https://arxiv.org/abs/2311.11262)
+
+   *Zongren Zou, Xuhui Meng, and George Em Karniadakis.*
+
 ### [Generative Model](#content)
 1. **A framework for data-driven solution and parameter estimation of PDEs using conditional generative adversarial networks.** NCS, 2021. [paper](https://www.nature.com/articles/s43588-021-00171-3)
 
@@ -3068,6 +3072,10 @@ Contributed by Chunyang Zhang.
 
    *Winfried Ripken, Lisa Coiffard, Felix Pieper, and Sebastian Dziadzio.*
 
+1. **Multilevel scalable solvers for stochastic linear and nonlinear problems.** arXiv, 2023. [paper](https://arxiv.org/abs/2310.14649)
+
+   *Sudhi Sharma, Pierre Jolivet, Victorita Dolean, and Abhijit Sarkar.*
+
 ### [Multi Fidelity](#content)
 1. **Multifidelity deep operator networks.** arXiv, 2022. [paper](https://arxiv.org/abs/2204.09157)
 
@@ -3208,6 +3216,10 @@ Contributed by Chunyang Zhang.
 1. **Accelerated primal-dual methods with enlarged step sizes and operator learning for nonsmooth optimal control problems.** arXiv, 2023. [paper](https://arxiv.org/abs/2307.00296)
 
    *Yongcun Song, Xiaoming Yuan, and Hangrui Yue.*
+
+1. **Operator learning for continuous spatial-temporal model with a hybrid optimization scheme.** arXiv, 2023. [paper](https://arxiv.org/abs/2311.11798)
+
+   *Chuanqi Chen and Jinlong Wu.*
 
 ### [Fluid](#content)
 1. **Physics-informed neural networks (PINNs) for fluid mechanics: A review.** Acta Mechanica Sinica, 2021. [paper](https://link.springer.com/article/10.1007/s10409-021-01148-1)
@@ -3633,6 +3645,10 @@ Contributed by Chunyang Zhang.
 1. **Mixed form based physics-informed neural networks for performance evaluation of two-phase random materials.** EAAI, 2023. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0952197623014343)
 
    *Xiaodan Ren and Xianrui Lyu.*
+
+1. **Deep learning based solution of nonlinear partial differential equations arising in the process of arterial blood flow.** Mathematics and Computers in Simulation, 2023. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0378475423004469)
+
+   *Bivas Bhaumik, Soumen De, and Satyasaran Changdar.*
 
 ### [Reconstruction](#content)
 1. **Occupancy networks: Learning 3D reconstruction in function space.** CVPR, 2019. [paper](https://openaccess.thecvf.com/content_CVPR_2019/papers/Mescheder_Occupancy_Networks_Learning_3D_Reconstruction_in_Function_Space_CVPR_2019_paper.pdf)
