@@ -2540,6 +2540,10 @@ Contributed by Chunyang Zhang.
 
    *Yolanne Yi Ran Lee.*
 
+1. **Neural-Integrated Meshfree (NIM) Method: A differentiable programming-based hybrid solver for computational mechanics.** arXiv, 2023. [paper](https://arxiv.org/abs/2311.12915)
+
+   *Honghui Du and Qizhi He.*
+
 ### [AutoML](#content)
 1. **Auto-PINN: Understanding and optimizing physics-informed neural architecture.** arXiv, 2022. [paper](https://arxiv.org/abs/2110.13361)
 
@@ -3076,6 +3080,10 @@ Contributed by Chunyang Zhang.
 
    *Sudhi Sharma, Pierre Jolivet, Victorita Dolean, and Abhijit Sarkar.*
 
+1. **Local convolution enhanced global Fourier neural operator for multiscale dynamic spaces prediction.** arXiv, 2023. [paper](https://arxiv.org/abs/2311.12902)
+
+   *Xuanle Zhao, Yue Sun, Tielin Zhang, and Bo Xu.*
+
 ### [Multi Fidelity](#content)
 1. **Multifidelity deep operator networks.** arXiv, 2022. [paper](https://arxiv.org/abs/2204.09157)
 
@@ -3350,6 +3358,10 @@ Contributed by Chunyang Zhang.
 
    *S. Hanrahan, M. Kozul, and R.D. Sandberg.*
 
+1. **Enhancing physics informed neural networks for solving Navier–Stokes equations.** International Journal for Numerical Methods in Fluids, 2023. [paper](https://onlinelibrary.wiley.com/doi/abs/10.1002/fld.5250)
+
+   *Ayoub Farkane, Mounir Ghogho, Mustapha Oudani, and Mohamed Boutayeb.*
+
 ### [Cybernetics](#content)
 1. **Machine learning accelerated PDE backstepping observers.** arXiv, 2022. [paper](https://arxiv.org/abs/2211.15044)
 
@@ -3545,7 +3557,11 @@ Contributed by Chunyang Zhang.
 
 1. **A spatial-temporally adaptive PINN framework for 3D bi-ventricular electrophysiological simulations and parameter inference.** MICCAI, 2023. [paper](https://link.springer.com/chapter/10.1007/978-3-031-43990-2_16)
 
-   *Yubo Ye, Huafeng Liu, Xiajun Jiang, Maryam Toloubidokhti, and Linwei Wang .*
+   *Yubo Ye, Huafeng Liu, Xiajun Jiang, Maryam Toloubidokhti, and Linwei Wang.*
+
+1. **Using the Transformer model for physical simulation: An application on transient thermal analysis for 3D printing process simulation.** NIPS, 2023. [paper](https://openreview.net/forum?id=tuXhnv6pgo)
+
+   *Qian Chen, Luyang Kong, Florian Dugast, and Albert To.*
 
 ### [Physics](#content)
 1. **Dynamic weights enabled physics-informed neural network for simulating the mobility of engineered nano-particles in a contaminated aquifer.** NIPS, 2022. [paper](https://arxiv.org/pdf/2211.03525.pdf)
@@ -3649,6 +3665,10 @@ Contributed by Chunyang Zhang.
 1. **Deep learning based solution of nonlinear partial differential equations arising in the process of arterial blood flow.** Mathematics and Computers in Simulation, 2023. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0378475423004469)
 
    *Bivas Bhaumik, Soumen De, and Satyasaran Changdar.*
+
+1. **Physics-informed neural networks for solving dynamic two-phase interface problems.** SIAM Journal on Scientific Computing, 2023. [paper](https://epubs.siam.org/doi/abs/10.1137/22M1517081)
+
+   *Xingwen Zhu, Xiaozhe Hu, and Pengtao Sun.*
 
 ### [Reconstruction](#content)
 1. **Occupancy networks: Learning 3D reconstruction in function space.** CVPR, 2019. [paper](https://openaccess.thecvf.com/content_CVPR_2019/papers/Mescheder_Occupancy_Networks_Learning_3D_Reconstruction_in_Function_Space_CVPR_2019_paper.pdf)
