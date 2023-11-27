@@ -2125,6 +2125,10 @@ Contributed by Chunyang Zhang.
 
    *Zijian Zhou and Zhenya Yan.*
 
+1. **Can physics informed neural operators self improve?** NIPS, 2023. [paper](https://openreview.net/forum?id=Lhm15nDeGH)
+
+   *Ritam Majumdar, Ritam_Majumdar, Amey Varhade, Shirish Karande, and Lovekesh Vig.*
+
 ### [Domain Adaptation](#content)
 1. **Meta-auto-decoder for solving parametric partial differential equations.** NIPS, 2022. [paper](https://openreview.net/pdf?id=PwlW5Jri1Xt) 
 
@@ -2833,6 +2837,10 @@ Contributed by Chunyang Zhang.
 
    *AmirPouya Hemmasian and Amir Barati Farimani.*
 
+1. **Deciphering and integrating invariants for neural operator learning with various physical mechanisms.** arXiv, 2023. [paper](https://arxiv.org/abs/2311.14361) 
+
+   *Rui Zhang, Qi Meng, and Zhiming Ma.*
+
 ### [Latent Space](#content)
 1. **Multiscale simulations of complex systems by learning their effective dynamics.** NMI, 2022. [paper](https://www.nature.com/articles/s42256-022-00464-w)
 
@@ -3361,6 +3369,10 @@ Contributed by Chunyang Zhang.
 1. **Enhancing physics informed neural networks for solving Navier–Stokes equations.** International Journal for Numerical Methods in Fluids, 2023. [paper](https://onlinelibrary.wiley.com/doi/abs/10.1002/fld.5250)
 
    *Ayoub Farkane, Mounir Ghogho, Mustapha Oudani, and Mohamed Boutayeb.*
+
+1. **Physics-informed tensor basis neural network for turbulence closure modeling.** arXiv, 2023. [paper](https://arxiv.org/abs/2311.14576)
+
+   *Leon Riccius, Atul Agrawal, and Phaedon-Stelios Koutsourelakis.*
 
 ### [Cybernetics](#content)
 1. **Machine learning accelerated PDE backstepping observers.** arXiv, 2022. [paper](https://arxiv.org/abs/2211.15044)
