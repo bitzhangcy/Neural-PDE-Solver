@@ -532,6 +532,10 @@ Contributed by Chunyang Zhang.
 
    *Deok-Kyu Jang, Hyea Hyun Kim, and Kyungsoo Kim.*
 
+1. **Physics-informed neural networks for transformed geometries and manifolds.** arXiv, 2023. [paper](https://arxiv.org/abs/2311.15940)
+
+   *Samuel Burbulla.*
+
 ### [DeepONet](#content)
 1. **Learning nonlinear operators via DeepONet based on the universal approximation theorem of operators.** NMI, 2021. [paper](https://www.nature.com/articles/s42256-021-00302-5)
 
@@ -1820,6 +1824,10 @@ Contributed by Chunyang Zhang.
 
    *Shivam Arora, Alex Bihlo, and Francis Valiquette.*
 
+1. **Stability-informed initialization of neural ordinary differential equations.** arXiv, 2023. [paper](https://arxiv.org/abs/2311.15890)
+
+   *Theodor Westny, Arman Mohammadi, Daniel Jung, and Erik Frisk.*
+
 ### [Large Model](#content)
 1. **Prompting in-context operator learning with sensor data, equations, and natural language.** arXiv, 2023. [paper](https://arxiv.org/abs/2308.05061)
 
@@ -2129,6 +2137,10 @@ Contributed by Chunyang Zhang.
 
    *Ritam Majumdar, Ritam_Majumdar, Amey Varhade, Shirish Karande, and Lovekesh Vig.*
 
+1. **Bias-variance trade-off in physics-informed neural networks with randomized smoothing for high-dimensional PDEs.** arXiv, 2023. [paper](https://arxiv.org/abs/2311.15283)
+
+   *Zheyuan Hu, Zhouhao Yang, Yezhen Wang, George Em Karniadakis, and Kenji Kawaguchi.*
+
 ### [Domain Adaptation](#content)
 1. **Meta-auto-decoder for solving parametric partial differential equations.** NIPS, 2022. [paper](https://openreview.net/pdf?id=PwlW5Jri1Xt) 
 
@@ -2253,6 +2265,10 @@ Contributed by Chunyang Zhang.
 1. **Generalized one-shot transfer learning of linear ordinary and partial differential equations.** NIPS, 2023. [paper](https://openreview.net/pdf?id=x2Mscu1b7H)
 
    *Tomoharu Iwata, Yusuke Tanaka, and Naonori Ueda.*
+
+1. **One-shot transfer learning for nonlinear ODEs.** NIPS, 2023. [paper](https://openreview.net/forum?id=mcIbqPMKCU)
+
+   *Wanzhou Lei, Pavlos Protopapas, and Joy Parikh.*
 
 ### [Loss Function](#content)
 1. **Adaptive activation functions accelerate convergence in deep and physics-informed neural networks.** JCP, 2021. [paper](https://www.sciencedirect.com/science/article/pii/S0021999119308411)
