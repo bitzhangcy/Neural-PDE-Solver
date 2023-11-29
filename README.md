@@ -2421,6 +2421,10 @@ Contributed by Chunyang Zhang.
 
    *Rajat Kumar Sarkar, Ritam Majumdar, Vishal Jadhav, Sagar Srinivas Sakhinana, and Venkataramana Runkana.*
 
+1. **MMPDE-Net and moving sampling physics-informed neural networks based on moving mesh method.** arXiv, 2023. [paper](https://arxiv.org/abs/2311.16167)
+
+   *Yu Yang, Qihong Yang, Yangtao Deng, and Qiaolin He.*
+
 ### [Decomposition](#content)
 1. **Composing partial differential equations with physics-aware neural networks.** ICLR, 2022. [paper](https://openreview.net/forum?id=DIsWHvtU7lF)
 
@@ -2564,6 +2568,10 @@ Contributed by Chunyang Zhang.
 
    *Honghui Du and Qizhi He.*
 
+1. **A deep-genetic algorithm (deep-GA) approach for high-dimensional nonlinear parabolic partial differential equations.** Computers & Mathematics with Applications, 2023. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0898122123005126)
+
+   *Endah R.M. Putri, Muhammad L. Shahab, Mohammad Iqbal, Imam Mukhlash, Amirul Hakam, Lutfi Mardianto, and Hadi Susanto.*
+
 ### [AutoML](#content)
 1. **Auto-PINN: Understanding and optimizing physics-informed neural architecture.** arXiv, 2022. [paper](https://arxiv.org/abs/2110.13361)
 
@@ -2621,6 +2629,10 @@ Contributed by Chunyang Zhang.
 1. **Implicit neural spatial representations for time-dependent PDEs.** ICML, 2023. [paper](https://openreview.net/forum?id=7BO6rpA6qQ) 
 
    *Honglin Chen, Rundi Wu, Eitan Grinspun, Changxi Zheng, and Peter Yichen Chen.*
+
+1. **Reduced-order modeling for parameterized PDEs via implicit neural representations.** NIPS, 2023. [paper](https://arxiv.org/abs/2311.16410) 
+
+   *Tianshu Wen, Kookjin Lee, and Youngsoo Choi.*
 
 ### [Uncertainty Quantification](#content)
 1. **Quantifying total uncertainty in physics-informed neural networks for solving forward and inverse stochastic problems.** arXiv, 2021. [paper](https://www.sciencedirect.com/science/article/pii/S0021999119305340)
@@ -3390,6 +3402,10 @@ Contributed by Chunyang Zhang.
 
    *Leon Riccius, Atul Agrawal, and Phaedon-Stelios Koutsourelakis.*
 
+1. **Investigation of low and high-speed fluid dynamics problems using physics-informed neural network.** International Journal of Computational Fluid Dynamics, 2023. [paper](https://www.tandfonline.com/doi/abs/10.1080/10618562.2023.2285330)
+
+   *Anubhav Joshi,Alexandros Papados, and Rakesh Kumar.*
+
 ### [Cybernetics](#content)
 1. **Machine learning accelerated PDE backstepping observers.** arXiv, 2022. [paper](https://arxiv.org/abs/2211.15044)
 
@@ -3673,6 +3689,10 @@ Contributed by Chunyang Zhang.
 
    *Neda Namaki, M.R. Eslahchi, and Rezvan Salehi.*
 
+1. **Personalized predictions of glioblastoma infiltration: Mathematical models, physics-informed neural networks and multimodal scans.** arXiv, 2023. [paper](https://arxiv.org/abs/2311.16536)
+
+   *Ray Zirui Zhang, Ivan Ezhov, Michal Balcerak, Andy Zhu, Benedikt Wiestler, Bjoern Menze, and John Lowengrub.*
+
 ### [Molecules](#content)
 1. **Symmetry-informed geometric representation for molecules, proteins, and crystalline materials.** arXiv, 2023. [paper](https://arxiv.org/abs/2306.09375)
 
@@ -3740,6 +3760,10 @@ Contributed by Chunyang Zhang.
 1. **Solving two-player general-sum games between swarms.** arXiv, 2023. [paper](https://arxiv.org/abs/2310.01682)
 
    *Mukesh Ghimire, Lei Zhang, Wenlong Zhang, Yi Ren, and Zhe Xu.*
+
+1. **Value approximation for two-player general-sum differential games with state constraints.** arXiv, 2023. [paper](https://arxiv.org/abs/2311.16520)
+
+   *Lei Zhang, Mukesh Ghimire, Wenlong Zhang, Zhe Xu, and Yi Ren.*
 
 ### [Manufacturing](#content)
 1. **Physics-aware machine learning surrogates for real-time manufacturing digital twin.** Manufacturing Letters, 2022. [paper](https://www.sciencedirect.com/science/article/abs/pii/S2213846322001845)
