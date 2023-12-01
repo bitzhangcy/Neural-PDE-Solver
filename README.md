@@ -536,6 +536,22 @@ Contributed by Chunyang Zhang.
 
    *Samuel Burbulla.*
 
+1. **Bias-variance trade-off in physics-informed neural networks with randomized smoothing for high-dimensional PDEs.** arXiv, 2023. [paper](https://arxiv.org/abs/2311.15283)
+
+   *Zheyuan Hu, Zhouhao Yang, Yezhen Wang, George Em Karniadakis, and Kenji Kawaguchi.*
+
+1. **Neuro-PINN: A hybrid framework for efficient nonlinear projection equation solutions.** The International Journal for Numerical Methods in Engineering, 2023. [paper](https://onlinelibrary.wiley.com/doi/abs/10.1002/nme.7377)
+
+   *Dawen Wu and Abdel Lisser.*
+
+1. **Exactly conservative physics-informed neural networks and deep operator networks for dynamical systems.** arXiv, 2023. [paper](https://arxiv.org/abs/2311.14131)
+
+   *Elsa Cardoso-Bihlo and Alex Bihlo.*
+
+1. **Bias-variance trade-off in physics-informed neural networks with randomized smoothing for high-dimensional PDEs.** arXiv, 2023. [paper](https://arxiv.org/abs/2311.15283)
+
+   *Zheyuan Hu, Zhouhao Yang, Yezhen Wang, George Em Karniadakis, and Kenji Kawaguchi.*
+
 ### [DeepONet](#content)
 1. **Learning nonlinear operators via DeepONet based on the universal approximation theorem of operators.** NMI, 2021. [paper](https://www.nature.com/articles/s42256-021-00302-5)
 
@@ -1416,6 +1432,10 @@ Contributed by Chunyang Zhang.
 1. **Learning nonlinear integral operators via recurrent neural networks and its application in solving integro-differential equations.** arXiv, 2023. [paper](https://arxiv.org/abs/2310.09434)
 
    *Hardeep Bassi, Yuanran Zhu, Senwei Liang, Jia Yin, Cian C. Reeves, Vojtech Vlcek, and Chao Yang.*
+
+1. **Adaptive deep neural networks for solving corner singular problems.** Engineering Analysis with Boundary Elements, 2023. [paper](https://arxiv.org/abs/2310.09434)
+
+   *Shaojie Zeng, Yijie Liang, and Qinghui Zhang.*
 
 ### [Identification](#content)
 1. **Data-driven discovery of partial differential equations.** SA, 2017. [paper](https://arxiv.org/abs/1910.11710)
@@ -3406,6 +3426,10 @@ Contributed by Chunyang Zhang.
 
    *Anubhav Joshi,Alexandros Papados, and Rakesh Kumar.*
 
+1. **Singular layer physics informed neural network method for plane parallel flows.** arXiv, 2023. [paper](https://arxiv.org/abs/2311.15304)
+
+   *Tengyuan Chang, Gungmin Gie, Youngjoon Hong, and Chang-Yeol Jung.*
+
 ### [Cybernetics](#content)
 1. **Machine learning accelerated PDE backstepping observers.** arXiv, 2022. [paper](https://arxiv.org/abs/2211.15044)
 
@@ -3575,8 +3599,11 @@ Contributed by Chunyang Zhang.
 
 1. **A novel key performance analysis method for permanent magnet coupler using physics-informed neural networks.** Engineering with Computers, 2023. [paper](https://link.springer.com/article/10.1007/s00366-023-01914-8)
 
-   *Huayan Pu, Bo Tan, Jin Yi, Shujin Yuan, Jinglei Zhao, Ruqing Bai, and Jun Luo .*
+   *Huayan Pu, Bo Tan, Jin Yi, Shujin Yuan, Jinglei Zhao, Ruqing Bai, and Jun Luo.*
 
+1. **Mechanical Characterization and Inverse Design of Stochastic Architected Metamaterials Using Neural Operators.** arXiv, 2023. [paper](https://arxiv.org/abs/2311.13812)
+
+   *Hanxun Jin, Enrui Zhang, Boyu Zhang, Sridhar Krishnaswamy, George Em Karniadakis, and Horacio D. Espinosa.*
 
 ### [Robotics](#content)
 1. **Hybrid learning of time-series inverse dynamics models for locally isotropic robot motion.** RAL, 2022. [paper](https://ieeexplore.ieee.org/document/9954138)
