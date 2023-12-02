@@ -1236,6 +1236,10 @@ Contributed by Chunyang Zhang.
 
    *Taniya Kapoor, Abhishek Chandra, and Daniel M. Tartakovsky.*
 
+1. **B-LSTM-MIONet: Bayesian LSTM-based neural operators for learning the response of complex dynamical systems to length-variant multiple input functions.** arXiv, 2023. [paper](https://arxiv.org/abs/2311.16519)
+
+   *Zhihao Kong, Amirhossein Mollaali, Christian Moya, Na Lu, and Guang Lin.*
+
 ### [Machine Learning](#content)
 1. **Machine learning–accelerated computational fluid dynamics.** PNAS, 2021. [paper](https://www.pnas.org/doi/10.1073/pnas.2101784118)
 
@@ -2522,6 +2526,10 @@ Contributed by Chunyang Zhang.
 
    *Jianchuan Yang, Xuanqi Liu, Yu Diao, Xi Chen, and Haikuo Hu.*
 
+1. **PF-DMD: Physics-fusion dynamic mode decomposition for accurate and robust forecasting of dynamical systems with imperfect data and physics.** arXiv, 2023. [paper](https://arxiv.org/abs/2311.15604)
+
+   *Yuhui Yin, Chenhui Kou, Shengkun Jia, Lu Lu, Xigang Yuan, and Yiqing Luo.*
+
 ### [Disentangle](#content)
 1. **PDE-driven spatiotemporal disentanglement.** ICLR, 2021. [paper](https://openreview.net/forum?id=vLaHRtHvfFp)
 
@@ -3429,6 +3437,10 @@ Contributed by Chunyang Zhang.
 1. **Singular layer physics informed neural network method for plane parallel flows.** arXiv, 2023. [paper](https://arxiv.org/abs/2311.15304)
 
    *Tengyuan Chang, Gungmin Gie, Youngjoon Hong, and Chang-Yeol Jung.*
+
+1. **Data-efficient operator learning for solving high Mach number fluid flow problems.** arXiv, 2023. [paper](https://arxiv.org/abs/2311.16860)
+
+   *Noah Ford, Victor J. Leon, Honest Merman, Jeffrey Gilbert, and Alexander New.*
 
 ### [Cybernetics](#content)
 1. **Machine learning accelerated PDE backstepping observers.** arXiv, 2022. [paper](https://arxiv.org/abs/2211.15044)
