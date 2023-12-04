@@ -722,9 +722,13 @@ Contributed by Chunyang Zhang.
 
    *Colin White, Renbo Tu, Jean Kossaifi, Gennady Pekhimenko, Kamyar Azizzadenesheli, and Anima Anandkumar.*
 
-1. **Geometry-informed neural operator for large-scale 3d PDEs.** arXiv, 2023. [paper](https://arxiv.org/abs/2309.00583)
+1. **Geometry-informed neural operator for large-scale 3D PDEs.** arXiv, 2023. [paper](https://arxiv.org/abs/2309.00583)
 
    *Zongyi Li, Nikola Borislavov Kovachki, Chris Choy, Boyi Li, Jean Kossaifi, Shourya Prakash Otta, Mohammad Amin Nabian, Maximilian Stadler, Christian Hundt, Kamyar Azizzadenesheli, and Anima Anandkumar.*
+
+1. **Deep equilibrium based neural operators for steady-state PDEs.** NIPS, 2023. [paper](https://openreview.net/forum?id=FzXsSCF50t)
+
+   *Tanya Marwah, Ashwini Pokle, J Zico Kolter, Zachary Chase Lipton, Jianfeng Lu, and Andrej Risteski.*
 
 ### [Graph Network](#content)
 1. **Message passing neural PDE solvers.** ICLR, 2022. [paper](https://openreview.net/forum?id=vSix3HPYKSU)
