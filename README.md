@@ -2723,6 +2723,10 @@ Contributed by Chunyang Zhang.
 
    *Zongren Zou, Xuhui Meng, and George Em Karniadakis.*
 
+1. **Data-driven autoencoder numerical solver with uncertainty quantification for fast physical simulations.** arXiv, 2023. [paper](https://arxiv.org/abs/2312.01021)
+
+   *Christophe Bonneville, Youngsoo Choi, Debojyoti Ghosh, and Jonathan L. Belof.*
+
 ### [Generative Model](#content)
 1. **A framework for data-driven solution and parameter estimation of PDEs using conditional generative adversarial networks.** NCS, 2021. [paper](https://www.nature.com/articles/s43588-021-00171-3)
 
