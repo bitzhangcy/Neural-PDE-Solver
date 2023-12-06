@@ -1244,6 +1244,10 @@ Contributed by Chunyang Zhang.
 
    *Zhihao Kong, Amirhossein Mollaali, Christian Moya, Na Lu, and Guang Lin.*
 
+1. **GIT-Net: Generalized integral transform for operator learning.** arXiv, 2023. [paper](https://arxiv.org/abs/2312.02450)
+
+   *Chao Wang and Alexandre Hoang Thiery.*
+
 ### [Machine Learning](#content)
 1. **Machine learning–accelerated computational fluid dynamics.** PNAS, 2021. [paper](https://www.pnas.org/doi/10.1073/pnas.2101784118)
 
@@ -2905,6 +2909,10 @@ Contributed by Chunyang Zhang.
 
    *Rui Zhang, Qi Meng, and Zhiming Ma.*
 
+1. **Attention-enhanced neural differential equations for physics-informed deep learning of ion transport.** NIPS, 2023. [paper](https://arxiv.org/abs/2312.02871) 
+
+   *Danyal Rehman and John H. Lienhard.*
+
 ### [Latent Space](#content)
 1. **Multiscale simulations of complex systems by learning their effective dynamics.** NMI, 2022. [paper](https://www.nature.com/articles/s42256-022-00464-w)
 
@@ -3300,6 +3308,10 @@ Contributed by Chunyang Zhang.
 1. **Operator learning for continuous spatial-temporal model with a hybrid optimization scheme.** arXiv, 2023. [paper](https://arxiv.org/abs/2311.11798)
 
    *Chuanqi Chen and Jinlong Wu.*
+
+1. **Deep neural operators as accurate surrogates for shape optimization.** EAAI, 2023. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0952197623017992)
+
+   *Khemraj Shukla, Vivek Oommen, Ahmad Peyvan, Michael Penwarden, Nicholas Plewacki, Luis Bravo, Anindya Ghoshal, Robert M. Kirby, and George Em Karniadakis.*
 
 ### [Fluid](#content)
 1. **Physics-informed neural networks (PINNs) for fluid mechanics: A review.** Acta Mechanica Sinica, 2021. [paper](https://link.springer.com/article/10.1007/s10409-021-01148-1)
