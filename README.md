@@ -2608,6 +2608,10 @@ Contributed by Chunyang Zhang.
 
    *Endah R.M. Putri, Muhammad L. Shahab, Mohammad Iqbal, Imam Mukhlash, Amirul Hakam, Lutfi Mardianto, and Hadi Susanto.*
 
+1. **Physics-enhanced deep surrogates for partial differential equations.** NMI, 2023. [paper](https://www.nature.com/articles/s42256-023-00761-y)
+
+   *Raphaël Pestourie, Youssef Mroueh, Chris Rackauckas, Payel Das, and Steven G. Johnson .*
+
 ### [AutoML](#content)
 1. **Auto-PINN: Understanding and optimizing physics-informed neural architecture.** arXiv, 2022. [paper](https://arxiv.org/abs/2110.13361)
 
@@ -3461,6 +3465,10 @@ Contributed by Chunyang Zhang.
 1. **Data-efficient operator learning for solving high Mach number fluid flow problems.** arXiv, 2023. [paper](https://arxiv.org/abs/2311.16860)
 
    *Noah Ford, Victor J. Leon, Honest Merman, Jeffrey Gilbert, and Alexander New.*
+
+1. **Three-dimensional laminar flow using physics informed deep neural networks featured.** Physics of Fluids, 2023. [paper](https://pubs.aip.org/aip/pof/article/35/12/121703/2925751)
+
+   *Saykat Kumar Biswas and N. K. Anand.*
 
 ### [Cybernetics](#content)
 1. **Machine learning accelerated PDE backstepping observers.** arXiv, 2022. [paper](https://arxiv.org/abs/2211.15044)
