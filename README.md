@@ -1248,6 +1248,10 @@ Contributed by Chunyang Zhang.
 
    *Chao Wang and Alexandre Hoang Thiery.*
 
+1. **Neural spectral methods: Self-supervised learning in the spectral domain.** arXiv, 2023. [paper](https://arxiv.org/abs/2312.05225)
+
+   *Yiheng Du, Nithin Chalapathi, and Aditi S. Krishnapriyan.*
+
 ### [Machine Learning](#content)
 1. **Machine learning–accelerated computational fluid dynamics.** PNAS, 2021. [paper](https://www.pnas.org/doi/10.1073/pnas.2101784118)
 
@@ -1754,6 +1758,10 @@ Contributed by Chunyang Zhang.
 1. **Adaptive operator learning for infinite-dimensional Bayesian inverse problems.** arXiv, 2023. [paper](https://arxiv.org/abs/2310.17844)
 
    *Zhiwei Gao, Liang Yan, and Tao Zhou.*
+
+1. **Variational formulations of the strong formulation -- Forward and inverse modeling using isogeometric analysis and physics-informed networks.** arXiv, 2023. [paper](https://arxiv.org/abs/2312.03496)
+
+   *Kent-Andre Mardal, Jarle Sogn, and Marius Zeinhofer.*
 
 ### [Neural ODE](#content)
 1. **Neural rough differential equations for long time series.** ICML, 2021. [paper](http://proceedings.mlr.press/v139/morrill21b.html)
@@ -3469,6 +3477,14 @@ Contributed by Chunyang Zhang.
 1. **Three-dimensional laminar flow using physics informed deep neural networks featured.** Physics of Fluids, 2023. [paper](https://pubs.aip.org/aip/pof/article/35/12/121703/2925751)
 
    *Saykat Kumar Biswas and N. K. Anand.*
+
+1. **Real-time prediction of gas flow dynamics in diesel engines using a deep neural operator framework.**  Applied Intelligence, 2023. [paper](https://link.springer.com/article/10.1007/s10489-023-05178-z)
+
+   *Varun Kumar, Somdatta Goswami, Daniel Smith, and George Em Karniadakis.*
+
+1. **Semi-analytic physics informed neural network for convection-dominated boundary layer problems in 2D.** arXiv, 2023. [paper](https://arxiv.org/abs/2312.03295)
+
+   *Gungmin Gie, Youngjoon Hong, Chang-Yeol Jung, and Dongseok Lee.*
 
 ### [Cybernetics](#content)
 1. **Machine learning accelerated PDE backstepping observers.** arXiv, 2022. [paper](https://arxiv.org/abs/2211.15044)
