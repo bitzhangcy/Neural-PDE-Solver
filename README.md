@@ -2620,6 +2620,10 @@ Contributed by Chunyang Zhang.
 
    *Raphaël Pestourie, Youssef Mroueh, Chris Rackauckas, Payel Das, and Steven G. Johnson .*
 
+1. **Better neural PDE solvers through data-free mesh movers.** arXiv, 2023. [paper](https://arxiv.org/abs/2312.05583)
+
+   *Peiyan Hu, Yue Wang, and Zhiming Ma.*
+
 ### [AutoML](#content)
 1. **Auto-PINN: Understanding and optimizing physics-informed neural architecture.** arXiv, 2022. [paper](https://arxiv.org/abs/2110.13361)
 
@@ -2742,6 +2746,10 @@ Contributed by Chunyang Zhang.
 1. **Data-driven autoencoder numerical solver with uncertainty quantification for fast physical simulations.** arXiv, 2023. [paper](https://arxiv.org/abs/2312.01021)
 
    *Christophe Bonneville, Youngsoo Choi, Debojyoti Ghosh, and Jonathan L. Belof.*
+
+1. **Randomized physics-informed machine learning for uncertainty quantification in high-dimensional inverse problems.** arXiv, 2023. [paper](https://arxiv.org/abs/2312.06177)
+
+   *Yifei Zong, David Barajas-Solano, and Alexandre M. Tartakovsky.*
 
 ### [Generative Model](#content)
 1. **A framework for data-driven solution and parameter estimation of PDEs using conditional generative adversarial networks.** NCS, 2021. [paper](https://www.nature.com/articles/s43588-021-00171-3)
