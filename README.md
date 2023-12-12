@@ -1252,6 +1252,10 @@ Contributed by Chunyang Zhang.
 
    *Yiheng Du, Nithin Chalapathi, and Aditi S. Krishnapriyan.*
 
+1. **A nonlinear-manifold reduced-order model and operator learning for partial differential equations with sharp solution gradients.** Computer Methods in Applied Mechanics and Engineering, 2023. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0045782523008071)
+
+   *Peiyi Chen, Tianchen Hu, and Johann Guilleminot.*
+
 ### [Machine Learning](#content)
 1. **Machine learning–accelerated computational fluid dynamics.** PNAS, 2021. [paper](https://www.pnas.org/doi/10.1073/pnas.2101784118)
 
