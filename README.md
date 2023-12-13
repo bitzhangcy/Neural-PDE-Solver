@@ -3498,6 +3498,10 @@ Contributed by Chunyang Zhang.
 
    *Gungmin Gie, Youngjoon Hong, Chang-Yeol Jung, and Dongseok Lee.*
 
+1. **The improved backward compatible physics-informed neural networks for reducing error accumulation and applications in data-driven higher-order rogue waves.** arXiv, 2023. [paper](https://arxiv.org/abs/2312.06715)
+
+   *Shuning Lin and Yong Chen.*
+
 ### [Cybernetics](#content)
 1. **Machine learning accelerated PDE backstepping observers.** arXiv, 2022. [paper](https://arxiv.org/abs/2211.15044)
 
