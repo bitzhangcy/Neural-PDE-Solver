@@ -536,8 +536,6 @@ Contributed by Chunyang Zhang.
 
    *Samuel Burbulla.*
 
-1. **Bias-variance trade-off in physics-informed neural networks with randomized smoothing for high-dimensional PDEs.** arXiv, 2023. [paper](https://arxiv.org/abs/2311.15283)
-
    *Zheyuan Hu, Zhouhao Yang, Yezhen Wang, George Em Karniadakis, and Kenji Kawaguchi.*
 
 1. **Neuro-PINN: A hybrid framework for efficient nonlinear projection equation solutions.** The International Journal for Numerical Methods in Engineering, 2023. [paper](https://onlinelibrary.wiley.com/doi/abs/10.1002/nme.7377)
@@ -548,9 +546,9 @@ Contributed by Chunyang Zhang.
 
    *Elsa Cardoso-Bihlo and Alex Bihlo.*
 
-1. **Bias-variance trade-off in physics-informed neural networks with randomized smoothing for high-dimensional PDEs.** arXiv, 2023. [paper](https://arxiv.org/abs/2311.15283)
+1. **Semi-analytic PINN methods for boundary layer problems in a rectangular domain.** arXiv, 2023. [paper](https://arxiv.org/abs/2312.06278)
 
-   *Zheyuan Hu, Zhouhao Yang, Yezhen Wang, George Em Karniadakis, and Kenji Kawaguchi.*
+   *Gungmin Gie, Youngjoon Hong, Chang-Yeol Jung, and Tselmuun Munkhjin.*
 
 ### [DeepONet](#content)
 1. **Learning nonlinear operators via DeepONet based on the universal approximation theorem of operators.** NMI, 2021. [paper](https://www.nature.com/articles/s42256-021-00302-5)
@@ -1692,7 +1690,11 @@ Contributed by Chunyang Zhang.
 
 1. **PROSE: Predicting operators and symbolic expressions using multimodal transformers.** arXiv, 2023. [paper](https://arxiv.org/abs/2309.16816)
 
-   *Yuxuan Liu, Zecheng Zhang, and Hayden Schaeffer∗.*
+   *Yuxuan Liu, Zecheng Zhang, and Hayden Schaeffer.*
+
+1. **Ai-Aristotle: A physics-informed framework for systems biology gray-box identification.** arXiv, 2023. [paper](https://arxiv.org/abs/2310.01433)
+
+   *Nazanin Ahmadi Daryakenari, Mario De Florio, Khemraj Shukla, and George Em Karniadakis.*
 
 ### [Inverse Design](#content)
 1. **DPM: Physics-informed Karhunen-Loéve and neural network approximations for solving inverse differential equation problems.** AAAI, 2021. [paper](https://ojs.aaai.org/index.php/AAAI/article/view/16992/16799)
@@ -2184,6 +2186,10 @@ Contributed by Chunyang Zhang.
 1. **Bias-variance trade-off in physics-informed neural networks with randomized smoothing for high-dimensional PDEs.** arXiv, 2023. [paper](https://arxiv.org/abs/2311.15283)
 
    *Zheyuan Hu, Zhouhao Yang, Yezhen Wang, George Em Karniadakis, and Kenji Kawaguchi.*
+
+1. **From plateaus to progress: Unveiling training dynamics of PINNs.** NIPS, 2023. [paper](https://ml4physicalsciences.github.io/2023/files/NeurIPS_ML4PS_2023_187.pdf)
+
+   *Rahil Pandya, Panos Parpas, and Daniel Lengyel.*
 
 ### [Domain Adaptation](#content)
 1. **Meta-auto-decoder for solving parametric partial differential equations.** NIPS, 2022. [paper](https://openreview.net/pdf?id=PwlW5Jri1Xt) 
@@ -3502,6 +3508,14 @@ Contributed by Chunyang Zhang.
 
    *Shuning Lin and Yong Chen.*
 
+1. **Learning characteristic parameters and dynamics of centrifugal pumps under multi-phase flow using physics-informed neural networks.** arXiv, 2023. [paper](https://arxiv.org/abs/2310.03001)
+
+   *Felipe de Castro Teixeira Carvalho, Kamaljyoti Nath, Alberto Luiz Serpa, and George Em Karniadakis.*
+
+1. **Learning characteristic parameters and dynamics of centrifugal pumps under multi-phase flow using physics-informed neural networks.** NIPS, 2023. [paper](https://ml4physicalsciences.github.io/2023/files/NeurIPS_ML4PS_2023_66.pdf)
+
+   *Seung Whan Chung, Youngsoo Choi, Pratanu Roy, Thomas Moore, Thomas Roy, Tiras Lin, and Sarah E. Baker.*
+
 ### [Cybernetics](#content)
 1. **Machine learning accelerated PDE backstepping observers.** arXiv, 2022. [paper](https://arxiv.org/abs/2211.15044)
 
@@ -3626,6 +3640,10 @@ Contributed by Chunyang Zhang.
 1. **Leveraging Hamilton-Jacobi PDEs with time-dependent Hamiltonians for continual scientific machine learning.** L4DC, 2023. [paper](https://arxiv.org/abs/2311.07790)
 
    *Paula Chen, Tingwei Meng, Zongren Zou, Jérôme Darbon, and George Em Karniadakis.*
+
+1. **Physics-informed neural network Lyapunov functions: PDE characterization, learning, and verification.** arXiv, 2023. [paper](https://arxiv.org/abs/2312.09131)
+
+   *Jun Liu, Yiming Meng, Maxwell Fitzsimmons, and Ruikun Zhou.*
 
 ### [Climate](#content)
 1. **FourCastNet: A global data-driven high-resolution weather model using adaptive Fourier neural operators.** arXiv, 2022. [paper](https://arxiv.org/abs/2202.11214)
@@ -3817,6 +3835,14 @@ Contributed by Chunyang Zhang.
 
    *Xingwen Zhu, Xiaozhe Hu, and Pengtao Sun.*
 
+1. **Rethinking materials simulations: Blending direct numerical simulations with neural operators.** arXiv, 2023. [paper](https://arxiv.org/abs/2312.05410)
+
+   *Vivek Oommen, Khemraj Shukla, Saaketh Desai, Remi Dingreville, and George Em Karniadakis.*
+
+1. **A conservative hybrid physics-informed neural network method for Maxwell-Ampère-Nernst-Planck equations.** arXiv, 2023. [paper](https://arxiv.org/abs/2312.05891)
+
+   *Cheng Chang, Zhouping Xin, and Tieyong Zeng.*
+
 ### [Reconstruction](#content)
 1. **Occupancy networks: Learning 3D reconstruction in function space.** CVPR, 2019. [paper](https://openaccess.thecvf.com/content_CVPR_2019/papers/Mescheder_Occupancy_Networks_Learning_3D_Reconstruction_in_Function_Space_CVPR_2019_paper.pdf)
 
@@ -3847,9 +3873,13 @@ Contributed by Chunyang Zhang.
 
    *Owen M Dugan, Peter Y. Lu, Rumen Dangovski, Di Luo, and Marin Soljacic.*
 
-1. **Physics-Informed Quantum Machine Learning: Solving nonlinear differential equations in latent spaces without costly grid evaluations.** arXiv, 2023. [paper](https://arxiv.org/abs/2308.01827)
+1. **Physics-informed quantum machine learning: Solving nonlinear differential equations in latent spaces without costly grid evaluations.** arXiv, 2023. [paper](https://arxiv.org/abs/2308.01827)
 
    *Annie E. Paine, Vincent E. Elfving, and Oleksandr Kyriienko.*
+
+1. **Physics-informed quantum machine learning for solving partial differential equations.** arXiv, 2023. [paper](https://arxiv.org/abs/2312.09215)
+
+   *Abhishek Setty, Rasul Abdusalamov, and Mikhail Itskov.*
 
 ### [Game Theory](#content)
 1. **Approximating discontinuous Nash equilibria values of two-player general-sum differential games.** arXiv, 2022. [paper](https://arxiv.org/abs/2207.01773)
