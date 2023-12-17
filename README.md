@@ -728,6 +728,10 @@ Contributed by Chunyang Zhang.
 
    *Tanya Marwah, Ashwini Pokle, J Zico Kolter, Zachary Chase Lipton, Jianfeng Lu, and Andrej Risteski.*
 
+1. **A born fourier neural operator for solving Poisson’s equation with limited data and arbitrary domain deformation.** TAP, 2023. [paper](https://ieeexplore.ieee.org/abstract/document/10352090)
+
+   *Zheng Zong, Yusong Wang, Siyuan He, and Zhun Wei.*
+
 ### [Graph Network](#content)
 1. **Message passing neural PDE solvers.** ICLR, 2022. [paper](https://openreview.net/forum?id=vSix3HPYKSU)
 
@@ -2190,6 +2194,10 @@ Contributed by Chunyang Zhang.
 1. **From plateaus to progress: Unveiling training dynamics of PINNs.** NIPS, 2023. [paper](https://ml4physicalsciences.github.io/2023/files/NeurIPS_ML4PS_2023_187.pdf)
 
    *Rahil Pandya, Panos Parpas, and Daniel Lengyel.*
+
+1. **Rigorous a posteriori error bounds for PDE-defined PINNs.** TNNLS, 2023. [paper](https://ieeexplore.ieee.org/abstract/document/10337737)
+
+   *Birgit Hillebrecht and Benjamin Unger.*
 
 ### [Domain Adaptation](#content)
 1. **Meta-auto-decoder for solving parametric partial differential equations.** NIPS, 2022. [paper](https://openreview.net/pdf?id=PwlW5Jri1Xt) 
