@@ -3524,6 +3524,10 @@ Contributed by Chunyang Zhang.
 
    *Seung Whan Chung, Youngsoo Choi, Pratanu Roy, Thomas Moore, Thomas Roy, Tiras Lin, and Sarah E. Baker.*
 
+1. **On the locality of local neural operator in learning fluid dynamics.** arXiv, 2023. [paper](https://arxiv.org/abs/2312.09820)
+
+   *Ximeng Ye, Hongyu Li, Jingjie Huang, and Guoliang Qin.*
+
 ### [Cybernetics](#content)
 1. **Machine learning accelerated PDE backstepping observers.** arXiv, 2022. [paper](https://arxiv.org/abs/2211.15044)
 
@@ -3652,6 +3656,10 @@ Contributed by Chunyang Zhang.
 1. **Physics-informed neural network Lyapunov functions: PDE characterization, learning, and verification.** arXiv, 2023. [paper](https://arxiv.org/abs/2312.09131)
 
    *Jun Liu, Yiming Meng, Maxwell Fitzsimmons, and Ruikun Zhou.*
+
+1. **Taming waves: A physically-interpretable machine learning framework for realizable control of wave dynamics.** arXiv, 2023. [paper](https://arxiv.org/abs/2312.09460)
+
+   *Tristan Shah, Feruza Amirkulova, and Stas Tiomkin.*
 
 ### [Climate](#content)
 1. **FourCastNet: A global data-driven high-resolution weather model using adaptive Fourier neural operators.** arXiv, 2022. [paper](https://arxiv.org/abs/2202.11214)
