@@ -197,6 +197,10 @@ Contributed by Chunyang Zhang.
 
    *Kamyar Azzizadenesheli, Nikola Kovachki, Zongyi Li, Miguel Liu-Schiaffini, Jean Kossaifi, and Anima Anandkumar.* 
 
+1. **Machine learning and domain decomposition methods -- A survey.** arXiv, 2023. [paper](https://arxiv.org/abs/2312.14050)
+
+   *Axel Klawonn, Martin Lanser, and Janine Weber.* 
+
 
 ## [Model](#content) 
 ### [PINN](#content)
@@ -1065,6 +1069,10 @@ Contributed by Chunyang Zhang.
 
    *Nicola Rares Franco, Daniel Fraulin, Andrea Manzoni, and Paolo Zunino.*
 
+1. **Modeling unknown stochastic dynamical system via Autoencoder.** arXiv, 2023. [paper](https://arxiv.org/abs/2312.10001)
+
+   *Zhongshu Xu, Yuan Chen, Qifan Chen, and Dongbin Xiu.*
+
 ### [Neural Operator](#content)
 1. **Multiwavelet-based operator learning for differential equations.** NIPS, 2021. [paper](https://openreview.net/forum?id=LZDiWaC9CGL)
 
@@ -1257,6 +1265,10 @@ Contributed by Chunyang Zhang.
 1. **A nonlinear-manifold reduced-order model and operator learning for partial differential equations with sharp solution gradients.** Computer Methods in Applied Mechanics and Engineering, 2023. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0045782523008071)
 
    *Peiyi Chen, Tianchen Hu, and Johann Guilleminot.*
+
+1. **Operator-learning-inspired modeling of neural ordinary differential equations.** arXiv, 2023. [paper](https://arxiv.org/abs/2312.10274)
+
+   *Woojin Cho, Seunghyeon Cho, Hyundong Jin, Jinsung Jeon, Kookjin Lee, Sanghyun Hong, Dongeun Lee, Jonghyun Choi, and Noseong Park.*
 
 ### [Machine Learning](#content)
 1. **Machine learning–accelerated computational fluid dynamics.** PNAS, 2021. [paper](https://www.pnas.org/doi/10.1073/pnas.2101784118)
@@ -1696,7 +1708,7 @@ Contributed by Chunyang Zhang.
 
    *Yuxuan Liu, Zecheng Zhang, and Hayden Schaeffer.*
 
-1. **Ai-Aristotle: A physics-informed framework for systems biology gray-box identification.** arXiv, 2023. [paper](https://arxiv.org/abs/2310.01433)
+1. **AI-Aristotle: A physics-informed framework for systems biology gray-box identification.** arXiv, 2023. [paper](https://arxiv.org/abs/2310.01433)
 
    *Nazanin Ahmadi Daryakenari, Mario De Florio, Khemraj Shukla, and George Em Karniadakis.*
 
@@ -2198,6 +2210,10 @@ Contributed by Chunyang Zhang.
 1. **Rigorous a posteriori error bounds for PDE-defined PINNs.** TNNLS, 2023. [paper](https://ieeexplore.ieee.org/abstract/document/10337737)
 
    *Birgit Hillebrecht and Benjamin Unger.*
+
+1. **An integrated framework for accelerating reactive flow simulation using GPU and machine learning models.** arXiv, 2023. [paper](https://arxiv.org/abs/2312.13513)
+
+   *Runze Mao, Yingrui Wang, Min Zhang, Han Li, Jiayang Xu, Xinyu Dong, Yan Zhang, and Zhi X. Chen.*
 
 ### [Domain Adaptation](#content)
 1. **Meta-auto-decoder for solving parametric partial differential equations.** NIPS, 2022. [paper](https://openreview.net/pdf?id=PwlW5Jri1Xt) 
@@ -2874,6 +2890,10 @@ Contributed by Chunyang Zhang.
 
    *Leo Zhiyuan Zhao, Xueying Ding, and B. Aditya Prakash.*
 
+1. **CoCoGen: Physically-consistent and conditioned score-based generative models for forward and inverse problems.** arXiv, 2023. [paper](https://arxiv.org/abs/2312.10527)
+
+   *Christian Jacobsen, Yilin Zhuang, and Karthik Duraisamy.*
+
 ### [Transformer](#content)
 1. **Learning operators with coupled attention.** JMLR, 2022. [paper](https://www.jmlr.org/papers/v23/21-1521.html) 
 
@@ -2950,6 +2970,10 @@ Contributed by Chunyang Zhang.
 1. **Attention-enhanced neural differential equations for physics-informed deep learning of ion transport.** NIPS, 2023. [paper](https://arxiv.org/abs/2312.02871) 
 
    *Danyal Rehman and John H. Lienhard.*
+
+1. **Inducing point operator Transformer: A flexible and scalable architecture for solving PDEs.** arXiv, 2023. [paper](https://arxiv.org/abs/2312.10975) 
+
+   *Seungjun Lee and Taeil Oh.*
 
 ### [Latent Space](#content)
 1. **Multiscale simulations of complex systems by learning their effective dynamics.** NMI, 2022. [paper](https://www.nature.com/articles/s42256-022-00464-w)
@@ -3231,6 +3255,10 @@ Contributed by Chunyang Zhang.
 
    *Yongsheng Chen, Wei Guo, and Xinghui Zhong.*
 
+1. **Neural operator-based super-fidelity: A warm-start approach for accelerating steady-state simulations.** arXiv, 2023. [paper](https://arxiv.org/abs/2312.11842)
+
+   *Xuhui Zhou, Jiequn Han, Muhammad I. Zafar, Christopher J. Roy, Heng Xiao.*
+
 ### [Multi Grid](#content)
 1. **Learning to optimize multigrid PDE solvers.** ICML, 2019. [paper](http://proceedings.mlr.press/v97/greenfeld19a.html)
 
@@ -3247,6 +3275,11 @@ Contributed by Chunyang Zhang.
 1. **MgNO: Efficient parameterization of linear operators via multigrid.** arXiv, 2023. [paper](https://arxiv.org/abs/2310.19809)
 
    *Juncai He, Xinliang Liu, and Jinchao Xu.*
+
+1. **MGCNN: A learnable multigrid solver for linear PDEs on structured grids
+   .** arXiv, 2023. [paper](https://arxiv.org/abs/2312.11093)
+
+   *Yan Xie, Minrui Lv, and Chensong Zhang.*
 
 
 ## [Applications](#content)
@@ -3528,6 +3561,10 @@ Contributed by Chunyang Zhang.
 
    *Ximeng Ye, Hongyu Li, Jingjie Huang, and Guoliang Qin.*
 
+1. **Physics-informed surrogate modeling for supporting climate resilience at groundwater contamination sites.** Computers & Geosciences, 2023. [paper](https://www.sciencedirect.com/science/article/pii/S0098300423002121)
+
+   *Aurelien Meray, Lijing Wang, Takuya Kurihana, Ilijana Mastilovic, Satyarth Praveen, Zexuan Xu, Milad Memarzadeh, Alexander Lavin, and Haruko Wainwright.*
+
 ### [Cybernetics](#content)
 1. **Machine learning accelerated PDE backstepping observers.** arXiv, 2022. [paper](https://arxiv.org/abs/2211.15044)
 
@@ -3661,6 +3698,10 @@ Contributed by Chunyang Zhang.
 
    *Tristan Shah, Feruza Amirkulova, and Stas Tiomkin.*
 
+1. **Neural operators for boundary stabilization of stop-and-go traffic.** arXiv, 2023. [paper](https://arxiv.org/abs/2312.10374)
+
+   *Yihuai Zhang, Ruiguo Zhong, and Huan Yu.*
+
 ### [Climate](#content)
 1. **FourCastNet: A global data-driven high-resolution weather model using adaptive Fourier neural operators.** arXiv, 2022. [paper](https://arxiv.org/abs/2202.11214)
 
@@ -3792,6 +3833,10 @@ Contributed by Chunyang Zhang.
 1. **Grad-Shafranov equilibria via data-free physics informed neural networks.** arXiv, 2023. [paper](https://arxiv.org/abs/2311.13491)
 
    *Byoungchan Jang, Alan A. Kaptanoglu, Rahul Gaur, Shaw Pan, Matt Landreman, and William Dorland.*
+
+1. **Physics-informed deep learning of rate-and-state fault friction.** arXiv, 2023. [paper](https://arxiv.org/abs/2312.09403)
+
+   *Cody Rucker and Brittany A. Erickson.*
 
 ### [Image](#content)
 1. **Learning to diffuse: A new perspective to design PDEs for visual analysis.** TPAMI, 2016. [paper](https://ieeexplore.ieee.org/document/7393839)
