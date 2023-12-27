@@ -111,9 +111,10 @@ Contributed by Chunyang Zhang.
 </tr> 
 <tr>
     <td>&ensp;<a href="#manufacturing">4.13 Manufacturing</a></td>
-    <td>&ensp;<a href="#"></a></td>
+    <td>&ensp;<a href="#industry">4.14 Industry</a></td>
 </tr> 
 </table>
+
 
 
 ## [Survey Papers](#content)
@@ -3553,17 +3554,13 @@ Contributed by Chunyang Zhang.
 
    *Felipe de Castro Teixeira Carvalho, Kamaljyoti Nath, Alberto Luiz Serpa, and George Em Karniadakis.*
 
-1. **Learning characteristic parameters and dynamics of centrifugal pumps under multi-phase flow using physics-informed neural networks.** NIPS, 2023. [paper](https://ml4physicalsciences.github.io/2023/files/NeurIPS_ML4PS_2023_66.pdf)
-
-   *Seung Whan Chung, Youngsoo Choi, Pratanu Roy, Thomas Moore, Thomas Roy, Tiras Lin, and Sarah E. Baker.*
-
 1. **On the locality of local neural operator in learning fluid dynamics.** arXiv, 2023. [paper](https://arxiv.org/abs/2312.09820)
 
    *Ximeng Ye, Hongyu Li, Jingjie Huang, and Guoliang Qin.*
 
-1. **Physics-informed surrogate modeling for supporting climate resilience at groundwater contamination sites.** Computers & Geosciences, 2023. [paper](https://www.sciencedirect.com/science/article/pii/S0098300423002121)
+1. **Multi-viscosity physics-informed neural networks for generating ultra high resolution flow field data.** International Journal of Computational Fluid Dynamics, 2023. [paper](https://www.tandfonline.com/doi/abs/10.1080/10618562.2023.2295286)
 
-   *Aurelien Meray, Lijing Wang, Takuya Kurihana, Ilijana Mastilovic, Satyarth Praveen, Zexuan Xu, Milad Memarzadeh, Alexander Lavin, and Haruko Wainwright.*
+   *Sen Zhang, Xiaowei Guo, Chao Li, Ran Zhao, Canqun Yang, Wei Wang, and Yanxu Zhong.*
 
 ### [Cybernetics](#content)
 1. **Machine learning accelerated PDE backstepping observers.** arXiv, 2022. [paper](https://arxiv.org/abs/2211.15044)
@@ -3838,6 +3835,10 @@ Contributed by Chunyang Zhang.
 
    *Cody Rucker and Brittany A. Erickson.*
 
+1. **Physics-informed neural networks with embedded analytical models: Inverse design of multilayer dielectric-loaded rectangular waveguide devices.** IEEE Transactions on Microwave Theory and Techniques, 2023. [paper](https://ieeexplore.ieee.org/abstract/document/10372139)
+
+   *Yinqing Pan, Ren Wang, and Bingzhong Wang.*
+
 ### [Image](#content)
 1. **Learning to diffuse: A new perspective to design PDEs for visual analysis.** TPAMI, 2016. [paper](https://ieeexplore.ieee.org/document/7393839)
 
@@ -3975,3 +3976,5 @@ Contributed by Chunyang Zhang.
 1. **Towards solving industry-grade surrogate modeling problems using physics informed machine learning.** arXiv, 2023. [paper](https://arxiv.org/abs/2309.03374)
 
    *Saakaar Bhatnagar, Andrew Comerford, and Araz Banaeizadeh.*
+
+### [Industry](#content)
