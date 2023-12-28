@@ -2,6 +2,8 @@
 
 PDE: Partial Differentiable Equation
 
+Neural Operators: Learning nonlinear mappings between function spaces.
+
 Contributed by Chunyang Zhang.
 
 ## [Content](#content)
