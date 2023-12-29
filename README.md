@@ -557,6 +557,10 @@ Contributed by Chunyang Zhang.
 
    *Gungmin Gie, Youngjoon Hong, Chang-Yeol Jung, and Tselmuun Munkhjin.*
 
+1. **Hutchinson trace estimation for high-dimensional and high-order physics-informed neural networks.** arXiv, 2023. [paper](https://arxiv.org/abs/2312.14499)
+
+   *Zheyuan Hu, Zekun Shi, George Em Karniadakis, and Kenji Kawaguchi.*
+
 ### [DeepONet](#content)
 1. **Learning nonlinear operators via DeepONet based on the universal approximation theorem of operators.** NMI, 2021. [paper](https://www.nature.com/articles/s42256-021-00302-5)
 
@@ -3159,6 +3163,10 @@ Contributed by Chunyang Zhang.
 
    *Shamsulhaq Basir and Inanc Senocak.*
 
+1. **Partitioned neural network approximation for partial differential equations enhanced with Lagrange multipliers and localized loss functions.** arXiv, 2023. [paper](https://arxiv.org/abs/2312.14370)
+
+   *Deok-Kyu Jang, Kyungsoo Kim, and Hyea Hyun Kim.*
+
 ### [Active Learning](#content)
 1. **Neural Galerkin scheme with active learning for high-dimensional evolution equations.** arXiv, 2022. [paper](https://arxiv.org/abs/2203.01360)
 
@@ -3386,6 +3394,10 @@ Contributed by Chunyang Zhang.
 1. **Deep neural operators as accurate surrogates for shape optimization.** EAAI, 2023. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0952197623017992)
 
    *Khemraj Shukla, Vivek Oommen, Ahmad Peyvan, Michael Penwarden, Nicholas Plewacki, Luis Bravo, Anindya Ghoshal, Robert M. Kirby, and George Em Karniadakis.*
+
+1. **Accelerating Bayesian optimal experimental design with derivative-informed neural operators.** arXiv, 2023. [paper](https://arxiv.org/abs/2312.14810)
+
+   *Jinwoo Go and Peng Chen.*
 
 ### [Fluid](#content)
 1. **Physics-informed neural networks (PINNs) for fluid mechanics: A review.** Acta Mechanica Sinica, 2021. [paper](https://link.springer.com/article/10.1007/s10409-021-01148-1)
@@ -3700,6 +3712,10 @@ Contributed by Chunyang Zhang.
 1. **Neural operators for boundary stabilization of stop-and-go traffic.** arXiv, 2023. [paper](https://arxiv.org/abs/2312.10374)
 
    *Yihuai Zhang, Ruiguo Zhong, and Huan Yu.*
+
+1. **Neural operator approximations of backstepping kernels for 2×2 hyperbolic pdes.** arXiv, 2023. [paper](https://arxiv.org/abs/2312.16762)
+
+   *Shanshan Wang, Mamadou Diagne, and Miroslav Krstić.*
 
 ### [Climate](#content)
 1. **FourCastNet: A global data-driven high-resolution weather model using adaptive Fourier neural operators.** arXiv, 2022. [paper](https://arxiv.org/abs/2202.11214)
