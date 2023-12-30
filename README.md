@@ -3713,9 +3713,13 @@ Contributed by Chunyang Zhang.
 
    *Yihuai Zhang, Ruiguo Zhong, and Huan Yu.*
 
-1. **Neural operator approximations of backstepping kernels for 2×2 hyperbolic pdes.** arXiv, 2023. [paper](https://arxiv.org/abs/2312.16762)
+1. **Neural operator approximations of backstepping kernels for 2×2 hyperbolic PDEs.** arXiv, 2023. [paper](https://arxiv.org/abs/2312.16762)
 
    *Shanshan Wang, Mamadou Diagne, and Miroslav Krstić.*
+
+1. **Lyapunov-based physics-informed long short-term memory (LSTM) neural network-based adaptive control.** IEEE Control Systems Letters, 2023. [paper](https://ieeexplore.ieee.org/abstract/document/10374213)
+
+   *Rebecca G. Hart, Emily J. Griffis, Omkar Sudhir Patil, and Warren E. Dixon.*
 
 ### [Climate](#content)
 1. **FourCastNet: A global data-driven high-resolution weather model using adaptive Fourier neural operators.** arXiv, 2022. [paper](https://arxiv.org/abs/2202.11214)
@@ -3763,9 +3767,17 @@ Contributed by Chunyang Zhang.
 
    *Huayan Pu, Bo Tan, Jin Yi, Shujin Yuan, Jinglei Zhao, Ruqing Bai, and Jun Luo.*
 
-1. **Mechanical Characterization and Inverse Design of Stochastic Architected Metamaterials Using Neural Operators.** arXiv, 2023. [paper](https://arxiv.org/abs/2311.13812)
+1. **Mechanical characterization and inverse design of stochastic architected metamaterials using neural operators.** arXiv, 2023. [paper](https://arxiv.org/abs/2311.13812)
 
    *Hanxun Jin, Enrui Zhang, Boyu Zhang, Sridhar Krishnaswamy, George Em Karniadakis, and Horacio D. Espinosa.*
+
+1. **Physics-informed neural networks for magnetostatic problems on axisymmetric transformer geometries.** IEEE Journal of Emerging and Selected Topics in Industrial Electronics, 2023. [paper](https://ieeexplore.ieee.org/abstract/document/10373037)
+
+   *Philipp Brendel, Vlad Medvedev, and Andreas Rosskopf.*
+
+1. **Neural born series operator for biomedical ultrasound computed tomography.** arXiv, 2023. [paper](https://arxiv.org/abs/2312.15575)
+
+   *Zhijun Zeng, Yihang Zheng, Youjia Zheng, Yubing Li, Zuoqiang Shi, and He Sun.*
 
 ### [Robotics](#content)
 1. **Hybrid learning of time-series inverse dynamics models for locally isotropic robot motion.** RAL, 2022. [paper](https://ieeexplore.ieee.org/document/9954138)
@@ -3856,6 +3868,10 @@ Contributed by Chunyang Zhang.
 1. **Physics-informed neural networks with embedded analytical models: Inverse design of multilayer dielectric-loaded rectangular waveguide devices.** IEEE Transactions on Microwave Theory and Techniques, 2023. [paper](https://ieeexplore.ieee.org/abstract/document/10372139)
 
    *Yinqing Pan, Ren Wang, and Bingzhong Wang.*
+
+1. **En-DeepONet: An enrichment approach for enhancing the expressivity of neural operators with applications to seismology.**  Computer Methods in Applied Mechanics and Engineering, 2023. [paper](https://www.sciencedirect.com/science/article/pii/S0045782523008046)
+
+   *Ehsan Haghighat, Umair bin Waheed, and George Karniadakis.*
 
 ### [Image](#content)
 1. **Learning to diffuse: A new perspective to design PDEs for visual analysis.** TPAMI, 2016. [paper](https://ieeexplore.ieee.org/document/7393839)
