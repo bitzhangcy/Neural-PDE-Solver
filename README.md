@@ -1277,6 +1277,10 @@ Contributed by Chunyang Zhang.
 
    *Woojin Cho, Seunghyeon Cho, Hyundong Jin, Jinsung Jeon, Kookjin Lee, Sanghyun Hong, Dongeun Lee, Jonghyun Choi, and Noseong Park.*
 
+1. **Operator learning for hyperbolic partial differential equations.** arXiv, 2023. [paper](https://arxiv.org/abs/2312.17489)
+
+   *Christopher Wang and Alex Townsend.*
+
 ### [Machine Learning](#content)
 1. **Machine learning–accelerated computational fluid dynamics.** PNAS, 2021. [paper](https://www.pnas.org/doi/10.1073/pnas.2101784118)
 
