@@ -3910,6 +3910,10 @@ Contributed by Chunyang Zhang.
 
    *Ray Zirui Zhang, Ivan Ezhov, Michal Balcerak, Andy Zhu, Benedikt Wiestler, Bjoern Menze, and John Lowengrub.*
 
+1. **Real-time FJ/MAC PDE solvers via tensorized, back-propagation-free optical PINN training.** arXiv, 2024. [paper](https://arxiv.org/abs/2401.00413)
+
+   *Yequan Zhao, Xian Xian, Xinling Yu, Ziyue Liu, Zhixiong Chen, Geza Kurczveil, Raymond G. Beausoleil, and Zheng Zhang.*
+
 ### [Molecules](#content)
 1. **Symmetry-informed geometric representation for molecules, proteins, and crystalline materials.** arXiv, 2023. [paper](https://arxiv.org/abs/2306.09375)
 
