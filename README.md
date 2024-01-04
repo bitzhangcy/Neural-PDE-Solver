@@ -743,6 +743,10 @@ Contributed by Chunyang Zhang.
 
    *Zheng Zong, Yusong Wang, Siyuan He, and Zhun Wei.*
 
+1. **Approximating numerical flux by Fourier neural operators for the hyperbolic conservation laws.** arXiv, 2024. [paper](https://arxiv.org/abs/2401.01783)
+
+   *Taeyoung Kim and Myungjoo Sang.*
+
 ### [Graph Network](#content)
 1. **Message passing neural PDE solvers.** ICLR, 2022. [paper](https://openreview.net/forum?id=vSix3HPYKSU)
 
@@ -3782,6 +3786,10 @@ Contributed by Chunyang Zhang.
 1. **Neural born series operator for biomedical ultrasound computed tomography.** arXiv, 2023. [paper](https://arxiv.org/abs/2312.15575)
 
    *Zhijun Zeng, Yihang Zheng, Youjia Zheng, Yubing Li, Zuoqiang Shi, and He Sun.*
+
+1. **Learning thermoacoustic interactions in combustors using a physics-informed neural network.** arXiv, 2024. [paper](https://arxiv.org/abs/2401.00061)
+
+   *Sathesh Mariappan, Kamaljyoti Nath, and George Em Karniadakis.*
 
 ### [Robotics](#content)
 1. **Hybrid learning of time-series inverse dynamics models for locally isotropic robot motion.** RAL, 2022. [paper](https://ieeexplore.ieee.org/document/9954138)
