@@ -1798,7 +1798,7 @@ Contributed by Chunyang Zhang.
 
 1. **Enforcing continuous symmetries in physics-informed neural network for solving forward and inverse problems of partial differential equations.** JCP, 2023. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0021999123005107)
 
-   *Zhiyong Zhang , Hui Zhang , Lisheng Zhang, and Leilei Guo.*
+   *Zhiyong Zhang Hui Zhang, Lisheng Zhang, and Leilei Guo.*
 
 1. **Learning prediction function of prior measures for statistical inverse problems of partial differential equations.** arXiv, 2023. [paper](https://arxiv.org/abs/2310.12436)
 
@@ -2168,7 +2168,7 @@ Contributed by Chunyang Zhang.
 
 1. **A discretization-invariant extension and analysis of some deep operator networks.** arXiv, 2023. [paper](https://arxiv.org/abs/2307.09738)
 
-   *Zecheng Zhang, Wing Tat Leung , and Hayden Schaeffer.*
+   *Zecheng Zhang, Wing Tat Leung, and Hayden Schaeffer.*
 
 1. **Modeling accurate long rollouts with temporal neural PDE solvers.** ICML, 2023. [paper](https://openreview.net/pdf?id=EGTY6V76b3)
 
@@ -3980,7 +3980,7 @@ Contributed by Chunyang Zhang.
 
 1. **TGM-Nets: A deep learning framework for enhanced forecasting of tumor growth by integrating imaging and modeling.** EAAI, 2023. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0952197623010515)
 
-   *Qijing Chen, Qi Ye, Weiqi Zhang, He Li , and Xiaoning Zheng.*
+   *Qijing Chen, Qi Ye, Weiqi Zhang, He Li, and Xiaoning Zheng.*
 
 1. **The use of physics-informed neural network approach to image restoration via nonlinear PDE tools.** Computers & Mathematics with Applications, 2023. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0898122123004431)
 
