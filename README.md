@@ -4039,6 +4039,10 @@ Contributed by Chunyang Zhang.
 
    *Ivonne Sgura, Luca Mainetti, Francesco Negro, Maria Grazia Quarta, and Benedetto Bozzini.*
 
+1. **AI-aided geometric design of anti-infection catheters.** Science Advances, 2023. [paper](https://www.science.org/doi/10.1126/sciadv.adj1741)
+
+   *Tingtao Zhou, Xuan Wan, Daniel Zhengyu Huang, Zongyi Li, Zhiwei Peng, Anima Anandkumar, John F. Brady, Paul W. Sternberg, and Chiara Daraio.*
+
 ### [Reconstruction](#content)
 1. **Occupancy networks: Learning 3D reconstruction in function space.** CVPR, 2019. [paper](https://openaccess.thecvf.com/content_CVPR_2019/papers/Mescheder_Occupancy_Networks_Learning_3D_Reconstruction_in_Function_Space_CVPR_2019_paper.pdf)
 
