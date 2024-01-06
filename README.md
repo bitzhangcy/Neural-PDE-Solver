@@ -2212,6 +2212,10 @@ Contributed by Chunyang Zhang.
 
    *Lukas Gonon.*
 
+1. **Generalizable neural physics solvers by baldwinian evolution.** arXiv, 2023. [paper](https://arxiv.org/abs/2312.03243)
+
+   *Jian Cheng Wong, Chin Chun Ooi, Abhishek Gupta, Pao-Hsiung Chiu, Joshua Shao Zheng Low, My Ha Dao, and Yew-Soon Ong.*
+
 ### [Domain Adaptation](#content)
 1. **Meta-auto-decoder for solving parametric partial differential equations.** NIPS, 2022. [paper](https://openreview.net/pdf?id=PwlW5Jri1Xt) 
 
@@ -3978,6 +3982,10 @@ Contributed by Chunyang Zhang.
 
    *Bian Li, Hanchen Wang, Shihang Feng, Xiu Yang, and Youzuo Lin.*
 
+1. **Calculating quasi-normal modes of Schwarzschild black holes with physics informed neural networks.** arXiv, 2024. [paper](https://arxiv.org/abs/2401.01440)
+
+   *Nirmal Patel, Aycin Aykutalp, and Pablo Laguna.*
+
 ### [Image](#content)
 1. **Learning to diffuse: A new perspective to design PDEs for visual analysis.** TPAMI, 2016. [paper](https://ieeexplore.ieee.org/document/7393839)
 
@@ -4114,6 +4122,10 @@ Contributed by Chunyang Zhang.
 1. **Value approximation for two-player general-sum differential games with state constraints.** arXiv, 2023. [paper](https://arxiv.org/abs/2311.16520)
 
    *Lei Zhang, Mukesh Ghimire, Wenlong Zhang, Zhe Xu, and Yi Ren.*
+
+1. **Pontryagin neural operator for solving parametric general-sum differential games.** arXiv, 2024. [paper](https://arxiv.org/abs/2401.01502)
+
+   *Lei Zhang, Mukesh Ghimire, Zhe Xu, Wenlong Zhang, and Yi Ren.*
 
 ### [Industry](#content)
 1. **Physics-aware machine learning surrogates for real-time manufacturing digital twin.** Manufacturing Letters, 2022. [paper](https://www.sciencedirect.com/science/article/abs/pii/S2213846322001845)
