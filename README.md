@@ -3673,6 +3673,10 @@ Contributed by Chunyang Zhang.
 
    *Seid Koric and Diab W. Abueidda.*
 
+1. **Energy-preserving reduced operator inference for efficient design and control.** arXiv, 2024. [paper](https://arxiv.org/abs/2401.02889)
+
+   *Tomoki Koike and Elizabeth Qian.*
+
 ### [Cybernetics](#content)
 1. **Machine learning accelerated PDE backstepping observers.** arXiv, 2022. [paper](https://arxiv.org/abs/2211.15044)
 
@@ -3817,6 +3821,10 @@ Contributed by Chunyang Zhang.
 1. **Lyapunov-based physics-informed long short-term memory (LSTM) neural network-based adaptive control.** IEEE Control Systems Letters, 2023. [paper](https://ieeexplore.ieee.org/abstract/document/10374213)
 
    *Rebecca G. Hart, Emily J. Griffis, Omkar Sudhir Patil, and Warren E. Dixon.*
+
+1. **Gain scheduling with a neural operator for a transport PDE with nonlinear recirculation.** arXiv, 2024. [paper](https://arxiv.org/abs/2401.02511)
+
+   *Maxence Lamarque, Luke Bhan, Rafael Vazquez, and Miroslav Krstic.*
 
 ### [Climate](#content)
 1. **FourCastNet: A global data-driven high-resolution weather model using adaptive Fourier neural operators.** arXiv, 2022. [paper](https://arxiv.org/abs/2202.11214)
