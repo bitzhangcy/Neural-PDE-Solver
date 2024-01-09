@@ -1494,7 +1494,11 @@ Contributed by Chunyang Zhang.
 
 1. **Deep learning approximations for non-local nonlinear PDEs with Neumann boundary conditions.** Partial Differential Equations and Applications, 2023. [paper](https://link.springer.com/article/10.1007/s42985-023-00244-0)
 
-   *Victor Boussange, Sebastian Becker, Arnulf Jentzen, Benno Kuckuck, and Loïc Pellissier .*
+   *Victor Boussange, Sebastian Becker, Arnulf Jentzen, Benno Kuckuck, and Loïc Pellissier.*
+
+1. **Neural networks with kernel-weighted corrective residuals for solving partial differential equations.** arXiv, 2023. [paper](https://arxiv.org/abs/2401.03492)
+
+   *Carlos Mora, Amin Yousefpour, Shirin Hosseinmardi, and Ramin Bostanabad.*
 
 ### [Identification](#content)
 1. **Data-driven discovery of partial differential equations.** SA, 2017. [paper](https://arxiv.org/abs/1910.11710)
