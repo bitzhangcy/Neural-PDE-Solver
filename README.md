@@ -640,6 +640,10 @@ Contributed by Chunyang Zhang.
 
    *Katarzyna Michałowska, Somdatta Goswami, George Em Karniadakis, and Signe Riemer-Sørensen.*
 
+1. **DeepOnet based preconditioning strategies for solving parametric linear systems of equations.** arXiv, 2024. [paper](https://arxiv.org/abs/2401.02016)
+
+   *Alena Kopaničáková andGeorge Em Karniadakis.*
+
 ### [Fourier Operator](#content)
 1. **Fourier neural operator for parametric partial differential equations.** ICLR, 2021. [paper](https://openreview.net/forum?id=c8P9NQVtmnO)
 
@@ -2219,6 +2223,10 @@ Contributed by Chunyang Zhang.
 1. **Generalizable neural physics solvers by baldwinian evolution.** arXiv, 2023. [paper](https://arxiv.org/abs/2312.03243)
 
    *Jian Cheng Wong, Chin Chun Ooi, Abhishek Gupta, Pao-Hsiung Chiu, Joshua Shao Zheng Low, My Ha Dao, and Yew-Soon Ong.*
+
+1. **Mind the gap: Constraining physics-informed neural operators to improve the quality of auto-regressive predictions.** AIAA, 2024. [paper](https://arc.aiaa.org/doi/abs/10.2514/6.2024-0772)
+
+   *Sean F. Current, Vilas J. Shinde, Saket Gurukar, Datta V. Gaitonde, and Srinivasan Parthasarathy.*
 
 ### [Domain Adaptation](#content)
 1. **Meta-auto-decoder for solving parametric partial differential equations.** NIPS, 2022. [paper](https://openreview.net/pdf?id=PwlW5Jri1Xt) 
@@ -3830,6 +3838,10 @@ Contributed by Chunyang Zhang.
 
    *Maxence Lamarque, Luke Bhan, Rafael Vazquez, and Miroslav Krstic.*
 
+1. **Physics-informed deep learning approach to solve optimal control problem.** AIAA, 2024. [paper](https://arc.aiaa.org/doi/abs/10.2514/6.2024-0945)
+
+   *Kyung-Mi Na and Chang-Hun Lee.*
+
 ### [Climate](#content)
 1. **FourCastNet: A global data-driven high-resolution weather model using adaptive Fourier neural operators.** arXiv, 2022. [paper](https://arxiv.org/abs/2202.11214)
 
@@ -3895,6 +3907,10 @@ Contributed by Chunyang Zhang.
 1. **Learning thermoacoustic interactions in combustors using a physics-informed neural network.** arXiv, 2024. [paper](https://arxiv.org/abs/2401.00061)
 
    *Sathesh Mariappan, Kamaljyoti Nath, and George Em Karniadakis.*
+
+1. **Flight dynamic uncertainty quantification modeling using physics-informed neural networks.** AIAA, 2024. [paper](https://arc.aiaa.org/doi/abs/10.2514/6.2024-0575)
+
+   *Nathaniel Michek, Piyush Mehta, and Wade Huebsch.*
 
 ### [Robotics](#content)
 1. **Hybrid learning of time-series inverse dynamics models for locally isotropic robot motion.** RAL, 2022. [paper](https://ieeexplore.ieee.org/document/9954138)
