@@ -3867,6 +3867,10 @@ Contributed by Chunyang Zhang.
 
    *Chao Song, Tianshuo Zhao, Umair bin Waheed, and Cai Liu.*
 
+1. **DeepPhysiNet: Bridging deep learning and atmospheric physics for accurate and continuous weather modeling.** arXiv, 2024. [paper](https://arxiv.org/abs/2401.04125)
+
+   *Wenyuan Li, Zili Liu, Keyan Chen, Hao Chen, Shunlin Liang, Zhengxia Zou, and Zhenwei Shi.*
+
 ### [Mechanics](#content)
 1. **Wavelet neural operator for solving parametric partial differential equations in computational mechanics problems.** Computer Methods in Applied Mechanics and Engineering, 2023. [paper](https://www.sciencedirect.com/science/article/pii/S0045782522007393)
 
