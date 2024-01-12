@@ -3689,6 +3689,10 @@ Contributed by Chunyang Zhang.
 
    *Tomoki Koike and Elizabeth Qian.*
 
+1. **Variable linear transformation improved physics-informed neural networks to solve thin-layer flow problems.** JCP, 2024. [paper](https://www.sciencedirect.com/science/article/abs/pii/S002199912400010X)
+
+   *Jiahao Wu, Yuxin Wu, Guihua Zhang, and Yang Zhang.*
+
 ### [Cybernetics](#content)
 1. **Machine learning accelerated PDE backstepping observers.** arXiv, 2022. [paper](https://arxiv.org/abs/2211.15044)
 
@@ -4103,6 +4107,10 @@ Contributed by Chunyang Zhang.
 1. **AI-aided geometric design of anti-infection catheters.** Science Advances, 2023. [paper](https://www.science.org/doi/10.1126/sciadv.adj1741)
 
    *Tingtao Zhou, Xuan Wan, Daniel Zhengyu Huang, Zongyi Li, Zhiwei Peng, Anima Anandkumar, John F. Brady, Paul W. Sternberg, and Chiara Daraio.*
+
+1. **Physics-informed deep learning to solve three-dimensional Terzaghi’s consolidation equation: Forward and inverse problems.** arXiv, 2024. [paper](https://arxiv.org/abs/2401.05439)
+
+   *Biao Yuan, Ana Heitor, He Wang, and Xiaohui Chen.*
 
 ### [Reconstruction](#content)
 1. **Occupancy networks: Learning 3D reconstruction in function space.** CVPR, 2019. [paper](https://openaccess.thecvf.com/content_CVPR_2019/papers/Mescheder_Occupancy_Networks_Learning_3D_Reconstruction_in_Function_Space_CVPR_2019_paper.pdf)
