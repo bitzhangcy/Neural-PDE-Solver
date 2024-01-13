@@ -1500,9 +1500,17 @@ Contributed by Chunyang Zhang.
 
    *Victor Boussange, Sebastian Becker, Arnulf Jentzen, Benno Kuckuck, and Loïc Pellissier.*
 
-1. **Neural networks with kernel-weighted corrective residuals for solving partial differential equations.** arXiv, 2023. [paper](https://arxiv.org/abs/2401.03492)
+1. **Neural networks with kernel-weighted corrective residuals for solving partial differential equations.** arXiv, 2024. [paper](https://arxiv.org/abs/2401.03492)
 
    *Carlos Mora, Amin Yousefpour, Shirin Hosseinmardi, and Ramin Bostanabad.*
+
+1. **Spectral integrated neural networks (SINNs) for solving forward and inverse dynamic problems.** arXiv, 2024. [paper](https://arxiv.org/abs/2401.03643)
+
+   *Lin Qiu, Fajie Wang, Wenzhen Qu, Yan Gu, and Qinghua Qin.*
+
+1. **Deep FBSDE neural networks for solving incompressible Navier-Stokes equation and Cahn-Hilliard equation.** arXiv, 2024. [paper](https://arxiv.org/abs/2401.03427)
+
+   *Yangtao Deng and Qiaolin He.*
 
 ### [Identification](#content)
 1. **Data-driven discovery of partial differential equations.** SA, 2017. [paper](https://arxiv.org/abs/1910.11710)
@@ -3084,6 +3092,10 @@ Contributed by Chunyang Zhang.
 1. **Rigorous a posteriori error bounds for PDE-defined PINNs.** TNNLS, 2023. [paper](https://ieeexplore.ieee.org/abstract/document/10337737)
 
    *Birgit Hillebrecht and Benjamin Unger.*
+
+1. **Error estimation for physics-informed neural networks with implicit Runge-Kutta methods.** arXiv, 2023. [paper](https://arxiv.org/abs/2401.05211)
+
+   *Jochen Stiasny and Spyros Chatzivasileiadis .*
 
 ### [Gaussian Process](#content)
 1. **PAGP: A physics-assisted Gaussian process framework with active learning for forward and inverse problems of partial differential equations.** arXiv, 2022. [paper](https://arxiv.org/abs/2204.02583)
