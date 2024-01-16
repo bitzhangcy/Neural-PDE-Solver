@@ -4124,6 +4124,10 @@ Contributed by Chunyang Zhang.
 
    *Biao Yuan, Ana Heitor, He Wang, and Xiaohui Chen.*
 
+1. **Solving the discretised multiphase flow equations with interface capturing on structured grids using machine learning libraries.** arXiv, 2024. [paper](https://arxiv.org/abs/2401.06755)
+
+   *Boyang Chen, Claire E. Heaney, Jefferson L. M. A. Gomes, Omar K. Matar, and Christopher C. Pain.*
+
 ### [Reconstruction](#content)
 1. **Occupancy networks: Learning 3D reconstruction in function space.** CVPR, 2019. [paper](https://openaccess.thecvf.com/content_CVPR_2019/papers/Mescheder_Occupancy_Networks_Learning_3D_Reconstruction_in_Function_Space_CVPR_2019_paper.pdf)
 
