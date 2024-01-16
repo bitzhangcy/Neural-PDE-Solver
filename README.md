@@ -3356,6 +3356,10 @@ Contributed by Chunyang Zhang.
 
    *Xuhui Zhou, Jiequn Han, Muhammad I. Zafar, Christopher J. Roy, Heng Xiao.*
 
+1. **Multi-resolution partial differential equations preserved learning framework for spatiotemporal dynamics.** Communications Physics, 2024. [paper](https://www.nature.com/articles/s42005-024-01521-z)
+
+   *Xinyang Liu, Min Zhu, Lu Lu, Hao Sun,  Jianxun Wang.*
+
 ### [Multi Grid](#content)
 1. **Learning to optimize multigrid PDE solvers.** ICML, 2019. [paper](http://proceedings.mlr.press/v97/greenfeld19a.html)
 
@@ -3931,6 +3935,10 @@ Contributed by Chunyang Zhang.
 1. **Flight dynamic uncertainty quantification modeling using physics-informed neural networks.** AIAA, 2024. [paper](https://arc.aiaa.org/doi/abs/10.2514/6.2024-0575)
 
    *Nathaniel Michek, Piyush Mehta, and Wade Huebsch.*
+
+1. **Peridynamic neural operators: A data-driven nonlocal constitutive model for complex material responses.** arXiv, 2024. [paper](https://arxiv.org/abs/2401.06070)
+
+   *Siavash Jafarzadeh, Stewart Silling, Ning Liu, Zhongqiang Zhang, and Yue Yu.*
 
 ### [Robotics](#content)
 1. **Hybrid learning of time-series inverse dynamics models for locally isotropic robot motion.** RAL, 2022. [paper](https://ieeexplore.ieee.org/document/9954138)
