@@ -2361,6 +2361,10 @@ Contributed by Chunyang Zhang.
 
    *Wanzhou Lei, Pavlos Protopapas, and Joy Parikh.*
 
+1. **PDE generalization of in-context operator networks: A study on 1D scalar nonlinear conservation laws.** arXiv, 2024. [paper](https://arxiv.org/abs/2401.07364)
+
+   *Liu Yang and Stanley J. Osher.*
+
 ### [Loss Function](#content)
 1. **Adaptive activation functions accelerate convergence in deep and physics-informed neural networks.** JCP, 2021. [paper](https://www.sciencedirect.com/science/article/pii/S0021999119308411)
 
@@ -3861,6 +3865,10 @@ Contributed by Chunyang Zhang.
 1. **Physics-informed deep learning approach to solve optimal control problem.** AIAA, 2024. [paper](https://arc.aiaa.org/doi/abs/10.2514/6.2024-0945)
 
    *Kyung-Mi Na and Chang-Hun Lee.*
+
+1. **Adaptive neural-operator backstepping control of a benchmark hyperbolic PDE.** arXiv, 2024. [paper](https://arxiv.org/abs/2401.07862)
+
+   *Maxence Lamarque, Luke Bhan, Yuanyuan Shi, and Miroslav Krstic.*
 
 ### [Climate](#content)
 1. **FourCastNet: A global data-driven high-resolution weather model using adaptive Fourier neural operators.** arXiv, 2022. [paper](https://arxiv.org/abs/2202.11214)
