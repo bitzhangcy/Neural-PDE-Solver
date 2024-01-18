@@ -1287,6 +1287,10 @@ Contributed by Chunyang Zhang.
 
    *Christopher Wang and Alex Townsend.*
 
+1. **BENO: Boundary-embedded neural operators for elliptic PDEs.** ICLR, 2024. [paper](https://arxiv.org/abs/2401.09323)
+
+   *Haixin Wang, Jiaxin Li, Anubhav Dwivedi, Kentaro Hara, and Tailin Wu.*
+
 ### [Machine Learning](#content)
 1. **Machine learning–accelerated computational fluid dynamics.** PNAS, 2021. [paper](https://www.pnas.org/doi/10.1073/pnas.2101784118)
 
@@ -3947,6 +3951,10 @@ Contributed by Chunyang Zhang.
 1. **Peridynamic neural operators: A data-driven nonlocal constitutive model for complex material responses.** arXiv, 2024. [paper](https://arxiv.org/abs/2401.06070)
 
    *Siavash Jafarzadeh, Stewart Silling, Ning Liu, Zhongqiang Zhang, and Yue Yu.*
+
+1. **Stochastic dynamics of aircraft ground taxiing via improved physics-informed neural networks.** Nonlinear Dynamics, 2024. [paper](https://link.springer.com/article/10.1007/s11071-023-09173-4)
+
+   *Ying Zhang, Zhengrong Jin, Long Wang, Kaixin Zheng, and Wantao Jia.*
 
 ### [Robotics](#content)
 1. **Hybrid learning of time-series inverse dynamics models for locally isotropic robot motion.** RAL, 2022. [paper](https://ieeexplore.ieee.org/document/9954138)
