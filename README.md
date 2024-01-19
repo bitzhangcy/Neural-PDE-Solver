@@ -2723,6 +2723,10 @@ Contributed by Chunyang Zhang.
 
    *Jiang Yu Nguwi, Guillaume Penent, and Nicolas Privault.*
 
+1. **Accelerating data generation for neural operators via Krylov subspace recycling.** ICLR, 2024. [paper](https://arxiv.org/abs/2401.09516)
+
+   *Hong Wang, Zhongkai Hao, Jie Wang, Zijie Geng, Zhen Wang, Bin Li, and Feng Wu.*
+
 ### [AutoML](#content)
 1. **Auto-PINN: Understanding and optimizing physics-informed neural architecture.** arXiv, 2022. [paper](https://arxiv.org/abs/2110.13361)
 
