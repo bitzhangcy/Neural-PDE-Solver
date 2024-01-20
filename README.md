@@ -3725,6 +3725,10 @@ Contributed by Chunyang Zhang.
 
    *Jiahao Wu, Yuxin Wu, Guihua Zhang, and Yang Zhang.*
 
+1. **Riemannonets: Interpretable neural operators for Riemann problems.** arXiv, 2024. [paper](https://arxiv.org/abs/2401.08886)
+
+   *Ahmad Peyvan, Vivek Oommen, Ameya D. Jagtap, and George Em Karniadakis.*
+
 ### [Cybernetics](#content)
 1. **Machine learning accelerated PDE backstepping observers.** arXiv, 2022. [paper](https://arxiv.org/abs/2211.15044)
 
@@ -3963,6 +3967,10 @@ Contributed by Chunyang Zhang.
 1. **Stochastic dynamics of aircraft ground taxiing via improved physics-informed neural networks.** Nonlinear Dynamics, 2024. [paper](https://link.springer.com/article/10.1007/s11071-023-09173-4)
 
    *Ying Zhang, Zhengrong Jin, Long Wang, Kaixin Zheng, and Wantao Jia.*
+
+1. **Damage identification for plate structures using physics-informed neural networks.** MSSP, 2024. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0888327024000098)
+
+   *Wei Zhou and Yongfeng Xu.*
 
 ### [Robotics](#content)
 1. **Hybrid learning of time-series inverse dynamics models for locally isotropic robot motion.** RAL, 2022. [paper](https://ieeexplore.ieee.org/document/9954138)
@@ -4235,6 +4243,10 @@ Contributed by Chunyang Zhang.
 1. **Towards solving industry-grade surrogate modeling problems using physics informed machine learning.** arXiv, 2023. [paper](https://arxiv.org/abs/2309.03374)
 
    *Saakaar Bhatnagar, Andrew Comerford, and Araz Banaeizadeh.*
+
+1. **Data-driven physics-informed neural networks: A digital twin perspective.** arXiv, 2024. [paper](https://arxiv.org/abs/2401.08667)
+
+   *Sunwoong Yang, Hojin Kim, Yoonpyo Hong, Kwanjung Yee, Romit Maulik, and Namwoo Kang.*
 
 ### [Economics](#content)
 1. **A deep learning based numerical PDE method for option pricing.** Computational Economics, 2023. [paper](https://link.springer.com/article/10.1007/s10614-022-10279-x)
