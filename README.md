@@ -1939,6 +1939,10 @@ Contributed by Chunyang Zhang.
 
    *Merten Stender, Jakob Ohlsen, Hendrik Geisler, Amin Chabchoub, Norbert Hoffmann, and Alexander Schlaefer.*
 
+1. **Implicit regularization of deep residual networks towards neural ODEs.** ICLR, 2024. [paper](https://openreview.net/forum?id=AbXGwqb5Ht)
+
+   *Pierre Marion, Yuhan Wu, Michael E. Sander, Gérard Biau.*
+
 ### [Large Model](#content)
 1. **Prompting in-context operator learning with sensor data, equations, and natural language.** arXiv, 2023. [paper](https://arxiv.org/abs/2308.05061)
 
@@ -2455,7 +2459,7 @@ Contributed by Chunyang Zhang.
 
    *Wenhan Gao and Chunmei Wang.*
 
-1. **Adversarial adaptive sampling: Unify PINN and optimal yransport for the approximation of PDEs.** arXiv, 2023. [paper](https://arxiv.org/abs/2305.18702)
+1. **Adversarial adaptive sampling: Unify PINN and optimal yransport for the approximation of PDEs.** ICLR, 2024. [paper](https://openreview.net/forum?id=7QI7tVrh2c)
 
    *Kejun Tang, Jiayu Zhai, Xiaoliang Wan, and Chao Yang.*
 
@@ -3154,7 +3158,7 @@ Contributed by Chunyang Zhang.
 
    *Christophe Bonneville, Youngsoo Choi, Debojyoti Ghosh, and Jonathan L.Belof.*
 
-1. **Solving high frequency and multi-scale PDEs with Gaussian processes.** arXiv, 2023. [paper](https://arxiv.org/abs/2311.04465)
+1. **Solving high frequency and multi-scale PDEs with Gaussian processes.** ICLR, 2024. [paper](https://openreview.net/forum?id=q4AEBLHuA6)
 
    *Shikai Fang, Madison Cooley, Da Long, Shibo Li, Robert Kirby, and Shandian Zhe.*
 
