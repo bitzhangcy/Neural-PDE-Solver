@@ -3111,7 +3111,11 @@ Contributed by Chunyang Zhang.
 
 1. **Error estimation for physics-informed neural networks with implicit Runge-Kutta methods.** arXiv, 2023. [paper](https://arxiv.org/abs/2401.05211)
 
-   *Jochen Stiasny and Spyros Chatzivasileiadis .*
+   *Jochen Stiasny and Spyros Chatzivasileiadis.*
+
+1. **Approximation of solution operators for high-dimensional PDEs.** arXiv, 2024. [paper](https://arxiv.org/abs/2401.10385)
+
+   *Nathan Gaby and Xiaojing Ye.*
 
 ### [Gaussian Process](#content)
 1. **PAGP: A physics-assisted Gaussian process framework with active learning for forward and inverse problems of partial differential equations.** arXiv, 2022. [paper](https://arxiv.org/abs/2204.02583)
@@ -3161,6 +3165,10 @@ Contributed by Chunyang Zhang.
 1. **Solving high frequency and multi-scale PDEs with Gaussian processes.** ICLR, 2024. [paper](https://openreview.net/forum?id=q4AEBLHuA6)
 
    *Shikai Fang, Madison Cooley, Da Long, Shibo Li, Robert Kirby, and Shandian Zhe.*
+
+1. **Physics-constrained convolutional neural networks for inverse problems in spatiotemporal partial differential equations.** arXiv, 2024. [paper](https://arxiv.org/abs/2401.10306)
+
+   *Daniel Kelshaw and Luca Magri.*
 
 ### [Variation](#content) 
 1. **PI-VAE: Physics-informed variational auto-encoder for stochastic differential equations.** Computer Methods in Applied Mechanics and Engineering, 2022. [paper](https://www.sciencedirect.com/science/article/pii/S0045782522006193)
