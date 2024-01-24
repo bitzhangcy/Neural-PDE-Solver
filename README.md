@@ -3052,6 +3052,10 @@ Contributed by Chunyang Zhang.
 
    *Seungjun Lee and Taeil Oh.*
 
+1. **Loss-attentional physics-informed neural networks.** JCP, 2024. [paper](https://www.sciencedirect.com/science/article/pii/S00219991240003055) 
+
+   *Yanjie Song, He Wang, He Yang, Maria Luisa Taccari, and Xiaohui Chen.*
+
 ### [Theory](#content)
 1. **Convergence analysis of a quasi-Monte Carlo-based deep learning algorithm for solving partial differential equations.** arXiv, 2022. [paper](https://arxiv.org/abs/2210.16196)
 
