@@ -902,6 +902,10 @@ Contributed by Chunyang Zhang.
 
    *Hoyun Choi, Sungyeop Lee, B. Kahng, and Junghyo Jo.*
 
+1. **Equivariant graph neural operator for modeling 3D dynamics.** arXiv, 2024. [paper](https://arxiv.org/abs/2401.11037)
+
+   *Minkai Xu, Jiaqi Han, Aaron Lou, Jean Kossaifi, Arvind Ramanathan, Kamyar Azizzadenesheli, Jure Leskovec, Stefano Ermon, and Anima Anandkumar.*
+
 ### [Green Function](#content)
 1. **Learning Green's functions associated with time-dependent partial differential equations.** JMLR, 2022. [paper](https://www.jmlr.org/papers/volume23/22-0433/22-0433.pdf)
 
@@ -3120,6 +3124,10 @@ Contributed by Chunyang Zhang.
 1. **Approximation of solution operators for high-dimensional PDEs.** arXiv, 2024. [paper](https://arxiv.org/abs/2401.10385)
 
    *Nathan Gaby and Xiaojing Ye.*
+
+1. **Accuracy analysis of physics-informed neural networks for approximating the critical SQG equation.** arXiv, 2024. [paper](https://arxiv.org/abs/2401.10879)
+
+   *Elie Abdo, Ruimeng Hu, and Quyuan Lin.*
 
 ### [Gaussian Process](#content)
 1. **PAGP: A physics-assisted Gaussian process framework with active learning for forward and inverse problems of partial differential equations.** arXiv, 2022. [paper](https://arxiv.org/abs/2204.02583)
