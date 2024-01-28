@@ -1295,6 +1295,10 @@ Contributed by Chunyang Zhang.
 
    *Haixin Wang, Jiaxin Li, Anubhav Dwivedi, Kentaro Hara, and Tailin Wu.*
 
+1. **Koopman operator learning using invertible neural networks.** JCP, 2024. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0021999124000445)
+
+   *Yuhuang Meng, Jianguo Huang, and Yue Qiu.*
+
 ### [Machine Learning](#content)
 1. **Machine learning–accelerated computational fluid dynamics.** PNAS, 2021. [paper](https://www.pnas.org/doi/10.1073/pnas.2101784118)
 
@@ -2248,6 +2252,10 @@ Contributed by Chunyang Zhang.
 
    *Sean F. Current, Vilas J. Shinde, Saket Gurukar, Datta V. Gaitonde, and Srinivasan Parthasarathy.*
 
+1. **Refined generalization analysis of the deep Ritz method and physics-informed neural networks.** arXiv, 2024. [paper](https://arxiv.org/abs/2401.12526)
+
+   *Xianliang Xu and Zhongyi Huang.*
+
 ### [Domain Adaptation](#content)
 1. **Meta-auto-decoder for solving parametric partial differential equations.** NIPS, 2022. [paper](https://openreview.net/pdf?id=PwlW5Jri1Xt) 
 
@@ -2735,6 +2743,10 @@ Contributed by Chunyang Zhang.
 
    *Hong Wang, Zhongkai Hao, Jie Wang, Zijie Geng, Zhen Wang, Bin Li, and Feng Wu.*
 
+1. **Space and time continuous physics simulation from partial observations.** ICLR, 2024. [paper](https://openreview.net/forum?id=4yaFQ7181M)
+
+   *Janny Steeven, Nadri Madiha, Digne Julie, and Wolf Christian.*
+
 ### [AutoML](#content)
 1. **Auto-PINN: Understanding and optimizing physics-informed neural architecture.** arXiv, 2022. [paper](https://arxiv.org/abs/2110.13361)
 
@@ -3128,6 +3140,10 @@ Contributed by Chunyang Zhang.
 1. **Accuracy analysis of physics-informed neural networks for approximating the critical SQG equation.** arXiv, 2024. [paper](https://arxiv.org/abs/2401.10879)
 
    *Elie Abdo, Ruimeng Hu, and Quyuan Lin.*
+
+1. **Deep Ritz method for elliptical multiple eigenvalue problems.** Journal of Scientific Computing, 2024. [paper](https://link.springer.com/article/10.1007/s10915-023-02443-8)
+
+   *Xia Ji, Yuling Jiao, Xiliang Lu, Pengcheng Song, and Fengru Wang .*
 
 ### [Gaussian Process](#content)
 1. **PAGP: A physics-assisted Gaussian process framework with active learning for forward and inverse problems of partial differential equations.** arXiv, 2022. [paper](https://arxiv.org/abs/2204.02583)
@@ -3749,6 +3765,14 @@ Contributed by Chunyang Zhang.
 
    *Ahmad Peyvan, Vivek Oommen, Ameya D. Jagtap, and George Em Karniadakis.*
 
+1. **Physics-informed neural networks for incompressible flows with moving boundaries.** Physics of Fluids, 2024. [paper](https://pubs.aip.org/aip/pof/article/36/1/013617/3105948)
+
+   *Yongzheng Zhu, Weizhen Kong, Jian Deng, and Xin Bian.*
+
+1. **Solving the one dimensional vertical suspended sediment mixing equation with arbitrary eddy diffusivity profiles using temporal normalized physics-informed neural networks.** Physics of Fluids, 2024. [paper](https://pubs.aip.org/aip/pof/article/36/1/017132/3105970)
+
+   *Shaotong Zhang, Jiaxin Deng, Xi'an Li, Zixi Zhao, Jinran Wu, Weide Li,Yougan Wang, and Dongsheng Jeng.*
+
 ### [Cybernetics](#content)
 1. **Machine learning accelerated PDE backstepping observers.** arXiv, 2022. [paper](https://arxiv.org/abs/2211.15044)
 
@@ -4093,6 +4117,10 @@ Contributed by Chunyang Zhang.
 1. **Calculating quasi-normal modes of Schwarzschild black holes with physics informed neural networks.** arXiv, 2024. [paper](https://arxiv.org/abs/2401.01440)
 
    *Nirmal Patel, Aycin Aykutalp, and Pablo Laguna.*
+
+1. **Deep neural operator-driven real-time inference to enable digital twin solutions for nuclear energy systems.** Scientific Reports, 2024. [paper](https://www.nature.com/articles/s41598-024-51984-x)
+
+   *Kazuma Kobayashi and Syed Bahauddin Alam.*
 
 ### [Image](#content)
 1. **Learning to diffuse: A new perspective to design PDEs for visual analysis.** TPAMI, 2016. [paper](https://ieeexplore.ieee.org/document/7393839)
