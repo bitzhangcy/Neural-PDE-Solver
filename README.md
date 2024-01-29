@@ -4296,6 +4296,10 @@ Contributed by Chunyang Zhang.
 
    *Sunwoong Yang, Hojin Kim, Yoonpyo Hong, Kwanjung Yee, Romit Maulik, and Namwoo Kang.*
 
+1. **Physically informed synchronic-adaptive learning for industrial systems modeling in heterogeneous media with unavailable time-varying interface.** arXiv, 2024. [paper](https://arxiv.org/abs/2401.14609)
+
+   *Aina Wang, Pan Qin, and Ximing Sun.*
+
 ### [Economics](#content)
 1. **A deep learning based numerical PDE method for option pricing.** Computational Economics, 2023. [paper](https://link.springer.com/article/10.1007/s10614-022-10279-x)
 
