@@ -984,6 +984,10 @@ Contributed by Chunyang Zhang.
 
    *Shahed Rezaei, Ahmad Moeineddin, Michael Kaliske, and Markus Apel.*
 
+1. **Error assessment of an adaptive finite elements—neural networks method for an elliptic parametric PDE.** Computer Methods in Applied Mechanics and Engineering, 2024. [paper](https://arxiv.org/abs/2401.02363)
+
+   *Alexandre Caboussat, Maude Girardin, and Marco Picasso.*
+
 ### [Convolution](#content)
 1. **PDE-Net: Learning PDEs from data.** ICML, 2018. [paper](https://proceedings.mlr.press/v80/long18a.html)
 
@@ -2609,10 +2613,6 @@ Contributed by Chunyang Zhang.
 
    *Victorita Dolean, Alexander Heinlein, Siddhartha Mishra, and Ben Moseley.*
 
-1. **A generalized Schwarz-type non-overlapping domain decomposition method using Physics-constrained neural networks.** arXiv, 2023. [paper](https://arxiv.org/abs/2307.12435)
-
-   *Shamsulhaq Basir and Inanc Senocak.*
-
 1. **Friedrichs' systems discretized with the Discontinuous Galerkin method: Domain decomposable model order reduction and Graph Neural Networks approximating vanishing viscosity solutions.** arXiv, 2023. [paper](https://arxiv.org/abs/2308.03378)
 
    *Francesco Romor, Davide Torlo, and Gianluigi Rozza.*
@@ -2647,7 +2647,11 @@ Contributed by Chunyang Zhang.
 
 1. **Subspace decomposition based DNN algorithm for elliptic type multi-scale PDEs.** JCP, 2023. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0021999123003376)
 
-   *Xian Li, Zhi-qin John Xu, and Lei Zhang.*
+   *Xian Li, Zhiqin John Xu, and Lei Zhang.*
+
+1. **Adaptive deep Fourier residual method via overlapping domain decomposition.** arXiv, 2024. [paper](https://arxiv.org/abs/2401.04663)
+
+   *Jamie M. Taylor, Manuela Bastidas, Victor M. Calo, and David Pardo.*
 
 ### [Disentangle](#content)
 1. **PDE-driven spatiotemporal disentanglement.** ICLR, 2021. [paper](https://openreview.net/forum?id=vLaHRtHvfFp)
@@ -3938,6 +3942,10 @@ Contributed by Chunyang Zhang.
 
    *Maxence Lamarque, Luke Bhan, Yuanyuan Shi, and Miroslav Krstic.*
 
+1. **Physical-informed neural network for MPC-based trajectory tracking of vehicles with noise considered.** TIV, 2024. [paper](https://ieeexplore.ieee.org/abstract/document/10414012)
+
+   *Long Jin, Longqi Liu, Xingxia Wang, Mingsheng Shang, and Feiyue Wang.*
+
 ### [Climate](#content)
 1. **FourCastNet: A global data-driven high-resolution weather model using adaptive Fourier neural operators.** arXiv, 2022. [paper](https://arxiv.org/abs/2202.11214)
 
@@ -4307,6 +4315,10 @@ Contributed by Chunyang Zhang.
 1. **Physically informed synchronic-adaptive learning for industrial systems modeling in heterogeneous media with unavailable time-varying interface.** arXiv, 2024. [paper](https://arxiv.org/abs/2401.14609)
 
    *Aina Wang, Pan Qin, and Ximing Sun.*
+
+1. **Improved generalization with deep neural operators for engineering systems: Path towards digital twin.** EAAI, 2024. [paper](https://www.sciencedirect.com/science/article/pii/S0952197624000022)
+
+   *Kazuma Kobayashi, James Daniell, and Syed Bahauddin Alam.*
 
 ### [Economics](#content)
 1. **A deep learning based numerical PDE method for option pricing.** Computational Economics, 2023. [paper](https://link.springer.com/article/10.1007/s10614-022-10279-x)
