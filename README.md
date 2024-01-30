@@ -559,6 +559,10 @@ Contributed by Chunyang Zhang.
 
    *Gungmin Gie, Youngjoon Hong, Chang-Yeol Jung, and Tselmuun Munkhjin.*
 
+1. **PICL: Physics informed contrastive learning for partial differential equations.** arXiv, 2024. [paper](https://arxiv.org/abs/2401.16327)
+
+   *Cooper Lorsung and Amir Barati Farimani.*
+
 ### [DeepONet](#content)
 1. **Learning nonlinear operators via DeepONet based on the universal approximation theorem of operators.** NMI, 2021. [paper](https://www.nature.com/articles/s42256-021-00302-5)
 
@@ -3567,6 +3571,10 @@ Contributed by Chunyang Zhang.
 1. **Accelerating Bayesian optimal experimental design with derivative-informed neural operators.** arXiv, 2023. [paper](https://arxiv.org/abs/2312.14810)
 
    *Jinwoo Go and Peng Chen.*
+
+1. **A supervised learning scheme for computing Hamilton-Jacobi equation via density coupling.** arXiv, 2024. [paper](https://arxiv.org/abs/2401.15954)
+
+   *Jianbo Cui, Shu Liu, and Haomin Zhou.*
 
 ### [Fluid](#content)
 1. **Physics-informed neural networks (PINNs) for fluid mechanics: A review.** Acta Mechanica Sinica, 2021. [paper](https://link.springer.com/article/10.1007/s10409-021-01148-1)
