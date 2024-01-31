@@ -1769,6 +1769,10 @@ Contributed by Chunyang Zhang.
 
    *Christian Aarset, Martin Holler, and Tram Thi Ngoc Nguyen.*
 
+1. **Data-driven discovery of PDEs via the adjoint method.** arXiv, 2024. [paper](https://arxiv.org/abs/2401.17177)
+
+   *Mohsen Sadr, Tony Tohme, and Kamal Youcef-Toumi.*
+
 ### [Inverse Design](#content)
 1. **DPM: Physics-informed Karhunen-Loéve and neural network approximations for solving inverse differential equation problems.** AAAI, 2021. [paper](https://ojs.aaai.org/index.php/AAAI/article/view/16992/16799)
 
@@ -3151,7 +3155,11 @@ Contributed by Chunyang Zhang.
 
 1. **Deep Ritz method for elliptical multiple eigenvalue problems.** Journal of Scientific Computing, 2024. [paper](https://link.springer.com/article/10.1007/s10915-023-02443-8)
 
-   *Xia Ji, Yuling Jiao, Xiliang Lu, Pengcheng Song, and Fengru Wang .*
+   *Xia Ji, Yuling Jiao, Xiliang Lu, Pengcheng Song, and Fengru Wang.*
+
+1. **Inf-Sup neural networks for high-dimensional elliptic PDE problems.** arXiv, 2024. [paper](https://arxiv.org/abs/2401.17233)
+
+   *Xiaokai Huo and Hailiang Liu.*
 
 ### [Gaussian Process](#content)
 1. **PAGP: A physics-assisted Gaussian process framework with active learning for forward and inverse problems of partial differential equations.** arXiv, 2022. [paper](https://arxiv.org/abs/2204.02583)
