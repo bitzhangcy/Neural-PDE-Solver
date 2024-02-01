@@ -563,6 +563,10 @@ Contributed by Chunyang Zhang.
 
    *Cooper Lorsung and Amir Barati Farimani.*
 
+1. **Fourier warm start for physics-informed neural networks.** EAAI, 2024. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0952197624000459)
+
+   *Ge Jin, Jian Cheng Wong, Abhishek Gupta, Shipeng Li, and Yew-Soon Ong.*
+
 ### [DeepONet](#content)
 1. **Learning nonlinear operators via DeepONet based on the universal approximation theorem of operators.** NMI, 2021. [paper](https://www.nature.com/articles/s42256-021-00302-5)
 
@@ -4294,6 +4298,10 @@ Contributed by Chunyang Zhang.
 1. **Pontryagin neural operator for solving parametric general-sum differential games.** arXiv, 2024. [paper](https://arxiv.org/abs/2401.01502)
 
    *Lei Zhang, Mukesh Ghimire, Zhe Xu, Wenlong Zhang, and Yi Ren.*
+
+1. **Unsupervised solution operator learning for mean-field games via sampling-invariant parametrizations.** arXiv, 2024. [paper](https://arxiv.org/abs/2401.15482)
+
+   *Han Huang and Rongjie Lai .*
 
 ### [Industry](#content)
 1. **Physics-aware machine learning surrogates for real-time manufacturing digital twin.** Manufacturing Letters, 2022. [paper](https://www.sciencedirect.com/science/article/abs/pii/S2213846322001845)
