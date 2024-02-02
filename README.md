@@ -567,6 +567,10 @@ Contributed by Chunyang Zhang.
 
    *Ge Jin, Jian Cheng Wong, Abhishek Gupta, Shipeng Li, and Yew-Soon Ong.*
 
+1. **Preconditioning for physics-informed neural networks.** ICML, 2024. [paper](https://openreview.net/forum?id=2C3CWCPxNS)
+
+   *Songming Liu, Chang Su, Jiachen Yao, Zhongkai Hao, Hang Su, Youjia Wu, and Jun Zhu.*
+
 ### [DeepONet](#content)
 1. **Learning nonlinear operators via DeepONet based on the universal approximation theorem of operators.** NMI, 2021. [paper](https://www.nature.com/articles/s42256-021-00302-5)
 
@@ -821,6 +825,10 @@ Contributed by Chunyang Zhang.
 1. **DS-GPS: A deep statistical graph Poisson solver (for faster CFD simulations).** NIPS, 2022. [paper](https://arxiv.org/abs/2211.11763)
 
    *Matthieu Nastorg, Marc Schoenauer, Guillaume Charpiat, Thibault Faney, Jean-Marc Gratien, and Michele-Alessandro Bucci.*
+
+1. **PF-GNN: Differentiable particle filtering based approximation of universal graph representations.** ICLR, 2022. [paper](https://openreview.net/forum?id=oh4TirnfSem)
+
+   *Mohammed Haroon Dupty, Yanfei Dong, and Wee Sun Lee.*
 
 1. **GRAND: Graph neural diffusion.** ICML, 2021. [paper](https://openreview.net/forum?id=_1fu_cjsaRE)
 
@@ -1080,6 +1088,10 @@ Contributed by Chunyang Zhang.
 1. **Local convolution enhanced global Fourier neural operator for multiscale dynamic spaces prediction.** arXiv, 2023. [paper](https://arxiv.org/abs/2311.12902)
 
    *Xuanle Zhao, Yue Sun, Tielin Zhang, and Bo Xu.*
+
+1. **A practical existence theorem for reduced order models based on convolutional autoencoders.** arXiv, 2024. [paper](https://arxiv.org/abs/2402.00435)
+
+   *Nicola Rares Franco and Simone Brugiapaglia.*
 
 ### [AutoEncoder](#content)
 1. **Integral autoencoder network for discretization-invariant learning.** JMLR, 2022. [paper](https://www.jmlr.org/papers/v23/22-0297.html)
@@ -2271,6 +2283,10 @@ Contributed by Chunyang Zhang.
 1. **Refined generalization analysis of the deep Ritz method and physics-informed neural networks.** arXiv, 2024. [paper](https://arxiv.org/abs/2401.12526)
 
    *Xianliang Xu and Zhongyi Huang.*
+
+1. **PirateNets: Physics-informed deep learning with residual adaptive networks.** arXiv, 2024. [paper](https://arxiv.org/abs/2402.00326)
+
+   *Sifan Wang, Bowen Li, Yuhan Chen, and Paris Perdikaris.*
 
 ### [Domain Adaptation](#content)
 1. **Meta-auto-decoder for solving parametric partial differential equations.** NIPS, 2022. [paper](https://openreview.net/pdf?id=PwlW5Jri1Xt) 
