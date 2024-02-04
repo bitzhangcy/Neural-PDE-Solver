@@ -473,7 +473,7 @@ Contributed by Chunyang Zhang.
 
    *Yihang Gao, Yiqi Gu, and Michael Ng.*
 
-1. **Residual-based attention and connection to information bottleneck theory in PINNs.** arXiv, 2023. [paper](https://arxiv.org/abs/2307.00379)
+1. **Residual-based attention in physics-informed neural networks.** Computer Methods in Applied Mechanics and Engineering, 2024. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0045782524000616)
 
    *Sokratis J. Anagnostopoulos, Juan Diego Toscano, Nikolaos Stergiopulos, and George Em Karniadakis.*
 
@@ -1322,6 +1322,10 @@ Contributed by Chunyang Zhang.
 1. **Koopman operator learning using invertible neural networks.** JCP, 2024. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0021999124000445)
 
    *Yuhuang Meng, Jianguo Huang, and Yue Qiu.*
+
+1. **Operator learning without the adjoint.** arXiv, 2024. [paper](https://browse.arxiv.org/abs/2401.17739)
+
+   *Nicolas Boullé, Diana Halikias, Samuel E. Otto, and Alex Townsend.*
 
 ### [Machine Learning](#content)
 1. **Machine learning–accelerated computational fluid dynamics.** PNAS, 2021. [paper](https://www.pnas.org/doi/10.1073/pnas.2101784118)
@@ -2909,6 +2913,10 @@ Contributed by Chunyang Zhang.
 1. **Randomized physics-informed machine learning for uncertainty quantification in high-dimensional inverse problems.** arXiv, 2023. [paper](https://arxiv.org/abs/2312.06177)
 
    *Yifei Zong, David Barajas-Solano, and Alexandre M. Tartakovsky.*
+
+1. **Bayesian deep learning framework for uncertainty quantification in stochastic partial differential equations.** SIAM Journal on Scientific Computing, 2024. [paper](https://epubs.siam.org/doi/abs/10.1137/23M1560574)
+
+   *Jeahan Jung, Hyomin Shin, and Minseok Choi.*
 
 ### [Generative Model](#content)
 1. **A framework for data-driven solution and parameter estimation of PDEs using conditional generative adversarial networks.** NCS, 2021. [paper](https://www.nature.com/articles/s43588-021-00171-3)
