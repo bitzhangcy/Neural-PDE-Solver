@@ -1093,6 +1093,10 @@ Contributed by Chunyang Zhang.
 
    *Nicola Rares Franco and Simone Brugiapaglia.*
 
+1. **Closure discovery for coarse-grained partial differential equations using multi-agent reinforcement learning.** arXiv, 2024. [paper](https://arxiv.org/abs/2402.00972)
+
+   *Jan-Philipp von Bassewitz, Sebastian Kaltenbach, and Petros Koumoutsakos.*
+
 ### [AutoEncoder](#content)
 1. **Integral autoencoder network for discretization-invariant learning.** JMLR, 2022. [paper](https://www.jmlr.org/papers/v23/22-0297.html)
 
@@ -4363,4 +4367,4 @@ Contributed by Chunyang Zhang.
 ### [Economics](#content)
 1. **A deep learning based numerical PDE method for option pricing.** Computational Economics, 2023. [paper](https://link.springer.com/article/10.1007/s10614-022-10279-x)
 
-   *Xiang Wang, Jessica Li, and Jichun Li.*
+   *Xiang Wang, Jessica Li, and Jichun Li.*R
