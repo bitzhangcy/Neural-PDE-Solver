@@ -2787,6 +2787,10 @@ Contributed by Chunyang Zhang.
 
    *Janny Steeven, Nadri Madiha, Digne Julie, and Wolf Christian.*
 
+1. **Speeding up and reducing memory usage for scientific machine learning via mixed precision.** arXiv, 2024. [paper](https://arxiv.org/abs/2401.16645)
+
+   *Joel Hayford, Jacob Goldman-Wetzler, Eric Wang, and Lu Lu.*
+
 ### [AutoML](#content)
 1. **Auto-PINN: Understanding and optimizing physics-informed neural architecture.** arXiv, 2022. [paper](https://arxiv.org/abs/2110.13361)
 
@@ -4014,6 +4018,10 @@ Contributed by Chunyang Zhang.
 1. **DeepPhysiNet: Bridging deep learning and atmospheric physics for accurate and continuous weather modeling.** arXiv, 2024. [paper](https://arxiv.org/abs/2401.04125)
 
    *Wenyuan Li, Zili Liu, Keyan Chen, Hao Chen, Shunlin Liang, Zhengxia Zou, and Zhenwei Shi.*
+
+1. **Residual-enhanced physics-guided machine learning with hard constraints for subsurface flow in reservoir engineering.** TGRS, 2024. [paper](https://ieeexplore.ieee.org/abstract/document/10413628)
+
+   *Haibo Cheng, Yunpeng He, Peng Zeng, and Valeriy Vyatkin.*
 
 ### [Mechanics](#content)
 1. **Wavelet neural operator for solving parametric partial differential equations in computational mechanics problems.** Computer Methods in Applied Mechanics and Engineering, 2023. [paper](https://www.sciencedirect.com/science/article/pii/S0045782522007393)
