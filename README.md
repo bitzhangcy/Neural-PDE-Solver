@@ -2791,6 +2791,10 @@ Contributed by Chunyang Zhang.
 
    *Joel Hayford, Jacob Goldman-Wetzler, Eric Wang, and Lu Lu.*
 
+1. **Neural operators meet conjugate gradients: The FCG-NO method for efficient PDE solving.** arXiv, 2024. [paper](https://arxiv.org/abs/2402.05598)
+
+   *Alexander Rudikov, Vladimir Fanaskov, Ekaterina Muravleva, Yuri M. Laevsky, and Ivan Oseledets.*
+
 ### [AutoML](#content)
 1. **Auto-PINN: Understanding and optimizing physics-informed neural architecture.** arXiv, 2022. [paper](https://arxiv.org/abs/2110.13361)
 
