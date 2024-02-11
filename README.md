@@ -922,6 +922,10 @@ Contributed by Chunyang Zhang.
 
    *Minkai Xu, Jiaqi Han, Aaron Lou, Jean Kossaifi, Arvind Ramanathan, Kamyar Azizzadenesheli, Jure Leskovec, Stefano Ermon, and Anima Anandkumar.*
 
+1. **HAMLET: Graph transformer neural operator for partial differential equations.** arXiv, 2024. [paper](https://arxiv.org/abs/2402.03541)
+
+   *Andrey Bryutkin, Jiahao Huang, Zhongying Deng, Guang Yang, Carola-Bibiane Schönlieb, and Angelica Aviles-Rivero.*
+
 ### [Green Function](#content)
 1. **Learning Green's functions associated with time-dependent partial differential equations.** JMLR, 2022. [paper](https://www.jmlr.org/papers/volume23/22-0433/22-0433.pdf)
 
@@ -2100,7 +2104,7 @@ Contributed by Chunyang Zhang.
 
    *Tanya Marwah, Zachary Lipton, and Andrej Risteski.*
 
-1. **Respecting causality is all you need for training physics-informed neural networks.** arXiv, 2021. [paper](https://arxiv.org/abs/2203.07404)
+1. **Respecting causality for training physics-informed neural networks.** Computer Methods in Applied Mechanics and Engineering, 2024. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0045782524000690)
 
    *Sifan Wang, Shyam Sankaran, and Paris Perdikaris.*
 
@@ -2795,6 +2799,10 @@ Contributed by Chunyang Zhang.
 
    *Alexander Rudikov, Vladimir Fanaskov, Ekaterina Muravleva, Yuri M. Laevsky, and Ivan Oseledets.*
 
+1. **Learning operators with stochastic gradient descent in general Hilbert spaces.** arXiv, 2024. [paper](https://arxiv.org/abs/2402.04691)
+
+   *Lei Shi and Jiaqi Yang.*
+
 ### [AutoML](#content)
 1. **Auto-PINN: Understanding and optimizing physics-informed neural architecture.** arXiv, 2022. [paper](https://arxiv.org/abs/2110.13361)
 
@@ -3200,6 +3208,10 @@ Contributed by Chunyang Zhang.
 1. **Inf-Sup neural networks for high-dimensional elliptic PDE problems.** arXiv, 2024. [paper](https://arxiv.org/abs/2401.17233)
 
    *Xiaokai Huo and Hailiang Liu.*
+
+1. **The challenges of the nonlinear regime for physics-informed neural networks.** arXiv, 2024. [paper](https://arxiv.org/abs/2402.03864)
+
+   *Andrea Bonfanti, Giuseppe Bruno, and Cristina Cipriani.*
 
 ### [Gaussian Process](#content)
 1. **PAGP: A physics-assisted Gaussian process framework with active learning for forward and inverse problems of partial differential equations.** arXiv, 2022. [paper](https://arxiv.org/abs/2204.02583)
