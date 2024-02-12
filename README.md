@@ -1560,6 +1560,10 @@ Contributed by Chunyang Zhang.
 
    *Yangtao Deng and Qiaolin He.*
 
+1. **Modeling spatio-temporal dynamical systems with neural discrete learning and levels-of-experts.** arXiv, 2024. [paper](https://arxiv.org/abs/2402.05970)
+
+   *Kun Wang, Hao Wu, Guibin Zhang, Junfeng Fang, Yuxuan Liang, Yuankai Wu, Roger Zimmermann, and Yang Wang.*
+
 ### [Identification](#content)
 1. **Data-driven discovery of partial differential equations.** SA, 2017. [paper](https://arxiv.org/abs/1910.11710)
 
@@ -3848,6 +3852,10 @@ Contributed by Chunyang Zhang.
 1. **Solving the one dimensional vertical suspended sediment mixing equation with arbitrary eddy diffusivity profiles using temporal normalized physics-informed neural networks.** Physics of Fluids, 2024. [paper](https://pubs.aip.org/aip/pof/article/36/1/017132/3105970)
 
    *Shaotong Zhang, Jiaxin Deng, Xi'an Li, Zixi Zhao, Jinran Wu, Weide Li,Yougan Wang, and Dongsheng Jeng.*
+
+1. **Neural SPH: Improved neural modeling of Lagrangian fluid dynamics.** arXiv, 2024. [paper](https://arxiv.org/abs/2402.06275)
+
+   *Artur P. Toshev, Jonas A. Erbesdobler, Nikolaus A. Adams, and Johannes Brandstetter.*
 
 ### [Cybernetics](#content)
 1. **Machine learning accelerated PDE backstepping observers.** arXiv, 2022. [paper](https://arxiv.org/abs/2211.15044)
