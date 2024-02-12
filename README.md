@@ -2803,6 +2803,10 @@ Contributed by Chunyang Zhang.
 
    *Lei Shi and Jiaqi Yang.*
 
+1. **Accelerating PDE data generation via differential operator action in solution space.** arXiv, 2024. [paper](https://arxiv.org/abs/2402.05957)
+
+   *Huanshuo Dong, Hong Wang, Haoyang Liu, Jian Luo, and Jie Wang.*
+
 ### [AutoML](#content)
 1. **Auto-PINN: Understanding and optimizing physics-informed neural architecture.** arXiv, 2022. [paper](https://arxiv.org/abs/2110.13361)
 
