@@ -2811,6 +2811,10 @@ Contributed by Chunyang Zhang.
 
    *Huanshuo Dong, Hong Wang, Haoyang Liu, Jian Luo, and Jie Wang.*
 
+1. **Correctness verification of neural networks approximating differential equations.** arXiv, 2024. [paper](https://arxiv.org/abs/2402.07621)
+
+   *Petros Ellinas, Rahul Nellikath, Ignasi Ventura, Jochen Stiasny, and Spyros Chatzivasileiadis.*
+
 ### [AutoML](#content)
 1. **Auto-PINN: Understanding and optimizing physics-informed neural architecture.** arXiv, 2022. [paper](https://arxiv.org/abs/2110.13361)
 
