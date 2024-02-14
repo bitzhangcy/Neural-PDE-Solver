@@ -571,6 +571,10 @@ Contributed by Chunyang Zhang.
 
    *Songming Liu, Chang Su, Jiachen Yao, Zhongkai Hao, Hang Su, Youjia Wu, and Jun Zhu.*
 
+1. **RBF-PINN: Non-Fourier positional embedding in physics-informed neural networks.** arXiv, 2024. [paper](https://arxiv.org/abs/2402.08367)
+
+   *Chengxi Zeng, Tilo Burghardt, and Alberto M Gambaruto.*
+
 ### [DeepONet](#content)
 1. **Learning nonlinear operators via DeepONet based on the universal approximation theorem of operators.** NMI, 2021. [paper](https://www.nature.com/articles/s42256-021-00302-5)
 
@@ -925,6 +929,10 @@ Contributed by Chunyang Zhang.
 1. **HAMLET: Graph transformer neural operator for partial differential equations.** arXiv, 2024. [paper](https://arxiv.org/abs/2402.03541)
 
    *Andrey Bryutkin, Jiahao Huang, Zhongying Deng, Guang Yang, Carola-Bibiane Schönlieb, and Angelica Aviles-Rivero.*
+
+1. **Learning time-dependent PDE via graph neural networks and deep operator network for robust accuracy on irregular grids.** arXiv, 2024. [paper](https://arxiv.org/abs/2402.08187)
+
+   *Sung Woong Cho, Jae Yong Lee, and Hyung Ju Hwang.*
 
 ### [Green Function](#content)
 1. **Learning Green's functions associated with time-dependent partial differential equations.** JMLR, 2022. [paper](https://www.jmlr.org/papers/volume23/22-0433/22-0433.pdf)
@@ -2950,6 +2958,10 @@ Contributed by Chunyang Zhang.
 
    *Jeahan Jung, Hyomin Shin, and Minseok Choi.*
 
+1. **Uncertainty quantification for forward and inverse problems of PDEs via latent global evolution.** AAAI, 2024. [paper](https://arxiv.org/abs/2402.08383)
+
+   *Tailin Wu, Willie Neiswanger, Hongtao Zheng, Stefano Ermon, and Jure Leskovec.*
+
 ### [Generative Model](#content)
 1. **A framework for data-driven solution and parameter estimation of PDEs using conditional generative adversarial networks.** NCS, 2021. [paper](https://www.nature.com/articles/s43588-021-00171-3)
 
@@ -4217,6 +4229,10 @@ Contributed by Chunyang Zhang.
 1. **Deep neural operator-driven real-time inference to enable digital twin solutions for nuclear energy systems.** Scientific Reports, 2024. [paper](https://www.nature.com/articles/s41598-024-51984-x)
 
    *Kazuma Kobayashi and Syed Bahauddin Alam.*
+
+1. **A physics-informed deep learning description of Knudsen layer reactivity reduction.** arXiv, 2024. [paper](https://arxiv.org/abs/2402.08495)
+
+   *Christopher J. McDevitt and Xianzhu Tang.*
 
 ### [Image](#content)
 1. **Learning to diffuse: A new perspective to design PDEs for visual analysis.** TPAMI, 2016. [paper](https://ieeexplore.ieee.org/document/7393839)
