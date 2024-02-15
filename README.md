@@ -575,6 +575,14 @@ Contributed by Chunyang Zhang.
 
    *Chengxi Zeng, Tilo Burghardt, and Alberto M Gambaruto.*
 
+1. **Training dynamics in physics-informed neural networks with feature mapping.** arXiv, 2024. [paper](https://arxiv.org/abs/2402.06955)
+
+   *Chengxi Zeng, Tilo Burghardt, and Alberto M Gambaruto.*
+
+1. **Score-based physics-informed neural networks for high-dimensional Fokker-Planck equations.** arXiv, 2024. [paper](https://arxiv.org/abs/2402.07465)
+
+   *Zheyuan Hu, Zhongqiang Zhang, George Em Karniadakis, and Kenji Kawaguchi.*
+
 ### [DeepONet](#content)
 1. **Learning nonlinear operators via DeepONet based on the universal approximation theorem of operators.** NMI, 2021. [paper](https://www.nature.com/articles/s42256-021-00302-5)
 
@@ -2312,6 +2320,10 @@ Contributed by Chunyang Zhang.
 
    *Sifan Wang, Bowen Li, Yuhan Chen, and Paris Perdikaris.*
 
+1. **An operator learning perspective on parameter-to-observable maps.** arXiv, 2024. [paper](https://arxiv.org/abs/2402.06031)
+
+   *Daniel Zhengyu Huang, Nicholas H. Nelsen, and Margaret Trautner.*
+
 ### [Domain Adaptation](#content)
 1. **Meta-auto-decoder for solving parametric partial differential equations.** NIPS, 2022. [paper](https://openreview.net/pdf?id=PwlW5Jri1Xt) 
 
@@ -2440,6 +2452,10 @@ Contributed by Chunyang Zhang.
 1. **PDE generalization of in-context operator networks: A study on 1D scalar nonlinear conservation laws.** arXiv, 2024. [paper](https://arxiv.org/abs/2401.07364)
 
    *Liu Yang and Stanley J. Osher.*
+
+1. **DIMON: Learning solution operators of partial differential equations on a diffeomorphic family of domains.** arXiv, 2024. [paper](https://arxiv.org/abs/2402.07250)
+
+   *Minglang Yin, Nicolas Charon, Ryan Brody, Lu Lu, Natalia Trayanova, and Mauro Maggioni.*
 
 ### [Loss Function](#content)
 1. **Adaptive activation functions accelerate convergence in deep and physics-informed neural networks.** JCP, 2021. [paper](https://www.sciencedirect.com/science/article/pii/S0021999119308411)
@@ -3237,6 +3253,10 @@ Contributed by Chunyang Zhang.
 
    *Andrea Bonfanti, Giuseppe Bruno, and Cristina Cipriani.*
 
+1. **A hybrid iterative method based on MIONet for PDEs: Theory and numerical examples.** arXiv, 2024. [paper](https://arxiv.org/abs/2402.03864)
+
+   *Jun Hu and Pengzhan Jin.*
+
 ### [Gaussian Process](#content)
 1. **PAGP: A physics-assisted Gaussian process framework with active learning for forward and inverse problems of partial differential equations.** arXiv, 2022. [paper](https://arxiv.org/abs/2204.02583)
 
@@ -3663,6 +3683,10 @@ Contributed by Chunyang Zhang.
 1. **A supervised learning scheme for computing Hamilton-Jacobi equation via density coupling.** arXiv, 2024. [paper](https://arxiv.org/abs/2401.15954)
 
    *Jianbo Cui, Shu Liu, and Haomin Zhou.*
+
+1. **Optimization in SciML -- A function space perspective.** arXiv, 2024. [paper](https://arxiv.org/abs/2402.07318)
+
+   *Johannes Müller and Marius Zeinhofer.*
 
 ### [Fluid](#content)
 1. **Physics-informed neural networks (PINNs) for fluid mechanics: A review.** Acta Mechanica Sinica, 2021. [paper](https://link.springer.com/article/10.1007/s10409-021-01148-1)
