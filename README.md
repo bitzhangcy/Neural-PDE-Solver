@@ -1347,9 +1347,13 @@ Contributed by Chunyang Zhang.
 
    *Yuhuang Meng, Jianguo Huang, and Yue Qiu.*
 
-1. **Operator learning without the adjoint.** arXiv, 2024. [paper](https://browse.arxiv.org/abs/2401.17739)
+1. **Operator learning without the adjoint.** arXiv, 2024. [paper](https://.arxiv.org/abs/2401.17739)
 
    *Nicolas Boullé, Diana Halikias, Samuel E. Otto, and Alex Townsend.*
+
+1. **Neural operators meet energy-based theory: Operator learning for Hamiltonian and dissipative PDEs.** arXiv, 2024. [paper](https://.arxiv.org/abs/2402.09018)
+
+   *Yusuke Tanaka, Takaharu Yaguchi, Tomoharu Iwata, and Naonori Ueda.*
 
 ### [Machine Learning](#content)
 1. **Machine learning–accelerated computational fluid dynamics.** PNAS, 2021. [paper](https://www.pnas.org/doi/10.1073/pnas.2101784118)
@@ -2624,6 +2628,10 @@ Contributed by Chunyang Zhang.
 
    *Jiachen Yang, Tarik Dzanic, Brenden Petersen, Jun Kudo, Ketan Mittal, Vladimir Tomov, Jean-Sylvain Camier, Tuo Zhao, Hongyuan Zha, Tzanio Kolev, Robert Anderson, and Daniel Faissol.*
 
+1. **Multiscale graph neural networks with adaptive mesh refinement for accelerating mesh-based simulations.** arXiv, 2024. [paper](https://arxiv.org/abs/2402.08863)
+
+   *Roberto Perera and Vinamra Agrawal.*
+
 ### [Decomposition](#content)
 1. **Composing partial differential equations with physics-aware neural networks.** ICLR, 2022. [paper](https://openreview.net/forum?id=DIsWHvtU7lF)
 
@@ -2838,6 +2846,10 @@ Contributed by Chunyang Zhang.
 1. **Correctness verification of neural networks approximating differential equations.** arXiv, 2024. [paper](https://arxiv.org/abs/2402.07621)
 
    *Petros Ellinas, Rahul Nellikath, Ignasi Ventura, Jochen Stiasny, and Spyros Chatzivasileiadis.*
+
+1. **DOF: Accelerating high-order differential operators with forward propagation.** arXiv, 2024. [paper](https://arxiv.org/abs/2402.09730)
+
+   *Ruichen Li, Chuwei Wang, Haotian Ye, Di He, and Liwei Wang.*
 
 ### [AutoML](#content)
 1. **Auto-PINN: Understanding and optimizing physics-informed neural architecture.** arXiv, 2022. [paper](https://arxiv.org/abs/2110.13361)
@@ -4057,6 +4069,14 @@ Contributed by Chunyang Zhang.
 1. **Physical-informed neural network for MPC-based trajectory tracking of vehicles with noise considered.** TIV, 2024. [paper](https://ieeexplore.ieee.org/abstract/document/10414012)
 
    *Long Jin, Longqi Liu, Xingxia Wang, Mingsheng Shang, and Feiyue Wang.*
+
+1. **Neural network approaches for parameterized optimal control.** arXiv, 2024. [paper](https://arxiv.org/abs/2402.10033)
+
+   *Deepanshu Verma, Nick Winovich, Lars Ruthotto, and Bart van Bloemen Waanders.*
+
+1. **Physics-informed neural network policy iteration: Algorithms, convergence, and verification.** arXiv, 2024. [paper](https://arxiv.org/abs/2402.10119)
+
+   *Yiming Meng, Ruikun Zhou, Amartya Mukherjee, Maxwell Fitzsimmons, Christopher Song, and Jun Liu.*
 
 ### [Climate](#content)
 1. **FourCastNet: A global data-driven high-resolution weather model using adaptive Fourier neural operators.** arXiv, 2022. [paper](https://arxiv.org/abs/2202.11214)
