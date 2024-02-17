@@ -2851,6 +2851,10 @@ Contributed by Chunyang Zhang.
 
    *Ruichen Li, Chuwei Wang, Haotian Ye, Di He, and Liwei Wang.*
 
+1. **Sobolev training for operator learning.** arXiv, 2024. [paper](https://arxiv.org/abs/2402.09084)
+
+   *Namkyeong Cho, Junseung Ryu, and Hyung Ju Hwang.*
+
 ### [AutoML](#content)
 1. **Auto-PINN: Understanding and optimizing physics-informed neural architecture.** arXiv, 2022. [paper](https://arxiv.org/abs/2110.13361)
 
@@ -3699,6 +3703,10 @@ Contributed by Chunyang Zhang.
 1. **Optimization in SciML -- A function space perspective.** arXiv, 2024. [paper](https://arxiv.org/abs/2402.07318)
 
    *Johannes Müller and Marius Zeinhofer.*
+
+1. **Inverse design method for horn antennas based on knowledge-embedded physics-informed neural networks.** IEEE Antennas and Wireless Propagation Letters, 2024. [paper](https://ieeexplore.ieee.org/abstract/document/10433641)
+
+   *Jinpin Liu, Bingzhong Wang, Chuansheng Chen, and Ren Wang.*
 
 ### [Fluid](#content)
 1. **Physics-informed neural networks (PINNs) for fluid mechanics: A review.** Acta Mechanica Sinica, 2021. [paper](https://link.springer.com/article/10.1007/s10409-021-01148-1)
