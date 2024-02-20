@@ -3917,6 +3917,10 @@ Contributed by Chunyang Zhang.
 
    *Artur P. Toshev, Jonas A. Erbesdobler, Nikolaus A. Adams, and Johannes Brandstetter.*
 
+1. **Continuous and discontinuous compressible flows in a converging–diverging channel solved by physics-informed neural networks without exogenous data.** Scientific Reports, 2024. [paper](https://www.nature.com/articles/s41598-024-53680-2)
+
+   *Hong Liang, Zilong Song, Chong Zhao, and Xin Bian.*
+
 ### [Cybernetics](#content)
 1. **Machine learning accelerated PDE backstepping observers.** arXiv, 2022. [paper](https://arxiv.org/abs/2211.15044)
 
@@ -4379,6 +4383,10 @@ Contributed by Chunyang Zhang.
 1. **Solving the discretised multiphase flow equations with interface capturing on structured grids using machine learning libraries.** arXiv, 2024. [paper](https://arxiv.org/abs/2401.06755)
 
    *Boyang Chen, Claire E. Heaney, Jefferson L. M. A. Gomes, Omar K. Matar, and Christopher C. Pain.*
+
+1. **Combustion chemistry acceleration with DeepONets.** Fuel, 2024. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0016236124003582)
+
+   *Anuj Kumar and Tarek Echekki.*
 
 ### [Reconstruction](#content)
 1. **Occupancy networks: Learning 3D reconstruction in function space.** CVPR, 2019. [paper](https://openaccess.thecvf.com/content_CVPR_2019/papers/Mescheder_Occupancy_Networks_Learning_3D_Reconstruction_in_Function_Space_CVPR_2019_paper.pdf)
