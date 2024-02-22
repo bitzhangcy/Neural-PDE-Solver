@@ -769,6 +769,10 @@ Contributed by Chunyang Zhang.
 
    *Taeyoung Kim and Myungjoo Sang.*
 
+1. **Invertible Fourier neural operators for tackling both forward and inverse problems.** arXiv, 2024. [paper](https://arxiv.org/abs/2402.11722)
+
+   *Da Long and Shandian Zhe.*
+
 ### [Graph Network](#content)
 1. **Message passing neural PDE solvers.** ICLR, 2022. [paper](https://openreview.net/forum?id=vSix3HPYKSU)
 
@@ -2575,6 +2579,10 @@ Contributed by Chunyang Zhang.
 
    *Kejun Tang, Xiaoliang Wan, and Chao Yang.*
 
+1. **Deep adaptive sampling for surrogate modeling without labeled data.** arXiv, 2024. [paper](https://arxiv.org/abs/2402.11283)
+
+   *Xili Wang, Kejun Tang, Jiayu Zhai, Xiaoliang Wan, and Chao Yang.*
+
 ### [Mesh](#content)
 1. **MeshingNet: A new mesh generation method based on deep learning.** ICCS, 2022. [paper](https://link.springer.com/chapter/10.1007/978-3-030-50420-5_14)
 
@@ -3929,6 +3937,14 @@ Contributed by Chunyang Zhang.
 
    *Hong Liang, Zilong Song, Chong Zhao, and Xin Bian.*
 
+1. **Gauss-Newton natural gradient descent for physics-informed computational fluid dynamics.** arXiv, 2024. [paper](https://arxiv.org/abs/2402.10680)
+
+   *Anas Jnini, Flavio Vella, and Marius Zeinhofer.*
+
+1. **Residual-enhanced physics-guided machine learning with hard constraints for subsurface flow in reservoir engineering.** TGRS, 2024. [paper](https://ieeexplore.ieee.org/abstract/document/10413628)
+
+   *Haibo Cheng, Yunpeng He, Peng Zeng, and Valeriy Vyatkin.*
+
 ### [Cybernetics](#content)
 1. **Machine learning accelerated PDE backstepping observers.** arXiv, 2022. [paper](https://arxiv.org/abs/2211.15044)
 
@@ -4097,6 +4113,10 @@ Contributed by Chunyang Zhang.
 1. **Physics-informed neural network policy iteration: Algorithms, convergence, and verification.** arXiv, 2024. [paper](https://arxiv.org/abs/2402.10119)
 
    *Yiming Meng, Ruikun Zhou, Amartya Mukherjee, Maxwell Fitzsimmons, Christopher Song, and Jun Liu.*
+
+1. **Nonlinear discrete-time observers with physics-informed neural networks.** arXiv, 2024. [paper](https://arxiv.org/abs/2402.12360)
+
+   *Hector Vargas Alvarez, Gianluca Fabiani, Ioannis G. Kevrekidis, Nikolaos Kazantzis, and Constantinos Siettos.*
 
 ### [Climate](#content)
 1. **FourCastNet: A global data-driven high-resolution weather model using adaptive Fourier neural operators.** arXiv, 2022. [paper](https://arxiv.org/abs/2202.11214)
@@ -4395,6 +4415,10 @@ Contributed by Chunyang Zhang.
 1. **Combustion chemistry acceleration with DeepONets.** Fuel, 2024. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0016236124003582)
 
    *Anuj Kumar and Tarek Echekki.*
+
+1. **Identifying heterogeneous micromechanical properties of biological tissues via physics-informed neural networks.** arXiv, 2024. [paper](https://arxiv.org/abs/2402.10741v1)
+
+   *Wensi Wu, Mitchell Daneker, Kevin T. Turner, Matthew A. Jolley, and Lu Lu.*
 
 ### [Reconstruction](#content)
 1. **Occupancy networks: Learning 3D reconstruction in function space.** CVPR, 2019. [paper](https://openaccess.thecvf.com/content_CVPR_2019/papers/Mescheder_Occupancy_Networks_Learning_3D_Reconstruction_in_Function_Space_CVPR_2019_paper.pdf)
