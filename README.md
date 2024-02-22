@@ -1117,6 +1117,10 @@ Contributed by Chunyang Zhang.
 
    *Jan-Philipp von Bassewitz, Sebastian Kaltenbach, and Petros Koumoutsakos.*
 
+1. **PARCv2: Physics-aware recurrent convolutional neural networks for spatiotemporal dynamics modeling.** arXiv, 2024. [paper](https://arxiv.org/abs/2402.12503)
+
+   *Phong C.H. Nguyen, Xinlun Cheng, Shahab Arfaza, Pradeep Seshadri, Yen T. Nguyen, Munho Kim, Sanghun Choi, H.S. Udaykumar, and Stephen Baek.*
+
 ### [AutoEncoder](#content)
 1. **Integral autoencoder network for discretization-invariant learning.** JMLR, 2022. [paper](https://www.jmlr.org/papers/v23/22-0297.html)
 
@@ -2854,6 +2858,10 @@ Contributed by Chunyang Zhang.
 1. **Sobolev training for operator learning.** arXiv, 2024. [paper](https://arxiv.org/abs/2402.09084)
 
    *Namkyeong Cho, Junseung Ryu, and Hyung Ju Hwang.*
+
+1. **Scaling physics-informed hard constraints with mixture-of-experts.** ICLR, 2024. [paper](https://openreview.net/forum?id=u3dX2CEIZb)
+
+   *Nithin Chalapathi, Yiheng Du, and Aditi Krishnapriyan.*
 
 ### [AutoML](#content)
 1. **Auto-PINN: Understanding and optimizing physics-informed neural architecture.** arXiv, 2022. [paper](https://arxiv.org/abs/2110.13361)
