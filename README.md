@@ -2025,7 +2025,11 @@ Contributed by Chunyang Zhang.
 
 1. **Implicit regularization of deep residual networks towards neural ODEs.** ICLR, 2024. [paper](https://openreview.net/forum?id=AbXGwqb5Ht)
 
-   *Pierre Marion, Yuhan Wu, Michael E. Sander, Gérard Biau.*
+   *Pierre Marion, Yuhan Wu, Michael E. Sander, and Gérard Biau.*
+
+1. **stable neural stochastic differential equations in analyzing irregular time series data.** ICLR, 2024. [paper](https://openreview.net/forum?id=4VIgNuQ1pY)
+
+   *YongKyung Oh, Dongyoung Lim, and Sungil Kim.*
 
 ### [Large Model](#content)
 1. **Prompting in-context operator learning with sensor data, equations, and natural language.** arXiv, 2023. [paper](https://arxiv.org/abs/2308.05061)
