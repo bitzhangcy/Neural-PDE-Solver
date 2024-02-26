@@ -1363,6 +1363,10 @@ Contributed by Chunyang Zhang.
 
    *Yusuke Tanaka, Takaharu Yaguchi, Tomoharu Iwata, and Naonori Ueda.*
 
+1. **Learning solution operators of PDEs defined on varying domains via MIONet.** arXiv, 2024. [paper](https://.arxiv.org/abs/2402.15097)
+
+   *Shanshan Xiao, Pengzhan Jin, and Yifa Tang.*
+
 ### [Machine Learning](#content)
 1. **Machine learning–accelerated computational fluid dynamics.** PNAS, 2021. [paper](https://www.pnas.org/doi/10.1073/pnas.2101784118)
 
@@ -3014,6 +3018,10 @@ Contributed by Chunyang Zhang.
 
    *Tailin Wu, Willie Neiswanger, Hongtao Zheng, Stefano Ermon, and Jure Leskovec.*
 
+1. **Physics-constrained polynomial chaos expansion for scientific machine learning and uncertainty quantification.** arXiv, 2024. [paper](https://arxiv.org/abs/2402.15115)
+
+   *Himanshu Sharma, Lukáš Novák, and Michael D. Shields.*
+
 ### [Generative Model](#content)
 1. **A framework for data-driven solution and parameter estimation of PDEs using conditional generative adversarial networks.** NCS, 2021. [paper](https://www.nature.com/articles/s43588-021-00171-3)
 
@@ -3727,6 +3735,10 @@ Contributed by Chunyang Zhang.
 1. **Inverse design method for horn antennas based on knowledge-embedded physics-informed neural networks.** IEEE Antennas and Wireless Propagation Letters, 2024. [paper](https://ieeexplore.ieee.org/abstract/document/10433641)
 
    *Jinpin Liu, Bingzhong Wang, Chuansheng Chen, and Ren Wang.*
+
+1. **G-RepsNet: A fast and general construction of equivariant networks for arbitrary matrix groups.** arXiv, 2024. [paper](https://arxiv.org/abs/2402.15413)
+
+   *Sourya Basu, Suhas Lohit, and Matthew Brandr.*
 
 ### [Fluid](#content)
 1. **Physics-informed neural networks (PINNs) for fluid mechanics: A review.** Acta Mechanica Sinica, 2021. [paper](https://link.springer.com/article/10.1007/s10409-021-01148-1)
