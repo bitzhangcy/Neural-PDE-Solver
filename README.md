@@ -210,6 +210,10 @@ Contributed by Chunyang Zhang.
 
    *Yanwen Xu, Sara Kohtz, Jessica Boakye, Paolo Gardoni, and Pingfeng Wang.* 
 
+1. **Neural operators for accelerating scientific simulations and design.** arXiv, 2024. [paper](https://arxiv.org/abs/2402.15715)
+
+   *Operator learning: Algorithms and analysis.* 
+
 
 ## [Model](#content) 
 ### [PINN](#content)
@@ -1124,6 +1128,10 @@ Contributed by Chunyang Zhang.
 1. **PARCv2: Physics-aware recurrent convolutional neural networks for spatiotemporal dynamics modeling.** arXiv, 2024. [paper](https://arxiv.org/abs/2402.12503)
 
    *Phong C.H. Nguyen, Xinlun Cheng, Shahab Arfaza, Pradeep Seshadri, Yen T. Nguyen, Munho Kim, Sanghun Choi, H.S. Udaykumar, and Stephen Baek.*
+
+1. **Neural operators with localized integral and differential kernels.** arXiv, 2024. [paper](https://arxiv.org/abs/2402.16845)
+
+   *Miguel Liu-Schiaffini, Julius Berner, Boris Bonev, Thorsten Kurth, Kamyar Azizzadenesheli, and Anima Anandkumar.*
 
 ### [AutoEncoder](#content)
 1. **Integral autoencoder network for discretization-invariant learning.** JMLR, 2022. [paper](https://www.jmlr.org/papers/v23/22-0297.html)
@@ -2040,6 +2048,10 @@ Contributed by Chunyang Zhang.
 
    *Varun Kumar, Leonard Gleyzer, Adar Kahana, Khemraj Shukla, and George Em Karniadakis.*
 
+1. **Data-efficient operator learning via unsupervised pretraining and in-context learning.** arXiv, 2024. [paper](https://arxiv.org/abs/2402.15734)
+
+   *Wuyang Chen, Jialin Song, Pu Ren, Shashank Subramanian, Dmitriy Morozov, and Michael W. Mahoney.*
+
 
 ## [Mechanism](#content)
 ### [Library](#content)
@@ -2883,6 +2895,10 @@ Contributed by Chunyang Zhang.
 
    *Nithin Chalapathi, Yiheng Du, and Aditi Krishnapriyan.*
 
+1. **Learning semilinear neural operators: A unified recursive framework for prediction and data assimilation.** ICLR, 2024. [paper](https://openreview.net/forum?id=ZMv6zKYYUs&noteId=EhSvltJICs)
+
+   *Ashutosh Singh, Ricardo Augusto Borsoi, Deniz Erdogmus, and Tales Imbiriba.*
+
 ### [AutoML](#content)
 1. **Auto-PINN: Understanding and optimizing physics-informed neural architecture.** arXiv, 2022. [paper](https://arxiv.org/abs/2110.13361)
 
@@ -3419,6 +3435,10 @@ Contributed by Chunyang Zhang.
 1. **Bayesian deep operator learning for homogenized to fine-scale maps for multiscale PDE.** arXiv, 2023. [paper](https://arxiv.org/abs/2308.14188)
 
    *Zecheng Zhang, Christian Moya, Wing Tat Leung, Guang Lin, and Hayden Schaeffer.*
+
+1. **Bayesian deep learning framework for uncertainty quantification in stochastic partial differential equations.** SIAM Journal on Scientific Computing, 2024. [paper](https://epubs.siam.org/doi/abs/10.1137/23M1560574)
+
+   *Jeahan Jung, Hyomin Shin, and Minseok Choi .*
 
 ### [Latent Space](#content)
 1. **Multiscale simulations of complex systems by learning their effective dynamics.** NMI, 2022. [paper](https://www.nature.com/articles/s42256-022-00464-w)
@@ -4257,6 +4277,14 @@ Contributed by Chunyang Zhang.
 
    *Qian Chen, Luyang Kong, Florian Dugast, and Albert To.*
 
+1. **Physics-informed neural network for solution of forward and inverse kinematic wave problems.** Journal of Hydrology, 2024. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0022169424003287)
+
+   *Qingzhi Hou, Yixin Li, Vijay P. Singh, Zewei Sun, and Jianguo Wei.*
+
+1. **PhyGrasp: Generalizing robotic grasping with physics-informed large multimodal models.** arXiv, 2024. [paper](https://arxiv.org/abs/2402.16836)
+
+   *Dingkun Guo, Yuqi Xiang, Shuqi Zhao, Xinghao Zhu, Masayoshi Tomizuka, Mingyu Ding, and Wei Zhan.*
+
 ### [Physics](#content)
 1. **Dynamic weights enabled physics-informed neural network for simulating the mobility of engineered nano-particles in a contaminated aquifer.** NIPS, 2022. [paper](https://arxiv.org/pdf/2211.03525.pdf)
 
@@ -4439,6 +4467,10 @@ Contributed by Chunyang Zhang.
 1. **Identifying heterogeneous micromechanical properties of biological tissues via physics-informed neural networks.** arXiv, 2024. [paper](https://arxiv.org/abs/2402.10741v1)
 
    *Wensi Wu, Mitchell Daneker, Kevin T. Turner, Matthew A. Jolley, and Lu Lu.*
+
+1. **Adaptive data-driven deep-learning surrogate model for frontal polymerization in dicyclopentadiene.** The Journal of Physical Chemistry B, 2024. [paper](https://pubs.acs.org/doi/abs/10.1021/acs.jpcb.3c07714)
+
+   *Qibang Liu, Diab Abueidda, Sagar Vyas, Yuan Gao, Seid Koric, and Philippe H. Geubelle.*
 
 ### [Reconstruction](#content)
 1. **Occupancy networks: Learning 3D reconstruction in function space.** CVPR, 2019. [paper](https://openaccess.thecvf.com/content_CVPR_2019/papers/Mescheder_Occupancy_Networks_Learning_3D_Reconstruction_in_Function_Space_CVPR_2019_paper.pdf)
