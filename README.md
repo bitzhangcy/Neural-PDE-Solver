@@ -3985,6 +3985,10 @@ Contributed by Chunyang Zhang.
 
    *Haibo Cheng, Yunpeng He, Peng Zeng, and Valeriy Vyatkin.*
 
+1. **Discovering artificial viscosity models for discontinuous Galerkin approximation of conservation laws using physics-informed machine learning.** arXiv, 2024. [paper](https://arxiv.org/abs/2402.16517)
+
+   *Matteo Caldana, Paola F. Antonietti, and Luca Dede'.*
+
 ### [Cybernetics](#content)
 1. **Machine learning accelerated PDE backstepping observers.** arXiv, 2022. [paper](https://arxiv.org/abs/2211.15044)
 
