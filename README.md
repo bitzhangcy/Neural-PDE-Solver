@@ -1375,6 +1375,10 @@ Contributed by Chunyang Zhang.
 
    *Shanshan Xiao, Pengzhan Jin, and Yifa Tang.*
 
+1. **Neural operators with localized integral and differential kernels.** arXiv, 2024. [paper](https://.arxiv.org/abs/2402.16845)
+
+   *Miguel Liu-Schiaffini, Julius Berner, Boris Bonev, Thorsten Kurth, Kamyar Azizzadenesheli, and Anima Anandkumar.*
+
 ### [Machine Learning](#content)
 1. **Machine learning–accelerated computational fluid dynamics.** PNAS, 2021. [paper](https://www.pnas.org/doi/10.1073/pnas.2101784118)
 
@@ -3042,6 +3046,14 @@ Contributed by Chunyang Zhang.
 
    *Himanshu Sharma, Lukáš Novák, and Michael D. Shields.*
 
+1. **Physics-constrained polynomial chaos expansion for scientific machine learning and uncertainty quantification.** arXiv, 2024. [paper](https://arxiv.org/abs/2402.15115v1)
+
+   *Himanshu Sharma, Lukáš Novák, and Michael D. Shields.*
+
+1. **Conformalized-DeepOnet: A distribution-free framework for uncertainty quantification in deep operator networks.** arXiv, 2024. [paper](https://arxiv.org/abs/2402.15406)
+
+   *Christian Moya, Amirhossein Mollaali, Zecheng Zhang, Lu Lu, and Guang Lin.*
+
 ### [Generative Model](#content)
 1. **A framework for data-driven solution and parameter estimation of PDEs using conditional generative adversarial networks.** NCS, 2021. [paper](https://www.nature.com/articles/s43588-021-00171-3)
 
@@ -3235,6 +3247,10 @@ Contributed by Chunyang Zhang.
 1. **Loss-attentional physics-informed neural networks.** JCP, 2024. [paper](https://www.sciencedirect.com/science/article/pii/S00219991240003055) 
 
    *Yanjie Song, He Wang, He Yang, Maria Luisa Taccari, and Xiaohui Chen.*
+
+1. **PirateNets: Physics-informed deep learning with residual adaptive networks.** arXiv, 2024. [paper](https://arxiv.org/abs/2402.00326v2) 
+
+   *Sifan Wang, Bowen Li, Yuhan Chen, and Paris Perdikaris.*
 
 ### [Theory](#content)
 1. **Convergence analysis of a quasi-Monte Carlo-based deep learning algorithm for solving partial differential equations.** arXiv, 2022. [paper](https://arxiv.org/abs/2210.16196)
@@ -3480,6 +3496,12 @@ Contributed by Chunyang Zhang.
 1. **Physics-informed generator-encoder adversarial networks with latent space matching for stochastic differential equations.** arXiv, 2023. [paper](https://arxiv.org/abs/2311.01708)
 
    *Ruisong Gao, Min Yang, and Jin Zhang.*
+
+1. **Smooth and sparse latent dynamics in operator learning with Jerk 
+
+1. **regularization** arXiv, 2024. [paper](https://arxiv.org/abs/2402.15636)
+
+    *Xiaoyu Xie, Saviz Mowlavi, and Mouhacine Benosman.*
 
 ### [Lagrangian](#content)
 1. **Lagrangian PINNs: A causality–conforming solution to failure modes of physics-informed neural networks.** arXiv, 2022. [paper](https://arxiv.org/abs/2205.02902)
@@ -3989,6 +4011,10 @@ Contributed by Chunyang Zhang.
 
    *Matteo Caldana, Paola F. Antonietti, and Luca Dede'.*
 
+1. **EuLagNet: Eulerian fluid prediction with Lagrangian dynamics.** arXiv, 2024. [paper](https://arxiv.org/abs/2402.02425)
+
+   *Qilong Ma, Haixu Wu, Lanxiang Xing, Jianmin Wang, and Mingsheng Long.*
+
 ### [Cybernetics](#content)
 1. **Machine learning accelerated PDE backstepping observers.** arXiv, 2022. [paper](https://arxiv.org/abs/2211.15044)
 
@@ -4288,6 +4314,10 @@ Contributed by Chunyang Zhang.
 1. **PhyGrasp: Generalizing robotic grasping with physics-informed large multimodal models.** arXiv, 2024. [paper](https://arxiv.org/abs/2402.16836)
 
    *Dingkun Guo, Yuqi Xiang, Shuqi Zhao, Xinghao Zhu, Masayoshi Tomizuka, Mingyu Ding, and Wei Zhan.*
+
+1. **Structure-preserving operator learning: Modeling the collision operator of kinetic equations.** arXiv, 2024. [paper](https://arxiv.org/abs/2402.16613)
+
+   *Jae Yong Lee, Steffen Schotthöfer, Tianbai Xiao, Sebastian Krumscheid, and Martin Frank.*
 
 ### [Physics](#content)
 1. **Dynamic weights enabled physics-informed neural network for simulating the mobility of engineered nano-particles in a contaminated aquifer.** NIPS, 2022. [paper](https://arxiv.org/pdf/2211.03525.pdf)
