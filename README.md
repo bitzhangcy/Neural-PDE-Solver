@@ -670,7 +670,11 @@ Contributed by Chunyang Zhang.
 
 1. **DeepOnet based preconditioning strategies for solving parametric linear systems of equations.** arXiv, 2024. [paper](https://arxiv.org/abs/2401.02016)
 
-   *Alena Kopaničáková andGeorge Em Karniadakis.*
+   *Alena Kopaničáková and George Em Karniadakis.*
+
+1. **Derivative-enhanced deep operator network.** arXiv, 2024. [paper](https://arxiv.org/abs/2402.19242)
+
+   *Yuan Qiu, Nolan Bridges, and Peng Chen.*
 
 ### [Fourier Operator](#content)
 1. **Fourier neural operator for parametric partial differential equations.** ICLR, 2021. [paper](https://openreview.net/forum?id=c8P9NQVtmnO)
