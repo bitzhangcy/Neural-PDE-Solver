@@ -781,6 +781,10 @@ Contributed by Chunyang Zhang.
 
    *Da Long and Shandian Zhe.*
 
+1. **An operator learning perspective on parameter-to-observable maps.** arXiv, 2024. [paper](https://arxiv.org/abs/2402.06031v1)
+
+   *Daniel Zhengyu Huang, Nicholas H. Nelsen, and Margaret Trautner.*
+
 ### [Graph Network](#content)
 1. **Message passing neural PDE solvers.** ICLR, 2022. [paper](https://openreview.net/forum?id=vSix3HPYKSU)
 
@@ -2364,6 +2368,14 @@ Contributed by Chunyang Zhang.
 
    *Daniel Zhengyu Huang, Nicholas H. Nelsen, and Margaret Trautner.*
 
+1. **Architectural strategies for the optimization of physics-informed neural networks.** arXiv, 2024. [paper](https://arxiv.org/abs/2402.02711)
+
+   *Hemanth Saratchandran, Shin-Fang Chng, and Simon Lucey.*
+
+1. **Closure discovery for coarse-grained partial differential equations using multi-agent reinforcement learning.** arXiv, 2024. [paper](https://arxiv.org/abs/2402.00972)
+
+   *Jan-Philipp von Bassewitz, Sebastian Kaltenbach, and Petros Koumoutsakos.*
+
 ### [Domain Adaptation](#content)
 1. **Meta-auto-decoder for solving parametric partial differential equations.** NIPS, 2022. [paper](https://openreview.net/pdf?id=PwlW5Jri1Xt) 
 
@@ -3341,6 +3353,10 @@ Contributed by Chunyang Zhang.
 
    *Jun Hu and Pengzhan Jin.*
 
+1. **A priori error estimation of physics-informed neural networks solving Allen--Cahn and Cahn--Hilliard equations.** arXiv, 2024. [paper](https://arxiv.org/abs/2402.02667)
+
+   *Guangtao Zhang, Jiani Lin, Qijia Zhai, Huiyu Yang, Xujun Chen, Xiaoning Zheng, and Ieng Tak Leong.*
+
 ### [Gaussian Process](#content)
 1. **PAGP: A physics-assisted Gaussian process framework with active learning for forward and inverse problems of partial differential equations.** arXiv, 2022. [paper](https://arxiv.org/abs/2204.02583)
 
@@ -3501,11 +3517,13 @@ Contributed by Chunyang Zhang.
 
    *Ruisong Gao, Min Yang, and Jin Zhang.*
 
-1. **Smooth and sparse latent dynamics in operator learning with Jerk 
-
-1. **regularization** arXiv, 2024. [paper](https://arxiv.org/abs/2402.15636)
+1. **Smooth and sparse latent dynamics in operator learning with Jerk regularization** arXiv, 2024. [paper](https://arxiv.org/abs/2402.15636)
 
     *Xiaoyu Xie, Saviz Mowlavi, and Mouhacine Benosman.*
+
+1. **Latent neural PDE solver: A reduced-order modelling framework for partial differential equations** arXiv, 2024. [paper](https://arxiv.org/abs/2402.17853)
+
+    *Zijie Li, Saurabh Patil, Francis Ogoke, Dule Shu, Wilson Zhen, Michael Schneier, John R. Buchanan Jr., and Amir Barati Farimani.*
 
 ### [Lagrangian](#content)
 1. **Lagrangian PINNs: A causality–conforming solution to failure modes of physics-informed neural networks.** arXiv, 2022. [paper](https://arxiv.org/abs/2205.02902)
@@ -4018,6 +4036,10 @@ Contributed by Chunyang Zhang.
 1. **EuLagNet: Eulerian fluid prediction with Lagrangian dynamics.** arXiv, 2024. [paper](https://arxiv.org/abs/2402.02425)
 
    *Qilong Ma, Haixu Wu, Lanxiang Xing, Jianmin Wang, and Mingsheng Long.*
+
+1. **Physics-informed neural networks with domain decomposition for the incompressible Navier–Stokes equations .** Physics of Fluids, 2024. [paper](https://pubs.aip.org/aip/pof/article/36/2/021914/3267717)
+
+   *Linyan Gu, Shanlin Qin, Lei Xu, and Rongliang Chen.*
 
 ### [Cybernetics](#content)
 1. **Machine learning accelerated PDE backstepping observers.** arXiv, 2022. [paper](https://arxiv.org/abs/2211.15044)
