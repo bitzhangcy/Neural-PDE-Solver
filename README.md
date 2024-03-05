@@ -587,6 +587,10 @@ Contributed by Chunyang Zhang.
 
    *Zheyuan Hu, Zhongqiang Zhang, George Em Karniadakis, and Kenji Kawaguchi.*
 
+1. **Investigation of compressor cascade flow using physics-informed neural networks with adaptive learning strategy.** AIAA Journal, 2024. [paper](https://arc.aiaa.org/doi/full/10.2514/1.J063562)
+
+   *Zhihui Li, Francesco Montomoli, and Sanjiv Sharma.*
+
 ### [DeepONet](#content)
 1. **Learning nonlinear operators via DeepONet based on the universal approximation theorem of operators.** NMI, 2021. [paper](https://www.nature.com/articles/s42256-021-00302-5)
 
@@ -2376,6 +2380,10 @@ Contributed by Chunyang Zhang.
 
    *Jan-Philipp von Bassewitz, Sebastian Kaltenbach, and Petros Koumoutsakos.*
 
+1. **Kolmogorov n-widths for multitask physics-informed machine learning (PIML) methods: Towards robust metrics.** arXiv, 2024. [paper](https://arxiv.org/abs/2402.11126v1)
+
+   *Michael Penwarden, Houman Owhadi, and Robert M. Kirby.*
+
 ### [Domain Adaptation](#content)
 1. **Meta-auto-decoder for solving parametric partial differential equations.** NIPS, 2022. [paper](https://openreview.net/pdf?id=PwlW5Jri1Xt) 
 
@@ -2687,6 +2695,10 @@ Contributed by Chunyang Zhang.
 1. **Multiscale graph neural networks with adaptive mesh refinement for accelerating mesh-based simulations.** arXiv, 2024. [paper](https://arxiv.org/abs/2402.08863)
 
    *Roberto Perera and Vinamra Agrawal.*
+
+1. **Learning mesh motion techniques with application to fluid–structure interaction.** Computer Methods in Applied Mechanics and Engineering, 2024. [paper](https://www.sciencedirect.com/science/article/pii/S0045782524001464)
+
+   *Johannes Haubner, Ottar Hellan, Marius Zeinhofer, and Miroslav Kuchta.*
 
 ### [Decomposition](#content)
 1. **Composing partial differential equations with physics-aware neural networks.** ICLR, 2022. [paper](https://openreview.net/forum?id=DIsWHvtU7lF)
@@ -4466,6 +4478,10 @@ Contributed by Chunyang Zhang.
 1. **Real-time FJ/MAC PDE solvers via tensorized, back-propagation-free optical PINN training.** arXiv, 2024. [paper](https://arxiv.org/abs/2401.00413)
 
    *Yequan Zhao, Xian Xian, Xinling Yu, Ziyue Liu, Zhixiong Chen, Geza Kurczveil, Raymond G. Beausoleil, and Zheng Zhang.*
+
+1. **Performance of Fourier-based activation function in physics-informed neural networks for patient-specific cardiovascular flows.** Computer Methods and Programs in Biomedicine, 2024. [paper](https://www.sciencedirect.com/science/article/pii/S0169260724000774)
+
+   *Arman Aghaee and M. Owais Khan.*
 
 ### [Molecules](#content)
 1. **Symmetry-informed geometric representation for molecules, proteins, and crystalline materials.** arXiv, 2023. [paper](https://arxiv.org/abs/2306.09375)
