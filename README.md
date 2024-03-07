@@ -591,6 +591,10 @@ Contributed by Chunyang Zhang.
 
    *Zhihui Li, Francesco Montomoli, and Sanjiv Sharma.*
 
+1. **Exact enforcement of temporal continuity in sequential physics-informed neural networks.** arXiv, 2024. [paper](https://arxiv.org/abs/2403.03223)
+
+   *Pratanu Roy and Stephen Castonguay.*
+
 ### [DeepONet](#content)
 1. **Learning nonlinear operators via DeepONet based on the universal approximation theorem of operators.** NMI, 2021. [paper](https://www.nature.com/articles/s42256-021-00302-5)
 
@@ -3279,6 +3283,10 @@ Contributed by Chunyang Zhang.
 1. **PirateNets: Physics-informed deep learning with residual adaptive networks.** arXiv, 2024. [paper](https://arxiv.org/abs/2402.00326v2) 
 
    *Sifan Wang, Bowen Li, Yuhan Chen, and Paris Perdikaris.*
+
+1. **DPOT: Auto-regressive denoising operator transformer for large-scale PDE pre-training.** arXiv, 2024. [paper](https://arxiv.org/abs/2403.03542) 
+
+   *Zhongkai Hao, Chang Su, Songming Liu, Julius Berner, Chengyang Ying, Hang Su, Anima Anandkumar, Jian Song, and Jun Zhu.*
 
 ### [Theory](#content)
 1. **Convergence analysis of a quasi-Monte Carlo-based deep learning algorithm for solving partial differential equations.** arXiv, 2022. [paper](https://arxiv.org/abs/2210.16196)
