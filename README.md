@@ -1865,6 +1865,10 @@ Contributed by Chunyang Zhang.
 
    *Mohsen Sadr, Tony Tohme, and Kamal Youcef-Toumi.*
 
+1. **Learning the dynamics for unknown hyperbolic conservation laws using deep neural networks.** SIAM Journal on Scientific Computing, 2024. [paper](https://epubs.siam.org/doi/abs/10.1137/22M1537333)
+
+   *Zhen Chen, Anne Gelb, and Yoonsang Lee.*
+
 ### [Inverse Design](#content)
 1. **DPM: Physics-informed Karhunen-Loéve and neural network approximations for solving inverse differential equation problems.** AAAI, 2021. [paper](https://ojs.aaai.org/index.php/AAAI/article/view/16992/16799)
 
