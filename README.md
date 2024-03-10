@@ -2147,6 +2147,10 @@ Contributed by Chunyang Zhang.
 
    *Jiaqi Gu, Mohit Dighamber, Zhengqi Gao, and Duane S. Boning.*
 
+1. **Physics-informed neural networks for advanced modeling.** Journal of Open Source Software, 2024. [paper](https://joss.theoj.org/papers/10.21105/joss.05352) / [Github](https://github.com/mathLab/PINA)
+
+   *Dario Coscia, Anna Ivagnes, Nicola Demo, and Gianluigi Rozza.*
+
 ### [Analysis](#content)
 1. **Characterizing possible failure modes in physics-informed neural networks.** NIPS, 2021. [paper](https://openreview.net/forum?id=a2Gr9gNFD-J)
 
