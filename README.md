@@ -595,6 +595,10 @@ Contributed by Chunyang Zhang.
 
    *Pratanu Roy and Stephen Castonguay.*
 
+1. **Multiple scattering simulation via physics-informed neural networks.** arXiv, 2024. [paper](https://arxiv.org/abs/2403.04094v1)
+
+   *Siddharth Nair, Timothy F. Walsh, Greg Pickrell, and Fabio Semperlotti.*
+
 ### [DeepONet](#content)
 1. **Learning nonlinear operators via DeepONet based on the universal approximation theorem of operators.** NMI, 2021. [paper](https://www.nature.com/articles/s42256-021-00302-5)
 
@@ -792,6 +796,10 @@ Contributed by Chunyang Zhang.
 1. **An operator learning perspective on parameter-to-observable maps.** arXiv, 2024. [paper](https://arxiv.org/abs/2402.06031v1)
 
    *Daniel Zhengyu Huang, Nicholas H. Nelsen, and Margaret Trautner.*
+
+1. **Gabor-filtered Fourier neural operator for solving partial differential equations.** Computers & Fluids, 2024. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0045793024000719)
+
+   *Kai Qi and Jian Sun.*
 
 ### [Graph Network](#content)
 1. **Message passing neural PDE solvers.** ICLR, 2022. [paper](https://openreview.net/forum?id=vSix3HPYKSU)
@@ -2647,6 +2655,10 @@ Contributed by Chunyang Zhang.
 
    *Xili Wang, Kejun Tang, Jiayu Zhai, Xiaoliang Wan, and Chao Yang.*
 
+1. **Physics-informed neural networks for sampling.** ICLR, 2024. [paper](https://openreview.net/forum?id=KwHPBIGkET)
+
+   *Jingtong Sun, Julius Berner, Kamyar Azizzadenesheli, and Anima Anandkumar.*
+
 ### [Mesh](#content)
 1. **MeshingNet: A new mesh generation method based on deep learning.** ICCS, 2022. [paper](https://link.springer.com/chapter/10.1007/978-3-030-50420-5_14)
 
@@ -2942,6 +2954,10 @@ Contributed by Chunyang Zhang.
 1. **Learning semilinear neural operators: A unified recursive framework for prediction and data assimilation.** ICLR, 2024. [paper](https://openreview.net/forum?id=ZMv6zKYYUs&noteId=EhSvltJICs)
 
    *Ashutosh Singh, Ricardo Augusto Borsoi, Deniz Erdogmus, and Tales Imbiriba.*
+
+1. **Efficient and stable SAV-based methods for gradient flows arising from deep learning.** JCP, 2024. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0021999124001608)
+
+   *Ziqi Ma, Zhiping Mao, and Jie Shen.*
 
 ### [AutoML](#content)
 1. **Auto-PINN: Understanding and optimizing physics-informed neural architecture.** arXiv, 2022. [paper](https://arxiv.org/abs/2110.13361)
@@ -4659,6 +4675,10 @@ Contributed by Chunyang Zhang.
 1. **Improved generalization with deep neural operators for engineering systems: Path towards digital twin.** EAAI, 2024. [paper](https://www.sciencedirect.com/science/article/pii/S0952197624000022)
 
    *Kazuma Kobayashi, James Daniell, and Syed Bahauddin Alam.*
+
+1. **A deep transfer operator learning method for temperature field reconstruction in a lithium-ion battery pack.** TII, 2024. [paper](https://ieeexplore.ieee.org/abstract/document/10462637)
+
+   *Yuchen Wang, Can Xiong, Changjiang Ju, Genke Yang, Yuwang Chen, and Xiaotian Yu.*
 
 ### [Economics](#content)
 1. **A deep learning based numerical PDE method for option pricing.** Computational Economics, 2023. [paper](https://link.springer.com/article/10.1007/s10614-022-10279-x)
