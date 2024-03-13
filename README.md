@@ -2084,6 +2084,10 @@ Contributed by Chunyang Zhang.
 
    *Wuyang Chen, Jialin Song, Pu Ren, Shashank Subramanian, Dmitriy Morozov, and Michael W. Mahoney.*
 
+1. **UPS: Towards foundation models for PDE solving via cross-modal adaptation.** arXiv, 2024. [paper](https://arxiv.org/abs/2403.07187)
+
+   *Junhong Shen, Tanya Marwah, and Ameet Talwalkar.*
+
 
 ## [Mechanism](#content)
 ### [Library](#content)
