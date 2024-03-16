@@ -102,20 +102,25 @@ Contributed by Chunyang Zhang.
 <tr>
     <td>&ensp;<a href="#physics">4.7 Physics</a></td>
     <td>&ensp;<a href="#image">4.8 Image</a></td>
-</tr> 
+</tr>
 <tr>
-    <td>&ensp;<a href="#molecules">4.9 Molecules</a></td>
-    <td>&ensp;<a href="#reconstruction">4.10 Reconstruction</a></td>
+    <td>&ensp;<a href="#chemistry">4.9 Chemistry</a></td>
+    <td>&ensp;<a href="#materials">4.10 Materials</a></td>
+</tr>
+<tr>
+    <td>&ensp;<a href="#molecules">4.11 Molecules</a></td>
+    <td>&ensp;<a href="#reconstruction">4.12 Reconstruction</a></td>
 </tr>  
 <tr>
-    <td>&ensp;<a href="#quantum">4.11 Quantum</a></td>
-    <td>&ensp;<a href="#game-theory">4.12 Game Theory</a></td>
+    <td>&ensp;<a href="#quantum">4.13 Quantum</a></td>
+    <td>&ensp;<a href="#game-theory">4.14 Game Theory</a></td>
 </tr> 
 <tr>
-    <td>&ensp;<a href="#industry">4.13 Industry</a></td>
-    <td>&ensp;<a href="#economics">4.14 Economics</a></td>
+    <td>&ensp;<a href="#industry">4.15 Industry</a></td>
+    <td>&ensp;<a href="#economics">4.16 Economics</a></td>
 </tr> 
 </table>
+
 
 ## [Survey Papers](#content)
 1. **Physics-informed machine learning.** Nature Reviews Physics, 2021. [paper](https://www.nature.com/articles/s42254-021-00314-5)
@@ -2728,6 +2733,10 @@ Contributed by Chunyang Zhang.
 
    *Johannes Haubner, Ottar Hellan, Marius Zeinhofer, and Miroslav Kuchta.*
 
+1. **Learning time-dependent PDE via graph neural networks and deep operator network for robust accuracy on irregular grids.** arXiv, 2024. [paper](https://arxiv.org/abs/2402.08187v1)
+
+   *Sung Woong Cho, Jae Yong Lee, and Hyung Ju Hwang.*
+
 ### [Decomposition](#content)
 1. **Composing partial differential equations with physics-aware neural networks.** ICLR, 2022. [paper](https://openreview.net/forum?id=DIsWHvtU7lF)
 
@@ -4085,9 +4094,17 @@ Contributed by Chunyang Zhang.
 
    *Qilong Ma, Haixu Wu, Lanxiang Xing, Jianmin Wang, and Mingsheng Long.*
 
-1. **Physics-informed neural networks with domain decomposition for the incompressible Navier–Stokes equations .** Physics of Fluids, 2024. [paper](https://pubs.aip.org/aip/pof/article/36/2/021914/3267717)
+1. **Physics-informed neural networks with domain decomposition for the incompressible Navier–Stokes equations.** Physics of Fluids, 2024. [paper](https://pubs.aip.org/aip/pof/article/36/2/021914/3267717)
 
    *Linyan Gu, Shanlin Qin, Lei Xu, and Rongliang Chen.*
+
+1. **Two-stage initial-value iterative physics-informed neural networks for simulating solitary waves of nonlinear wave equations.** JCP, 2024. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0021999124001669)
+
+   *Jin Song, Ming Zhong, George Em Karniadakis, and Zhenya Yan.*
+
+1. **Continuous and discontinuous compressible flows in a converging–diverging channel solved by physics-informed neural networks without exogenous data.** Scientific Reports, 2024. [paper](https://www.nature.com/articles/s41598-024-53680-2)
+
+   *Hong Liang, Zilong Song, Chong Zhao, and Xin Bian.*
 
 ### [Cybernetics](#content)
 1. **Machine learning accelerated PDE backstepping observers.** arXiv, 2022. [paper](https://arxiv.org/abs/2211.15044)
@@ -4478,6 +4495,14 @@ Contributed by Chunyang Zhang.
 
    *Christopher J. McDevitt and Xianzhu Tang.*
 
+1. **Inverse design method for horn antennas based on knowledge-embedded physics-informed neural networks.** IEEE Antennas and Wireless Propagation Letters, 2024. [paper](https://ieeexplore.ieee.org/abstract/document/10433641)
+
+   *Jinpin Liu, Bingzhong Wang, Chuan-Sheng Chen, and Ren Wang.*
+
+1. **Combined analysis of thermofluids and electromagnetism using physics-informed neural networks.** EAAI, 2024. [paper](https://ieeexplore.ieee.org/abstract/document/10433641)
+
+   *Yeonhwi Jeong, Junhyoung Jo, Tonghun Lee, and Jihyung Yoo.*
+
 ### [Image](#content)
 1. **Learning to diffuse: A new perspective to design PDEs for visual analysis.** TPAMI, 2016. [paper](https://ieeexplore.ieee.org/document/7393839)
 
@@ -4518,6 +4543,16 @@ Contributed by Chunyang Zhang.
 1. **Performance of Fourier-based activation function in physics-informed neural networks for patient-specific cardiovascular flows.** Computer Methods and Programs in Biomedicine, 2024. [paper](https://www.sciencedirect.com/science/article/pii/S0169260724000774)
 
    *Arman Aghaee and M. Owais Khan.*
+
+### [Chemistry](#content)
+1. **Combustion chemistry acceleration with DeepONets.** Fuel, 2024. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0016236124003582)
+
+   *Anuj Kumar and Tarek Echekki.*
+
+### [Materials](#content)
+1. **Microstructure-sensitive deformation modeling and materials design with physics-informed neural networks.** AIAA Journal, 2024. [paper](https://arc.aiaa.org/doi/abs/10.2514/1.J062708)
+
+   *Mahmudul Hasan, Zekeriya Ender Eger, Arulmurugan Senthilnathan, and Pınar Acar .*
 
 ### [Molecules](#content)
 1. **Symmetry-informed geometric representation for molecules, proteins, and crystalline materials.** arXiv, 2023. [paper](https://arxiv.org/abs/2306.09375)
