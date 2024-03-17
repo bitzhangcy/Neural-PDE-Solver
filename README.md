@@ -1637,6 +1637,10 @@ Contributed by Chunyang Zhang.
 
    *Kun Wang, Hao Wu, Guibin Zhang, Junfeng Fang, Yuxuan Liang, Yuankai Wu, Roger Zimmermann, and Yang Wang.*
 
+1. **Solving Euler equations with gradient-weighted multi-input high-dimensional feature neural network.** Physics of Fluids, 2024. [paper](https://pubs.aip.org/aip/pof/article/36/3/035150/3272548)
+
+   *Jiebin Zhao, Wei Wu, Xinlong Feng, and Hui Xu .*
+
 ### [Identification](#content)
 1. **Data-driven discovery of partial differential equations.** SA, 2017. [paper](https://arxiv.org/abs/1910.11710)
 
@@ -3200,7 +3204,7 @@ Contributed by Chunyang Zhang.
 
    *Oded Ovadia, Adar Kahana, Panos Stinis, Eli Turkel, and George Em Karniadakis.*
 
-1. **LatentPINNs: Generative physics-informed neural networks via a latent representation learning.** arXiv, 2023. [paper](https://arxiv.org/abs/2305.07671)
+1. **Latent PINNs: Generative physics-informed neural networks via a latent representation learning.** arXiv, 2023. [paper](https://arxiv.org/abs/2305.07671)
 
    *Mohammad H. Taufik and Tariq Alkhalifah.*
 
