@@ -2550,9 +2550,13 @@ Contributed by Chunyang Zhang.
 
    *Minglang Yin, Nicolas Charon, Ryan Brody, Lu Lu, Natalia Trayanova, and Mauro Maggioni.*
 
-1. **Transferable neural networks for partial differential equations.**  Journal of Scientific Computing , 2024. [paper](https://link.springer.com/article/10.1007/s10915-024-02463-y)
+1. **Transferable neural networks for partial differential equations.**  Journal of Scientific Computing, 2024. [paper](https://link.springer.com/article/10.1007/s10915-024-02463-y)
 
-   *Zezhong Zhang, Feng Bao, Lili Ju, and Guannan Zhang .*
+   *Zezhong Zhang, Feng Bao, Lili Ju, and Guannan Zhang.*
+
+1. **Using uncertainty quantification to characterize and improve out-of-domain learning for PDEs.**  arXiv, 2024. [paper](https://arxiv.org/abs/2403.10642)
+
+   *S. Chandra Mouli, Danielle C. Maddix, Shima Alizadeh, Gaurav Gupta, Andrew Stuart, Michael W. Mahoney, and Yuyang Wang.*
 
 ### [Loss Function](#content)
 1. **Adaptive activation functions accelerate convergence in deep and physics-informed neural networks.** JCP, 2021. [paper](https://www.sciencedirect.com/science/article/pii/S0021999119308411)
