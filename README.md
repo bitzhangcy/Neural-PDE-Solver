@@ -2558,6 +2558,10 @@ Contributed by Chunyang Zhang.
 
    *S. Chandra Mouli, Danielle C. Maddix, Shima Alizadeh, Gaurav Gupta, Andrew Stuart, Michael W. Mahoney, and Yuyang Wang.*
 
+1. **Neural parameter regression for explicit representations of PDE solution operators.**  ICLR, 2024. [paper](https://arxiv.org/abs/2403.12764)
+
+   *Konrad Mundinger, Max Zimmer, and Sebastian Pokutta.*
+
 ### [Loss Function](#content)
 1. **Adaptive activation functions accelerate convergence in deep and physics-informed neural networks.** JCP, 2021. [paper](https://www.sciencedirect.com/science/article/pii/S0021999119308411)
 
@@ -3664,6 +3668,10 @@ Contributed by Chunyang Zhang.
 
    *Xuanle Zhao, Yue Sun, Tielin Zhang, and Bo Xu.*
 
+1. **Mitigating spectral bias for the multiscale operator learning.** JCP, 2024. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0021999124001931)
+
+   *Xinliang Liu, Bo Xu, Shuhao Cao, and Lei Zhang.*
+
 ### [Multi Fidelity](#content)
 1. **Multifidelity deep operator networks.** arXiv, 2022. [paper](https://arxiv.org/abs/2204.09157)
 
@@ -4113,6 +4121,18 @@ Contributed by Chunyang Zhang.
 1. **Continuous and discontinuous compressible flows in a converging–diverging channel solved by physics-informed neural networks without exogenous data.** Scientific Reports, 2024. [paper](https://www.nature.com/articles/s41598-024-53680-2)
 
    *Hong Liang, Zilong Song, Chong Zhao, and Xin Bian.*
+
+1. **A fast general thermal simulation model based on multi-branch physics-informed deep operator neural network.** Physics of Fluids, 2024. [paper](https://pubs.aip.org/aip/pof/article/36/3/037142/3277890)
+
+   *Zibo Lu, Yuanye Zhou, Yanbo Zhang, Xiaoguang Hu, Qiao Zhao, and Xuyang Hu.*
+
+1. **Potential of physics-informed neural networks for solving fluid flow problems with parametric boundary conditions.** Physics of Fluids, 2024. [paper](https://pubs.aip.org/aip/pof/article/36/3/037143/3278488)
+
+   *F. Lorenzen, A. Zargaran, and U. Janoske.*
+
+1. **Physics-informed neural networks for transonic flow around a cylinder with high Reynolds number.** Physics of Fluids, 2024. [paper](https://pubs.aip.org/aip/pof/article/36/3/036129/3278829)
+
+   *Xiang Ren, Peng Hu, Hua Su, Feizhou Zhang, and Huahua Yu.*
 
 ### [Cybernetics](#content)
 1. **Machine learning accelerated PDE backstepping observers.** arXiv, 2022. [paper](https://arxiv.org/abs/2211.15044)
