@@ -1162,6 +1162,18 @@ Contributed by Chunyang Zhang.
 
    *Miguel Liu-Schiaffini, Julius Berner, Boris Bonev, Thorsten Kurth, Kamyar Azizzadenesheli, and Anima Anandkumar.*
 
+1. **PDE-CNNs: Axiomatic derivations and applications.** arXiv, 2024. [paper](https://arxiv.org/abs/2403.15182)
+
+   *Gijs Bellaard, Sei Sakata, Bart M. N. Smets, and Remco Duits.*
+
+1. **PDE-CNNs: Axiomatic derivations and applications.** arXiv, 2024. [paper](https://arxiv.org/abs/2403.15182)
+
+   *Gijs Bellaard, Sei Sakata, Bart M. N. Smets, and Remco Duits.*
+
+1. **Symmetric basis convolutions for learning Lagrangian fluid mechanics.** ICLR, 2024. [paper](https://openreview.net/forum?id=HKgRwNhI9R)
+
+   *Rene Winchenbach and Nils Thuerey.*
+
 ### [AutoEncoder](#content)
 1. **Integral autoencoder network for discretization-invariant learning.** JMLR, 2022. [paper](https://www.jmlr.org/papers/v23/22-0297.html)
 
@@ -2416,6 +2428,10 @@ Contributed by Chunyang Zhang.
 1. **Kolmogorov n-widths for multitask physics-informed machine learning (PIML) methods: Towards robust metrics.** arXiv, 2024. [paper](https://arxiv.org/abs/2402.11126v1)
 
    *Michael Penwarden, Houman Owhadi, and Robert M. Kirby.*
+
+1. **Parametric encoding with attention and convolution mitigate spectral bias of neural partial differential equation solvers.** arXiv, 2024. [paper](https://arxiv.org/abs/2403.15652)
+
+   *Mehdi Shishehbor, Shirin Hosseinmardi, and Ramin Bostanabad.*
 
 ### [Domain Adaptation](#content)
 1. **Meta-auto-decoder for solving parametric partial differential equations.** NIPS, 2022. [paper](https://openreview.net/pdf?id=PwlW5Jri1Xt) 
@@ -4310,6 +4326,10 @@ Contributed by Chunyang Zhang.
 1. **Pathwise relaxed optimal control of rough differential equations.** arXiv, 2024. [paper](https://arxiv.org/abs/2402.17900)
 
    *Prakash Chakraborty, Harsha Honnappa, and Samy Tindel.*
+
+1. **Parametric PDE control with deep reinforcement learning and differentiable L^0-sparse polynomial policies.** arXiv, 2024. [paper](https://arxiv.org/abs/2403.15267)
+
+   *Nicolò Botteghi and Urban Fasel.*
 
 ### [Climate](#content)
 1. **FourCastNet: A global data-driven high-resolution weather model using adaptive Fourier neural operators.** arXiv, 2022. [paper](https://arxiv.org/abs/2202.11214)
