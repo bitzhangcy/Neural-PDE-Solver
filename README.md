@@ -3066,6 +3066,10 @@ Contributed by Chunyang Zhang.
 
    *Tianshu Wen, Kookjin Lee, and Youngsoo Choi.*
 
+1. **Geom-DeepONet: A point-cloud-based deep operator network for field predictions on 3D parameterized geometries.** arXiv, 2024. [paper](https://arxiv.org/abs/2403.14788) 
+
+   *Junyan He, Seid Koric, Diab Abueidda, Ali Najafi, and Iwona Jasiuk.*
+
 ### [Uncertainty Quantification](#content)
 1. **Quantifying total uncertainty in physics-informed neural networks for solving forward and inverse stochastic problems.** arXiv, 2021. [paper](https://www.sciencedirect.com/science/article/pii/S0021999119305340)
 
@@ -3687,6 +3691,10 @@ Contributed by Chunyang Zhang.
 1. **Mitigating spectral bias for the multiscale operator learning.** JCP, 2024. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0021999124001931)
 
    *Xinliang Liu, Bo Xu, Shuhao Cao, and Lei Zhang.*
+
+1. **SineNet: Learning temporal dynamics in time-dependent partial differential equations.** ICLR, 2024. [paper](https://openreview.net/forum?id=LSYhE2hLWG)
+
+   *Xuan Zhang, Jacob Helwig, Yuchao Lin, Yaochen Xie, Cong Fu, Stephan Wojtowytsch, and Shuiwang Ji.*
 
 ### [Multi Fidelity](#content)
 1. **Multifidelity deep operator networks.** arXiv, 2022. [paper](https://arxiv.org/abs/2204.09157)
@@ -4420,6 +4428,10 @@ Contributed by Chunyang Zhang.
 1. **Damage identification for plate structures using physics-informed neural networks.** MSSP, 2024. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0888327024000098)
 
    *Wei Zhou and Yongfeng Xu.*
+
+1. **Quantification of gradient energy coefficients using physics-informed neural networks.** International Journal of Mechanical Sciences, 2024. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0020740324002522)
+
+   *Lan Shang, Yunhong Zhao, Sizheng Zheng, Jin Wang, Tongyi Zhang, and Jie Wang .*
 
 ### [Robotics](#content)
 1. **Hybrid learning of time-series inverse dynamics models for locally isotropic robot motion.** RAL, 2022. [paper](https://ieeexplore.ieee.org/document/9954138)
