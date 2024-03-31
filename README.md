@@ -806,6 +806,10 @@ Contributed by Chunyang Zhang.
 
    *Kai Qi and Jian Sun.*
 
+1. **Component Fourier neural operator for singularly perturbed differential equations.** AAAI, 2024. [paper](https://ojs.aaai.org/index.php/AAAI/article/view/29274)
+
+   *Ye Li, Ting Du, Yiwen Pang, and Zhongyi Huang.*
+
 ### [Graph Network](#content)
 1. **Message passing neural PDE solvers.** ICLR, 2022. [paper](https://openreview.net/forum?id=vSix3HPYKSU)
 
@@ -3696,6 +3700,10 @@ Contributed by Chunyang Zhang.
 
    *Xuan Zhang, Jacob Helwig, Yuchao Lin, Yaochen Xie, Cong Fu, Stephan Wojtowytsch, and Shuiwang Ji.*
 
+1. **Multiscale attention wavelet neural operator for capturing steep trajectories in biochemical systems.** AAAI, 2024. [paper](https://ojs.aaai.org/index.php/AAAI/article/view/29432)
+
+   *Jiayang Su, Junbo Ma, Songyang Tong, Enze Xu, and Minghan Chen.*
+
 ### [Multi Fidelity](#content)
 1. **Multifidelity deep operator networks.** arXiv, 2022. [paper](https://arxiv.org/abs/2204.09157)
 
@@ -3729,7 +3737,7 @@ Contributed by Chunyang Zhang.
 
    *Xuhui Zhou, Jiequn Han, Muhammad I. Zafar, Christopher J. Roy, Heng Xiao.*
 
-1. **Multi-resolution partial differential equations preserved learning framework for spatiotemporal dynamics.** Communications Physics, 2024. [paper](https://www.nature.com/articles/s42005-024-01521-z)
+1. **Multi-resolution partial differential equations preserved learning framework for spatiotemporal dynamics.** AAAI, 2024. [paper](https://www.nature.com/articles/s42005-024-01521-z)
 
    *Xinyang Liu, Min Zhu, Lu Lu, Hao Sun,  Jianxun Wang.*
 
@@ -3753,6 +3761,11 @@ Contributed by Chunyang Zhang.
 1. **MGCNN: A learnable multigrid solver for linear PDEs on structured grids.** arXiv, 2023. [paper](https://arxiv.org/abs/2312.11093)
 
    *Yan Xie, Minrui Lv, and Chensong Zhang.*
+
+1. **Neural physical simulation with multi-resolution hash grid encoding.** AAAI, 2024. [paper](https://ojs.aaai.org/index.php/AAAI/article/view/28349)
+
+   *Haoxiang Wang, Tao Yu, Tianwei Yang, Hui Qiao, and Qionghai Dai.*
+
 ### [Active Learning](#content)
 1. **Neural Galerkin scheme with active learning for high-dimensional evolution equations.** arXiv, 2022. [paper](https://arxiv.org/abs/2203.01360)
 
