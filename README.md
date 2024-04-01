@@ -4444,7 +4444,11 @@ Contributed by Chunyang Zhang.
 
 1. **Quantification of gradient energy coefficients using physics-informed neural networks.** International Journal of Mechanical Sciences, 2024. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0020740324002522)
 
-   *Lan Shang, Yunhong Zhao, Sizheng Zheng, Jin Wang, Tongyi Zhang, and Jie Wang .*
+   *Lan Shang, Yunhong Zhao, Sizheng Zheng, Jin Wang, Tongyi Zhang, and Jie Wang.*
+
+1. **MPIPN: A multi physics-informed PointNet for solving parametric acoustic-structure systems.** arXiv, 2024. [paper](https://arxiv.org/abs/2403.01132)
+
+   *Chu Wang, Jinhong Wu, Yanzhi Wang, Zhijian Zha, and Qi Zhou.*
 
 ### [Robotics](#content)
 1. **Hybrid learning of time-series inverse dynamics models for locally isotropic robot motion.** RAL, 2022. [paper](https://ieeexplore.ieee.org/document/9954138)
