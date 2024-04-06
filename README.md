@@ -1061,6 +1061,10 @@ Contributed by Chunyang Zhang.
 
    *Alexandre Caboussat, Maude Girardin, and Marco Picasso.*
 
+1. **Predicting unsteady incompressible fluid dynamics with finite volume informed neural network.** Physics of Fluids, 2024. [paper](https://pubs.aip.org/aip/pof/article/36/4/043601/3280514)
+
+   *Tianyu Li, Shufan Zou, Xinghua Chang, Laiping Zhang, and Xiaogang Deng.*
+
 ### [Convolution](#content)
 1. **PDE-Net: Learning PDEs from data.** ICML, 2018. [paper](https://proceedings.mlr.press/v80/long18a.html)
 
