@@ -604,6 +604,10 @@ Contributed by Chunyang Zhang.
 
    *Siddharth Nair, Timothy F. Walsh, Greg Pickrell, and Fabio Semperlotti.*
 
+1. **Toward a better understanding of Fourier neural operators: Analysis and improvement from a spectral perspective.** arXiv, 2024. [paper](https://arxiv.org/abs/2404.07200)
+
+   *Shaoxiang Qin, Fuyuan Lyu, Wenhui Peng, Dingyang Geng, Ju Wang, Naiping Gao, Xue Liu, and Liangzhu Leon Wang.*
+
 ### [DeepONet](#content)
 1. **Learning nonlinear operators via DeepONet based on the universal approximation theorem of operators.** NMI, 2021. [paper](https://www.nature.com/articles/s42256-021-00302-5)
 
@@ -2704,6 +2708,10 @@ Contributed by Chunyang Zhang.
 
    *Jingtong Sun, Julius Berner, Kamyar Azizzadenesheli, and Anima Anandkumar.*
 
+1. **PINNACLE: PINN adaptive collocation and experimental points selection.** ICLR, 2024. [paper](https://openreview.net/forum?id=GzNaCp6Vcg)
+
+   *Gregory Kang Ruey Lau, Apivich Hemachandra, See-Kiong Ng, and Bryan Kian Hsiang Low.*
+
 ### [Mesh](#content)
 1. **MeshingNet: A new mesh generation method based on deep learning.** ICCS, 2022. [paper](https://link.springer.com/chapter/10.1007/978-3-030-50420-5_14)
 
@@ -3007,6 +3015,10 @@ Contributed by Chunyang Zhang.
 1. **Efficient and stable SAV-based methods for gradient flows arising from deep learning.** JCP, 2024. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0021999124001608)
 
    *Ziqi Ma, Zhiping Mao, and Jie Shen.*
+
+1. **Generative downscaling of PDE solvers with physics-guided diffusion models.** arXiv, 2024. [paper](https://arxiv.org/abs/2404.05009v1)
+
+   *Yulong Lu and Wuzhe Xu.*
 
 ### [AutoML](#content)
 1. **Auto-PINN: Understanding and optimizing physics-informed neural architecture.** arXiv, 2022. [paper](https://arxiv.org/abs/2110.13361)
