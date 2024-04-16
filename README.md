@@ -3175,6 +3175,10 @@ Contributed by Chunyang Zhang.
 
    *Christian Moya, Amirhossein Mollaali, Zecheng Zhang, Lu Lu, and Guang Lin.*
 
+1. **Leveraging viscous Hamilton-Jacobi PDEs for uncertainty quantification in scientific machine learning.** arXiv, 2024. [paper](https://arxiv.org/abs/2404.08809)
+
+   *Zongren Zou, Tingwei Meng, Paula Chen, Jérôme Darbon, and George Em Karniadakis.*
+
 ### [Generative Model](#content)
 1. **A framework for data-driven solution and parameter estimation of PDEs using conditional generative adversarial networks.** NCS, 2021. [paper](https://www.nature.com/articles/s43588-021-00171-3)
 
