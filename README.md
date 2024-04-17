@@ -1663,7 +1663,11 @@ Contributed by Chunyang Zhang.
 
 1. **Solving Euler equations with gradient-weighted multi-input high-dimensional feature neural network.** Physics of Fluids, 2024. [paper](https://pubs.aip.org/aip/pof/article/36/3/035150/3272548)
 
-   *Jiebin Zhao, Wei Wu, Xinlong Feng, and Hui Xu .*
+   *Jiebin Zhao, Wei Wu, Xinlong Feng, and Hui Xu.*
+
+1. **TENG: Time-evolving natural gradient for solving PDEs with deep neural net.** arXiv, 2024. [paper](https://arxiv.org/abs/2404.10771)
+
+   *Zhuo Chen, Jacob McCarran, Esteban Vizcaino, Marin Soljačić, and Di Luo.*
 
 ### [Identification](#content)
 1. **Data-driven discovery of partial differential equations.** SA, 2017. [paper](https://arxiv.org/abs/1910.11710)
