@@ -2125,6 +2125,10 @@ Contributed by Chunyang Zhang.
 
    *Junhong Shen, Tanya Marwah, and Ameet Talwalkar.*
 
+1. **Towards a foundation model for partial differential equation: Multi-operator learning and extrapolation.** arXiv, 2024. [paper](https://arxiv.org/abs/2404.12355)
+
+   *Jingmin Sun, Yuxuan Liu, Zecheng Zhang, and Hayden Schaeffer.*
+
 
 ## [Mechanism](#content)
 ### [Library](#content)
@@ -2448,6 +2452,10 @@ Contributed by Chunyang Zhang.
 1. **Parametric encoding with attention and convolution mitigate spectral bias of neural partial differential equation solvers.** arXiv, 2024. [paper](https://arxiv.org/abs/2403.15652)
 
    *Mehdi Shishehbor, Shirin Hosseinmardi, and Ramin Bostanabad.*
+
+1. **End-to-end mesh optimization of a hybrid deep learning black-box PDE solver.** arXiv, 2024. [paper](https://arxiv.org/abs/2404.11766)
+
+   *Shaocong Ma, James Diffenderfer, Bhavya Kailkhura, and Yi Zhou.*
 
 ### [Domain Adaptation](#content)
 1. **Meta-auto-decoder for solving parametric partial differential equations.** NIPS, 2022. [paper](https://openreview.net/pdf?id=PwlW5Jri1Xt) 
