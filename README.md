@@ -1069,6 +1069,10 @@ Contributed by Chunyang Zhang.
 
    *Tianyu Li, Shufan Zou, Xinghua Chang, Laiping Zhang, and Xiaogang Deng.*
 
+1. **Unified finite-volume physics informed neural networks to solve the heterogeneous partial differential equations.** KBS, 2024. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0950705124004659)
+
+   *Di Mei, Kangcheng Zhou, and Chun-Ho Liu.*
+
 ### [Convolution](#content)
 1. **PDE-Net: Learning PDEs from data.** ICML, 2018. [paper](https://proceedings.mlr.press/v80/long18a.html)
 
