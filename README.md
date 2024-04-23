@@ -1436,6 +1436,10 @@ Contributed by Chunyang Zhang.
 
    *Miguel Liu-Schiaffini, Julius Berner, Boris Bonev, Thorsten Kurth, Kamyar Azizzadenesheli, and Anima Anandkumar.*
 
+1. **Physics-informed mesh-independent deep compositional operator network.** arXiv, 2024. [paper](https://.arxiv.org/abs/2404.13646)
+
+   *Weiheng Zhong and Hadi Meidani.*
+
 ### [Machine Learning](#content)
 1. **Machine learning–accelerated computational fluid dynamics.** PNAS, 2021. [paper](https://www.pnas.org/doi/10.1073/pnas.2101784118)
 
@@ -1994,6 +1998,10 @@ Contributed by Chunyang Zhang.
 1. **A method for computing inverse parametric PDE problems with random-weight neural networks.** JCP, 2023. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0021999123003583)
 
    *Suchuan Dong and Yiran Wang.*
+
+1. **ODE-DPS: ODE-based diffusion posterior sampling for inverse problems in partial differential equation.** arXiv, 2024. [paper](https://arxiv.org/abs/2404.13496)
+
+   *Enze Jiang, Jishen Peng, Zheng Ma, and Xiongbin Yan.*
 
 ### [Neural ODE](#content)
 1. **Neural rough differential equations for long time series.** ICML, 2021. [paper](http://proceedings.mlr.press/v139/morrill21b.html)
