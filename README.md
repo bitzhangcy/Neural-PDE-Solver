@@ -1677,6 +1677,10 @@ Contributed by Chunyang Zhang.
 
    *Zhuo Chen, Jacob McCarran, Esteban Vizcaino, Marin Soljačić, and Di Luo.*
 
+1. **A hybrid kernel-free boundary integral method with operator learning for solving parametric partial differential equations in complex domains.** arXiv, 2024. [paper](https://arxiv.org/abs/2404.15242)
+
+   *Shuo Ling, Liwei Tan, and Wenjun Ying.*
+
 ### [Identification](#content)
 1. **Data-driven discovery of partial differential equations.** SA, 2017. [paper](https://arxiv.org/abs/1910.11710)
 
@@ -2212,9 +2216,13 @@ Contributed by Chunyang Zhang.
 
    *Jiaqi Gu, Mohit Dighamber, Zhengqi Gao, and Duane S. Boning.*
 
-1. **Physics-informed neural networks for advanced modeling.** Journal of Open Source Software, 2024. [paper](https://joss.theoj.org/papers/10.21105/joss.05352) / [Github](https://github.com/mathLab/PINA)
+1. **Physics-informed neural networks for advanced modeling.** Journal of Open Source Software, 2024. [paper](https://joss.theoj.org/papers/10.21105/joss.05352)/[Github](https://github.com/mathLab/PINA)
 
    *Dario Coscia, Anna Ivagnes, Nicola Demo, and Gianluigi Rozza.*
+
+1. **A novel A.I enhanced reservoir characterization with a combined mixture of experts -- NVIDIA modulus based physics informed neural operator forward model.** arXiv, 2024. [paper](https://arxiv.org/abs/2404.14447)
+
+   *Clement Etienam, Yang Juntao, Issam Said, Oleg Ovcharenko, Kaustubh Tangsali, Pavel Dimitrov, and Ken Hester.*
 
 ### [Analysis](#content)
 1. **Characterizing possible failure modes in physics-informed neural networks.** NIPS, 2021. [paper](https://openreview.net/forum?id=a2Gr9gNFD-J)
