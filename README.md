@@ -608,6 +608,10 @@ Contributed by Chunyang Zhang.
 
    *Shaoxiang Qin, Fuyuan Lyu, Wenhui Peng, Dingyang Geng, Ju Wang, Naiping Gao, Xue Liu, and Liangzhu Leon Wang.*
 
+1. **Anti-derivatives approximator for enhancing physics-informed neural networks.** Computer Methods in Applied Mechanics and Engineering, 2024. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0045782524002561)
+
+   *Jeongsu Lee.*
+
 ### [DeepONet](#content)
 1. **Learning nonlinear operators via DeepONet based on the universal approximation theorem of operators.** NMI, 2021. [paper](https://www.nature.com/articles/s42256-021-00302-5)
 
