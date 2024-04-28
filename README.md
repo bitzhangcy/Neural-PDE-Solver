@@ -4506,6 +4506,10 @@ Contributed by Chunyang Zhang.
 
    *Chu Wang, Jinhong Wu, Yanzhi Wang, Zhijian Zha, and Qi Zhou.*
 
+1. **A hierarchically normalized physics-informed neural network for solving differential equations: Application for solid mechanics problems.** EAAI, 2024. [paper](https://www.sciencedirect.com/science/article/abs/pii/S095219762400558X)
+
+   *Thang Le-Duc, Seunghye Lee, H. Nguyen-Xuan , and Jaehong Lee.*
+
 ### [Robotics](#content)
 1. **Hybrid learning of time-series inverse dynamics models for locally isotropic robot motion.** RAL, 2022. [paper](https://ieeexplore.ieee.org/document/9954138)
 
