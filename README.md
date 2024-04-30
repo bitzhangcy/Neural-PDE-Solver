@@ -2011,6 +2011,10 @@ Contributed by Chunyang Zhang.
 
    *Enze Jiang, Jishen Peng, Zheng Ma, and Xiongbin Yan.*
 
+1. **BiLO: Bilevel local operator learning for PDE inverse problems.** arXiv, 2024. [paper](https://arxiv.org/abs/2404.17789)
+
+   *Ray Zirui Zhang, Xiaohui Xie, and John Lowengrub.*
+
 ### [Neural ODE](#content)
 1. **Neural rough differential equations for long time series.** ICML, 2021. [paper](http://proceedings.mlr.press/v139/morrill21b.html)
 
