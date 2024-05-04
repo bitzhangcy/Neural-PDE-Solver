@@ -1440,9 +1440,9 @@ Contributed by Chunyang Zhang.
 
    *Miguel Liu-Schiaffini, Julius Berner, Boris Bonev, Thorsten Kurth, Kamyar Azizzadenesheli, and Anima Anandkumar.*
 
-1. **Physics-informed mesh-independent deep compositional operator network.** arXiv, 2024. [paper](https://.arxiv.org/abs/2404.13646)
+1. **Data scoping: Effectively learning the evolution of generic transport PDEs.** arXiv, 2024. [paper](https://.arxiv.org/abs/2405.01319)
 
-   *Weiheng Zhong and Hadi Meidani.*
+   *Jiangce Chen, Wenzhuo Xu, Zeda Xu, Noelia Grande Gutiérrez, Sneha Prabha Narra, and Christopher McComb.*
 
 ### [Machine Learning](#content)
 1. **Machine learning–accelerated computational fluid dynamics.** PNAS, 2021. [paper](https://www.pnas.org/doi/10.1073/pnas.2101784118)
@@ -2820,6 +2820,10 @@ Contributed by Chunyang Zhang.
 1. **Learning time-dependent PDE via graph neural networks and deep operator network for robust accuracy on irregular grids.** arXiv, 2024. [paper](https://arxiv.org/abs/2402.08187v1)
 
    *Sung Woong Cho, Jae Yong Lee, and Hyung Ju Hwang.*
+
+1. **Physics-informed mesh-independent deep compositional operator network.** arXiv, 2024. [paper](https://.arxiv.org/abs/2404.13646)
+
+   *Weiheng Zhong and Hadi Meidani.*
 
 ### [Decomposition](#content)
 1. **Composing partial differential equations with physics-aware neural networks.** ICLR, 2022. [paper](https://openreview.net/forum?id=DIsWHvtU7lF)
