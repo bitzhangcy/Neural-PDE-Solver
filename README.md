@@ -612,6 +612,10 @@ Contributed by Chunyang Zhang.
 
    *Jeongsu Lee.*
 
+1. **GMC-PINNs: A new general Monte Carlo PINNs methodfor solving fractional partial differential equations on irregular domains.** arXiv, 2024. [paper](https://arxiv.org/abs/2405.00217)
+
+   *Shupeng Wang and George Em Karniadakis.*
+
 ### [DeepONet](#content)
 1. **Learning nonlinear operators via DeepONet based on the universal approximation theorem of operators.** NMI, 2021. [paper](https://www.nature.com/articles/s42256-021-00302-5)
 
