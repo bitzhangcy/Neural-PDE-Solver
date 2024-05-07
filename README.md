@@ -995,6 +995,10 @@ Contributed by Chunyang Zhang.
 
    *Sung Woong Cho, Jae Yong Lee, and Hyung Ju Hwang.*
 
+1. **Towards general neural surrogate solvers with specialized neural accelerators.** ICML, 2024. [paper](https://arxiv.org/abs/2405.02351)
+
+   *Chenkai Mao, Robert Lupoiu, Tianxiang Dai, Mingkun Chen, and Jonathan A. Fan.*
+
 ### [Green Function](#content)
 1. **Learning Green's functions associated with time-dependent partial differential equations.** JMLR, 2022. [paper](https://www.jmlr.org/papers/volume23/22-0433/22-0433.pdf)
 
@@ -2488,6 +2492,10 @@ Contributed by Chunyang Zhang.
 1. **End-to-end mesh optimization of a hybrid deep learning black-box PDE solver.** arXiv, 2024. [paper](https://arxiv.org/abs/2404.11766)
 
    *Shaocong Ma, James Diffenderfer, Bhavya Kailkhura, and Yi Zhou.*
+
+1. **Physics-informed neural networks: Minimizing residual loss with wide networks and effective activations.** IJCAI, 2024. [paper](https://arxiv.org/abs/2405.01680)
+
+   *Nima Hosseini Dashtbayaz, Ghazal Farhani, Boyu Wang, and Charles X. Ling.*
 
 ### [Domain Adaptation](#content)
 1. **Meta-auto-decoder for solving parametric partial differential equations.** NIPS, 2022. [paper](https://openreview.net/pdf?id=PwlW5Jri1Xt) 
