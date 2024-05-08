@@ -1194,13 +1194,13 @@ Contributed by Chunyang Zhang.
 
    *Gijs Bellaard, Sei Sakata, Bart M. N. Smets, and Remco Duits.*
 
-1. **PDE-CNNs: Axiomatic derivations and applications.** arXiv, 2024. [paper](https://arxiv.org/abs/2403.15182)
-
-   *Gijs Bellaard, Sei Sakata, Bart M. N. Smets, and Remco Duits.*
-
 1. **Symmetric basis convolutions for learning Lagrangian fluid mechanics.** ICLR, 2024. [paper](https://openreview.net/forum?id=HKgRwNhI9R)
 
    *Rene Winchenbach and Nils Thuerey.*
+
+1. **Fully differentiable Lagrangian convolutional neural network for continuity-consistent physics-informed precipitation nowcasting.** arXiv, 2024. [paper](https://arxiv.org/abs/2402.10747)
+
+   *Peter Pavlík, Martin Výboh, Anna Bou Ezzeddine, and Viera Rozinajová.*
 
 ### [AutoEncoder](#content)
 1. **Integral autoencoder network for discretization-invariant learning.** JMLR, 2022. [paper](https://www.jmlr.org/papers/v23/22-0297.html)
@@ -1938,12 +1938,16 @@ Contributed by Chunyang Zhang.
 
    *Zhen Chen, Anne Gelb, and Yoonsang Lee.*
 
+1. **OptPDE: Discovering novel integrable systems via AI-human collaboration.** arXiv, 2024. [paper](https://arxiv.org/abs/2405.04484)
+
+   *Subhash Kantamneni, Ziming Liu, and Max Tegmark.*
+
 ### [Inverse Design](#content)
 1. **DPM: Physics-informed Karhunen-Loéve and neural network approximations for solving inverse differential equation problems.** AAAI, 2021. [paper](https://ojs.aaai.org/index.php/AAAI/article/view/16992/16799)
 
    *Jungeun Kim, Kookjin Lee, Dongeun Lee, Sheo Yon Jin, and Noseong Park.*
 
-1. **Neural inverse operators for Solving PDE inverse problems.** ICML, 2023. [paper](https://arxiv.org/abs/2301.11167)
+1. **Neural inverse operators for solving PDE inverse problems.** ICML, 2023. [paper](https://arxiv.org/abs/2301.11167)
 
    *Roberto Molinaro, Yunan Yang, Björn Engquist, and Siddhartha Mishra.*
 
@@ -2489,13 +2493,13 @@ Contributed by Chunyang Zhang.
 
    *Mehdi Shishehbor, Shirin Hosseinmardi, and Ramin Bostanabad.*
 
-1. **End-to-end mesh optimization of a hybrid deep learning black-box PDE solver.** arXiv, 2024. [paper](https://arxiv.org/abs/2404.11766)
-
-   *Shaocong Ma, James Diffenderfer, Bhavya Kailkhura, and Yi Zhou.*
-
 1. **Physics-informed neural networks: Minimizing residual loss with wide networks and effective activations.** IJCAI, 2024. [paper](https://arxiv.org/abs/2405.01680)
 
    *Nima Hosseini Dashtbayaz, Ghazal Farhani, Boyu Wang, and Charles X. Ling.*
+
+1. **Unveiling the optimization process of physics informed neural networks: How accurate and competitive can pinns be?.** arXiv, 2024. [paper](https://arxiv.org/abs/2403.15652)
+
+   *Jorge F. Urbán, Petros Stefanou, and José A. Pons.*
 
 ### [Domain Adaptation](#content)
 1. **Meta-auto-decoder for solving parametric partial differential equations.** NIPS, 2022. [paper](https://openreview.net/pdf?id=PwlW5Jri1Xt) 
@@ -2836,6 +2840,10 @@ Contributed by Chunyang Zhang.
 1. **Physics-informed mesh-independent deep compositional operator network.** arXiv, 2024. [paper](https://.arxiv.org/abs/2404.13646)
 
    *Weiheng Zhong and Hadi Meidani.*
+
+1. **End-to-end mesh optimization of a hybrid deep learning black-box PDE solver.** arXiv, 2024. [paper](https://arxiv.org/abs/2404.11766)
+
+   *Shaocong Ma, James Diffenderfer, Bhavya Kailkhura, and Yi Zhou.*
 
 ### [Decomposition](#content)
 1. **Composing partial differential equations with physics-aware neural networks.** ICLR, 2022. [paper](https://openreview.net/forum?id=DIsWHvtU7lF)
