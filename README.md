@@ -1693,6 +1693,10 @@ Contributed by Chunyang Zhang.
 
    *Shuo Ling, Liwei Tan, and Wenjun Ying.*
 
+1. **Full error analysis of the random deep splitting method for nonlinear parabolic PDEs and PIDEs with infinite activity.** arXiv, 2024. [paper](https://arxiv.org/abs/2405.05192)
+
+   *Ariel Neufeld, Philipp Schmocker, and Sizhou Wu.*
+
 ### [Identification](#content)
 1. **Data-driven discovery of partial differential equations.** SA, 2017. [paper](https://arxiv.org/abs/1910.11710)
 
@@ -2695,6 +2699,10 @@ Contributed by Chunyang Zhang.
 
    *Zhiyong Zhang, Shengjie Cai, and Hui Zhang.*
 
+1. **Loss jump during loss switch in solving PDEs with neural networks.** arXiv, 2024. [paper](https://arxiv.org/abs/2405.03095)
+
+   *Zhiwei Wang, Lulu Zhang, Zhongwang Zhang, and Zhi-Qin John Xu.*
+
 ### [Sampling](#content)
 1. **ADLGM: An efficient adaptive sampling deep learning Galerkin method.** JCP, 2023. [paper](https://www.sciencedirect.com/science/article/pii/S0021999123000396)
 
@@ -2767,6 +2775,10 @@ Contributed by Chunyang Zhang.
 1. **PINNACLE: PINN adaptive collocation and experimental points selection.** ICLR, 2024. [paper](https://openreview.net/forum?id=GzNaCp6Vcg)
 
    *Gregory Kang Ruey Lau, Apivich Hemachandra, See-Kiong Ng, and Bryan Kian Hsiang Low.*
+
+1. **Annealed adaptive importance sampling method in PINNs for solving high dimensional partial differential equations.** arXiv, 2024. [paper](https://arxiv.org/abs/2405.03433)
+
+   *Zhengqi Zhang, Jing Li, and Bin Liu.*
 
 ### [Mesh](#content)
 1. **MeshingNet: A new mesh generation method based on deep learning.** ICCS, 2022. [paper](https://link.springer.com/chapter/10.1007/978-3-030-50420-5_14)
