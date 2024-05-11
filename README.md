@@ -1697,6 +1697,10 @@ Contributed by Chunyang Zhang.
 
    *Ariel Neufeld, Philipp Schmocker, and Sizhou Wu.*
 
+1. **Multiple wavefield solutions in physics-informed neural networks using latent representation.** IEEE Geoscience and Remote Sensing Letters, 2024. [paper](https://ieeexplore.ieee.org/abstract/document/10521697)
+
+   *Mohammad H. Taufik, Xinquan Huang, and Tariq Alkhalifah.*
+
 ### [Identification](#content)
 1. **Data-driven discovery of partial differential equations.** SA, 2017. [paper](https://arxiv.org/abs/1910.11710)
 
