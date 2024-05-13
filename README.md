@@ -1950,6 +1950,10 @@ Contributed by Chunyang Zhang.
 
    *Subhash Kantamneni, Ziming Liu, and Max Tegmark.*
 
+1. **Learning PDEs from data on closed surfaces with sparse optimization.** arXiv, 2024. [paper](https://arxiv.org/abs/2405.06199)
+
+   *Zhengjie Sun, Leevan Ling, and an Zhang.*
+
 ### [Inverse Design](#content)
 1. **DPM: Physics-informed Karhunen-Loéve and neural network approximations for solving inverse differential equation problems.** AAAI, 2021. [paper](https://ojs.aaai.org/index.php/AAAI/article/view/16992/16799)
 
