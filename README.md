@@ -2658,6 +2658,10 @@ Contributed by Chunyang Zhang.
 
    *Konrad Mundinger, Max Zimmer, and Sebastian Pokutta.*
 
+1. **Deep operator networks for bioheat transfer problems with parameterized laser source functions.**  International Journal of Heat and Mass Transfe, 2024. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0017931024004903)
+
+   *Aditya Roy, Andrew DuPlissis, Biswajit Mishra, and Adela Ben-Yakar.*
+
 ### [Loss Function](#content)
 1. **Adaptive activation functions accelerate convergence in deep and physics-informed neural networks.** JCP, 2021. [paper](https://www.sciencedirect.com/science/article/pii/S0021999119308411)
 
@@ -4274,6 +4278,10 @@ Contributed by Chunyang Zhang.
 1. **Physics-informed neural networks for transonic flow around a cylinder with high Reynolds number.** Physics of Fluids, 2024. [paper](https://pubs.aip.org/aip/pof/article/36/3/036129/3278829)
 
    *Xiang Ren, Peng Hu, Hua Su, Feizhou Zhang, and Huahua Yu.*
+
+1. **Physics-informed neural networks enhanced particle tracking velocimetry: An example for turbulent Jet flow.** TIM, 2024. [paper](https://ieeexplore.ieee.org/abstract/document/10522764)
+
+   *Shengze Cai, Callum Gray, and George Em Karniadakis.*
 
 ### [Cybernetics](#content)
 1. **Machine learning accelerated PDE backstepping observers.** arXiv, 2022. [paper](https://arxiv.org/abs/2211.15044)
