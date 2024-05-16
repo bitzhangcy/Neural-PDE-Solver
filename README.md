@@ -3469,6 +3469,10 @@ Contributed by Chunyang Zhang.
 
    *Zhongkai Hao, Chang Su, Songming Liu, Julius Berner, Chengyang Ying, Hang Su, Anima Anandkumar, Jian Song, and Jun Zhu.*
 
+1. **Positional knowledge is all you need: Position-induced Transformer (PiT) for operator learning.** ICML, 2024. [paper](https://arxiv.org/abs/2405.09285) 
+
+   *Junfeng Chen and Kailiang Wu.*
+
 ### [Theory](#content)
 1. **Convergence analysis of a quasi-Monte Carlo-based deep learning algorithm for solving partial differential equations.** arXiv, 2022. [paper](https://arxiv.org/abs/2210.16196)
 
