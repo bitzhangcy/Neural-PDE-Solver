@@ -4741,6 +4741,10 @@ Contributed by Chunyang Zhang.
 
    *Arman Aghaee and M. Owais Khan.*
 
+1. **Effective medium properties of stealthy hyperuniform photonic structures using multiscale physics-informed neural networks.** arXiv, 2024. [paper](https://arxiv.org/abs/2405.07878)
+
+   *Roberto Riganti, Yilin Zhu, Wei Cai, Salvatore Torquato, and Luca Dal Negro.*
+
 ### [Chemistry](#content)
 1. **Combustion chemistry acceleration with DeepONets.** Fuel, 2024. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0016236124003582)
 
