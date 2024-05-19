@@ -616,6 +616,10 @@ Contributed by Chunyang Zhang.
 
    *Shupeng Wang and George Em Karniadakis.*
 
+1. **CEENs: Causality-enforced evolutional networks for solving time-dependent partial differential equations.** Computer Methods in Applied Mechanics and Engineering, 2024. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0045782524002925)
+
+   *Jeahan Jung, Heechang Kim, Hyomin Shin, and Minseok Choi.*
+
 ### [DeepONet](#content)
 1. **Learning nonlinear operators via DeepONet based on the universal approximation theorem of operators.** NMI, 2021. [paper](https://www.nature.com/articles/s42256-021-00302-5)
 
@@ -1953,6 +1957,10 @@ Contributed by Chunyang Zhang.
 1. **Learning PDEs from data on closed surfaces with sparse optimization.** arXiv, 2024. [paper](https://arxiv.org/abs/2405.06199)
 
    *Zhengjie Sun, Leevan Ling, and an Zhang.*
+
+1. **Physics-informed parallel neural networks with self-adaptive loss weighting for the identification of continuous structural systems.** Computer Methods in Applied Mechanics and Engineering, 2024. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0045782524002986)
+
+   *Rui Zhang, Gordon P. Warn, and Aleksandra Radlińska.*
 
 ### [Inverse Design](#content)
 1. **DPM: Physics-informed Karhunen-Loéve and neural network approximations for solving inverse differential equation problems.** AAAI, 2021. [paper](https://ojs.aaai.org/index.php/AAAI/article/view/16992/16799)
