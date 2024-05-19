@@ -4753,7 +4753,11 @@ Contributed by Chunyang Zhang.
 ### [Materials](#content)
 1. **Microstructure-sensitive deformation modeling and materials design with physics-informed neural networks.** AIAA Journal, 2024. [paper](https://arc.aiaa.org/doi/abs/10.2514/1.J062708)
 
-   *Mahmudul Hasan, Zekeriya Ender Eger, Arulmurugan Senthilnathan, and Pınar Acar .*
+   *Mahmudul Hasan, Zekeriya Ender Eger, Arulmurugan Senthilnathan, and Pınar Acar.*
+
+1. **A novel Fourier neural operator framework for classification of multi-sized images: Application to three dimensional digital porous media.** Physics of Fluids, 2024. [paper](https://pubs.aip.org/aip/pof/article/36/5/057131/3293884)
+
+   *Ali Kashefi and Tapan Mukerji.*
 
 ### [Molecules](#content)
 1. **Symmetry-informed geometric representation for molecules, proteins, and crystalline materials.** arXiv, 2023. [paper](https://arxiv.org/abs/2306.09375)
