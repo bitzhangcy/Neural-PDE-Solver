@@ -4708,6 +4708,10 @@ Contributed by Chunyang Zhang.
 
    *Yeonhwi Jeong, Junhyoung Jo, Tonghun Lee, and Jihyung Yoo.*
 
+1. **Fully convolutional network enhanced DeepONet-based surrogate of predicting the travel-time fields.** TGRS, 2024. [paper](https://ieeexplore.ieee.org/abstract/document/10530929)
+
+   *Yifan Mei, Yijie Zhang, Xueyu Zhu, Rongxi Gou, and Jinghuai Gao.*
+
 ### [Image](#content)
 1. **Learning to diffuse: A new perspective to design PDEs for visual analysis.** TPAMI, 2016. [paper](https://ieeexplore.ieee.org/document/7393839)
 
