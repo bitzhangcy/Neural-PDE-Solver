@@ -709,6 +709,10 @@ Contributed by Chunyang Zhang.
 
    *Yuan Qiu, Nolan Bridges, and Peng Chen.*
 
+1. **Ensemble and mixture-of-experts DeepONets for operator learning.** arXiv, 2024. [paper](https://arxiv.org/abs/2405.11907)
+
+   *Ramansh Sharma and Varun Shankar.*
+
 ### [Fourier Operator](#content)
 1. **Fourier neural operator for parametric partial differential equations.** ICLR, 2021. [paper](https://openreview.net/forum?id=c8P9NQVtmnO)
 
@@ -2160,9 +2164,13 @@ Contributed by Chunyang Zhang.
 
    *Pierre Marion, Yuhan Wu, Michael E. Sander, and Gérard Biau.*
 
-1. **stable neural stochastic differential equations in analyzing irregular time series data.** ICLR, 2024. [paper](https://openreview.net/forum?id=4VIgNuQ1pY)
+1. **Stable neural stochastic differential equations in analyzing irregular time series data.** ICLR, 2024. [paper](https://openreview.net/forum?id=4VIgNuQ1pY)
 
    *YongKyung Oh, Dongyoung Lim, and Sungil Kim.*
+
+1. **From Fourier to neural ODEs: Flow matching for modeling complex systems.** ICML, 2024. [paper](https://arxiv.org/abs/2405.11542)
+
+   *Xin Li, Jingdong Zhang, Qunxi Zhu, Chengli Zhao, Xue Zhang, Xiaojun Duan, and Wei Lin.*
 
 ### [Large Model](#content)
 1. **Prompting in-context operator learning with sensor data, equations, and natural language.** arXiv, 2023. [paper](https://arxiv.org/abs/2308.05061)
@@ -2722,6 +2730,10 @@ Contributed by Chunyang Zhang.
 1. **Loss jump during loss switch in solving PDEs with neural networks.** arXiv, 2024. [paper](https://arxiv.org/abs/2405.03095)
 
    *Zhiwei Wang, Lulu Zhang, Zhongwang Zhang, and Zhi-Qin John Xu.*
+
+1. **Godunov loss functions for modelling of hyperbolic conservation laws.** arXiv, 2024. [paper](https://arxiv.org/abs/2405.11674)
+
+   *R. G. Cassia and R. R. Kerswell.*
 
 ### [Sampling](#content)
 1. **ADLGM: An efficient adaptive sampling deep learning Galerkin method.** JCP, 2023. [paper](https://www.sciencedirect.com/science/article/pii/S0021999123000396)
@@ -3480,6 +3492,10 @@ Contributed by Chunyang Zhang.
 1. **Positional knowledge is all you need: Position-induced Transformer (PiT) for operator learning.** ICML, 2024. [paper](https://arxiv.org/abs/2405.09285) 
 
    *Junfeng Chen and Kailiang Wu.*
+
+1. **Hierarchical neural operator Transformer with learnable frequency-aware loss prior for arbitrary-scale super-resolution.** ICML, 2024. [paper](https://arxiv.org/abs/2405.12202) 
+
+   *Xihaier Luo, Xiaoning Qian, and Byung-Jun Yoon.*
 
 ### [Theory](#content)
 1. **Convergence analysis of a quasi-Monte Carlo-based deep learning algorithm for solving partial differential equations.** arXiv, 2022. [paper](https://arxiv.org/abs/2210.16196)
@@ -4483,6 +4499,10 @@ Contributed by Chunyang Zhang.
 1. **Parametric PDE control with deep reinforcement learning and differentiable L^0-sparse polynomial policies.** arXiv, 2024. [paper](https://arxiv.org/abs/2403.15267)
 
    *Nicolò Botteghi and Urban Fasel.*
+
+1. **Pde control gym: A benchmark for data-driven boundary control of partial differential equations.** L4DC, 2024. [paper](https://arxiv.org/abs/2405.11401)
+
+   *Luke Bhan, Yuexin Bian, Miroslav Krstic, and Yuanyuan Shi.*
 
 ### [Climate](#content)
 1. **FourCastNet: A global data-driven high-resolution weather model using adaptive Fourier neural operators.** arXiv, 2022. [paper](https://arxiv.org/abs/2202.11214)
