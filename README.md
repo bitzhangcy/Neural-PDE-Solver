@@ -3824,6 +3824,10 @@ Contributed by Chunyang Zhang.
 
    *Jiayang Su, Junbo Ma, Songyang Tong, Enze Xu, and Minghan Chen.*
 
+1. **A practical PINN framework for multi-scale problems with multi-magnitude loss terms.** JCP, 2024. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0021999124003619)
+
+   *Yong Wang, Yanzhong Yao, Jiawei Guo, and Zhiming Gao.*
+
 ### [Multi Fidelity](#content)
 1. **Multifidelity deep operator networks.** arXiv, 2022. [paper](https://arxiv.org/abs/2204.09157)
 
@@ -4295,6 +4299,10 @@ Contributed by Chunyang Zhang.
 
    *Shengze Cai, Callum Gray, and George Em Karniadakis.*
 
+1. **SPI-MIONet for surrogate modeling in phase-field hydraulic fracturing.** Computer Methods in Applied Mechanics and Engineering, 2024. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0045782524003104)
+
+   *Xiaoqiang Wang, Peichao Li, Kaile Jia, Shaoqi Zhang, Chun Li, Bangchen Wu, Yilun Dong, and Detang Lu.*
+
 ### [Cybernetics](#content)
 1. **Machine learning accelerated PDE backstepping observers.** arXiv, 2022. [paper](https://arxiv.org/abs/2211.15044)
 
@@ -4577,6 +4585,10 @@ Contributed by Chunyang Zhang.
 1. **A hierarchically normalized physics-informed neural network for solving differential equations: Application for solid mechanics problems.** EAAI, 2024. [paper](https://www.sciencedirect.com/science/article/abs/pii/S095219762400558X)
 
    *Thang Le-Duc, Seunghye Lee, H. Nguyen-Xuan , and Jaehong Lee.*
+
+1. **Physics-informed machine learning using low-fidelity flowfields for inverse airfoil shape design.** AIAA, 2024. [paper](https://arc.aiaa.org/doi/abs/10.2514/1.J063570)
+
+   *Benjamin Y. J. Wong, Murali Damodaran, and Boo Cheong Khoo.*
 
 ### [Robotics](#content)
 1. **Hybrid learning of time-series inverse dynamics models for locally isotropic robot motion.** RAL, 2022. [paper](https://ieeexplore.ieee.org/document/9954138)
