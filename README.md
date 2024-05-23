@@ -3128,6 +3128,10 @@ Contributed by Chunyang Zhang.
 
    *Yulong Lu and Wuzhe Xu.*
 
+1. **Nearest neighbors GParareal: Improving scalability of Gaussian processes for parallel-in-Time solvers.** arXiv, 2024. [paper](https://arxiv.org/abs/2405.12182)
+
+   *Guglielmo Gattiglio, Lyudmila Grigoryeva, and Massimiliano Tamborrino.*
+
 ### [AutoML](#content)
 1. **Auto-PINN: Understanding and optimizing physics-informed neural architecture.** arXiv, 2022. [paper](https://arxiv.org/abs/2110.13361)
 
@@ -4500,9 +4504,13 @@ Contributed by Chunyang Zhang.
 
    *Nicolò Botteghi and Urban Fasel.*
 
-1. **Pde control gym: A benchmark for data-driven boundary control of partial differential equations.** L4DC, 2024. [paper](https://arxiv.org/abs/2405.11401)
+1. **PDE control gym: A benchmark for data-driven boundary control of partial differential equations.** L4DC, 2024. [paper](https://arxiv.org/abs/2405.11401)
 
    *Luke Bhan, Yuexin Bian, Miroslav Krstic, and Yuanyuan Shi.*
+
+1. **PhiBE: A PDE-based Bellman equation for continuous time policy evaluation.** arXiv, 2024. [paper](https://arxiv.org/abs/2405.12535)
+
+   *Yuhua Zhu.*
 
 ### [Climate](#content)
 1. **FourCastNet: A global data-driven high-resolution weather model using adaptive Fourier neural operators.** arXiv, 2022. [paper](https://arxiv.org/abs/2202.11214)
