@@ -620,6 +620,10 @@ Contributed by Chunyang Zhang.
 
    *Jeahan Jung, Heechang Kim, Hyomin Shin, and Minseok Choi.*
 
+1. **PTPI-DL-ROMs: Pre-trained physics-informed deep learning-based reduced order models for nonlinear parametrized PDEs.** arXiv, 2024. [paper](https://arxiv.org/abs/2405.08558)
+
+   *Simone Brivio, Stefania Fresca, and Andrea Manzoni.*
+
 ### [DeepONet](#content)
 1. **Learning nonlinear operators via DeepONet based on the universal approximation theorem of operators.** NMI, 2021. [paper](https://www.nature.com/articles/s42256-021-00302-5)
 
@@ -3132,6 +3136,10 @@ Contributed by Chunyang Zhang.
 
    *Guglielmo Gattiglio, Lyudmila Grigoryeva, and Massimiliano Tamborrino.*
 
+1. **Large scale scattering using fast solvers based on neural operators.** arXiv, 2024. [paper](https://arxiv.org/abs/2405.12380)
+
+   *Zongren Zou, Adar Kahana, Enrui Zhang, Eli Turkel, Rishikesh Ranade, Jay Pathak, and George Em Karniadakis.*
+
 ### [AutoML](#content)
 1. **Auto-PINN: Understanding and optimizing physics-informed neural architecture.** arXiv, 2022. [paper](https://arxiv.org/abs/2110.13361)
 
@@ -4975,6 +4983,10 @@ Contributed by Chunyang Zhang.
 1. **A deep transfer operator learning method for temperature field reconstruction in a lithium-ion battery pack.** TII, 2024. [paper](https://ieeexplore.ieee.org/abstract/document/10462637)
 
    *Yuchen Wang, Can Xiong, Changjiang Ju, Genke Yang, Yuwang Chen, and Xiaotian Yu.*
+
+1. **ro-PINN: A reduced order physics-informed neural network for solving the macroscopic model of pedestrian flows.** Transportation Research Part C: Emerging Technologies, 2024. [paper](https://www.sciencedirect.com/science/article/pii/S0968090X24001797)
+
+   *Renbin Pan, Feng Xiao, and Minyu Shen.*
 
 ### [Economics](#content)
 1. **A deep learning based numerical PDE method for option pricing.** Computational Economics, 2023. [paper](https://link.springer.com/article/10.1007/s10614-022-10279-x)
