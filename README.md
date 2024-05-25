@@ -624,6 +624,10 @@ Contributed by Chunyang Zhang.
 
    *Simone Brivio, Stefania Fresca, and Andrea Manzoni.*
 
+1. **Closed-form symbolic solutions: A new perspective on solving partial differential equations.** arXiv, 2024. [paper](https://arxiv.org/abs/2405.14620)
+
+   *Shu Wei, Yanjie Li, Lina Yu, Min Wu, Weijun Li, Meilan Hao, Wenqiang Li, Jingyi Liu, and Yusong Deng.*
+
 ### [DeepONet](#content)
 1. **Learning nonlinear operators via DeepONet based on the universal approximation theorem of operators.** NMI, 2021. [paper](https://www.nature.com/articles/s42256-021-00302-5)
 
@@ -1463,6 +1467,14 @@ Contributed by Chunyang Zhang.
 1. **Data scoping: Effectively learning the evolution of generic transport PDEs.** arXiv, 2024. [paper](https://.arxiv.org/abs/2405.01319)
 
    *Jiangce Chen, Wenzhuo Xu, Zeda Xu, Noelia Grande Gutiérrez, Sneha Prabha Narra, and Christopher McComb.*
+
+1. **Newton informed neural operator for computing multiple solutions of nonlinear partials differential equations.** arXiv, 2024. [paper](https://.arxiv.org/abs/2405.14096)
+
+   *Wenrui Hao, Xinliang Liu, and Yahong Yang.*
+
+1. **FUSE: Fast unified simulation and estimation for PDEs.** arXiv, 2024. [paper](https://.arxiv.org/abs/2405.14558)
+
+   *Levi E. Lingsch, Dana Grund, Siddhartha Mishra, and Georgios Kissas.*
 
 ### [Machine Learning](#content)
 1. **Machine learning–accelerated computational fluid dynamics.** PNAS, 2021. [paper](https://www.pnas.org/doi/10.1073/pnas.2101784118)
@@ -3408,6 +3420,10 @@ Contributed by Chunyang Zhang.
 
    *Christian Jacobsen, Yilin Zhuang, and Karthik Duraisamy.*
 
+1. **Neuroexplicit diffusion models for inpainting of optical flow fields.** arXiv, 2024. [paper](https://arxiv.org/abs/2405.14599)
+
+   *Tom Fischer, Pascal Peter, Joachim Weickert, and Eddy Ilg.*
+
 ### [Transformer](#content)
 1. **Learning operators with coupled attention.** JMLR, 2022. [paper](https://www.jmlr.org/papers/v23/21-1521.html) 
 
@@ -3597,6 +3613,10 @@ Contributed by Chunyang Zhang.
 1. **A priori error estimation of physics-informed neural networks solving Allen--Cahn and Cahn--Hilliard equations.** arXiv, 2024. [paper](https://arxiv.org/abs/2402.02667)
 
    *Guangtao Zhang, Jiani Lin, Qijia Zhai, Huiyu Yang, Xujun Chen, Xiaoning Zheng, and Ieng Tak Leong.*
+
+1. **Convergence of the deep Galerkin method for mean field control problems.** arXiv, 2024. [paper](https://arxiv.org/abs/2405.13346)
+
+   *William Hofgard, Jingruo Sun, and Asaf Cohen*
 
 ### [Gaussian Process](#content)
 1. **PAGP: A physics-assisted Gaussian process framework with active learning for forward and inverse problems of partial differential equations.** arXiv, 2022. [paper](https://arxiv.org/abs/2204.02583)
