@@ -1015,6 +1015,18 @@ Contributed by Chunyang Zhang.
 
    *Chenkai Mao, Robert Lupoiu, Tianxiang Dai, Mingkun Chen, and Jonathan A. Fan.*
 
+1. **Graph neural PDE solvers with conservation and similarity-equivariance.** ICML, 2024. [paper](https://arxiv.org/abs/2405.16183)
+
+   *Masanobu Horie and Naoto Mitsume.*
+
+1. **Spectral-refiner: Fine-tuning of accurate spatiotemporal neural operator for turbulent flows.** arXiv, 2024. [paper](https://arxiv.org/abs/2405.17211)
+
+   *Shuhao Cao, Francesco Brarda, Ruipeng Li, and Yuanzhe Xi.*
+
+1. **Accelerating simulation of two-phase flows with neural PDE surrogates.** arXiv, 2024. [paper](https://arxiv.org/abs/2405.17260)
+
+   *Yoeri Poels, Koen Minartz, Harshit Bansal, and Vlado Menkovski.*
+
 ### [Green Function](#content)
 1. **Learning Green's functions associated with time-dependent partial differential equations.** JMLR, 2022. [paper](https://www.jmlr.org/papers/volume23/22-0433/22-0433.pdf)
 
@@ -1051,6 +1063,10 @@ Contributed by Chunyang Zhang.
 1. **Deep surrogate model for learning Green's function associated with linear reaction-diffusion operator.** arXiv, 2023. [paper](https://arxiv.org/abs/2310.03642)
 
    *Junqing Ji, Lili Ju, and Xiaoping Zhang.*
+
+1. **Numerical solutions of boundary problems in partial differential equations: A deep learning framework with Green's function.** JCP, 2024. [paper](https://arxiv.org/abs/2310.03642)
+
+   *Yuanjun Dai, Zhi Li, Yiran An, and Wanru Deng.*
 
 ### [Finite Element](#content)
 1. **Composing partial differential equations with physics-aware neural networks.** ICML, 2022. [paper](https://proceedings.mlr.press/v162/karlbauer22a/karlbauer22a.pdf)
@@ -2067,6 +2083,10 @@ Contributed by Chunyang Zhang.
 
    *Ray Zirui Zhang, Xiaohui Xie, and John Lowengrub.*
 
+1. **Taming score-based diffusion priors for infinite-dimensional nonlinear inverse problems.** arXiv, 2024. [paper](https://arxiv.org/abs/2405.15676)
+
+   *Lorenzo Baldassari, Ali Siahkoohi, Josselin Garnier, Knut Solna, and Maarten V. de Hoop.*
+
 ### [Neural ODE](#content)
 1. **Neural rough differential equations for long time series.** ICML, 2021. [paper](http://proceedings.mlr.press/v139/morrill21b.html)
 
@@ -2751,6 +2771,10 @@ Contributed by Chunyang Zhang.
 
    *R. G. Cassia and R. R. Kerswell.*
 
+1. **Kronecker-factored approximate curvature for physics-informed neural networks.** arXiv, 2024. [paper](https://arxiv.org/abs/2405.15603)
+
+   *Felix Dangel, Johannes Müller, and Marius Zeinhofer.*
+
 ### [Sampling](#content)
 1. **ADLGM: An efficient adaptive sampling deep learning Galerkin method.** JCP, 2023. [paper](https://www.sciencedirect.com/science/article/pii/S0021999123000396)
 
@@ -2904,6 +2928,10 @@ Contributed by Chunyang Zhang.
 1. **End-to-end mesh optimization of a hybrid deep learning black-box PDE solver.** arXiv, 2024. [paper](https://arxiv.org/abs/2404.11766)
 
    *Shaocong Ma, James Diffenderfer, Bhavya Kailkhura, and Yi Zhou.*
+
+1. **RoPINN: Region optimized physics-informed neural networks.** arXiv, 2024. [paper](https://.arxiv.org/abs/2405.14369)
+
+   *Haixu Wu, Huakun Luo, Yuezhou Ma, Jianmin Wang, Mingsheng Long.*
 
 ### [Decomposition](#content)
 1. **Composing partial differential equations with physics-aware neural networks.** ICLR, 2022. [paper](https://openreview.net/forum?id=DIsWHvtU7lF)
@@ -3525,6 +3553,10 @@ Contributed by Chunyang Zhang.
 
    *Xihaier Luo, Xiaoning Qian, and Byung-Jun Yoon.*
 
+1. **Bridging operator learning and conditioned neural fields: A unifying perspective.** arXiv, 2024. [paper](https://arxiv.org/abs/2405.13998) 
+
+   *Sifan Wang, Jacob H Seidman, Shyam Sankaran, Hanwen Wang, George J. Pappas, and Paris Perdikaris.*
+
 ### [Theory](#content)
 1. **Convergence analysis of a quasi-Monte Carlo-based deep learning algorithm for solving partial differential equations.** arXiv, 2022. [paper](https://arxiv.org/abs/2210.16196)
 
@@ -3875,6 +3907,11 @@ Contributed by Chunyang Zhang.
 1. **A practical PINN framework for multi-scale problems with multi-magnitude loss terms.** JCP, 2024. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0021999124003619)
 
    *Yong Wang, Yanzhong Yao, Jiawei Guo, and Zhiming Gao.*
+
+1. **Enhancing multiscale simulations with constitutive relations-aware deep operator networks.** arXiv, 2024. [paper](https://arxiv.org/abs/2405.13759)
+
+   *Hamidreza Eivazi, Mahyar Alikhani, Jendrik-Alexander Tröger, Stefan Wittek, Stefan Hartmann, and Andreas Rausch.*
+
 
 ### [Multi Fidelity](#content)
 1. **Multifidelity deep operator networks.** arXiv, 2022. [paper](https://arxiv.org/abs/2204.09157)
@@ -4350,6 +4387,10 @@ Contributed by Chunyang Zhang.
 1. **SPI-MIONet for surrogate modeling in phase-field hydraulic fracturing.** Computer Methods in Applied Mechanics and Engineering, 2024. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0045782524003104)
 
    *Xiaoqiang Wang, Peichao Li, Kaile Jia, Shaoqi Zhang, Chun Li, Bangchen Wu, Yilun Dong, and Detang Lu.*
+
+1. **Strategies for multi-case physics-informed neural networks for tube flows: A study using 2D flow scenarios.** Scientific Reports, 2024. [paper](https://www.nature.com/articles/s41598-024-62117-9)
+
+   *Hong Shen Wong, Wei Xuan Chan, Bing Huan Li, and Choon Hwai Yap.*
 
 ### [Cybernetics](#content)
 1. **Machine learning accelerated PDE backstepping observers.** arXiv, 2022. [paper](https://arxiv.org/abs/2211.15044)
