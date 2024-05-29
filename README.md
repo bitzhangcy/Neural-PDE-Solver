@@ -1492,6 +1492,10 @@ Contributed by Chunyang Zhang.
 
    *Levi E. Lingsch, Dana Grund, Siddhartha Mishra, and Georgios Kissas.*
 
+1. **Reference neural operators: Learning the smooth dependence of solutions of PDEs on geometric deformations.** ICML, 2024. [paper](https://.arxiv.org/abs/2405.17509)
+
+   *Ze Cheng, Zhongkai Hao, Xiaoqiang Wang, Jianing Huang, Youjia Wu, Xudan Liu, Yiru Zhao, Songming Liu, and Hang Su.*
+
 ### [Machine Learning](#content)
 1. **Machine learning–accelerated computational fluid dynamics.** PNAS, 2021. [paper](https://www.pnas.org/doi/10.1073/pnas.2101784118)
 
@@ -3556,6 +3560,10 @@ Contributed by Chunyang Zhang.
 1. **Bridging operator learning and conditioned neural fields: A unifying perspective.** arXiv, 2024. [paper](https://arxiv.org/abs/2405.13998) 
 
    *Sifan Wang, Jacob H Seidman, Shyam Sankaran, Hanwen Wang, George J. Pappas, and Paris Perdikaris.*
+
+1. **Unisolver: PDE-conditional transformers are universal PDE solvers.** arXiv, 2024. [paper](https://arxiv.org/abs/2405.17527) 
+
+   *Zhou Hang, Yuezhou Ma, Haixu Wu, Haowen Wang, and Mingsheng Long.*
 
 ### [Theory](#content)
 1. **Convergence analysis of a quasi-Monte Carlo-based deep learning algorithm for solving partial differential equations.** arXiv, 2022. [paper](https://arxiv.org/abs/2210.16196)
