@@ -2233,6 +2233,10 @@ Contributed by Chunyang Zhang.
 
    *Jingmin Sun, Yuxuan Liu, Zecheng Zhang, and Hayden Schaeffer.*
 
+1. **Poseidon: Efficient foundation models for PDEs.** arXiv, 2024. [paper](https://arxiv.org/abs/2405.19101)
+
+   *Maximilian Herde, Bogdan Raonić, Tobias Rohner, Roger Käppeli, Roberto Molinaro, Emmanuel de Bézenac, and Siddhartha Mishra.*
+
 
 ## [Mechanism](#content)
 ### [Library](#content)
@@ -3254,6 +3258,10 @@ Contributed by Chunyang Zhang.
 
    *Junyan He, Seid Koric, Diab Abueidda, Ali Najafi, and Iwona Jasiuk.*
 
+1. **Physics-aware neural implicit solvers for multiscale, parametric PDEs with applications in heterogeneous media.** arXiv, 2024. [paper](https://arxiv.org/abs/2405.19019) 
+
+   *Matthaios Chatzopoulos and Phaedon-Stelios Koutsourelakis.*
+
 ### [Uncertainty Quantification](#content)
 1. **Quantifying total uncertainty in physics-informed neural networks for solving forward and inverse stochastic problems.** arXiv, 2021. [paper](https://www.sciencedirect.com/science/article/pii/S0021999119305340)
 
@@ -3564,6 +3572,10 @@ Contributed by Chunyang Zhang.
 1. **Unisolver: PDE-conditional transformers are universal PDE solvers.** arXiv, 2024. [paper](https://arxiv.org/abs/2405.17527) 
 
    *Zhou Hang, Yuezhou Ma, Haixu Wu, Haowen Wang, and Mingsheng Long.*
+
+1. **Transformers as neural operators for solutions of differential equations with finite regularity.** arXiv, 2024. [paper](https://arxiv.org/abs/2405.19166) 
+
+   *Benjamin Shih, Ahmad Peyvan, Zhongqiang Zhang, and George Em Karniadakis.*
 
 ### [Theory](#content)
 1. **Convergence analysis of a quasi-Monte Carlo-based deep learning algorithm for solving partial differential equations.** arXiv, 2022. [paper](https://arxiv.org/abs/2210.16196)
