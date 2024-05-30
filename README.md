@@ -1234,6 +1234,10 @@ Contributed by Chunyang Zhang.
 
    *Peter Pavlík, Martin Výboh, Anna Bou Ezzeddine, and Viera Rozinajová.*
 
+1. **Theory guided Lagrange programming neural network for subsurface flow problems.** EAAI, 2024. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0952197624008145)
+
+   *Jian Wang, Xiaofeng Xue, Zhixue Sun, Jun Yao, El-Sayed M. El-Alfy, Kai Zhang, Witold Pedrycz, and Jacek Mańdziuk.*
+
 ### [AutoEncoder](#content)
 1. **Integral autoencoder network for discretization-invariant learning.** JMLR, 2022. [paper](https://www.jmlr.org/papers/v23/22-0297.html)
 
@@ -3668,7 +3672,11 @@ Contributed by Chunyang Zhang.
 
 1. **Convergence of the deep Galerkin method for mean field control problems.** arXiv, 2024. [paper](https://arxiv.org/abs/2405.13346)
 
-   *William Hofgard, Jingruo Sun, and Asaf Cohen*
+   *William Hofgard, Jingruo Sun, and Asaf Cohen.*
+
+1. **Data complexity estimates for operator learning.** arXiv, 2024. [paper](https://arxiv.org/abs/2405.15992)
+
+   *Nikola B. Kovachki, Samuel Lanthaler, and Hrushikesh Mhaskar.*
 
 ### [Gaussian Process](#content)
 1. **PAGP: A physics-assisted Gaussian process framework with active learning for forward and inverse problems of partial differential equations.** arXiv, 2022. [paper](https://arxiv.org/abs/2204.02583)
