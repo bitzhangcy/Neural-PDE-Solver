@@ -1238,6 +1238,10 @@ Contributed by Chunyang Zhang.
 
    *Jian Wang, Xiaofeng Xue, Zhixue Sun, Jun Yao, El-Sayed M. El-Alfy, Kai Zhang, Witold Pedrycz, and Jacek Mańdziuk.*
 
+1. **Physics-aware recurrent convolutional neural networks for modeling multiphase compressible flows.** International Journal of Multiphase Flow, 2024. [paper](https://www.sciencedirect.com/science/article/pii/S030193222400154X)
+
+   *Xinlun Cheng, Phong C.H. Nguyen, Pradeep K. Seshadri, Mayank Verma, Zoë J. Gray, Jack T. Beerman, H.S. Udaykumar, and Stephen S. Baek.*
+
 ### [AutoEncoder](#content)
 1. **Integral autoencoder network for discretization-invariant learning.** JMLR, 2022. [paper](https://www.jmlr.org/papers/v23/22-0297.html)
 
