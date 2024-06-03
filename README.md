@@ -2868,6 +2868,10 @@ Contributed by Chunyang Zhang.
 
    *Zhengqi Zhang, Jing Li, and Bin Liu.*
 
+1. **Solving partial differential equations with sampled neural networks.** arXiv, 2024. [paper](https://arxiv.org/abs/2405.20836)
+
+   *Chinmay Datar, Taniya Kapoor, Abhishek Chandra, Qing Sun, Iryna Burak, Erik Lien Bolager, Anna Veselovska, Massimo Fornasier, and Felix Dietrich.*
+
 ### [Mesh](#content)
 1. **MeshingNet: A new mesh generation method based on deep learning.** ICCS, 2022. [paper](https://link.springer.com/chapter/10.1007/978-3-030-50420-5_14)
 
