@@ -1504,6 +1504,10 @@ Contributed by Chunyang Zhang.
 
    *Ze Cheng, Zhongkai Hao, Xiaoqiang Wang, Jianing Huang, Youjia Wu, Xudan Liu, Yiru Zhao, Songming Liu, and Hang Su.*
 
+1. **Variational operator learning: A unified paradigm marrying training neural operators and solving partial differential equations.** Journal of the Mechanics and Physics of Solids, 2024. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0022509624001807)
+
+   *Tengfei Xu, Dachuan Liu, Peng Hao, and Bo Wang.*
+
 ### [Machine Learning](#content)
 1. **Machine learning–accelerated computational fluid dynamics.** PNAS, 2021. [paper](https://www.pnas.org/doi/10.1073/pnas.2101784118)
 
