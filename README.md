@@ -1757,6 +1757,10 @@ Contributed by Chunyang Zhang.
 
    *Mohammad H. Taufik, Xinquan Huang, and Tariq Alkhalifah.*
 
+1. **Solving Poisson equations using neural walk-on-spheres.** ICML, 2024. [paper](https://arxiv.org/abs/2406.03494)
+
+   *Hong Chul Nam, Julius Berner, and Anima Anandkumar.*
+
 ### [Identification](#content)
 1. **Data-driven discovery of partial differential equations.** SA, 2017. [paper](https://arxiv.org/abs/1910.11710)
 
@@ -2581,9 +2585,13 @@ Contributed by Chunyang Zhang.
 
    *Nima Hosseini Dashtbayaz, Ghazal Farhani, Boyu Wang, and Charles X. Ling.*
 
-1. **Unveiling the optimization process of physics informed neural networks: How accurate and competitive can pinns be?.** arXiv, 2024. [paper](https://arxiv.org/abs/2403.15652)
+1. **Unveiling the optimization process of physics informed neural networks: How accurate and competitive can pinns be?** arXiv, 2024. [paper](https://arxiv.org/abs/2403.15652)
 
    *Jorge F. Urbán, Petros Stefanou, and José A. Pons.*
+
+1. **Loss jump during loss switch in solving PDEs with neural networks.** arXiv, 2024. [paper](https://arxiv.org/abs/2405.03095)
+
+   *Zhiwei Wang, Lulu Zhang, Zhongwang Zhang, and Zhi-Qin John Xu.*
 
 ### [Domain Adaptation](#content)
 1. **Meta-auto-decoder for solving parametric partial differential equations.** NIPS, 2022. [paper](https://openreview.net/pdf?id=PwlW5Jri1Xt) 
@@ -2794,6 +2802,10 @@ Contributed by Chunyang Zhang.
 1. **Kronecker-factored approximate curvature for physics-informed neural networks.** arXiv, 2024. [paper](https://arxiv.org/abs/2405.15603)
 
    *Felix Dangel, Johannes Müller, and Marius Zeinhofer.*
+
+1. **Astral: Training physics-informed neural networks with error majorants.** arXiv, 2024. [paper](https://arxiv.org/abs/2406.02645)
+
+   *Vladimir Fanaskov, Tianchi Yu, Alexander Rudikov, and Ivan Oseledets.*
 
 ### [Sampling](#content)
 1. **ADLGM: An efficient adaptive sampling deep learning Galerkin method.** JCP, 2023. [paper](https://www.sciencedirect.com/science/article/pii/S0021999123000396)
