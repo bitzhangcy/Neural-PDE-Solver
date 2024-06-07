@@ -2726,21 +2726,25 @@ Contributed by Chunyang Zhang.
 
    *Minglang Yin, Nicolas Charon, Ryan Brody, Lu Lu, Natalia Trayanova, and Mauro Maggioni.*
 
-1. **Transferable neural networks for partial differential equations.**  Journal of Scientific Computing, 2024. [paper](https://link.springer.com/article/10.1007/s10915-024-02463-y)
+1. **Transferable neural networks for partial differential equations.** Journal of Scientific Computing, 2024. [paper](https://link.springer.com/article/10.1007/s10915-024-02463-y)
 
    *Zezhong Zhang, Feng Bao, Lili Ju, and Guannan Zhang.*
 
-1. **Using uncertainty quantification to characterize and improve out-of-domain learning for PDEs.**  arXiv, 2024. [paper](https://arxiv.org/abs/2403.10642)
+1. **Using uncertainty quantification to characterize and improve out-of-domain learning for PDEs.** arXiv, 2024. [paper](https://arxiv.org/abs/2403.10642)
 
    *S. Chandra Mouli, Danielle C. Maddix, Shima Alizadeh, Gaurav Gupta, Andrew Stuart, Michael W. Mahoney, and Yuyang Wang.*
 
-1. **Neural parameter regression for explicit representations of PDE solution operators.**  ICLR, 2024. [paper](https://arxiv.org/abs/2403.12764)
+1. **Neural parameter regression for explicit representations of PDE solution operators.** ICLR, 2024. [paper](https://arxiv.org/abs/2403.12764)
 
    *Konrad Mundinger, Max Zimmer, and Sebastian Pokutta.*
 
 1. **Deep operator networks for bioheat transfer problems with parameterized laser source functions.**  International Journal of Heat and Mass Transfe, 2024. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0017931024004903)
 
    *Aditya Roy, Andrew DuPlissis, Biswajit Mishra, and Adela Ben-Yakar.*
+
+1. **Vectorized conditional neural fields: A framework for solving time-dependent parametric partial differential equations.** ICML, 2024. [paper](https://arxiv.org/abs/2406.03919)
+
+   *Jan Hagnberger, Marimuthu Kalimuthu, Daniel Musekamp, and Mathias Niepert.*
 
 ### [Loss Function](#content)
 1. **Adaptive activation functions accelerate convergence in deep and physics-informed neural networks.** JCP, 2021. [paper](https://www.sciencedirect.com/science/article/pii/S0021999119308411)
