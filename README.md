@@ -4448,6 +4448,10 @@ Contributed by Chunyang Zhang.
 
    *Hong Shen Wong, Wei Xuan Chan, Bing Huan Li, and Choon Hwai Yap.*
 
+1. **Physics-informed neural networks for fully non-linear free surface wave propagation.** Physics of Fluids, 2024. [paper](https://pubs.aip.org/aip/pof/article-abstract/36/6/062106/3296519/Physics-informed-neural-networks-for-fully-non?redirectedFrom=fulltext)
+
+   *Haocheng Lu, Qian Wang, Wenhao Tang, and Hua Liu.*
+
 ### [Cybernetics](#content)
 1. **Machine learning accelerated PDE backstepping observers.** arXiv, 2022. [paper](https://arxiv.org/abs/2211.15044)
 
@@ -4876,6 +4880,10 @@ Contributed by Chunyang Zhang.
 1. **Fully convolutional network enhanced DeepONet-based surrogate of predicting the travel-time fields.** TGRS, 2024. [paper](https://ieeexplore.ieee.org/abstract/document/10530929)
 
    *Yifan Mei, Yijie Zhang, Xueyu Zhu, Rongxi Gou, and Jinghuai Gao.*
+
+1. **Seismic wavefields modeling with variable horizontally-layered velocity models via velocity-encoded PINN.** TGRS, 2024. [paper](https://ieeexplore.ieee.org/abstract/document/10551894)
+
+   *Jingbo Zou, Cai Liu, Pengfei Zhao, and Chao Song.*
 
 ### [Image](#content)
 1. **Learning to diffuse: A new perspective to design PDEs for visual analysis.** TPAMI, 2016. [paper](https://ieeexplore.ieee.org/document/7393839)
