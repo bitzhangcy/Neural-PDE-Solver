@@ -2253,6 +2253,10 @@ Contributed by Chunyang Zhang.
 
    *Maximilian Herde, Bogdan Raonić, Tobias Rohner, Roger Käppeli, Roberto Molinaro, Emmanuel de Bézenac, and Siddhartha Mishra.*
 
+1. **PStrategies for pretraining neural operators.** arXiv, 2024. [paper](https://arxiv.org/abs/2406.08473)
+
+   *Anthony Zhou, Cooper Lorsung, AmirPouya Hemmasian, and Amir Barati Farimani.*
+
 
 ## [Mechanism](#content)
 ### [Library](#content)
