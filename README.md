@@ -143,7 +143,7 @@ Contributed by Chunyang Zhang.
 
    *Temoor Muther, Amirmasoud Kalantari Dahaghi, Fahad Iqbal Syed, and Vuong Van Pham.* 
 
-1. **A comprehensive and fair comparison of two neural operators (with practical extensions) based on FAIR data.** Computer Methods in Applied Mechanics and Engineering, 2022. [paper](https://www.sciencedirect.com/science/article/pii/S0045782522001207?via%3Dihub)
+1. **A comprehensive and fair comparison of two neural operators (with practical extensions) based on FAIR data.** CMAME, 2022. [paper](https://www.sciencedirect.com/science/article/pii/S0045782522001207?via%3Dihub)
 
    *Lu Lu, Xuhui Meng, Shengze Cai, Zhiping Mao, Somdatta Goswami, Zhongqiang Zhang, and George Em Karniadakis.* 
 
@@ -238,35 +238,35 @@ Contributed by Chunyang Zhang.
 
    *Khemraj Shukla, Ameya D.Jagtap, and George Em Karniadakis.*
 
-1. **Kolmogorov n–width and Lagrangian physics-informed neural networks: A causality-conforming manifold for convection-dominated PDEs.** Computer Methods in Applied Mechanics and Engineering, 2023. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0045782522007666)
+1. **Kolmogorov n–width and Lagrangian physics-informed neural networks: A causality-conforming manifold for convection-dominated PDEs.** CMAME, 2023. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0045782522007666)
 
    *Rambod Mojgani, Maciej Balajewicz, and Pedram Hassanzadeh.*
 
-1. **Exact imposition of boundary conditions with distance functions in physics-informed deep neural networks.** Computer Methods in Applied Mechanics and Engineering, 2022. [paper](https://www.sciencedirect.com/science/article/pii/S0045782521006186)
+1. **Exact imposition of boundary conditions with distance functions in physics-informed deep neural networks.** CMAME, 2022. [paper](https://www.sciencedirect.com/science/article/pii/S0045782521006186)
 
    *N.Sukumar and Ankit Srivastava.*
 
-1. **Physics-informed multi-LSTM networks for meta-modeling of nonlinear structures.** Computer Methods in Applied Mechanics and Engineering, 2020. [paper](https://www.sciencedirect.com/science/article/pii/S0045782520304114)
+1. **Physics-informed multi-LSTM networks for meta-modeling of nonlinear structures.** CMAME, 2020. [paper](https://www.sciencedirect.com/science/article/pii/S0045782520304114)
 
    *Ruiyang Zhang, Yang Liu, and Hao Sun.*
 
-1. **Gradient-enhanced physics-informed neural networks for forward and inverse PDE problems.** Computer Methods in Applied Mechanics and Engineering, 2022. [paper](https://www.sciencedirect.com/science/article/pii/S0045782522001438)
+1. **Gradient-enhanced physics-informed neural networks for forward and inverse PDE problems.** CMAME, 2022. [paper](https://www.sciencedirect.com/science/article/pii/S0045782522001438)
 
    *Jeremy Yu, Lu Lu, Xuhui Meng, and George Em Karniadakis.*
 
-1. **Multi-output physics-informed neural networks for forward and inverse PDE problems with uncertainties.** Computer Methods in Applied Mechanics and Engineering, 2022. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0045782522002602)
+1. **Multi-output physics-informed neural networks for forward and inverse PDE problems with uncertainties.** CMAME, 2022. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0045782522002602)
 
    *MingyuanYang and John T.Foster*
 
-1. **PPINN: Parareal physics-informed neural network for time-dependent PDEs.** Computer Methods in Applied Mechanics and Engineering, 2020. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0045782520304357)
+1. **PPINN: Parareal physics-informed neural network for time-dependent PDEs.** CMAME, 2020. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0045782520304357)
 
    *Xuhui Meng, Zhen Li, Dongkun Zhang, and George Em Karniadakis.*
 
-1. **CAN-PINN: A fast physics-informed neural network based on coupled-automatic–numerical differentiation method.** Computer Methods in Applied Mechanics and Engineering, 2022. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0045782522001906)
+1. **CAN-PINN: A fast physics-informed neural network based on coupled-automatic–numerical differentiation method.** CMAME, 2022. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0045782522001906)
 
    *Pao-Hsiung Chiu, Jian Cheng Wong, Chinchun Ooi, My Ha Dao, and Yew-Soon Ong.*
 
-1. **Derivative-informed projected neural networks for high-dimensional parametric maps governed by PDEs.** Computer Methods in Applied Mechanics and Engineering, 2022. [paper](https://www.sciencedirect.com/science/article/pii/S0045782521005302)
+1. **Derivative-informed projected neural networks for high-dimensional parametric maps governed by PDEs.** CMAME, 2022. [paper](https://www.sciencedirect.com/science/article/pii/S0045782521005302)
 
    *Thomas O’Leary-Roseberry, Umberto Villa, Peng Chen, and Omar Ghattas.*
 
@@ -306,7 +306,7 @@ Contributed by Chunyang Zhang.
 
    *Lei Yuan, Yiqing Ni, Xiangyun Deng, and Shuo Hao.*
 
-1. **A mixed formulation for physics-informed neural networks as a potential solver for engineering problems in heterogeneous domains: Comparison with finite element method.** Computer Methods in Applied Mechanics and Engineering, 2022. [paper](https://www.sciencedirect.com/science/article/pii/S0045782522005722)
+1. **A mixed formulation for physics-informed neural networks as a potential solver for engineering problems in heterogeneous domains: Comparison with finite element method.** CMAME, 2022. [paper](https://www.sciencedirect.com/science/article/pii/S0045782522005722)
 
    *Shahed Rezaei, Ali Harandi, Ahmad Moeineddin, Baixiang Xua, and Stefanie Reese.*
 
@@ -314,7 +314,7 @@ Contributed by Chunyang Zhang.
 
    *Siping Tang, Xinlong Feng, Wei Wu, and Hui Xu.*
 
-1. **A novel sequential method to train physics informed neural networks for Allen Cahn and Cahn Hilliard equations.** Computer Methods in Applied Mechanics and Engineering, 2022. [paper](https://www.sciencedirect.com/science/article/pii/S0045782521006939)
+1. **A novel sequential method to train physics informed neural networks for Allen Cahn and Cahn Hilliard equations.** CMAME, 2022. [paper](https://www.sciencedirect.com/science/article/pii/S0045782521006939)
 
    *Revanth Mattey and Susanta Ghosh.*
 
@@ -462,7 +462,7 @@ Contributed by Chunyang Zhang.
 
    *Shuheng Liu, Xiyue Huang, and Pavlos Protopapas.*
 
-1. **Automatic boundary fitting framework of boundary dependent physics-informed neural network solving partial differential equation with complex boundary conditions.** Computer Methods in Applied Mechanics and Engineering, 2023. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0045782523002633)
+1. **Automatic boundary fitting framework of boundary dependent physics-informed neural network solving partial differential equation with complex boundary conditions.** CMAME, 2023. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0045782523002633)
 
    *Yuchen Xie, Yu Ma, and Yahui Wang.*
 
@@ -482,7 +482,7 @@ Contributed by Chunyang Zhang.
 
    *Yihang Gao, Yiqi Gu, and Michael Ng.*
 
-1. **Residual-based attention in physics-informed neural networks.** Computer Methods in Applied Mechanics and Engineering, 2024. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0045782524000616)
+1. **Residual-based attention in physics-informed neural networks.** CMAME, 2024. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0045782524000616)
 
    *Sokratis J. Anagnostopoulos, Juan Diego Toscano, Nikolaos Stergiopulos, and George Em Karniadakis.*
 
@@ -608,7 +608,7 @@ Contributed by Chunyang Zhang.
 
    *Shaoxiang Qin, Fuyuan Lyu, Wenhui Peng, Dingyang Geng, Ju Wang, Naiping Gao, Xue Liu, and Liangzhu Leon Wang.*
 
-1. **Anti-derivatives approximator for enhancing physics-informed neural networks.** Computer Methods in Applied Mechanics and Engineering, 2024. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0045782524002561)
+1. **Anti-derivatives approximator for enhancing physics-informed neural networks.** CMAME, 2024. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0045782524002561)
 
    *Jeongsu Lee.*
 
@@ -616,7 +616,7 @@ Contributed by Chunyang Zhang.
 
    *Shupeng Wang and George Em Karniadakis.*
 
-1. **CEENs: Causality-enforced evolutional networks for solving time-dependent partial differential equations.** Computer Methods in Applied Mechanics and Engineering, 2024. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0045782524002925)
+1. **CEENs: Causality-enforced evolutional networks for solving time-dependent partial differential equations.** CMAME, 2024. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0045782524002925)
 
    *Jeahan Jung, Heechang Kim, Hyomin Shin, and Minseok Choi.*
 
@@ -701,7 +701,7 @@ Contributed by Chunyang Zhang.
 
    *Rüdiger Brecht, Dmytro R. Popovych, Alex Bihlo, and Roman O. Popovych.*
 
-1. **Capturing the diffusive behavior of the multiscale linear transport equations by asymptotic-preserving convolutional DeepONets.** Computer Methods in Applied Mechanics and Engineering, 2023. [paper](https://www.sciencedirect.com/science/article/pii/S0045782523006552)
+1. **Capturing the diffusive behavior of the multiscale linear transport equations by asymptotic-preserving convolutional DeepONets.** CMAME, 2023. [paper](https://www.sciencedirect.com/science/article/pii/S0045782523006552)
 
    *Keke Wu, Xiong-Bin Yan, Shi Jin, and Zheng Ma.*
 
@@ -758,11 +758,11 @@ Contributed by Chunyang Zhang.
 
    *Dan MacKinlay, Dan Pagendam, Petra M. Kuhnert, Tao Cui, David Robertson, and Sreekanth Janardhanan.*
 
-1. **Learning deep implicit Fourier neural operators (IFNOs) with applications to heterogeneous material modeling.** Computer Methods in Applied Mechanics and Engineering, 2022. [paper](https://www.sciencedirect.com/science/article/pii/S0045782522004078)
+1. **Learning deep implicit Fourier neural operators (IFNOs) with applications to heterogeneous material modeling.** CMAME, 2022. [paper](https://www.sciencedirect.com/science/article/pii/S0045782522004078)
 
    *Huaiqian You, Quinn Zhang, Colton J. Ross, Chung-Hao Lee, and Yue Yu.*
 
-1. **On the eigenvector bias of Fourier feature networks: From regression to solving multi-scale PDEs with physics-informed neural networks.** Computer Methods in Applied Mechanics and Engineering, 2021. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0045782521002759)
+1. **On the eigenvector bias of Fourier feature networks: From regression to solving multi-scale PDEs with physics-informed neural networks.** CMAME, 2021. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0045782521002759)
 
    *Sifan Wang, Hanwen Wang, and Paris Perdikaris.*
 
@@ -863,7 +863,7 @@ Contributed by Chunyang Zhang.
 
    *Winfried Lötzsch, Simon Ohler, and Johannes S. Otterbach.*
 
-1. **Physics-informed graph neural Galerkin networks: A unified framework for solving PDE-governed forward and inverse problems.** Computer Methods in Applied Mechanics and Engineering, 2022. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0045782521007076)
+1. **Physics-informed graph neural Galerkin networks: A unified framework for solving PDE-governed forward and inverse problems.** CMAME, 2022. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0045782521007076)
 
    *Han Gao, Matthew J.Zahr, and Jianxun Wang.*
 
@@ -1105,7 +1105,7 @@ Contributed by Chunyang Zhang.
 
    *Shahed Rezaei, Ahmad Moeineddin, Michael Kaliske, and Markus Apel.*
 
-1. **Error assessment of an adaptive finite elements—neural networks method for an elliptic parametric PDE.** Computer Methods in Applied Mechanics and Engineering, 2024. [paper](https://arxiv.org/abs/2401.02363)
+1. **Error assessment of an adaptive finite elements—neural networks method for an elliptic parametric PDE.** CMAME, 2024. [paper](https://arxiv.org/abs/2401.02363)
 
    *Alexandre Caboussat, Maude Girardin, and Marco Picasso.*
 
@@ -1178,7 +1178,7 @@ Contributed by Chunyang Zhang.
 
    *Bogdan Raonić, Roberto Molinaro, Tobias Rohner, Siddhartha Mishra, and Emmanuel de Bezenac.*
 
-1. **An unsupervised latent/output physics-informed convolutional-LSTM network for solving partial differential equations using peridynamic differential operator.** Computer Methods in Applied Mechanics and Engineering, 2023. [paper](https://www.sciencedirect.com/science/article/pii/S0045782523000671)
+1. **An unsupervised latent/output physics-informed convolutional-LSTM network for solving partial differential equations using peridynamic differential operator.** CMAME, 2023. [paper](https://www.sciencedirect.com/science/article/pii/S0045782523000671)
 
    *Arda Mavi, Ali Can Bekar, Ehsan Haghigh, and Erdogan Madenci.*
 
@@ -1276,11 +1276,11 @@ Contributed by Chunyang Zhang.
 
    *Rambod Mojgani and Maciej Balajewicz.*
 
-1. **Isogeometric neural networks: A new deep learning approach for solving parameterized partial differential equations.** Computer Methods in Applied Mechanics and Engineering, 2023. [paper](https://www.sciencedirect.com/science/article/pii/S0045782522007952)
+1. **Isogeometric neural networks: A new deep learning approach for solving parameterized partial differential equations.** CMAME, 2023. [paper](https://www.sciencedirect.com/science/article/pii/S0045782522007952)
 
    *Joshua Gasick and Xiaoping Qian.*
 
-1. **A nonlocal physics-informed deep learning framework using the peridynamic differential operator.** Computer Methods in Applied Mechanics and Engineering, 2021. [paper](https://www.sciencedirect.com/science/article/pii/S0045782521003431)
+1. **A nonlocal physics-informed deep learning framework using the peridynamic differential operator.** CMAME, 2021. [paper](https://www.sciencedirect.com/science/article/pii/S0045782521003431)
 
    *Ehsan Haghighat, Ali CanBekar, Erdogan Madenci, and Ruben Juanes.*
 
@@ -1432,7 +1432,7 @@ Contributed by Chunyang Zhang.
 
    *Zecheng Zhang, Christian Moya, Lu Lu, Guang Lin, and Hayden Schaeffer.*
 
-1. **Physics informed WNO.** Computer Methods in Applied Mechanics and Engineering, 2023. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0045782523006709)
+1. **Physics informed WNO.** CMAME, 2023. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0045782523006709)
 
    *Navaneeth N., Tapas Tripura, and Souvik Chakraborty.*
 
@@ -1452,7 +1452,7 @@ Contributed by Chunyang Zhang.
 
    *Yiheng Du, Nithin Chalapathi, and Aditi S. Krishnapriyan.*
 
-1. **A nonlinear-manifold reduced-order model and operator learning for partial differential equations with sharp solution gradients.** Computer Methods in Applied Mechanics and Engineering, 2023. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0045782523008071)
+1. **A nonlinear-manifold reduced-order model and operator learning for partial differential equations with sharp solution gradients.** CMAME, 2023. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0045782523008071)
 
    *Peiyi Chen, Tianchen Hu, and Johann Guilleminot.*
 
@@ -1565,19 +1565,19 @@ Contributed by Chunyang Zhang.
 
    *Zhiqiang Cai, Jingshuang Chen, Min Liu, and Xinyu Liu.*
 
-1. **Local extreme learning machines and domain decomposition for solving linear and nonlinear partial differential equations.** Computer Methods in Applied Mechanics and Engineering, 2021. [paper](https://www.sciencedirect.com/science/article/pii/S0045782521004606)
+1. **Local extreme learning machines and domain decomposition for solving linear and nonlinear partial differential equations.** CMAME, 2021. [paper](https://www.sciencedirect.com/science/article/pii/S0045782521004606)
 
    *Suchuan Dong and Zongwei Li.*
 
-1. **Iterative surrogate model optimization (ISMO): An active learning algorithm for PDE constrained optimization with deep neural networks.** Computer Methods in Applied Mechanics and Engineering, 2021. [paper](https://www.sciencedirect.com/science/article/pii/S004578252030760X)
+1. **Iterative surrogate model optimization (ISMO): An active learning algorithm for PDE constrained optimization with deep neural networks.** CMAME, 2021. [paper](https://www.sciencedirect.com/science/article/pii/S004578252030760X)
 
    *Kjetil O.Lye, Siddhartha Mishra, Deep Ray, and Praveen Chandrashekar.*
 
-1. **Probabilistic learning on manifolds constrained by nonlinear partial differential equations for small datasets.** Computer Methods in Applied Mechanics and Engineering, 2021. [paper](https://www.sciencedirect.com/science/article/pii/S0045782521001134)
+1. **Probabilistic learning on manifolds constrained by nonlinear partial differential equations for small datasets.** CMAME, 2021. [paper](https://www.sciencedirect.com/science/article/pii/S0045782521001134)
 
    *C. Soize and R. Ghanem.*
 
-1. **An energy approach to the solution of partial differential equations in computational mechanics via machine learning: Concepts, implementation and applications.** Computer Methods in Applied Mechanics and Engineering, 2020. [paper](https://www.sciencedirect.com/science/article/pii/S0045782519306826)
+1. **An energy approach to the solution of partial differential equations in computational mechanics via machine learning: Concepts, implementation and applications.** CMAME, 2020. [paper](https://www.sciencedirect.com/science/article/pii/S0045782519306826)
 
    *E. Samaniego, C. Anitescu, S.Goswami, V.M.Nguyen-Thanh, H.Guo, K.Hamdia, X.Zhuang, and T.Rabczuk.*
 
@@ -1613,7 +1613,7 @@ Contributed by Chunyang Zhang.
 
    *Shamsulhaq Basir and Inanc Senocak.*
 
-1. **A deep double Ritz method (D^2RM) for solving partial differential equations using neural networks.** Computer Methods in Applied Mechanics and Engineering, 2023. [paper](https://global-sci.org/intro/article_detail/cicp/20860.html#)
+1. **A deep double Ritz method (D^2RM) for solving partial differential equations using neural networks.** CMAME, 2023. [paper](https://global-sci.org/intro/article_detail/cicp/20860.html#)
 
    *Carlos Uriarte, David Pardo, Ignacio Muga, and Judit Muñoz-Matute.*
 
@@ -1657,7 +1657,7 @@ Contributed by Chunyang Zhang.
 
    *Nicolas Boullé and Alex Townsend .*
 
-1. **A deep double Ritz method (D^2RM) for solving partial differential equations using neural networks.** Computer Methods in Applied Mechanics and Engineering, 2023. [paper](https://www.sciencedirect.com/science/article/pii/S0045782523000154)
+1. **A deep double Ritz method (D^2RM) for solving partial differential equations using neural networks.** CMAME, 2023. [paper](https://www.sciencedirect.com/science/article/pii/S0045782523000154)
 
    *Carlos Uriarte, David Pardo, Ignacio Mug, and Judit Muñoz-Matute.*
 
@@ -1709,7 +1709,7 @@ Contributed by Chunyang Zhang.
 
    *Shaojie Zeng, Yijie Liang, and Qinghui Zhang.*
 
-1. **FastSVD-ML–ROM: A reduced-order modeling framework based on machine learning for real-time applications.** Computer Methods in Applied Mechanics and Engineering, 2023. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0045782523002797)
+1. **FastSVD-ML–ROM: A reduced-order modeling framework based on machine learning for real-time applications.** CMAME, 2023. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0045782523002797)
 
    *G.I. Drakoulas, T.V. Gortsas, G.C. Bourantas, V.N. Burganos, and D. Polyzos.*
 
@@ -1834,7 +1834,7 @@ Contributed by Chunyang Zhang.
 
    *Hao Xu, Haibin Chang, and Dongxiao Zhang.*
 
-1. **Learning nonlocal constitutive models with neural networks.** Computer Methods in Applied Mechanics and Engineering, 2021. [paper](https://www.sciencedirect.com/science/article/pii/S0045782521002644)
+1. **Learning nonlocal constitutive models with neural networks.** CMAME, 2021. [paper](https://www.sciencedirect.com/science/article/pii/S0045782521002644)
 
    *Xuhui Zhou, Jiequn Han, and Heng Xiao.*
 
@@ -1870,7 +1870,7 @@ Contributed by Chunyang Zhang.
 
    *Haotian Luo, Lei Wang, Yabin Zhang, Gui Lu, Jingjing Su, and Yinchuan Zhao.*
 
-1. **Reliable extrapolation of deep neural operators informed by physics or sparse observations.** Computer Methods in Applied Mechanics and Engineering, 2023. [paper](https://www.sciencedirect.com/science/article/ab)
+1. **Reliable extrapolation of deep neural operators informed by physics or sparse observations.** CMAME, 2023. [paper](https://www.sciencedirect.com/science/article/ab)
 
    *Min Zhu, Handi Zhang, Anran Jiao, George Em Karniadakis, and Lu Lu.*
 
@@ -2014,7 +2014,7 @@ Contributed by Chunyang Zhang.
 
    *Zhengjie Sun, Leevan Ling, and an Zhang.*
 
-1. **Physics-informed parallel neural networks with self-adaptive loss weighting for the identification of continuous structural systems.** Computer Methods in Applied Mechanics and Engineering, 2024. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0045782524002986)
+1. **Physics-informed parallel neural networks with self-adaptive loss weighting for the identification of continuous structural systems.** CMAME, 2024. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0045782524002986)
 
    *Rui Zhang, Gordon P. Warn, and Aleksandra Radlińska.*
 
@@ -2031,7 +2031,7 @@ Contributed by Chunyang Zhang.
 
    *Jing Li and Alexandre M.Tartakovsky.*
 
-1. **Solving inverse problems in stochastic models using deep neural networks and adversarial training.** Computer Methods in Applied Mechanics and Engineering, 2021. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0045782521003078)
+1. **Solving inverse problems in stochastic models using deep neural networks and adversarial training.** CMAME, 2021. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0045782521003078)
 
    *Kailai Xu and Eric Darve.*
 
@@ -2369,7 +2369,7 @@ Contributed by Chunyang Zhang.
 
    *Tanya Marwah, Zachary Lipton, and Andrej Risteski.*
 
-1. **Respecting causality for training physics-informed neural networks.** Computer Methods in Applied Mechanics and Engineering, 2024. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0045782524000690)
+1. **Respecting causality for training physics-informed neural networks.** CMAME, 2024. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0045782524000690)
 
    *Sifan Wang, Shyam Sankaran, and Paris Perdikaris.*
 
@@ -2413,7 +2413,7 @@ Contributed by Chunyang Zhang.
 
    *Mayank Deshpande, Siddharth Agarwal, Vukka Snigdha, and Arya Kumar Bhattacharya.* 
 
-1. **Stochastic projection based approach for gradient free physics informed learning.** Computer Methods in Applied Mechanics and Engineering, 2023. [paper](https://www.sciencedirect.com/science/article/pii/S0045782522007988)
+1. **Stochastic projection based approach for gradient free physics informed learning.** CMAME, 2023. [paper](https://www.sciencedirect.com/science/article/pii/S0045782522007988)
 
    *Navaneeth N. and Souvik Chakraborty.* 
 
@@ -2597,6 +2597,10 @@ Contributed by Chunyang Zhang.
 
    *Zhiwei Wang, Lulu Zhang, Zhongwang Zhang, and Zhi-Qin John Xu.*
 
+1. **CEENs: Causality-enforced evolutional networks for solving time-dependent partial differential equations.** CMAME, 2024. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0045782524002925)
+
+   *Jeahan Jung, Heechang Kim, Hyomin Shin, and Minseok Choi.*
+
 ### [Domain Adaptation](#content)
 1. **Meta-auto-decoder for solving parametric partial differential equations.** NIPS, 2022. [paper](https://openreview.net/pdf?id=PwlW5Jri1Xt) 
 
@@ -2622,7 +2626,7 @@ Contributed by Chunyang Zhang.
 
    *Yuyan Chen, Bin Dong, and Jinchao Xu.*
 
-1. **Mosaic flows: A transferable deep learning framework for solving PDEs on unseen domains.** Computer Methods in Applied Mechanics and Engineering, 2022. [paper](https://www.sciencedirect.com/science/article/pii/S004578252100668X)
+1. **Mosaic flows: A transferable deep learning framework for solving PDEs on unseen domains.** CMAME, 2022. [paper](https://www.sciencedirect.com/science/article/pii/S004578252100668X)
 
    *Hengjie Wang, Robert Planas, Aparna Chandramowlishwaran, and Ramin Bostanabad.*
 
@@ -2658,7 +2662,7 @@ Contributed by Chunyang Zhang.
 
    *Anastasia Borovykh, Dante Kalise, Alexis Laignelet, and Panos Parpas.*
 
-1. **Transfer learning based physics-informed neural networks for solving inverse problems in engineering structures under different loading scenarios.** Computer Methods in Applied Mechanics and Engineering, 2023. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0045782522008088)
+1. **Transfer learning based physics-informed neural networks for solving inverse problems in engineering structures under different loading scenarios.** CMAME, 2023. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0045782522008088)
 
    *Chen Xu, Ba Trung Cao, Yong Yuan, and Günther Meschke.*
 
@@ -2795,7 +2799,7 @@ Contributed by Chunyang Zhang.
 
    *Ehsan Saleh, Saba Ghaffari, Timothy Bretl, Luke Olson, and Matthew West.*
 
-1. **A symmetry group based supervised learning method for solving partial differential equations.** Computer Methods in Applied Mechanics and Engineering, 2023. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0045782523003055)
+1. **A symmetry group based supervised learning method for solving partial differential equations.** CMAME, 2023. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0045782523003055)
 
    *Zhiyong Zhang, Shengjie Cai, and Hui Zhang.*
 
@@ -2824,7 +2828,7 @@ Contributed by Chunyang Zhang.
 
    *Zijiang Yang, Zhongwei Qiu, and Dongmei Fu.*
 
-1. **A comprehensive study of non-adaptive and residual-based adaptive sampling for physics-informed neural networks.** Computer Methods in Applied Mechanics and Engineering, 2023. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0045782522006260)
+1. **A comprehensive study of non-adaptive and residual-based adaptive sampling for physics-informed neural networks.** CMAME, 2023. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0045782522006260)
 
    *Chenxi Wua, Min Zhua, Qinyang Tan, YadhKartha, and Lu Lu.*
 
@@ -2957,7 +2961,7 @@ Contributed by Chunyang Zhang.
 
    *Roberto Perera and Vinamra Agrawal.*
 
-1. **Learning mesh motion techniques with application to fluid–structure interaction.** Computer Methods in Applied Mechanics and Engineering, 2024. [paper](https://www.sciencedirect.com/science/article/pii/S0045782524001464)
+1. **Learning mesh motion techniques with application to fluid–structure interaction.** CMAME, 2024. [paper](https://www.sciencedirect.com/science/article/pii/S0045782524001464)
 
    *Johannes Haubner, Ottar Hellan, Marius Zeinhofer, and Miroslav Kuchta.*
 
@@ -3054,7 +3058,7 @@ Contributed by Chunyang Zhang.
 
    *Md Nasim and Yexiang Xue.*
 
-1. **Adaptive task decomposition physics-informed neural networks.** Computer Methods in Applied Mechanics and Engineering, 2023. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0045782523006850)
+1. **Adaptive task decomposition physics-informed neural networks.** CMAME, 2023. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0045782523006850)
 
    *Jianchuan Yang, Xuanqi Liu, Yu Diao, Xi Chen, and Haikuo Hu.*
 
@@ -3710,6 +3714,10 @@ Contributed by Chunyang Zhang.
 
    *Nikola B. Kovachki, Samuel Lanthaler, and Hrushikesh Mhaskar.*
 
+1. **Bengining overfitting in fixed dimension via physics-informed learning with smooth iductive bias.** arXiv, 2024. [paper](https://arxiv.org/abs/2406.09194)
+
+   *Honam Wong, Wendao Wu, Fanghui Liu, and Yiping Lu.*
+
 ### [Gaussian Process](#content)
 1. **PAGP: A physics-assisted Gaussian process framework with active learning for forward and inverse problems of partial differential equations.** arXiv, 2022. [paper](https://arxiv.org/abs/2204.02583)
 
@@ -3764,7 +3772,7 @@ Contributed by Chunyang Zhang.
    *Daniel Kelshaw and Luca Magri.*
 
 ### [Variation](#content) 
-1. **PI-VAE: Physics-informed variational auto-encoder for stochastic differential equations.** Computer Methods in Applied Mechanics and Engineering, 2022. [paper](https://www.sciencedirect.com/science/article/pii/S0045782522006193)
+1. **PI-VAE: Physics-informed variational auto-encoder for stochastic differential equations.** CMAME, 2022. [paper](https://www.sciencedirect.com/science/article/pii/S0045782522006193)
 
    *Weiheng Zhong and Hadi Meidani.*
 
@@ -3772,7 +3780,7 @@ Contributed by Chunyang Zhang.
 
    *Lorenz Richter and Julius Berner.*
 
-1. **HP-VPINNs: Variational physics-informed neural networks with domain decomposition.** Computer Methods in Applied Mechanics and Engineering, 2021. [paper](https://www.sciencedirect.com/science/article/pii/S0045782520307325)
+1. **HP-VPINNs: Variational physics-informed neural networks with domain decomposition.** CMAME, 2021. [paper](https://www.sciencedirect.com/science/article/pii/S0045782520307325)
 
    *Ehsan Kharazmi, Zhongqiang Zhang, and George Em Karniadakis.*
 
@@ -4200,11 +4208,11 @@ Contributed by Chunyang Zhang.
 
    *Zhao Zhang, Xia Yan, Piyang Liu, Kai Zhang, Renmin Han, and Sheng Wang.*
 
-1. **DiscretizationNet: A machine-learning based solver for Navier–Stokes equations using finite volume discretization.** Computer Methods in Applied Mechanics and Engineering, 2021. [paper](https://www.sciencedirect.com/science/article/pii/S004578252100058X)
+1. **DiscretizationNet: A machine-learning based solver for Navier–Stokes equations using finite volume discretization.** CMAME, 2021. [paper](https://www.sciencedirect.com/science/article/pii/S004578252100058X)
 
    *Rishikesh Ranade, Chris Hillb, and Jay Pathak.*
 
-1. **Surrogate modeling for fluid flows based on physics-constrained deep learning without simulation data.** Computer Methods in Applied Mechanics and Engineering, 2020. [paper](https://www.sciencedirect.com/science/article/pii/S004578251930622X)
+1. **Surrogate modeling for fluid flows based on physics-constrained deep learning without simulation data.** CMAME, 2020. [paper](https://www.sciencedirect.com/science/article/pii/S004578251930622X)
 
    *Luning Sun, Han Gao, Shaowu Pan, and Jianxun Wang.*
 
@@ -4224,7 +4232,7 @@ Contributed by Chunyang Zhang.
 
    *Rongye Shi, Zhaobin Mo, and Xuan Di.*
 
-1. **Residual-based adaptivity for two-phase flow simulation in porous media using physics-informed neural networks.** Computer Methods in Applied Mechanics and Engineering, 2022. [paper](https://www.sciencedirect.com/science/article/pii/S004578252200295X)
+1. **Residual-based adaptivity for two-phase flow simulation in porous media using physics-informed neural networks.** CMAME, 2022. [paper](https://www.sciencedirect.com/science/article/pii/S004578252200295X)
 
    *John M.Hanna, José V.Aguado, Sebastien Comas-Cardona, Ramz Askri, and Domenico Borzacchiello.*
 
@@ -4444,7 +4452,7 @@ Contributed by Chunyang Zhang.
 
    *Shengze Cai, Callum Gray, and George Em Karniadakis.*
 
-1. **SPI-MIONet for surrogate modeling in phase-field hydraulic fracturing.** Computer Methods in Applied Mechanics and Engineering, 2024. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0045782524003104)
+1. **SPI-MIONet for surrogate modeling in phase-field hydraulic fracturing.** CMAME, 2024. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0045782524003104)
 
    *Xiaoqiang Wang, Peichao Li, Kaile Jia, Shaoqi Zhang, Chun Li, Bangchen Wu, Yilun Dong, and Detang Lu.*
 
@@ -4679,7 +4687,7 @@ Contributed by Chunyang Zhang.
    *Haibo Cheng, Yunpeng He, Peng Zeng, and Valeriy Vyatkin.*
 
 ### [Mechanics](#content)
-1. **Wavelet neural operator for solving parametric partial differential equations in computational mechanics problems.** Computer Methods in Applied Mechanics and Engineering, 2023. [paper](https://www.sciencedirect.com/science/article/pii/S0045782522007393)
+1. **Wavelet neural operator for solving parametric partial differential equations in computational mechanics problems.** CMAME, 2023. [paper](https://www.sciencedirect.com/science/article/pii/S0045782522007393)
 
    *Tapas Tripura and Souvik Chakraborty.*
 
@@ -4687,11 +4695,11 @@ Contributed by Chunyang Zhang.
 
    *Florent Bonnet.*
 
-1. **Exact Dirichlet boundary physics-informed neural network EPINN for solid mechanics.** Computer Methods in Applied Mechanics and Engineering, 2023. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0045782523003080)
+1. **Exact Dirichlet boundary physics-informed neural network EPINN for solid mechanics.** CMAME, 2023. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0045782523003080)
 
    *Jiaji Wang, Y.L. Mo, Bassam Izzuddin, and Chul-Woo Kim.*
 
-1. **Solving multi-material problems in solid mechanics using physics-informed neural networks based on domain decomposition technology.** Computer Methods in Applied Mechanics and Engineering, 2023. [paper](https://www.sciencedirect.com/science/article/abs/pii/S004578252300244X)
+1. **Solving multi-material problems in solid mechanics using physics-informed neural networks based on domain decomposition technology.** CMAME, 2023. [paper](https://www.sciencedirect.com/science/article/abs/pii/S004578252300244X)
 
    *Yu Diao, Jianchuan Yang, Ying Zhang, Dawei Zhang, and Yiming Du.*
 
@@ -4853,7 +4861,7 @@ Contributed by Chunyang Zhang.
 
    *Yinqing Pan, Ren Wang, and Bingzhong Wang.*
 
-1. **En-DeepONet: An enrichment approach for enhancing the expressivity of neural operators with applications to seismology.** Computer Methods in Applied Mechanics and Engineering, 2023. [paper](https://www.sciencedirect.com/science/article/pii/S0045782523008046)
+1. **En-DeepONet: An enrichment approach for enhancing the expressivity of neural operators with applications to seismology.** CMAME, 2023. [paper](https://www.sciencedirect.com/science/article/pii/S0045782523008046)
 
    *Ehsan Haghighat, Umair bin Waheed, and George Karniadakis.*
 
@@ -4953,7 +4961,7 @@ Contributed by Chunyang Zhang.
 
    *Shengchao Liu, Weitao Du, Yanjing Li, Zhuoxinran Li, Zhiling Zheng, Chenru Duan, Zhiming Ma, Omar Yaghi, Anima Anandkumar, Christian Borgs, Jennifer Chayes, Hongyu Guo, and Jian Tang.*
 
-1. **Solving nonconvex energy minimization problems in martensitic phase transitions with a mesh-free deep learning approach.** Computer Methods in Applied Mechanics and Engineering, 2023. [paper](https://www.sciencedirect.com/science/article/abs/pii/S004578252300508X)
+1. **Solving nonconvex energy minimization problems in martensitic phase transitions with a mesh-free deep learning approach.** CMAME, 2023. [paper](https://www.sciencedirect.com/science/article/abs/pii/S004578252300508X)
 
    *Xiaoli Chen, Phoebus Rosakis, Zhizhang Wu, and Zhiwen Zhang.*
 
@@ -4985,7 +4993,7 @@ Contributed by Chunyang Zhang.
 
    *Arunabha M. Roy and Suman Guha.*
 
-1. **Learning stiff chemical kinetics using extended deep neural operators.** Computer Methods in Applied Mechanics and Engineering, 2024. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0045782523007971)
+1. **Learning stiff chemical kinetics using extended deep neural operators.** CMAME, 2024. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0045782523007971)
 
    *Somdatta Goswami, Ameya D. Jagtap, Hessam Babaee, Bryan T. Susi, and George Em Karniadakis.*
 
