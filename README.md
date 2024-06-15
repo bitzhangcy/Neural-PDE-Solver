@@ -2754,6 +2754,10 @@ Contributed by Chunyang Zhang.
 
    *Jan Hagnberger, Marimuthu Kalimuthu, Daniel Musekamp, and Mathias Niepert.*
 
+1. **Base models for parabolic partial differential equations.** UAI, 2024. [paper](https://openreview.net/forum?id=TLYNkysFB3)
+
+   *Xingzi Xu, Ali Hasan, Jie Ding, and Vahid Tarokh.*
+
 ### [Loss Function](#content)
 1. **Adaptive activation functions accelerate convergence in deep and physics-informed neural networks.** JCP, 2021. [paper](https://www.sciencedirect.com/science/article/pii/S0021999119308411)
 
@@ -2818,6 +2822,10 @@ Contributed by Chunyang Zhang.
 1. **Astral: Training physics-informed neural networks with error majorants.** arXiv, 2024. [paper](https://arxiv.org/abs/2406.02645)
 
    *Vladimir Fanaskov, Tianchi Yu, Alexander Rudikov, and Ivan Oseledets.*
+
+1. **Physics-Informed Parallel Neural Networks with self-adaptive loss weighting for the identification of continuous structural systems.** CMAME, 2024. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0045782524002986)
+
+   *Rui Zhang, Gordon P. Warn, and Aleksandra Radlińska.*
 
 ### [Sampling](#content)
 1. **ADLGM: An efficient adaptive sampling deep learning Galerkin method.** JCP, 2023. [paper](https://www.sciencedirect.com/science/article/pii/S0021999123000396)
@@ -3227,6 +3235,10 @@ Contributed by Chunyang Zhang.
 1. **Large scale scattering using fast solvers based on neural operators.** arXiv, 2024. [paper](https://arxiv.org/abs/2405.12380)
 
    *Zongren Zou, Adar Kahana, Enrui Zhang, Eli Turkel, Rishikesh Ranade, Jay Pathak, and George Em Karniadakis.*
+
+1. **Teng: Time-evolving natural gradient for solving PDEs with deep neural nets toward machine precision.** ICML, 2024. [paper](https://openreview.net/forum?id=v1I4zRAjMb)
+
+   *Zhuo Chen, Jacob McCarran, Esteban Vizcaino, Marin Soljacic, and Di Luo.*
 
 ### [AutoML](#content)
 1. **Auto-PINN: Understanding and optimizing physics-informed neural architecture.** arXiv, 2022. [paper](https://arxiv.org/abs/2110.13361)
