@@ -2827,6 +2827,10 @@ Contributed by Chunyang Zhang.
 
    *Rui Zhang, Gordon P. Warn, and Aleksandra Radlińska.*
 
+1. **A practical PINN framework for multi-scale problems with multi-magnitude loss terms.** CMAME, 2024. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0021999124003619)
+
+   *Yong Wang, Yanzhong Yao, Jiawei Guo, and Zhiming Gao.*
+
 ### [Sampling](#content)
 1. **ADLGM: An efficient adaptive sampling deep learning Galerkin method.** JCP, 2023. [paper](https://www.sciencedirect.com/science/article/pii/S0021999123000396)
 
@@ -4476,6 +4480,10 @@ Contributed by Chunyang Zhang.
 
    *Haocheng Lu, Qian Wang, Wenhao Tang, and Hua Liu.*
 
+1. **HelmFluid: Learning Helmholtz dynamics for interpretable fluid prediction.** ICML, 2024. [paper](https://openreview.net/forum?id=lHJFfDFbm6)
+
+   *Lanxiang Xing, Haixu Wu, Yuezhou Ma, Jianmin Wang, and Mingsheng Long.*
+
 ### [Cybernetics](#content)
 1. **Machine learning accelerated PDE backstepping observers.** arXiv, 2022. [paper](https://arxiv.org/abs/2211.15044)
 
@@ -4908,6 +4916,10 @@ Contributed by Chunyang Zhang.
 1. **Seismic wavefields modeling with variable horizontally-layered velocity models via velocity-encoded PINN.** TGRS, 2024. [paper](https://ieeexplore.ieee.org/abstract/document/10551894)
 
    *Jingbo Zou, Cai Liu, Pengfei Zhao, and Chao Song.*
+
+1. **SPI-MIONet for surrogate modeling in phase-field hydraulic fracturing.** CMAME, 2024. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0045782524003104)
+
+   *Xiaoqiang Wang, Peichao Li, Kaile Jia, Shaoqi Zhang, Chun Li, Bangchen Wu, Yilun Dong, and Detang Lu.*
 
 ### [Image](#content)
 1. **Learning to diffuse: A new perspective to design PDEs for visual analysis.** TPAMI, 2016. [paper](https://ieeexplore.ieee.org/document/7393839)
