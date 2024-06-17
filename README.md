@@ -2758,6 +2758,10 @@ Contributed by Chunyang Zhang.
 
    *Xingzi Xu, Ali Hasan, Jie Ding, and Vahid Tarokh.*
 
+1. **DeltaPhi: Learning physical trajectory residual for PDE solving.** arXiv, 2024. [paper](https://arxiv.org/abs/2406.09795)
+
+   *Xihang Yue, Linchao Zhu, and Yi Yang.*
+
 ### [Loss Function](#content)
 1. **Adaptive activation functions accelerate convergence in deep and physics-informed neural networks.** JCP, 2021. [paper](https://www.sciencedirect.com/science/article/pii/S0021999119308411)
 
