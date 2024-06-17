@@ -721,6 +721,10 @@ Contributed by Chunyang Zhang.
 
    *Ramansh Sharma and Varun Shankar.*
 
+1. **Learning nonlinear operators in latent spaces for real-time predictions of complex dynamics in physical systems.** NC, 2024. [paper](https://www.nature.com/articles/s41467-024-49411-w)
+
+   *Katiana Kontolati, Somdatta Goswami, George Em Karniadakis, and Michael D. Shields.*
+
 ### [Fourier Operator](#content)
 1. **Fourier neural operator for parametric partial differential equations.** ICLR, 2021. [paper](https://openreview.net/forum?id=c8P9NQVtmnO)
 
