@@ -2605,6 +2605,10 @@ Contributed by Chunyang Zhang.
 
    *Jeahan Jung, Heechang Kim, Hyomin Shin, and Minseok Choi.*
 
+1. **Deep neural networks with ReLU, leaky ReLU, and softplus activation provably overcome the curse of dimensionality for space-time solutions of semilinear partial differential equations.** arXiv, 2024. [paper](https://arxiv.org/abs/2406.10876)
+
+   *Julia Ackermann, Arnulf Jentzen, Benno Kuckuck, and Joshua Lee Padgett.*
+
 ### [Domain Adaptation](#content)
 1. **Meta-auto-decoder for solving parametric partial differential equations.** NIPS, 2022. [paper](https://openreview.net/pdf?id=PwlW5Jri1Xt) 
 
