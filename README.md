@@ -1267,6 +1267,10 @@ Contributed by Chunyang Zhang.
 
    *Zhongshu Xu, Yuan Chen, Qifan Chen, and Dongbin Xiu.*
 
+1. **Parameterized physics-informed neural networks for parameterized PDEs.** ICML, 2024. [paper](https://openreview.net/forum?id=n3yYrtt9U7)
+
+   *Woojin Cho, Minju Jo, Haksoo Lim, Kookjin Lee, Dongeun Lee, Sanghyun Hong, and Noseong Park.*
+
 ### [Neural Operator](#content)
 1. **Multiwavelet-based operator learning for differential equations.** NIPS, 2021. [paper](https://openreview.net/forum?id=LZDiWaC9CGL)
 
