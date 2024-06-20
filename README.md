@@ -3260,6 +3260,10 @@ Contributed by Chunyang Zhang.
 
    *Zhuo Chen, Jacob McCarran, Esteban Vizcaino, Marin Soljacic, and Di Luo.*
 
+1. **Position: Optimization in SciML should employ the function space geometry.** ICML, 2024. [paper](https://openreview.net/forum?id=MOrvoYrlOg)
+
+   *Johannes Müller and Marius Zeinhofer.*
+
 ### [AutoML](#content)
 1. **Auto-PINN: Understanding and optimizing physics-informed neural architecture.** arXiv, 2022. [paper](https://arxiv.org/abs/2110.13361)
 
@@ -3648,6 +3652,10 @@ Contributed by Chunyang Zhang.
 1. **Transformers as neural operators for solutions of differential equations with finite regularity.** arXiv, 2024. [paper](https://arxiv.org/abs/2405.19166) 
 
    *Benjamin Shih, Ahmad Peyvan, Zhongqiang Zhang, and George Em Karniadakis.*
+
+1. **Bridging operator learning and conditioned neural fields: A unifying perspective.** arXiv, 2024. [paper](https://arxiv.org/abs/2405.13998) 
+
+   *Sifan Wang, Jacob H Seidman, Shyam Sankaran, Hanwen Wang, George J. Pappas, and Paris Perdikaris.*
 
 ### [Theory](#content)
 1. **Convergence analysis of a quasi-Monte Carlo-based deep learning algorithm for solving partial differential equations.** arXiv, 2022. [paper](https://arxiv.org/abs/2210.16196)
