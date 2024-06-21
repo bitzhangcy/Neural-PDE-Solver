@@ -1068,7 +1068,7 @@ Contributed by Chunyang Zhang.
 
    *Junqing Ji, Lili Ju, and Xiaoping Zhang.*
 
-1. **Numerical solutions of boundary problems in partial differential equations: A deep learning framework with Green's function.** JCP, 2024. [paper](https://arxiv.org/abs/2310.03642)
+1. **Numerical solutions of boundary problems in partial differential equations: A deep learning framework with Green's function.** JCP, 2024. [paper](https://www.sciencedirect.com/science/article/abs/pii/S002199912400370X)
 
    *Yuanjun Dai, Zhi Li, Yiran An, and Wanru Deng.*
 
@@ -4507,6 +4507,10 @@ Contributed by Chunyang Zhang.
 1. **HelmFluid: Learning Helmholtz dynamics for interpretable fluid prediction.** ICML, 2024. [paper](https://openreview.net/forum?id=lHJFfDFbm6)
 
    *Lanxiang Xing, Haixu Wu, Yuezhou Ma, Jianmin Wang, and Mingsheng Long.*
+
+1. **Strategies for multi-case physics-informed neural networks for tube flows: a study using 2D flow scenarios.** SR, 2024. [paper](https://www.nature.com/articles/s41598-024-62117-9)
+
+   *Hong Shen Wong, Wei Xuan Chan, Bing Huan Li, and Choon Hwai Yap.*
 
 ### [Cybernetics](#content)
 1. **Machine learning accelerated PDE backstepping observers.** arXiv, 2022. [paper](https://arxiv.org/abs/2211.15044)
