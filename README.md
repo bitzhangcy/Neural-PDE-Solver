@@ -628,6 +628,10 @@ Contributed by Chunyang Zhang.
 
    *Shu Wei, Yanjie Li, Lina Yu, Min Wu, Weijun Li, Meilan Hao, Wenqiang Li, Jingyi Liu, and Yusong Deng.*
 
+1. **RoPINN: Region optimized physics-informed neural networks.** arXiv, 2024. [paper](https://arxiv.org/abs/2405.14369)
+
+   *Haixu Wu, Huakun Luo, Yuezhou Ma, Jianmin Wang, and Mingsheng Long.*
+
 ### [DeepONet](#content)
 1. **Learning nonlinear operators via DeepONet based on the universal approximation theorem of operators.** NMI, 2021. [paper](https://www.nature.com/articles/s42256-021-00302-5)
 
