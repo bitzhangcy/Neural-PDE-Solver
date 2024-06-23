@@ -632,6 +632,10 @@ Contributed by Chunyang Zhang.
 
    *Haixu Wu, Huakun Luo, Yuezhou Ma, Jianmin Wang, and Mingsheng Long.*
 
+1. **Interface PINNs (I-PINNs): A physics-informed neural networks framework for interface problems.** CMAME, 2024. [paper](https://www.sciencedirect.com/science/article/pii/S0045782524003918)
+
+   *Antareep Kumar Sarma, Sumanta Roy, Chandrasekhar Annavarapu, Pratanu Roy, and Shriram Jagannathan.*
+
 ### [DeepONet](#content)
 1. **Learning nonlinear operators via DeepONet based on the universal approximation theorem of operators.** NMI, 2021. [paper](https://www.nature.com/articles/s42256-021-00302-5)
 
@@ -2931,6 +2935,10 @@ Contributed by Chunyang Zhang.
 1. **Solving partial differential equations with sampled neural networks.** arXiv, 2024. [paper](https://arxiv.org/abs/2405.20836)
 
    *Chinmay Datar, Taniya Kapoor, Abhishek Chandra, Qing Sun, Iryna Burak, Erik Lien Bolager, Anna Veselovska, Massimo Fornasier, and Felix Dietrich.*
+
+1. **A Gaussian mixture distribution-based adaptive sampling method for physics-informed neural networks.** EAAI, 2024. [paper](https://www.sciencedirect.com/science/article/abs/pii/S095219762400928X)
+
+   *Yuling Jiao, Di Li, Xiliang Lu, Jerry Zhijian Yang, and Cheng Yuan.*
 
 ### [Mesh](#content)
 1. **MeshingNet: A new mesh generation method based on deep learning.** ICCS, 2022. [paper](https://link.springer.com/chapter/10.1007/978-3-030-50420-5_14)
