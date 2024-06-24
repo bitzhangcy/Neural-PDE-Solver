@@ -127,7 +127,7 @@ Contributed by Chunyang Zhang.
 
    *George Em Karniadakis, Ioannis G. Kevrekidis, Lu Lu, Paris Perdikaris, Sifan Wang, and Liu Yang.*
 
-1. **Neural operator: Learning maps between function spaces.** arXiv, 2021. [paper](https://arxiv.org/abs/2108.08481)
+1. **Neural operator: Learning maps between function spaces.** JMLR, 2023. [paper](https://www.jmlr.org/papers/v24/21-1524.html)
 
    *Nikola Kovachki, Zongyi Li, Burigede Liu, Kamyar Azizzadenesheli, Kaushik Bhattacharya, Andrew Stuart, and Anima Anandkumar.*
 
@@ -183,11 +183,11 @@ Contributed by Chunyang Zhang.
 
    *Shudong Huang, Wentao Feng, Chenwei Tang, and Jiancheng Lv.* 
 
-1. **Solving differential equations with Deep Learning: A beginner's guide.** arXiv, 2023. [paper](https://arxiv.org/abs/2307.11237)
+1. **Solving differential equations with deep learning: A beginner's guide.** arXiv, 2023. [paper](https://arxiv.org/abs/2307.11237)
 
    *Luis Medrano Navarro, Luis Martín Moreno, and Sergio G Rodrigo.* 
 
-1. **Deep learning algorithms for solving differential equations: a survey.** Journal of Experimental & Theoretical Artificial Intelligence, 2023. [paper](https://www.tandfonline.com/doi/abs/10.1080/0952813X.2023.2242356)
+1. **Deep learning algorithms for solving differential equations: A survey.** Journal of Experimental & Theoretical Artificial Intelligence, 2023. [paper](https://www.tandfonline.com/doi/abs/10.1080/0952813X.2023.2242356)
 
    *Harender Kumara and Neha Yadav.* 
 
@@ -198,10 +198,6 @@ Contributed by Chunyang Zhang.
 1. **A survey on physics informed reinforcement learning: Review and open problems.** arXiv, 2023. [paper](https://arxiv.org/abs/2309.01909)
 
    *Chayan Banerjee, Kien Nguyen, Clinton Fookes, and Maziar Raissi.* 
-
-1. **Neural operators for accelerating scientific simulations and design.** arXiv, 2023. [paper](https://arxiv.org/abs/2309.15325)
-
-   *Kamyar Azzizadenesheli, Nikola Kovachki, Zongyi Li, Miguel Liu-Schiaffini, Jean Kossaifi, and Anima Anandkumar.* 
 
 1. **Machine learning and domain decomposition methods -- A survey.** arXiv, 2023. [paper](https://arxiv.org/abs/2312.14050)
 
@@ -215,9 +211,13 @@ Contributed by Chunyang Zhang.
 
    *Yanwen Xu, Sara Kohtz, Jessica Boakye, Paolo Gardoni, and Pingfeng Wang.* 
 
-1. **Neural operators for accelerating scientific simulations and design.** arXiv, 2024. [paper](https://arxiv.org/abs/2402.15715)
+1. **Operator learning: Algorithms and analysis.** arXiv, 2024. [paper](https://arxiv.org/abs/2402.15715)
 
-   *Operator learning: Algorithms and analysis.* 
+   *Nikola B. Kovachki, Samuel Lanthaler, and Andrew M. Stuart.* 
+
+1. **Neural operators for accelerating scientific simulations and design.** Nature Reviews Physics, 2024. [paper](https://www.nature.com/articles/s42254-024-00712-5)
+
+   *Kamyar Azizzadenesheli, Nikola Kovachki, Zongyi Li, Miguel Liu-Schiaffini, Jean Kossaifi, and Anima Anandkumar.* 
 
 
 ## [Model](#content) 
