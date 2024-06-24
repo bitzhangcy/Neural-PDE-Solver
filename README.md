@@ -39,8 +39,8 @@ Contributed by Chunyang Zhang.
 </tr>
 <tr><td colspan="2"><a href="#mechanism">3. Mechanism</a></td></tr>
 <tr>
-    <td>&ensp;<a href="#library">3.1 Library</a></td>
-    <td>&ensp;<a href="#analysis">3.2 Analysis</a></td>
+    <td>&ensp;<a href="#benchmark">3.1 Benchmark</a></td>
+    <td>&ensp;<a href="#investigation">3.2 Investigation</a></td>
 </tr>
 <tr>
     <td>&ensp;<a href="#domain-adaptation">3.3 Domain Adaptation</a></td>
@@ -1468,7 +1468,7 @@ Contributed by Chunyang Zhang.
 
    *Chao Wang and Alexandre Hoang Thiery.*
 
-1. **Neural spectral methods: Self-supervised learning in the spectral domain.** arXiv, 2023. [paper](https://arxiv.org/abs/2312.05225)
+1. **Neural spectral methods: Self-supervised learning in the spectral domain.** ICLR, 2024. [paper](https://openreview.net/forum?id=2DbVeuoa6a)
 
    *Yiheng Du, Nithin Chalapathi, and Aditi S. Krishnapriyan.*
 
@@ -1484,7 +1484,7 @@ Contributed by Chunyang Zhang.
 
    *Christopher Wang and Alex Townsend.*
 
-1. **BENO: Boundary-embedded neural operators for elliptic PDEs.** ICLR, 2024. [paper](https://arxiv.org/abs/2401.09323)
+1. **BENO: Boundary-embedded neural operators for elliptic PDEs.** ICLR, 2024. [paper](https://openreview.net/forum?id=ZZTkLDRmkg)
 
    *Haixin Wang, Jiaxin Li, Anubhav Dwivedi, Kentaro Hara, and Tailin Wu.*
 
@@ -2284,7 +2284,7 @@ Contributed by Chunyang Zhang.
 
 
 ## [Mechanism](#content)
-### [Library](#content)
+### [Benchmark](#content)
 1. **PDEBench: An extensive benchmark for scientific machine learning.** NIPS, 2022. [paper](https://openreview.net/forum?id=dh_MkX0QfrK)
 
    *Makoto Takamoto, Timothy Praditia, Raphael Leiteritz, Dan MacKinlay, Francesco Alesiani, Dirk Pflüger, and Mathias Niepert.*
@@ -2320,10 +2320,6 @@ Contributed by Chunyang Zhang.
 1. **Physics-driven machine learning models coupling PyTorch and Firedrake.** arXiv, 2023. [paper](https://arxiv.org/abs/2303.06871)
 
    *Nacime Bouziani and David A. Ham.*
-
-1. **PINNacle: A comprehensive benchmark of physics-informed neural networks for solving PDEs.** arXiv, 2023. [paper](https://arxiv.org/abs/2306.08827)
-
-   *Zhongkai Hao, Jiachen Yao, Chang Su, Hang Su, Ziao Wang, Fanzhi Lu, Zeyu Xia, Yichi Zhang, Songming Liu, Lu Lu, and Jun Zhu.*
 
 1. **BubbleML: A multi-physics dataset and benchmarks for machine learning.** arXiv, 2023. [paper](https://arxiv.org/abs/2307.14623)
 
@@ -2361,7 +2357,7 @@ Contributed by Chunyang Zhang.
 
    *Clement Etienam, Yang Juntao, Issam Said, Oleg Ovcharenko, Kaustubh Tangsali, Pavel Dimitrov, and Ken Hester.*
 
-### [Analysis](#content)
+### [Investigation](#content)
 1. **Characterizing possible failure modes in physics-informed neural networks.** NIPS, 2021. [paper](https://openreview.net/forum?id=a2Gr9gNFD-J)
 
    *Aditi Krishnapriyan, Amir Gholami, Shandian Zhe, Robert Kirby, and Michael W. Mahoney.*
@@ -2522,7 +2518,7 @@ Contributed by Chunyang Zhang.
 
    *Julia Ackermann, Arnulf Jentzen, Thomas Kruse, Benno Kuckuck, and Joshua Lee Padgett.*
 
-1. **An operator preconditioning perspective on training in physics-informed machine learning.** arXiv, 2023. [paper](https://arxiv.org/abs/2310.05801)
+1. **An operator preconditioning perspective on training in physics-informed machine learning.** ICLR, 2024. [paper](https://openreview.net/forum?id=WWlxFtR5sV)
 
    *Tim De Ryck, Florent Bonnet, Siddhartha Mishra, and Emmanuel de Bézenac.*
 
@@ -2791,6 +2787,10 @@ Contributed by Chunyang Zhang.
 
    *Xihang Yue, Linchao Zhu, and Yi Yang.*
 
+1. **DATS: Difficulty-aware task sampler for meta-learning physics-informed neural networks.** ICLR, 2024. [paper](https://openreview.net/forum?id=EvyYFSxdgB)
+
+   *Maryam Toloubidokhti, Yubo Ye, Ryan Missel, Xiajun Jiang, Nilesh Kumar, Ruby Shrestha, and Linwei Wang.*
+
 1. **Using uncertainty quantification to characterize and improve out-of-domain learning for PDEs.** ICML, 2024. [paper](https://openreview.net/forum?id=Y50K6DSrWo)
 
    *S Chandra Mouli, Danielle C. Maddix, Shima Alizadeh, Gaurav Gupta, Andrew Stuart, Michael W. Mahoney, and Bernie Wang.*
@@ -2928,6 +2928,10 @@ Contributed by Chunyang Zhang.
 1. **Adaptive importance sampling for Deep Ritz.** arXiv, 2023. [paper](https://arxiv.org/abs/2310.17185)
 
    *Xiaoliang Wan, Tao Zhou, and Yuancheng Zhou.*
+
+1. **Adversarial adaptive sampling: Unify PINN and optimal transport for the approximation of PDEs.** ICLR, 2024. [paper](https://openreview.net/forum?id=7QI7tVrh2c)
+
+   *Kejun Tang, Jiayu Zhai, Xiaoliang Wan, and Chao Yang.*
 
 1. **DAS-PINNs: A deep adaptive sampling method for solving high-dimensional partial differential equations.** JCP, 2023. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0021999122009317)
 
@@ -3213,7 +3217,7 @@ Contributed by Chunyang Zhang.
 
    *Raphaël Pestourie, Youssef Mroueh, Chris Rackauckas, Payel Das, and Steven G. Johnson .*
 
-1. **Better neural PDE solvers through data-free mesh movers.** arXiv, 2023. [paper](https://arxiv.org/abs/2312.05583)
+1. **Better neural PDE solvers through data-free mesh movers.** ICLR, 2024. [paper](https://openreview.net/forum?id=hj9ZuNimRl)
 
    *Peiyan Hu, Yue Wang, and Zhiming Ma.*
 
@@ -3225,7 +3229,7 @@ Contributed by Chunyang Zhang.
 
    *Jiang Yu Nguwi, Guillaume Penent, and Nicolas Privault.*
 
-1. **Accelerating data generation for neural operators via Krylov subspace recycling.** ICLR, 2024. [paper](https://arxiv.org/abs/2401.09516)
+1. **Accelerating data generation for neural operators via Krylov subspace recycling.** ICLR, 2024. [paper](https://openreview.net/forum?id=UpgRVWexaD)
 
    *Hong Wang, Zhongkai Hao, Jie Wang, Zijie Geng, Zhen Wang, Bin Li, and Feng Wu.*
 
@@ -3288,6 +3292,10 @@ Contributed by Chunyang Zhang.
 1. **Position: Optimization in SciML should employ the function space geometry.** ICML, 2024. [paper](https://openreview.net/forum?id=MOrvoYrlOg)
 
    *Johannes Müller and Marius Zeinhofer.*
+
+1. **Scaling physics-informed hard constraints with mixture-of-experts.** ICLR, 2024. [paper](https://openreview.net/forum?id=u3dX2CEIZb)
+
+   *Nithin Chalapathi, Yiheng Du, and Aditi S. Krishnapriyan.*
 
 ### [AutoML](#content)
 1. **Auto-PINN: Understanding and optimizing physics-informed neural architecture.** arXiv, 2022. [paper](https://arxiv.org/abs/2110.13361)
@@ -3553,9 +3561,9 @@ Contributed by Chunyang Zhang.
 
    *Oded Ovadia, Eli Turkel, Adar Kahana, and George Em Karniadakis.*
 
-1. **PINNsFormer: A Transformer-based framework For physics-informed neural networks.** arXiv, 2023. [paper](https://arxiv.org/abs/2307.11833)
+1. **PINNsFormer: A Transformer-based framework For physics-informed neural networks.** ICLR, 2024. [paper](https://openreview.net/forum?id=DO2WFXU1Be)
 
-   *Leo Zhiyuan Zhao, Xueying Ding, and B. Aditya Prakash.*
+   *Zhiyuan Zhao, Xueying Ding, and B. Aditya Prakash.*
 
 1. **CoCoGen: Physically-consistent and conditioned score-based generative models for forward and inverse problems.** arXiv, 2023. [paper](https://arxiv.org/abs/2312.10527)
 
@@ -3787,6 +3795,10 @@ Contributed by Chunyang Zhang.
 
    *Honam Wong, Wendao Wu, Fanghui Liu, and Yiping Lu.*
 
+1. **Guaranteed approximation bounds for mixed-precision neural operators.** ICLR, 2024. [paper](https://openreview.net/forum?id=QJGj07PD9C)
+
+   *Renbo Tu, Colin White, Jean Kossaifi, Boris Bonev, Gennady Pekhimenko, Kamyar Azizzadenesheli, and Anima Anandkumar*
+
 ### [Gaussian Process](#content)
 1. **PAGP: A physics-assisted Gaussian process framework with active learning for forward and inverse problems of partial differential equations.** arXiv, 2022. [paper](https://arxiv.org/abs/2204.02583)
 
@@ -3964,7 +3976,7 @@ Contributed by Chunyang Zhang.
 
    *Hwijae Son, Sung Woong Cho, and Hyung Ju Hwang.*
 
-1. **Lagrangian flow networks for conservation laws.** arXiv, 2023. [paper](https://arxiv.org/abs/2305.16846)
+1. **Lagrangian flow networks for conservation laws.** ICLR, 2024. [paper](https://openreview.net/forum?id=Nshk5YpdWE)
 
    *Fabricio Arend Torres, Marcello Massimo Negri, Marco Inversi, and Jonathan Aellen.*
 
@@ -4103,7 +4115,7 @@ Contributed by Chunyang Zhang.
 
    *Jean Kossaifi, Nikola Kovachki, Kamyar Azizzadenesheli, and Anima Anandkumar.*
 
-1. **MgNO: Efficient parameterization of linear operators via multigrid.** arXiv, 2023. [paper](https://arxiv.org/abs/2310.19809)
+1. **MgNO: Efficient parameterization of linear operators via multigrid.** ICLR, 2024 [paper](https://openreview.net/forum?id=8OxL034uEr)
 
    *Juncai He, Xinliang Liu, and Jinchao Xu.*
 
@@ -4543,6 +4555,10 @@ Contributed by Chunyang Zhang.
 1. **Strategies for multi-case physics-informed neural networks for tube flows: a study using 2D flow scenarios.** SR, 2024. [paper](https://www.nature.com/articles/s41598-024-62117-9)
 
    *Hong Shen Wong, Wei Xuan Chan, Bing Huan Li, and Choon Hwai Yap.*
+
+1. **From zero to turbulence: Generative modeling for 3D flow simulation.** ICLR, 2024. [paper](https://openreview.net/forum?id=ZhlwoC1XaN)
+
+   *Marten Lienen, David Lüdke, Jan Hansen-Palmus, and Stephan Günnemann.*
 
 ### [Cybernetics](#content)
 1. **Machine learning accelerated PDE backstepping observers.** arXiv, 2022. [paper](https://arxiv.org/abs/2211.15044)
