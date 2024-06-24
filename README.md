@@ -636,6 +636,10 @@ Contributed by Chunyang Zhang.
 
    *Antareep Kumar Sarma, Sumanta Roy, Chandrasekhar Annavarapu, Pratanu Roy, and Shriram Jagannathan.*
 
+1. **Parameterized physics-informed neural networks for parameterized PDEs.** ICML, 2024. [paper](https://openreview.net/forum?id=n3yYrtt9U7)
+
+   *Woojin Cho, Minju Jo, Haksoo Lim, Kookjin Lee, Dongeun Lee, Sanghyun Hong, and Noseong Park.*
+
 ### [DeepONet](#content)
 1. **Learning nonlinear operators via DeepONet based on the universal approximation theorem of operators.** NMI, 2021. [paper](https://www.nature.com/articles/s42256-021-00302-5)
 
@@ -1027,7 +1031,7 @@ Contributed by Chunyang Zhang.
 
    *Chenkai Mao, Robert Lupoiu, Tianxiang Dai, Mingkun Chen, and Jonathan A. Fan.*
 
-1. **Graph neural PDE solvers with conservation and similarity-equivariance.** ICML, 2024. [paper](https://arxiv.org/abs/2405.16183)
+1. **Graph neural PDE solvers with conservation and similarity-equivariance.** ICML, 2024. [paper](https://openreview.net/forum?id=WajJf47TUi)
 
    *Masanobu Horie and Naoto Mitsume.*
 
@@ -1516,13 +1520,14 @@ Contributed by Chunyang Zhang.
 
    *Levi E. Lingsch, Dana Grund, Siddhartha Mishra, and Georgios Kissas.*
 
-1. **Reference neural operators: Learning the smooth dependence of solutions of PDEs on geometric deformations.** ICML, 2024. [paper](https://.arxiv.org/abs/2405.17509)
+1. **Reference neural operators: Learning the smooth dependence of solutions of PDEs on geometric deformations.** ICML, 2024. [paper](https://openreview.net/forum?id=CecY6XiUfu)
 
    *Ze Cheng, Zhongkai Hao, Xiaoqiang Wang, Jianing Huang, Youjia Wu, Xudan Liu, Yiru Zhao, Songming Liu, and Hang Su.*
 
 1. **Variational operator learning: A unified paradigm marrying training neural operators and solving partial differential equations.** Journal of the Mechanics and Physics of Solids, 2024. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0022509624001807)
 
    *Tengfei Xu, Dachuan Liu, Peng Hao, and Bo Wang.*
+
 
 ### [Machine Learning](#content)
 1. **Machine learning–accelerated computational fluid dynamics.** PNAS, 2021. [paper](https://www.pnas.org/doi/10.1073/pnas.2101784118)
@@ -1757,7 +1762,7 @@ Contributed by Chunyang Zhang.
 
    *Jiebin Zhao, Wei Wu, Xinlong Feng, and Hui Xu.*
 
-1. **TENG: Time-evolving natural gradient for solving PDEs with deep neural net.** arXiv, 2024. [paper](https://arxiv.org/abs/2404.10771)
+1. **TENG: Time-evolving natural gradient for solving PDEs with deep neural net.** ICML, 2024. [paper](https://openreview.net/forum?id=v1I4zRAjMb)
 
    *Zhuo Chen, Jacob McCarran, Esteban Vizcaino, Marin Soljačić, and Di Luo.*
 
@@ -2122,6 +2127,10 @@ Contributed by Chunyang Zhang.
 1. **Taming score-based diffusion priors for infinite-dimensional nonlinear inverse problems.** arXiv, 2024. [paper](https://arxiv.org/abs/2405.15676)
 
    *Lorenzo Baldassari, Ali Siahkoohi, Josselin Garnier, Knut Solna, and Maarten V. de Hoop.*
+
+1. **On the estimation rate of Bayesian PINN for inverse problems.** arXiv, 2024. [paper](https://arxiv.org/abs/2406.14808)
+
+   *Yi Sun, Debarghya Mukherjee, and Yves Atchade.*
 
 ### [Neural ODE](#content)
 1. **Neural rough differential equations for long time series.** ICML, 2021. [paper](http://proceedings.mlr.press/v139/morrill21b.html)
@@ -2782,6 +2791,10 @@ Contributed by Chunyang Zhang.
 
    *Xihang Yue, Linchao Zhu, and Yi Yang.*
 
+1. **Using uncertainty quantification to characterize and improve out-of-domain learning for PDEs.** ICML, 2024. [paper](https://openreview.net/forum?id=Y50K6DSrWo)
+
+   *S Chandra Mouli, Danielle C. Maddix, Shima Alizadeh, Gaurav Gupta, Andrew Stuart, Michael W. Mahoney, and Bernie Wang.*
+
 ### [Loss Function](#content)
 1. **Adaptive activation functions accelerate convergence in deep and physics-informed neural networks.** JCP, 2021. [paper](https://www.sciencedirect.com/science/article/pii/S0021999119308411)
 
@@ -2854,6 +2867,10 @@ Contributed by Chunyang Zhang.
 1. **A practical PINN framework for multi-scale problems with multi-magnitude loss terms.** CMAME, 2024. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0021999124003619)
 
    *Yong Wang, Yanzhong Yao, Jiawei Guo, and Zhiming Gao.*
+
+1. **Neural operators meet conjugate gradients: The FCG-NO method for efficient PDE solving.** ICML, 2024. [paper](https://openreview.net/forum?id=J0ty1o7nCj)
+
+   *Alexander Rudikov, Vladimir Fanaskov, Ekaterina Muravleva, Yuri M. Laevsky, and Ivan Oseledets.*
 
 ### [Sampling](#content)
 1. **ADLGM: An efficient adaptive sampling deep learning Galerkin method.** JCP, 2023. [paper](https://www.sciencedirect.com/science/article/pii/S0021999123000396)
@@ -3228,7 +3245,7 @@ Contributed by Chunyang Zhang.
 
    *Lei Shi and Jiaqi Yang.*
 
-1. **Accelerating PDE data generation via differential operator action in solution space.** arXiv, 2024. [paper](https://arxiv.org/abs/2402.05957)
+1. **Accelerating PDE data generation via differential operator action in solution space.** ICML, 2024. [paper](https://openreview.net/forum?id=Fv9GLw0LkO)
 
    *Huanshuo Dong, Hong Wang, Haoyang Liu, Jian Luo, and Jie Wang.*
 
@@ -3267,10 +3284,6 @@ Contributed by Chunyang Zhang.
 1. **Large scale scattering using fast solvers based on neural operators.** arXiv, 2024. [paper](https://arxiv.org/abs/2405.12380)
 
    *Zongren Zou, Adar Kahana, Enrui Zhang, Eli Turkel, Rishikesh Ranade, Jay Pathak, and George Em Karniadakis.*
-
-1. **Teng: Time-evolving natural gradient for solving PDEs with deep neural nets toward machine precision.** ICML, 2024. [paper](https://openreview.net/forum?id=v1I4zRAjMb)
-
-   *Zhuo Chen, Jacob McCarran, Esteban Vizcaino, Marin Soljacic, and Di Luo.*
 
 1. **Position: Optimization in SciML should employ the function space geometry.** ICML, 2024. [paper](https://openreview.net/forum?id=MOrvoYrlOg)
 
@@ -3641,7 +3654,7 @@ Contributed by Chunyang Zhang.
 
    *Sifan Wang, Bowen Li, Yuhan Chen, and Paris Perdikaris.*
 
-1. **DPOT: Auto-regressive denoising operator transformer for large-scale PDE pre-training.** arXiv, 2024. [paper](https://arxiv.org/abs/2403.03542) 
+1. **DPOT: Auto-regressive denoising operator transformer for large-scale PDE pre-training.** ICML, 2024. [paper](https://openreview.net/forum?id=X7UnDevHOM) 
 
    *Zhongkai Hao, Chang Su, Songming Liu, Julius Berner, Chengyang Ying, Hang Su, Anima Anandkumar, Jian Song, and Jun Zhu.*
 
@@ -3668,6 +3681,10 @@ Contributed by Chunyang Zhang.
 1. **Bridging operator learning and conditioned neural fields: A unifying perspective.** arXiv, 2024. [paper](https://arxiv.org/abs/2405.13998) 
 
    *Sifan Wang, Jacob H Seidman, Shyam Sankaran, Hanwen Wang, George J. Pappas, and Paris Perdikaris.*
+
+1. **Transolver: A fast Transformer solver for PDEs on general geometries.** ICML, 2024. [paper](https://openreview.net/forum?id=Ywl6pODXjB) 
+
+   *Haixu Wu, Huakun Luo, Haowen Wang, Jianmin Wang, and Mingsheng Long.*
 
 ### [Theory](#content)
 1. **Convergence analysis of a quasi-Monte Carlo-based deep learning algorithm for solving partial differential equations.** arXiv, 2022. [paper](https://arxiv.org/abs/2210.16196)
@@ -4032,6 +4049,9 @@ Contributed by Chunyang Zhang.
 
    *Hamidreza Eivazi, Mahyar Alikhani, Jendrik-Alexander Tröger, Stefan Wittek, Stefan Hartmann, and Andreas Rausch.*
 
+1. **UGrid: An efficient-and-rigorous neural multigrid solver for linear PDEs.** ICML, 2024. [paper](https://openreview.net/forum?id=vFATIZXlCm)
+
+   *Xi Han, Fei Hou, and Hong Qin.*
 
 ### [Multi Fidelity](#content)
 1. **Multifidelity deep operator networks.** arXiv, 2022. [paper](https://arxiv.org/abs/2204.09157)
