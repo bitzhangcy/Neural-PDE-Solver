@@ -846,6 +846,14 @@ Contributed by Chunyang Zhang.
 
    *Daniel Zhengyu Huang, Nicholas H. Nelsen, and Margaret Trautner.*
 
+1. **Learning the boundary-to-domain mapping using lifting product Fourier neural operators for partial differential equations.** ICML, 2024. [paper](https://arxiv.org/abs/2406.16740)
+
+   *Aditya Kashi, Arka Daw, Muralikrishnan Gopalakrishnan Meena, and Hao Lu.*
+
+1. **Accelerating phase field simulations through a hybrid adaptive fourier neural operator with U-net backbone.** arXiv, 2024. [paper](https://arxiv.org/abs/2406.17119)
+
+   *Christophe Bonneville, Nathan Bieberdorf, Arun Hegde, Mark Asta, Habib N. Najm, Laurent Capolungo, and Cosmin Safta.*
+
 1. **Gabor-filtered Fourier neural operator for solving partial differential equations.** Computers & Fluids, 2024. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0045793024000719)
 
    *Kai Qi and Jian Sun.*
@@ -1404,10 +1412,6 @@ Contributed by Chunyang Zhang.
 
    *Xiongye Xiao, Defu Cao, Ruochen Yang, Gaurav Gupta, Chenzhong Yin, Gengshuo Liu, Radu Balan, and Paul Bogdan.*
 
-1. **LNO: Laplace neural operator for solving differential equations.** arXiv, 2023. [paper](https://arxiv.org/abs/2303.10528)
-
-   *Qianying Cao, Somdatta Goswami, and George Em Karniadakis.*
-
 1. **Vandermonde neural operator.** arXiv, 2023. [paper](https://arxiv.org/abs/2305.19663)
 
    *Levi Lingsch, Mike Michelis, Sirani M. Perera, Robert K. Katzschmann, and Siddartha Mishra.*
@@ -1528,6 +1532,9 @@ Contributed by Chunyang Zhang.
 
    *Tengfei Xu, Dachuan Liu, Peng Hao, and Bo Wang.*
 
+1. **Laplace neural operator for solving differential equations.** NMI, 2024. [paper](https://www.nature.com/articles/s42256-024-00844-4)
+
+   *Qianying Cao, Somdatta Goswami, and George Em Karniadakis.*
 
 ### [Machine Learning](#content)
 1. **Machine learning–accelerated computational fluid dynamics.** PNAS, 2021. [paper](https://www.pnas.org/doi/10.1073/pnas.2101784118)
