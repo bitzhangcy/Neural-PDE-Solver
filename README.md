@@ -4862,6 +4862,10 @@ Contributed by Chunyang Zhang.
 
    *Benjamin Y. J. Wong, Murali Damodaran, and Boo Cheong Khoo.*
 
+1. **A hard constraint and domain decomposition based physics-informed neural network framework for nonhomogeneous transient thermal analysis.** TCPMT, 2024. [paper](https://ieeexplore.ieee.org/abstract/document/10562356)
+
+   *Zengkai Wu, Li Jun Jiang, Sheng Sun, and Ping Li.*
+
 ### [Robotics](#content)
 1. **Hybrid learning of time-series inverse dynamics models for locally isotropic robot motion.** RAL, 2022. [paper](https://ieeexplore.ieee.org/document/9954138)
 
