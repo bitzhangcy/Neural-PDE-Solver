@@ -219,6 +219,10 @@ Contributed by Chunyang Zhang.
 
    *Kamyar Azizzadenesheli, Nikola Kovachki, Zongyi Li, Miguel Liu-Schiaffini, Jean Kossaifi, and Anima Anandkumar.* 
 
+1. **Learning dynamical systems from data: An introduction to physics-guided deep learning.** PNAS, 2024. [paper](https://www.pnas.org/doi/10.1073/pnas.2311808121)
+
+   *Rose Yu and Rui Wang.* 
+
 
 ## [Model](#content) 
 ### [PINN](#content)
@@ -2363,6 +2367,10 @@ Contributed by Chunyang Zhang.
 1. **A novel A.I enhanced reservoir characterization with a combined mixture of experts -- NVIDIA modulus based physics informed neural operator forward model.** arXiv, 2024. [paper](https://arxiv.org/abs/2404.14447)
 
    *Clement Etienam, Yang Juntao, Issam Said, Oleg Ovcharenko, Kaustubh Tangsali, Pavel Dimitrov, and Ken Hester.*
+
+1. **An advanced physics-informed neural operator for comprehensive design optimization of highly-nonlinear systems: An aerospace composites processing case study.** ICML, 2024. [paper](https://openreview.net/forum?id=7eqJypc7RK)
+
+   *Milad Ramezankhani, Anirudh Deodhar, Rishi Yash Parekh, and Dagnachew Birru.*
 
 ### [Investigation](#content)
 1. **Characterizing possible failure modes in physics-informed neural networks.** NIPS, 2021. [paper](https://openreview.net/forum?id=a2Gr9gNFD-J)
@@ -4566,6 +4574,11 @@ Contributed by Chunyang Zhang.
 1. **From zero to turbulence: Generative modeling for 3D flow simulation.** ICLR, 2024. [paper](https://openreview.net/forum?id=ZhlwoC1XaN)
 
    *Marten Lienen, David Lüdke, Jan Hansen-Palmus, and Stephan Günnemann.*
+
+1. **Enhancing the accuracy of physics-informed neural networks for indoor airflow simulation with experimental data and Reynolds-averaged Navier–Stokes turbulence model.** Physics of Fluids, 2024. [paper](https://pubs.aip.org/aip/pof/article-abstract/36/6/065161/3299253/Enhancing-the-accuracy-of-physics-informed-neural?redirectedFrom=fulltext)
+
+   *Chi Zhang, Chih-Yung Wen, Yuan Jia, Yu-Hsuan Juan, Yee-Ting Lee, Zhengwei Chen, An-Shik Yang, and Zhengtong Li.*
+
 
 ### [Cybernetics](#content)
 1. **Machine learning accelerated PDE backstepping observers.** arXiv, 2022. [paper](https://arxiv.org/abs/2211.15044)
