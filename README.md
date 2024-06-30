@@ -2810,6 +2810,10 @@ Contributed by Chunyang Zhang.
 
    *S Chandra Mouli, Danielle C. Maddix, Shima Alizadeh, Gaurav Gupta, Andrew Stuart, Michael W. Mahoney, and Bernie Wang.*
 
+1. **Base models for parabolic partial differential equations.** UAI, 2024. [paper](https://openreview.net/forum?id=TLYNkysFB3)
+
+   *Xingzi Xu, Ali Hasan, Jie Ding, and Vahid Tarokh.*
+
 ### [Loss Function](#content)
 1. **Adaptive activation functions accelerate convergence in deep and physics-informed neural networks.** JCP, 2021. [paper](https://www.sciencedirect.com/science/article/pii/S0021999119308411)
 
@@ -4142,6 +4146,10 @@ Contributed by Chunyang Zhang.
 
    *Haoxiang Wang, Tao Yu, Tianwei Yang, Hui Qiao, and Qionghai Dai.*
 
+1. **Multigrid-augmented deep learning preconditioners for the helmholtz equation using compact implicit layers.** Journal on Scientific Computing, 2024. [paper](https://epubs.siam.org/doi/abs/10.1137/23M1583302)
+
+   *Bar Lerer, Ido Ben-Yair, and Eran Treister.*
+
 ### [Active Learning](#content)
 1. **Neural Galerkin scheme with active learning for high-dimensional evolution equations.** arXiv, 2022. [paper](https://arxiv.org/abs/2203.01360)
 
@@ -4579,6 +4587,9 @@ Contributed by Chunyang Zhang.
 
    *Chi Zhang, Chih-Yung Wen, Yuan Jia, Yu-Hsuan Juan, Yee-Ting Lee, Zhengwei Chen, An-Shik Yang, and Zhengtong Li.*
 
+1. **Physics-informed neural networks for fully non-linear free surface wave propagation.** Physics of Fluids, 2024. [paper](https://pubs.aip.org/aip/pof/article-abstract/36/6/062106/3296519/Physics-informed-neural-networks-for-fully-non?redirectedFrom=fulltext)
+
+   *Haocheng Lu, Qian Wang, Wenhao Tang, and Hua Liu.*
 
 ### [Cybernetics](#content)
 1. **Machine learning accelerated PDE backstepping observers.** arXiv, 2022. [paper](https://arxiv.org/abs/2211.15044)
