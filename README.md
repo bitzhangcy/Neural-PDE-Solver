@@ -3810,9 +3810,13 @@ Contributed by Chunyang Zhang.
 
    *Nikola B. Kovachki, Samuel Lanthaler, and Hrushikesh Mhaskar.*
 
-1. **Bengining overfitting in fixed dimension via physics-informed learning with smooth iductive bias.** arXiv, 2024. [paper](https://arxiv.org/abs/2406.09194)
+1. **Bengining overfitting in fixed dimension via physics-informed learning with smooth iductive bias.** arXiv, 2024. [paper](https://arxiv.org/abs/2406.18794)
 
    *Honam Wong, Wendao Wu, Fanghui Liu, and Yiping Lu.*
+
+1. **Operator learning of Lipschitz operators: An information-theoretic perspective.** arXiv, 2024. [paper](https://arxiv.org/abs/2406.09194)
+
+   *Samuel Lanthaler.*
 
 1. **Guaranteed approximation bounds for mixed-precision neural operators.** ICLR, 2024. [paper](https://openreview.net/forum?id=QJGj07PD9C)
 
@@ -5090,6 +5094,10 @@ Contributed by Chunyang Zhang.
 1. **A novel Fourier neural operator framework for classification of multi-sized images: Application to three dimensional digital porous media.** Physics of Fluids, 2024. [paper](https://pubs.aip.org/aip/pof/article/36/5/057131/3293884)
 
    *Ali Kashefi and Tapan Mukerji.*
+
+1. **A fast learning-based surrogate of electrical machines using a reduced basis.** ICML, 2024. [paper](https://openreview.net/forum?id=IK8CLXqffb)
+
+   *Alejandro Ribés, Nawfal Benchekroun, and Théo Delagnes.*
 
 ### [Molecules](#content)
 1. **Symmetry-informed geometric representation for molecules, proteins, and crystalline materials.** arXiv, 2023. [paper](https://arxiv.org/abs/2306.09375)
