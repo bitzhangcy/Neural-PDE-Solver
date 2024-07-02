@@ -3059,7 +3059,11 @@ Contributed by Chunyang Zhang.
 
 1. **RoPINN: Region optimized physics-informed neural networks.** arXiv, 2024. [paper](https://.arxiv.org/abs/2405.14369)
 
-   *Haixu Wu, Huakun Luo, Yuezhou Ma, Jianmin Wang, Mingsheng Long.*
+   *Haixu Wu, Huakun Luo, Yuezhou Ma, Jianmin Wang, and Mingsheng Long.*
+
+1. **UM2N: Towards universal mesh movement networks.** arXiv, 2024. [paper](https://.arxiv.org/abs/2407.00382)
+
+   *Mingrui Zhang, Chunyang Wang, Stephan Kramer, Joseph G. Wallwork, Siyi Li, Jiancheng Liu, Xiang Chen, and Matthew D. Piggott.*
 
 ### [Decomposition](#content)
 1. **Composing partial differential equations with physics-aware neural networks.** ICLR, 2022. [paper](https://openreview.net/forum?id=DIsWHvtU7lF)
