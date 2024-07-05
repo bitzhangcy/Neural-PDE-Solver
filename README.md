@@ -4599,6 +4599,10 @@ Contributed by Chunyang Zhang.
 
    *Haocheng Lu, Qian Wang, Wenhao Tang, and Hua Liu.*
 
+1. **Neural network with local converging input for unstructured-grid computational fluid dynamics.** AIAA Journal, 2024. [paper](https://arc.aiaa.org/doi/full/10.2514/1.J063885)
+
+   *Weiming Ding, Haoxiang Huang, Tzu-Jung Lee, Yingjie Liu, and Vigor Yang.*
+
 ### [Cybernetics](#content)
 1. **Machine learning accelerated PDE backstepping observers.** arXiv, 2022. [paper](https://arxiv.org/abs/2211.15044)
 
