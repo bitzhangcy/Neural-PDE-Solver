@@ -4603,6 +4603,10 @@ Contributed by Chunyang Zhang.
 
    *Weiming Ding, Haoxiang Huang, Tzu-Jung Lee, Yingjie Liu, and Vigor Yang.*
 
+1. **Flow field reconstruction from sparse sensor measurements with physics-informed neural networks.** Physics of Fluids, 2024. [paper](https://pubs.aip.org/aip/pof/article-abstract/36/7/073606/3302091/Flow-field-reconstruction-from-sparse-sensor?redirectedFrom=fulltext)
+
+   *Mohammad Yasin Hosseini and Yousef Shiri.*
+
 ### [Cybernetics](#content)
 1. **Machine learning accelerated PDE backstepping observers.** arXiv, 2022. [paper](https://arxiv.org/abs/2211.15044)
 
