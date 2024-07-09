@@ -4910,7 +4910,6 @@ Contributed by Chunyang Zhang.
 
    *Peijun Zhang, Longtao Xie, Yan Gu, Wenzhen Qu, Shengdong Zhao, and Chuanzeng Zhang.*
 
-
 ### [Robotics](#content)
 1. **Hybrid learning of time-series inverse dynamics models for locally isotropic robot motion.** RAL, 2022. [paper](https://ieeexplore.ieee.org/document/9954138)
 
