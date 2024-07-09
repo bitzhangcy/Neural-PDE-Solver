@@ -4906,6 +4906,11 @@ Contributed by Chunyang Zhang.
 
    *Zengkai Wu, Li Jun Jiang, Sheng Sun, and Ping Li.*
 
+1. **Boundary integrated neural networks for 2D elastostatic and piezoelectric problems.** IJMS, 2024. [paper](https://www.sciencedirect.com/science/article/pii/S0020740324005678)
+
+   *Peijun Zhang, Longtao Xie, Yan Gu, Wenzhen Qu, Shengdong Zhao, and Chuanzeng Zhang.*
+
+
 ### [Robotics](#content)
 1. **Hybrid learning of time-series inverse dynamics models for locally isotropic robot motion.** RAL, 2022. [paper](https://ieeexplore.ieee.org/document/9954138)
 
