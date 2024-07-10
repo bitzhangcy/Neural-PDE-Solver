@@ -1687,7 +1687,7 @@ Contributed by Chunyang Zhang.
 
 1. **Learning elliptic partial differential equations with randomized linear algebra.** Foundations of Computational Mathematics, 2023. [paper](https://link.springer.com/article/10.1007/s10208-022-09556-w)
 
-   *Nicolas Boullé and Alex Townsend .*
+   *Nicolas Boullé and Alex Townsend.*
 
 1. **A deep double Ritz method (D^2RM) for solving partial differential equations using neural networks.** CMAME, 2023. [paper](https://www.sciencedirect.com/science/article/pii/S0045782523000154)
 
@@ -1731,7 +1731,7 @@ Contributed by Chunyang Zhang.
 
 1. **The deep minimizing movement scheme.** JCP, 2023. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0021999123006137)
 
-   *Min Sue Park, Cheolhyeong Kim, Hwijae Son, and Hyung Ju Hwang .*
+   *Min Sue Park, Cheolhyeong Kim, Hwijae Son, and Hyung Ju Hwang.*
 
 1. **Learning nonlinear integral operators via recurrent neural networks and its application in solving integro-differential equations.** arXiv, 2023. [paper](https://arxiv.org/abs/2310.09434)
 
@@ -3238,7 +3238,7 @@ Contributed by Chunyang Zhang.
 
 1. **Physics-enhanced deep surrogates for partial differential equations.** NMI, 2023. [paper](https://www.nature.com/articles/s42256-023-00761-y)
 
-   *Raphaël Pestourie, Youssef Mroueh, Chris Rackauckas, Payel Das, and Steven G. Johnson .*
+   *Raphaël Pestourie, Youssef Mroueh, Chris Rackauckas, Payel Das, and Steven G. Johnson.*
 
 1. **Better neural PDE solvers through data-free mesh movers.** ICLR, 2024. [paper](https://openreview.net/forum?id=hj9ZuNimRl)
 
@@ -3943,7 +3943,7 @@ Contributed by Chunyang Zhang.
 
 1. **Bayesian deep learning framework for uncertainty quantification in stochastic partial differential equations.** SIAM Journal on Scientific Computing, 2024. [paper](https://epubs.siam.org/doi/abs/10.1137/23M1560574)
 
-   *Jeahan Jung, Hyomin Shin, and Minseok Choi .*
+   *Jeahan Jung, Hyomin Shin, and Minseok Choi.*
 
 ### [Latent Space](#content)
 1. **Multiscale simulations of complex systems by learning their effective dynamics.** NMI, 2022. [paper](https://www.nature.com/articles/s42256-022-00464-w)
@@ -4896,7 +4896,7 @@ Contributed by Chunyang Zhang.
 
 1. **A hierarchically normalized physics-informed neural network for solving differential equations: Application for solid mechanics problems.** EAAI, 2024. [paper](https://www.sciencedirect.com/science/article/abs/pii/S095219762400558X)
 
-   *Thang Le-Duc, Seunghye Lee, H. Nguyen-Xuan , and Jaehong Lee.*
+   *Thang Le-Duc, Seunghye Lee, H. Nguyen-Xuan, and Jaehong Lee.*
 
 1. **Physics-informed machine learning using low-fidelity flowfields for inverse airfoil shape design.** AIAA, 2024. [paper](https://arc.aiaa.org/doi/abs/10.2514/1.J063570)
 
@@ -5235,13 +5235,13 @@ Contributed by Chunyang Zhang.
 
    *Lei Zhang, Mukesh Ghimire, Wenlong Zhang, Zhe Xu, and Yi Ren.*
 
-1. **Pontryagin neural operator for solving parametric general-sum differential games.** arXiv, 2024. [paper](https://arxiv.org/abs/2401.01502)
-
-   *Lei Zhang, Mukesh Ghimire, Zhe Xu, Wenlong Zhang, and Yi Ren.*
-
 1. **Unsupervised solution operator learning for mean-field games via sampling-invariant parametrizations.** arXiv, 2024. [paper](https://arxiv.org/abs/2401.15482)
 
-   *Han Huang and Rongjie Lai .*
+   *Han Huang and Rongjie Lai.*
+
+1. **Pontryagin neural operator for solving general-sum differential games with parametric state constraints.** L4DC, 2024. [paper](https://proceedings.mlr.press/v242/zhang24f.html)
+
+   *Lei Zhang, Mukesh Ghimire, Zhe Xu, Wenlong Zhang, and Yi Ren.*
 
 ### [Industry](#content)
 1. **Physics-aware machine learning surrogates for real-time manufacturing digital twin.** Manufacturing Letters, 2022. [paper](https://www.sciencedirect.com/science/article/abs/pii/S2213846322001845)
