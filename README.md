@@ -2980,6 +2980,10 @@ Contributed by Chunyang Zhang.
 
    *Yuling Jiao, Di Li, Xiliang Lu, Jerry Zhijian Yang, and Cheng Yuan.*
 
+1. **Dynamical measure transport and neural PDE solvers for sampling.** arXiv, 2024. [paper](https://arxiv.org/abs/2407.07873)
+
+   *Jingtong Sun, Julius Berner, Lorenz Richter, Marius Zeinhofer, Johannes Müller, Kamyar Azizzadenesheli, and Anima Anandkumar.*
+
 ### [Mesh](#content)
 1. **MeshingNet: A new mesh generation method based on deep learning.** ICCS, 2022. [paper](https://link.springer.com/chapter/10.1007/978-3-030-50420-5_14)
 
@@ -4607,6 +4611,10 @@ Contributed by Chunyang Zhang.
 
    *Mohammad Yasin Hosseini and Yousef Shiri.*
 
+1. **Weak baselines and reporting biases lead to overoptimism in machine learning for fluid-related partial differential equations.** arXiv, 2024. [paper](https://arxiv.org/abs/2407.07218)
+
+   *Nick McGreivy and Ammar Hakim.*
+
 ### [Cybernetics](#content)
 1. **Machine learning accelerated PDE backstepping observers.** arXiv, 2022. [paper](https://arxiv.org/abs/2211.15044)
 
@@ -4909,6 +4917,10 @@ Contributed by Chunyang Zhang.
 1. **Boundary integrated neural networks for 2D elastostatic and piezoelectric problems.** IJMS, 2024. [paper](https://www.sciencedirect.com/science/article/pii/S0020740324005678)
 
    *Peijun Zhang, Longtao Xie, Yan Gu, Wenzhen Qu, Shengdong Zhao, and Chuanzeng Zhang.*
+
+1. **Transferable machine learning model for the aerodynamic prediction of swept wings.** Physics of Fluids, 2024. [paper](https://pubs.aip.org/aip/pof/article-abstract/36/7/076105/3302408/Transferable-machine-learning-model-for-the?redirectedFrom=fulltext)
+
+   *Yunjia Yang, Runze Li, Yufei Zhang, Lu Lu, and Haixin Chen.*
 
 ### [Robotics](#content)
 1. **Hybrid learning of time-series inverse dynamics models for locally isotropic robot motion.** RAL, 2022. [paper](https://ieeexplore.ieee.org/document/9954138)
