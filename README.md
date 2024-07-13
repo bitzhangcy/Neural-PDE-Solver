@@ -109,7 +109,7 @@ Contributed by Chunyang Zhang.
 </tr>
 <tr>
     <td>&ensp;<a href="#molecules">4.11 Molecules</a></td>
-    <td>&ensp;<a href="#reconstruction">4.12 Reconstruction</a></td>
+    <td>&ensp;<a href="#energy">4.12 Energy</a></td>
 </tr>  
 <tr>
     <td>&ensp;<a href="#quantum">4.13 Quantum</a></td>
@@ -118,8 +118,13 @@ Contributed by Chunyang Zhang.
 <tr>
     <td>&ensp;<a href="#industry">4.15 Industry</a></td>
     <td>&ensp;<a href="#economics">4.16 Economics</a></td>
+</tr>
+<tr>
+    <td>&ensp;<a href="#reconstruction">4.17 Reconstruction</a></td>
+    <td>&ensp;<a href="#"></a></td>
 </tr> 
 </table>
+
 
 
 ## [Survey Papers](#content)
@@ -222,6 +227,10 @@ Contributed by Chunyang Zhang.
 1. **Learning dynamical systems from data: An introduction to physics-guided deep learning.** PNAS, 2024. [paper](https://www.pnas.org/doi/10.1073/pnas.2311808121)
 
    *Rose Yu and Rui Wang.* 
+
+1. **Promising directions of machine learning for partial differential equations.** NCS, 2024. [paper](https://www.nature.com/articles/s43588-024-00643-2)
+
+   *Steven L. Brunton and Nathan Kutz .* 
 
 
 ## [Model](#content) 
@@ -434,9 +443,13 @@ Contributed by Chunyang Zhang.
 
    *Binghang Lu, Christian B. Moya, and Guang Lin.*
 
-1. **Improving physics-informed neural networks with meta-learned optimization.** arXiv, 2023. [paper](https://arxiv.org/abs/2303.07127)
+1. **Improving physics-informed neural networks with meta-learned optimization.** JMLR, 2024. [paper](https://www.jmlr.org/papers/v25/23-0356.html)
 
    *Alex Bihlo.*
+
+1. **Separable physics-informed neural networks.** NIPS, 2023. [paper](https://proceedings.neurips.cc/paper_files/paper/2023/hash/4af827e7d0b7bdae6097d44977e87534-Abstract-Conference.html)
+
+   *Junwoo Cho, Seungtae Nam, Hyunmo Yang, Seok-Bae Yun, Youngjoon Hong, and Eunbyung Park*
 
 1. **MetaPhysiCa: OOD robustness in physics-informed machine learning.** arXiv, 2023. [paper](https://arxiv.org/abs/2303.03181)
 
@@ -530,7 +543,7 @@ Contributed by Chunyang Zhang.
 
    *Dibyakanti Kumar and Anirbit Mukherjee.*
 
-1. **Correcting model misspecification in physics-informed neural networks (PINNs).** arXiv, 2023. [paper](https://arxiv.org/abs/2310.10776)
+1. **Correcting model misspecification in physics-informed neural networks (PINNs).** CMAME, 2024. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0021999124001670)
 
    *Zongren Zou, Xuhui Meng, and George Em Karniadakis.*
 
@@ -1721,7 +1734,7 @@ Contributed by Chunyang Zhang.
 
    *Jihong Wang, Xin Wang, Jing Li, and Bin Liu.*
 
-1. **Slow invariant manifolds of singularly perturbed systems via physics-informed machine learning.** arXiv, 2023. [paper](https://arxiv.org/abs/2309.07946)
+1. **Slow invariant manifolds of singularly perturbed systems via physics-informed machine learning.** SIAM Journal on Scientific Computing, 2024. [paper](https://epubs.siam.org/doi/full/10.1137/23M1602991?casa_token=ex-szljiS2oAAAAA%3AqKHakplBCmQ23zvlw2yQq6gEXMcCDsDFl6Z3RMvUNRqb-NN1F8GQsquMUQCosawTCDCAbo_i)
 
    *Dimitrios G. Patsatzis, Gianluca Fabiani, Lucia Russo, and Constantinos Siettos.*
 
@@ -2142,6 +2155,14 @@ Contributed by Chunyang Zhang.
 1. **On the estimation rate of Bayesian PINN for inverse problems.** arXiv, 2024. [paper](https://arxiv.org/abs/2406.14808)
 
    *Yi Sun, Debarghya Mukherjee, and Yves Atchade.*
+
+1. **Solving forward and inverse PDE problems on unknown manifolds via physics-informed neural operators.** arXiv, 2024. [paper](https://arxiv.org/abs/2407.05477)
+
+   *Anran Jiao, Qile Yan, Jhn Harlim, and Lu Lu.*
+
+1. **Physics-informed machine learning method with space-time Karhunen-Loève expansions for forward and inverse partial differential equations.** JCP, 2024. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0021999123008185)
+
+   *Alexandre M. Tartakovsky and Yifei Zong.*
 
 ### [Neural ODE](#content)
 1. **Neural rough differential equations for long time series.** ICML, 2021. [paper](http://proceedings.mlr.press/v139/morrill21b.html)
@@ -2640,6 +2661,10 @@ Contributed by Chunyang Zhang.
 1. **Deep neural networks with ReLU, leaky ReLU, and softplus activation provably overcome the curse of dimensionality for space-time solutions of semilinear partial differential equations.** arXiv, 2024. [paper](https://arxiv.org/abs/2406.10876)
 
    *Julia Ackermann, Arnulf Jentzen, Benno Kuckuck, and Joshua Lee Padgett.*
+
+1. **Physics-informed machine learning as a kernel method.** CoLT, 2024. [paper](https://proceedings.mlr.press/v247/doumeche24a.html)
+
+   *Nathan Doumèche, Francis Bach, Gérard Biau, and Claire Boyer.*
 
 ### [Domain Adaptation](#content)
 1. **Meta-auto-decoder for solving parametric partial differential equations.** NIPS, 2022. [paper](https://openreview.net/pdf?id=PwlW5Jri1Xt) 
@@ -3828,7 +3853,11 @@ Contributed by Chunyang Zhang.
 
 1. **Guaranteed approximation bounds for mixed-precision neural operators.** ICLR, 2024. [paper](https://openreview.net/forum?id=QJGj07PD9C)
 
-   *Renbo Tu, Colin White, Jean Kossaifi, Boris Bonev, Gennady Pekhimenko, Kamyar Azizzadenesheli, and Anima Anandkumar*
+   *Renbo Tu, Colin White, Jean Kossaifi, Boris Bonev, Gennady Pekhimenko, Kamyar Azizzadenesheli, and Anima Anandkumar.*
+
+1. **Physics-informed machine learning in asymptotic homogenization of elliptic equations.** CMAME, 2024. [paper](https://www.sciencedirect.com/science/article/pii/S0045782524002998)
+
+   *Celal Soyarslan and Marc Pradas .*
 
 ### [Gaussian Process](#content)
 1. **PAGP: A physics-assisted Gaussian process framework with active learning for forward and inverse problems of partial differential equations.** arXiv, 2022. [paper](https://arxiv.org/abs/2204.02583)
@@ -4132,6 +4161,10 @@ Contributed by Chunyang Zhang.
 1. **Multi-resolution partial differential equations preserved learning framework for spatiotemporal dynamics.** AAAI, 2024. [paper](https://www.nature.com/articles/s42005-024-01521-z)
 
    *Xinyang Liu, Min Zhu, Lu Lu, Hao Sun,  Jianxun Wang.*
+
+1. **Feature-adjacent multi-fidelity physics-informed machine learning for partial differential equations.** JCP, 2024. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0021999123007787)
+
+   *Wenqian Chen and Panos Stinis.*
 
 ### [Multi Grid](#content)
 1. **Learning to optimize multigrid PDE solvers.** ICML, 2019. [paper](http://proceedings.mlr.press/v97/greenfeld19a.html)
@@ -4614,6 +4647,10 @@ Contributed by Chunyang Zhang.
 1. **Weak baselines and reporting biases lead to overoptimism in machine learning for fluid-related partial differential equations.** arXiv, 2024. [paper](https://arxiv.org/abs/2407.07218)
 
    *Nick McGreivy and Ammar Hakim.*
+
+1. **Physics-informed machine learning of the correlation functions in bulk fluids.** Physics of Fluids, 2024. [paper](https://pubs.aip.org/aip/pof/article-abstract/36/1/017133/3105969/Physics-informed-machine-learning-of-the?redirectedFrom=fulltext)
+
+   *Wenqian Chen, Peiyuan Gao, and Panos Stinis*
 
 ### [Cybernetics](#content)
 1. **Machine learning accelerated PDE backstepping observers.** arXiv, 2022. [paper](https://arxiv.org/abs/2211.15044)
@@ -5196,18 +5233,10 @@ Contributed by Chunyang Zhang.
 
    *Qibang Liu, Diab Abueidda, Sagar Vyas, Yuan Gao, Seid Koric, and Philippe H. Geubelle.*
 
-### [Reconstruction](#content)
-1. **Occupancy networks: Learning 3D reconstruction in function space.** CVPR, 2019. [paper](https://openaccess.thecvf.com/content_CVPR_2019/papers/Mescheder_Occupancy_Networks_Learning_3D_Reconstruction_in_Function_Space_CVPR_2019_paper.pdf)
+### [Energy](#content)
+1. **Physics-informed neural network for lithium-ion battery degradation stable modeling and prognosis.** NC, 2024. [paper](https://www.nature.com/articles/s41467-024-48779-z)
 
-   *Lars Mescheder, Michael Oechsle, Michael Niemeyer, Sebastian Nowozin, and Andreas Geiger.*
-   
-1. **Transfer learning for flow reconstruction based on multifidelity data.** AIAA Journal, 2022. [paper](https://arc.aiaa.org/doi/abs/10.2514/1.J061647)
-
-   *Jiaqing Kou, Chenjia Ning, and Weiwei Zhang.*
-
-1. **Learning-based state reconstruction for a scalar hyperbolic PDE under noisy lagrangian sensing.** L4DC, 2022. [paper](http://proceedings.mlr.press/v144/barreau21a.html)
-
-   *Matthieu Barreau, John Liu, and Karl Henrik Johansson.*
+   *Fujin Wang, Zhi Zhai, Zhibin Zhao, Yi Di, and Xuefeng Chen.*
 
 ### [Quantum](#content)
 1. **Physics-informed neural networks for quantum eigenvalue problems.** IJCNN, 2022. [paper](https://ieeexplore.ieee.org/document/9891944)
@@ -5299,4 +5328,17 @@ Contributed by Chunyang Zhang.
 ### [Economics](#content)
 1. **A deep learning based numerical PDE method for option pricing.** Computational Economics, 2023. [paper](https://link.springer.com/article/10.1007/s10614-022-10279-x)
 
-   *Xiang Wang, Jessica Li, and Jichun Li.*R
+   *Xiang Wang, Jessica Li, and Jichun Li.*
+
+### [Reconstruction](#content)
+1. **Occupancy networks: Learning 3D reconstruction in function space.** CVPR, 2019. [paper](https://openaccess.thecvf.com/content_CVPR_2019/papers/Mescheder_Occupancy_Networks_Learning_3D_Reconstruction_in_Function_Space_CVPR_2019_paper.pdf)
+
+   *Lars Mescheder, Michael Oechsle, Michael Niemeyer, Sebastian Nowozin, and Andreas Geiger.*
+   
+1. **Transfer learning for flow reconstruction based on multifidelity data.** AIAA Journal, 2022. [paper](https://arc.aiaa.org/doi/abs/10.2514/1.J061647)
+
+   *Jiaqing Kou, Chenjia Ning, and Weiwei Zhang.*
+
+1. **Learning-based state reconstruction for a scalar hyperbolic PDE under noisy lagrangian sensing.** L4DC, 2022. [paper](http://proceedings.mlr.press/v144/barreau21a.html)
+
+   *Matthieu Barreau, John Liu, and Karl Henrik Johansson.*
