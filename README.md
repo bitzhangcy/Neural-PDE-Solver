@@ -2916,6 +2916,10 @@ Contributed by Chunyang Zhang.
 
    *Alexander Rudikov, Vladimir Fanaskov, Ekaterina Muravleva, Yuri M. Laevsky, and Ivan Oseledets.*
 
+1. **Neuroscience inspired neural operator for partilial differential equations.** JCP, 2024. [paper](https://www.sciencedirect.com/science/article/abs/pii/S002199912400514X)
+
+   *Shailesh Garg and Souvik Chakraborty.*
+
 ### [Sampling](#content)
 1. **ADLGM: An efficient adaptive sampling deep learning Galerkin method.** JCP, 2023. [paper](https://www.sciencedirect.com/science/article/pii/S0021999123000396)
 
@@ -4958,6 +4962,10 @@ Contributed by Chunyang Zhang.
 1. **Transferable machine learning model for the aerodynamic prediction of swept wings.** Physics of Fluids, 2024. [paper](https://pubs.aip.org/aip/pof/article-abstract/36/7/076105/3302408/Transferable-machine-learning-model-for-the?redirectedFrom=fulltext)
 
    *Yunjia Yang, Runze Li, Yufei Zhang, Lu Lu, and Haixin Chen.*
+
+1. **Data-driven methods for the inverse problem of suspension system excited by jump and diffusion stochastic track excitation.** International Journal of Non-Linear Mechanics, 2024. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0020746224001847)
+
+   *Wantao Jia, Menglin Hu, Wanrong Zan, and Fei Ni.*
 
 ### [Robotics](#content)
 1. **Hybrid learning of time-series inverse dynamics models for locally isotropic robot motion.** RAL, 2022. [paper](https://ieeexplore.ieee.org/document/9954138)
