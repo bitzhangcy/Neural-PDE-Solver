@@ -3861,7 +3861,11 @@ Contributed by Chunyang Zhang.
 
 1. **Physics-informed machine learning in asymptotic homogenization of elliptic equations.** CMAME, 2024. [paper](https://www.sciencedirect.com/science/article/pii/S0045782524002998)
 
-   *Celal Soyarslan and Marc Pradas .*
+   *Celal Soyarslan and Marc Pradas.*
+
+1. **A Deep BSDE approximation of nonlinear integro-PDEs with unbounded nonlocal operators.** arXiv, 2024. [paper](https://arxiv.org/abs/2407.09284)
+
+   *Espen Robstad Jakobsen and Sehail Mazid.*
 
 ### [Gaussian Process](#content)
 1. **PAGP: A physics-assisted Gaussian process framework with active learning for forward and inverse problems of partial differential equations.** arXiv, 2022. [paper](https://arxiv.org/abs/2204.02583)
@@ -4844,6 +4848,10 @@ Contributed by Chunyang Zhang.
 1. **PhiBE: A PDE-based Bellman equation for continuous time policy evaluation.** arXiv, 2024. [paper](https://arxiv.org/abs/2405.12535)
 
    *Yuhua Zhu.*
+
+1. **Generalizable physics-informed learning for stochastic safety-critical systems.** arXiv, 2024. [paper](https://arxiv.org/abs/2407.08868)
+
+   *Zhuoyuan Wang, Albert Chern, and Yorie Nakahira.*
 
 ### [Climate](#content)
 1. **FourCastNet: A global data-driven high-resolution weather model using adaptive Fourier neural operators.** arXiv, 2022. [paper](https://arxiv.org/abs/2202.11214)
