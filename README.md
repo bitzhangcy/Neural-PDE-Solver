@@ -4355,6 +4355,10 @@ Contributed by Chunyang Zhang.
 
    *Sourya Basu, Suhas Lohit, and Matthew Brandr.*
 
+1. **An efficient high-dimensional gradient estimator for stochastic differential equations.** arXiv, 2024. [paper](https://arxiv.org/abs/2407.10065)
+
+   *Shengbo Wang, Jose Blanchet, and Peter Glynn.*
+
 ### [Fluid](#content)
 1. **Physics-informed neural networks (PINNs) for fluid mechanics: A review.** Acta Mechanica Sinica, 2021. [paper](https://link.springer.com/article/10.1007/s10409-021-01148-1)
 
