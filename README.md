@@ -879,6 +879,10 @@ Contributed by Chunyang Zhang.
 
    *Ye Li, Ting Du, Yiwen Pang, and Zhongyi Huang.*
 
+1. **Physics-embedded fourier neural network for partial differential equations.** arXiv, 2024. [paper](https://arxiv.org/abs/2407.11158)
+
+   *Qingsong Xu, Nils Thuerey, Yilei Shi, Jonathan Bamber, Chaojun Ouyang, and Xiaoxiang Zhu.*
+
 ### [Graph Network](#content)
 1. **Message passing neural PDE solvers.** ICLR, 2022. [paper](https://openreview.net/forum?id=vSix3HPYKSU)
 
@@ -2577,6 +2581,10 @@ Contributed by Chunyang Zhang.
 1. **Is the neural tangent kernel of PINNs deep learning general partial differential equations always convergent?** Physica D: Nonlinear Phenomena, 2023. [paper](https://www.sciencedirect.com/science/article/pii/S016727892300341X)
 
    *Zijian Zhou and Zhenya Yan.*
+
+1. **Hybrid acceleration techniques for the physics-informed neural networks: A comparative analysis.** Machine Learning, 2024. [paper](https://link.springer.com/article/10.1007/s10994-023-06442-6)
+
+   *Fedor Buzaev, Jiexing Gao, Ivan Chuprov, and Evgeniy Kazakov .*
 
 1. **Can physics informed neural operators self improve?** NIPS, 2023. [paper](https://openreview.net/forum?id=Lhm15nDeGH)
 
