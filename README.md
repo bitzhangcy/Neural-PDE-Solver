@@ -1287,6 +1287,10 @@ Contributed by Chunyang Zhang.
 
    *Xinlun Cheng, Phong C.H. Nguyen, Pradeep K. Seshadri, Mayank Verma, Zoë J. Gray, Jack T. Beerman, H.S. Udaykumar, and Stephen S. Baek.*
 
+1. **f-PICNN: A physics-informed convolutional neural network for partial differential equations with space-time domain.** JCP, 2024. [paper](https://www.sciencedirect.com/science/article/pii/S0021999124005321)
+
+   *Mr Biao Yuan, He Wang, Ana Heitor, and Xiaohui Chen.*
+
 ### [AutoEncoder](#content)
 1. **Integral autoencoder network for discretization-invariant learning.** JMLR, 2022. [paper](https://www.jmlr.org/papers/v23/22-0297.html)
 
