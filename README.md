@@ -121,9 +121,10 @@ Contributed by Chunyang Zhang.
 </tr>
 <tr>
     <td>&ensp;<a href="#reconstruction">4.17 Reconstruction</a></td>
-    <td>&ensp;<a href="#"></a></td>
+    <td>&ensp;<a href="#electromagnetism">4.18 Electromagnetism</a></td>
 </tr> 
 </table>
+
 
 
 
@@ -5196,6 +5197,10 @@ Contributed by Chunyang Zhang.
 
    *Alejandro Ribés, Nawfal Benchekroun, and Théo Delagnes.*
 
+1. **Discontinuous Galerkin method with a novel physics-informed flux for elastic wave simulations in heterogeneous media.** TGRS, 2024. [paper](https://ieeexplore.ieee.org/abstract/document/10601224)
+
+   *Xijun He, Xueyuan Huang, Dinghui Yang, Jiandong Huang, and Yanjie Zhou.*
+
 ### [Molecules](#content)
 1. **Symmetry-informed geometric representation for molecules, proteins, and crystalline materials.** arXiv, 2023. [paper](https://arxiv.org/abs/2306.09375)
 
@@ -5374,3 +5379,24 @@ Contributed by Chunyang Zhang.
 1. **Learning-based state reconstruction for a scalar hyperbolic PDE under noisy lagrangian sensing.** L4DC, 2022. [paper](http://proceedings.mlr.press/v144/barreau21a.html)
 
    *Matthieu Barreau, John Liu, and Karl Henrik Johansson.*
+
+### [Electromagnetism](#content)
+1. **A novel physics-informed neural network for modeling electromagnetism of a permanent magnet synchronous motor.**  Advanced Engineering Informatics, 2023. [paper](https://www.sciencedirect.com/science/article/pii/S1474034623001635)
+
+   *Seho Son, Hyunseung Lee, Dayeon Jeong, Ki-Yong Oh, and Kyung Ho Sun.*
+
+1. **A novel key performance analysis method for permanent magnet coupler using physics informed neural networks.**  Engineering with Computer, 2023. [paper](https://link.springer.com/article/10.1007/s00366-023-01914-8)
+
+   *Huayan Pu, Bo Tan, Jin Yi, Shujin Yuan, Jinglei Zhao, Ruqing Bai, and Jun Luo .*
+
+1. **Physics-informed neural networks for solving parametric magnetostatic problems.**  TEC, 2023. [paper](https://ieeexplore.ieee.org/abstract/document/9788008)
+
+   *Andrés Beltrán-Pulido, Ilias Bilionis, and Dionysios Aliprantis.*
+   
+1. **Physics-informed neural networks for solving 2-D magnetostatic fields.**  TMAG, 2023. [paper](https://ieeexplore.ieee.org/abstract/document/10141630)
+
+   *Zhi Gong, Yang Chu, and Shiyou Yang.*
+   
+1. **Physics-informed sparse neural network for permanent magnet eddy current device modeling and analysis.**  LMAG, 2023. [paper](https://ieeexplore.ieee.org/document/10159495)
+
+   *Dazhi Wang, Sihan Wang, Deshan Kong, Jiaxing Wang, Wenhui Li, and Michael Pecht*
