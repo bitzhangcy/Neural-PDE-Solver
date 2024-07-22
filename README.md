@@ -1292,6 +1292,10 @@ Contributed by Chunyang Zhang.
 
    *Mr Biao Yuan, He Wang, Ana Heitor, and Xiaohui Chen.*
 
+1. **Porous-DeepONet: Learning the solution operators of parametric reactive transport equations in Porous media.** Engineering, 2024. [paper](https://www.sciencedirect.com/science/article/pii/S2095809924003904)
+
+   *Pan Huang, Yifei Leng, Cheng Lian, and Honglai Liu.*
+
 ### [AutoEncoder](#content)
 1. **Integral autoencoder network for discretization-invariant learning.** JMLR, 2022. [paper](https://www.jmlr.org/papers/v23/22-0297.html)
 
@@ -3440,6 +3444,11 @@ Contributed by Chunyang Zhang.
 
    *Matthaios Chatzopoulos and Phaedon-Stelios Koutsourelakis.*
 
+1. **A resolution independent neural operator.** arXiv, 2024. [paper](https://arxiv.org/abs/2407.13010) 
+
+   *Bahador Bahmani, Somdatta Goswami, Ioannis G. Kevrekidis, and Michael D. Shields*
+
+
 ### [Uncertainty Quantification](#content)
 1. **Quantifying total uncertainty in physics-informed neural networks for solving forward and inverse stochastic problems.** arXiv, 2021. [paper](https://www.sciencedirect.com/science/article/pii/S0021999119305340)
 
@@ -5133,6 +5142,10 @@ Contributed by Chunyang Zhang.
 1. **SPI-MIONet for surrogate modeling in phase-field hydraulic fracturing.** CMAME, 2024. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0045782524003104)
 
    *Xiaoqiang Wang, Peichao Li, Kaile Jia, Shaoqi Zhang, Chun Li, Bangchen Wu, Yilun Dong, and Detang Lu.*
+
+1. **A physics-informed neural networks modeling with coupled fluid flow and heat transfer – Revisit of natural convection in cavity.** International Communications in Heat and Mass Transfer, 2024. [paper](https://www.sciencedirect.com/science/article/abs/pii/S073519332400589X)
+
+   *Zahra Hashemi, Maysam Gholampour, Mingchang Wu, Tingya Liu, Chuanyi Liang, and Chichuan Wang.*
 
 ### [Image](#content)
 1. **Learning to diffuse: A new perspective to design PDEs for visual analysis.** TPAMI, 2016. [paper](https://ieeexplore.ieee.org/document/7393839)
