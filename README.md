@@ -3448,7 +3448,6 @@ Contributed by Chunyang Zhang.
 
    *Bahador Bahmani, Somdatta Goswami, Ioannis G. Kevrekidis, and Michael D. Shields*
 
-
 ### [Uncertainty Quantification](#content)
 1. **Quantifying total uncertainty in physics-informed neural networks for solving forward and inverse stochastic problems.** arXiv, 2021. [paper](https://www.sciencedirect.com/science/article/pii/S0021999119305340)
 
@@ -4684,7 +4683,11 @@ Contributed by Chunyang Zhang.
 
 1. **Physics-informed machine learning of the correlation functions in bulk fluids.** Physics of Fluids, 2024. [paper](https://pubs.aip.org/aip/pof/article-abstract/36/1/017133/3105969/Physics-informed-machine-learning-of-the?redirectedFrom=fulltext)
 
-   *Wenqian Chen, Peiyuan Gao, and Panos Stinis*
+   *Wenqian Chen, Peiyuan Gao, and Panos Stinis.*
+
+1. **Groundwater inverse modeling: Physics-informed neural network with disentangled constraints and errors.** Journal of Hydrology, 2024. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0022169424010990)
+
+   *Yuzhe Ji, Yuanyuan Zha, Tian-Chyi J. Yeh, Liangsheng Shi, and Yanling Wang.*
 
 ### [Cybernetics](#content)
 1. **Machine learning accelerated PDE backstepping observers.** arXiv, 2022. [paper](https://arxiv.org/abs/2211.15044)
