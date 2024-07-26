@@ -4689,6 +4689,10 @@ Contributed by Chunyang Zhang.
 
    *Yuzhe Ji, Yuanyuan Zha, Tian-Chyi J. Yeh, Liangsheng Shi, and Yanling Wang.*
 
+1. **Inferring turbulent velocity and temperature fields and their statistics from Lagrangian velocity measurements using physics-informed Kolmogorov-Arnold networks.** arXiv, 2024. [paper](https://arxiv.org/abs/2407.15727)
+
+   *Juan Diego Toscano, Theo Käufer, Zhibo Wang, Martin Maxey, Christian Cierpka, and George Em Karniadakis.*
+
 ### [Cybernetics](#content)
 1. **Machine learning accelerated PDE backstepping observers.** arXiv, 2022. [paper](https://arxiv.org/abs/2211.15044)
 
