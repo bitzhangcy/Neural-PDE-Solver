@@ -2298,6 +2298,10 @@ Contributed by Chunyang Zhang.
 
    *Xin Li, Jingdong Zhang, Qunxi Zhu, Chengli Zhao, Xue Zhang, Xiaojun Duan, and Wei Lin.*
 
+1. **Learning chaotic systems and long-term predictions with neural jump ODEs.** arXiv, 2024. [paper](https://arxiv.org/abs/2407.18808)
+
+   *Florian Krach and Josef Teichmann.*
+
 ### [Large Model](#content)
 1. **Prompting in-context operator learning with sensor data, equations, and natural language.** arXiv, 2023. [paper](https://arxiv.org/abs/2308.05061)
 
@@ -5007,6 +5011,11 @@ Contributed by Chunyang Zhang.
 1. **Data-driven methods for the inverse problem of suspension system excited by jump and diffusion stochastic track excitation.** International Journal of Non-Linear Mechanics, 2024. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0020746224001847)
 
    *Wantao Jia, Menglin Hu, Wanrong Zan, and Fei Ni.*
+
+
+1. **On Physics-Informed Neural Networks training for coupled hydro-poromechanical problems.** JCP, 2024. [paper](https://www.sciencedirect.com/science/article/pii/S0021999124005473)
+
+   *Caterina Millevoi, Nicolò Spiezia, and Massimiliano Ferronato.*
 
 ### [Robotics](#content)
 1. **Hybrid learning of time-series inverse dynamics models for locally isotropic robot motion.** RAL, 2022. [paper](https://ieeexplore.ieee.org/document/9954138)
