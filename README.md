@@ -86,6 +86,10 @@ Contributed by Chunyang Zhang.
     <td>&ensp;<a href="#multi-grid">3.23 Multi Grid</a></td>
     <td>&ensp;<a href="#active-learning">3.24 Active Learning</a></td>
 </tr>
+<tr>
+    <td>&ensp;<a href="#multi-task">3.25 Multi Task</a></td>
+    <td>&ensp;<a href="#"></a></td>
+</tr>
 <tr><td colspan="2"><a href="#applications">4. Applications</a></td></tr> 
 <tr>
     <td>&ensp;<a href="#optimization">4.1 Optimization</a></td>
@@ -124,6 +128,7 @@ Contributed by Chunyang Zhang.
     <td>&ensp;<a href="#electromagnetism">4.18 Electromagnetism</a></td>
 </tr> 
 </table>
+
 
 
 
@@ -2724,10 +2729,6 @@ Contributed by Chunyang Zhang.
 
    *Filipe de Avila Belbute-Peres, Yifan Chen, and Fei Sha.*
 
-1. **Adversarial multi-task learning enhanced physics-informed neural networks for solving partial differential equations.** IJCNN, 2022. [paper](https://ieeexplore.ieee.org/abstract/document/9533606)
-
-   *Pongpisit Thanasutives, Masayuki Numao, and Ken-ichi Fukui.*
-
 1. **Transfer physics informed neural network: A new framework for distributed physics informed neural networks via parameter sharing.** Engineering with Computers, 2022. [paper](https://link.springer.com/article/10.1007/s00366-022-01703-9)
 
    *Sreehari Manikkan and Balaji Srinivasan.*
@@ -4256,6 +4257,19 @@ Contributed by Chunyang Zhang.
 1. **Neural Galerkin schemes with active learning for high-dimensional evolution equations.** JCP, 2023. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0021999123006836)
 
    *Joan Bruna, Benjamin Peherstorfer, and Eric Vanden-Eijnden.*
+
+1. **Active learning for neural PDE solvers.** arXiv, 2024. [paper](https://arxiv.org/abs/2408.01536)
+
+   *Daniel Musekamp, Marimuthu Kalimuthu, David Holzmüller, Makoto Takamoto, and Mathias Niepert.*
+
+### [Multi Task](#content)
+1. **Adversarial multi-task learning enhanced physics-informed neural networks for solving partial differential equations.** IJCNN, 2022. [paper](https://ieeexplore.ieee.org/abstract/document/9533606)
+
+   *Pongpisit Thanasutives, Masayuki Numao, and Ken-ichi Fukui.*
+
+1. **Synergistic learning with multi-task DeepONet for efficient pde problem solving.** arXiv, 2024. [paper](https://arxiv.org/abs/2408.02198)
+
+   *Varun Kumar, Somdatta Goswami, Katiana Kontolati, Michael D. Shields, and George Em Karniadakis.*
 
 
 ## [Applications](#content)
