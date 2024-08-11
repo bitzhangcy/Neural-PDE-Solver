@@ -2692,6 +2692,10 @@ Contributed by Chunyang Zhang.
 
    *Nathan Doumèche, Francis Bach, Gérard Biau, and Claire Boyer.*
 
+1. **Operator learning using random features: A tool for scientific computing.** SIAM Review, 2024. [paper](https://epubs.siam.org/doi/abs/10.1137/24M1648703)
+
+   *Nicholas H. Nelsen and Andrew M. Stuart.*
+
 ### [Domain Adaptation](#content)
 1. **Meta-auto-decoder for solving parametric partial differential equations.** NIPS, 2022. [paper](https://openreview.net/pdf?id=PwlW5Jri1Xt) 
 
@@ -2860,6 +2864,10 @@ Contributed by Chunyang Zhang.
 1. **Base models for parabolic partial differential equations.** UAI, 2024. [paper](https://openreview.net/forum?id=TLYNkysFB3)
 
    *Xingzi Xu, Ali Hasan, Jie Ding, and Vahid Tarokh.*
+
+1. **Transfer learning Fourier neural operator for solving parametric frequency-domain wave equations.** TGRS, 2024. [paper](https://ieeexplore.ieee.org/abstract/document/10630570)
+
+   *Yufeng Wang, Heng Zhang, Chensen Lai, and Xiangyun Hu.*
 
 ### [Loss Function](#content)
 1. **Adaptive activation functions accelerate convergence in deep and physics-informed neural networks.** JCP, 2021. [paper](https://www.sciencedirect.com/science/article/pii/S0021999119308411)
