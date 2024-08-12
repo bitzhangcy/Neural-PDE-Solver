@@ -4237,6 +4237,10 @@ Contributed by Chunyang Zhang.
 
    *Bar Lerer, Ido Ben-Yair, and Eran Treister.*
 
+1. **Ugrid: An efficient-and-rigorous neural multigrid solver for linear PDEs.** ICML, 2024. [paper](https://openreview.net/forum?id=vFATIZXlCm)
+
+   *Xi Han, Fei Hou, and Hong Qin.*
+
 ### [Active Learning](#content)
 1. **Neural Galerkin scheme with active learning for high-dimensional evolution equations.** arXiv, 2022. [paper](https://arxiv.org/abs/2203.01360)
 
