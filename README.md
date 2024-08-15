@@ -1571,6 +1571,14 @@ Contributed by Chunyang Zhang.
 
    *Qianying Cao, Somdatta Goswami, and George Em Karniadakis.*
 
+1. **Physics-informed discretization-independent deep compositional operator network.** Computer Methods in Applied Mechanics and Engineering, 2024. [paper](https://www.sciencedirect.com/science/article/pii/S0045782524005309)
+
+   *Weiheng Zhong and Hadi Meidani*
+
+1. **Beyond closure models: Learning chaotic-systems via physics-informed neural operators.** arXiv, 2024. [paper](https://.arxiv.org/abs/2408.05177)
+
+   *Chuwei Wang, Julius Berner, Zongyi Li, Di Zhou, Jiayun Wang, Jane Bae, and Anima Anandkumar.*
+
 ### [Machine Learning](#content)
 1. **Machine learning–accelerated computational fluid dynamics.** PNAS, 2021. [paper](https://www.pnas.org/doi/10.1073/pnas.2101784118)
 
@@ -3784,6 +3792,10 @@ Contributed by Chunyang Zhang.
 
    *Haixu Wu, Huakun Luo, Haowen Wang, Jianmin Wang, and Mingsheng Long.*
 
+1. **Nonlocal attention operator: Materializing hidden knowledge towards interpretable physics discovery.** arXiv, 2024. [paper](https://arxiv.org/abs/2408.07307) 
+
+   *Yue Yu, Ning Liu, Fei Lu, Tian Gao, Siavash Jafarzadeh, and Stewart Silling*
+
 ### [Theory](#content)
 1. **Convergence analysis of a quasi-Monte Carlo-based deep learning algorithm for solving partial differential equations.** arXiv, 2022. [paper](https://arxiv.org/abs/2210.16196)
 
@@ -4207,6 +4219,10 @@ Contributed by Chunyang Zhang.
 1. **Feature-adjacent multi-fidelity physics-informed machine learning for partial differential equations.** JCP, 2024. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0021999123007787)
 
    *Wenqian Chen and Panos Stinis.*
+
+1. **Data-driven constitutive meta-modeling of nonlinear rheology via multifidelity neural networks.** JCP, 2024. [paper](https://pubs.aip.org/sor/jor/article-abstract/68/5/679/3304611/Data-driven-constitutive-meta-modeling-of)
+
+   *Milad Saadat, William H. Hartt V, Norman J. Wagner, and Safa Jamali.*
 
 ### [Multi Grid](#content)
 1. **Learning to optimize multigrid PDE solvers.** ICML, 2019. [paper](http://proceedings.mlr.press/v97/greenfeld19a.html)
