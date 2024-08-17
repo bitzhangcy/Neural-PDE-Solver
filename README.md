@@ -4727,7 +4727,7 @@ Contributed by Chunyang Zhang.
 
    *Nick McGreivy and Ammar Hakim.*
 
-1. **Physics-informed machine learning of the correlation functions in bulk fluids.** Physics of Fluids, 2024. [paper](https://pubs.aip.org/aip/pof/article-abstract/36/1/017133/3105969/Physics-informed-machine-learning-of-the?redirectedFrom=fulltext)
+1. **Physics-informed machine learning of the correlation functions in bulk fluids.** Physics of Fluids, 2024. [paper](https://pubs.aip.org/aip/pof/article-abstract/36/1/017133/3105969/Physics-informed-machine-learning-of-the)
 
    *Wenqian Chen, Peiyuan Gao, and Panos Stinis.*
 
@@ -4738,6 +4738,10 @@ Contributed by Chunyang Zhang.
 1. **Inferring turbulent velocity and temperature fields and their statistics from Lagrangian velocity measurements using physics-informed Kolmogorov-Arnold networks.** arXiv, 2024. [paper](https://arxiv.org/abs/2407.15727)
 
    *Juan Diego Toscano, Theo Käufer, Zhibo Wang, Martin Maxey, Christian Cierpka, and George Em Karniadakis.*
+
+1. **Physics-informed neural networks for advection–diffusion–Langmuir adsorption processes .** Physics of Fluids, 2024. [paper](https://pubs.aip.org/aip/pof/article-abstract/36/8/081906/3308081/Physics-informed-neural-networks-for-advection)
+
+   *Bo Huang, Haobo Hua, Huan Han, Sensen He, Yuanye Zhou, Shuhong Liu, and Zhigang Zuo.*
 
 ### [Cybernetics](#content)
 1. **Machine learning accelerated PDE backstepping observers.** arXiv, 2022. [paper](https://arxiv.org/abs/2211.15044)
