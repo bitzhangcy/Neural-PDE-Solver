@@ -889,6 +889,10 @@ Contributed by Chunyang Zhang.
 
    *Qingsong Xu, Nils Thuerey, Yilei Shi, Jonathan Bamber, Chaojun Ouyang, and Xiaoxiang Zhu.*
 
+1. **Physics-informed neural operator for learning partial differential equations.** ACM/JMS Journal of Data Science, 2024. [paper](https://dl.acm.org/doi/10.1145/3648506)
+
+   *Zongyi Li, Hongkai Zheng, Nikola Kovachki, David Jin, Haoxuan Chen, Burigede Liu, Kamyar Azizzadenesheli, and Anima Anandkumar.*
+
 ### [Graph Network](#content)
 1. **Message passing neural PDE solvers.** ICLR, 2022. [paper](https://openreview.net/forum?id=vSix3HPYKSU)
 
