@@ -5213,6 +5213,14 @@ Contributed by Chunyang Zhang.
 
    *Zahra Hashemi, Maysam Gholampour, Mingchang Wu, Tingya Liu, Chuanyi Liang, and Chichuan Wang.*
 
+1. **Thermal conductivity estimation using physics-informed neural networks with limited data.** EAAI, 2024. [paper](https://www.sciencedirect.com/science/article/pii/S0952197624012375)
+
+   *Junhyoung Jo, Yeonhwi Jeong, Jinsu Kim, and Jihyung Yoo.*
+
+1. **STAResNet: A network in spacetime algebra to solve Maxwell's PDEs.** arXiv, 2024. [paper](https://arxiv.org/abs/2408.13619)
+
+   *Alberto Pepe, Sven Buchholz, and Joan Lasenby.*
+
 ### [Image](#content)
 1. **Learning to diffuse: A new perspective to design PDEs for visual analysis.** TPAMI, 2016. [paper](https://ieeexplore.ieee.org/document/7393839)
 
