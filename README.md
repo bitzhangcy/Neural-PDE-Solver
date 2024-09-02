@@ -2093,6 +2093,10 @@ Contributed by Chunyang Zhang.
 
    *Rui Zhang, Gordon P. Warn, and Aleksandra Radlińska.*
 
+1. **SympGNNs: Symplectic graph neural networks for identifiying high-dimensional hamiltonian systems and node classification** arXiv, 2024. [paper](https://arxiv.org/abs/2408.16698)
+
+   *Alan John Varghese, Zhen Zhang, and George Em Karniadakis.*
+
 ### [Inverse Design](#content)
 1. **DPM: Physics-informed Karhunen-Loéve and neural network approximations for solving inverse differential equation problems.** AAAI, 2021. [paper](https://ojs.aaai.org/index.php/AAAI/article/view/16992/16799)
 
