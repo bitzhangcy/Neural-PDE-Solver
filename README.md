@@ -236,7 +236,7 @@ Contributed by Chunyang Zhang.
 
 1. **Promising directions of machine learning for partial differential equations.** NCS, 2024. [paper](https://www.nature.com/articles/s43588-024-00643-2)
 
-   *Steven L. Brunton and Nathan Kutz .* 
+   *Steven L. Brunton and Nathan Kutz.* 
 
 
 ## [Model](#content) 
@@ -1164,7 +1164,7 @@ Contributed by Chunyang Zhang.
 
    *Alexandre Caboussat, Maude Girardin, and Marco Picasso.*
 
-1. **Predicting unsteady incompressible fluid dynamics with finite volume informed neural network.** Physics of Fluids, 2024. [paper](https://pubs.aip.org/aip/pof/article/36/4/043601/3280514)
+1. **Predicting unsteady incompressible fluid dynamics with finite volume informed neural network.** PoF, 2024. [paper](https://pubs.aip.org/aip/pof/article/36/4/043601/3280514)
 
    *Tianyu Li, Shufan Zou, Xinghua Chang, Laiping Zhang, and Xiaogang Deng.*
 
@@ -1812,7 +1812,7 @@ Contributed by Chunyang Zhang.
 
    *Kun Wang, Hao Wu, Guibin Zhang, Junfeng Fang, Yuxuan Liang, Yuankai Wu, Roger Zimmermann, and Yang Wang.*
 
-1. **Solving Euler equations with gradient-weighted multi-input high-dimensional feature neural network.** Physics of Fluids, 2024. [paper](https://pubs.aip.org/aip/pof/article/36/3/035150/3272548)
+1. **Solving Euler equations with gradient-weighted multi-input high-dimensional feature neural network.** PoF, 2024. [paper](https://pubs.aip.org/aip/pof/article/36/3/035150/3272548)
 
    *Jiebin Zhao, Wei Wu, Xinlong Feng, and Hui Xu.*
 
@@ -2556,7 +2556,7 @@ Contributed by Chunyang Zhang.
 
    *Lukas Fesser, Richard Qiu, and Luca D'Amico-Wong.*
 
-1. **Physics-informed neural network based on a new adaptive gradient descent algorithm for solving partial differential equations of flow problems.** Physics of Fluids, 2023. [paper](https://pubs.aip.org/aip/pof/article/35/6/063608/2899773)
+1. **Physics-informed neural network based on a new adaptive gradient descent algorithm for solving partial differential equations of flow problems.** PoF, 2023. [paper](https://pubs.aip.org/aip/pof/article/35/6/063608/2899773)
 
    *Xiaojian Li, Yuhao Liu, and Zhengxian Liu.*
 
@@ -2618,7 +2618,7 @@ Contributed by Chunyang Zhang.
 
 1. **Hybrid acceleration techniques for the physics-informed neural networks: A comparative analysis.** Machine Learning, 2024. [paper](https://link.springer.com/article/10.1007/s10994-023-06442-6)
 
-   *Fedor Buzaev, Jiexing Gao, Ivan Chuprov, and Evgeniy Kazakov .*
+   *Fedor Buzaev, Jiexing Gao, Ivan Chuprov, and Evgeniy Kazakov.*
 
 1. **Can physics informed neural operators self improve?** NIPS, 2023. [paper](https://openreview.net/forum?id=Lhm15nDeGH)
 
@@ -4519,11 +4519,11 @@ Contributed by Chunyang Zhang.
 
    *Yu Tang, Li Jin, and Kaan Ozbay.*
 
-1. **Radial basis function-differential quadrature-based physics-informed neural network for steady incompressible flows.** Physics of Fluids, 2023. [paper](https://pubs.aip.org/aip/pof/article/35/7/073607/2902185)
+1. **Radial basis function-differential quadrature-based physics-informed neural network for steady incompressible flows.** PoF, 2023. [paper](https://pubs.aip.org/aip/pof/article/35/7/073607/2902185)
 
    *Yang Xiao, Liming Yang, Yinjie Du, Yuxin Song, and Chang Shu.*
 
-1. **Long-term predictions of turbulence by implicit U-Net enhanced Fourier neural operator.** Physics of Fluids, 2023. [paper](https://pubs.aip.org/aip/pof/article/35/7/075145/2903750)
+1. **Long-term predictions of turbulence by implicit U-Net enhanced Fourier neural operator.** PoF, 2023. [paper](https://pubs.aip.org/aip/pof/article/35/7/075145/2903750)
 
    *Zhijie Li, Wenhui Peng, Zelong Yuan, and Jianchun Wang.*
 
@@ -4531,7 +4531,7 @@ Contributed by Chunyang Zhang.
 
    *Simon Wassing, Stefan Langer, and Philipp Bekemeyer.*
 
-1. **Simulation of rarefied gas flows using physics-informed neural network combined with discrete velocity method.** Physics of Fluids, 2023. [paper](https://pubs.aip.org/aip/pof/article/35/7/077124/2903882)
+1. **Simulation of rarefied gas flows using physics-informed neural network combined with discrete velocity method.** PoF, 2023. [paper](https://pubs.aip.org/aip/pof/article/35/7/077124/2903882)
 
    *Linying Zhang, Wenjun Ma, Qin Lou, and Jun Zhang.*
 
@@ -4555,7 +4555,7 @@ Contributed by Chunyang Zhang.
 
    *Haotian Guan, Jinping Dong, and Weining Lee.*
 
-1. **Multi-physical predictions in electro-osmotic micromixer by auto-encoder physics-informed neural networks.** Physics of Fluids, 2023. [paper](https://pubs.aip.org/aip/pof/article-abstract/35/10/102007/2914663/Multi-physical-predictions-in-electro-osmotic?redirectedFrom=fulltext)
+1. **Multi-physical predictions in electro-osmotic micromixer by auto-encoder physics-informed neural networks.** PoF, 2023. [paper](https://pubs.aip.org/aip/pof/article-abstract/35/10/102007/2914663/Multi-physical-predictions-in-electro-osmotic?redirectedFrom=fulltext)
 
    *Naiwen Chang, Ying Huai, Tingting Liu, Xi Chen, and Yuqi Jin.*
 
@@ -4583,7 +4583,7 @@ Contributed by Chunyang Zhang.
 
    *Noah Ford, Victor J. Leon, Honest Merman, Jeffrey Gilbert, and Alexander New.*
 
-1. **Three-dimensional laminar flow using physics informed deep neural networks featured.** Physics of Fluids, 2023. [paper](https://pubs.aip.org/aip/pof/article/35/12/121703/2925751)
+1. **Three-dimensional laminar flow using physics informed deep neural networks featured.** PoF, 2023. [paper](https://pubs.aip.org/aip/pof/article/35/12/121703/2925751)
 
    *Saykat Kumar Biswas and N. K. Anand.*
 
@@ -4631,11 +4631,11 @@ Contributed by Chunyang Zhang.
 
    *Ahmad Peyvan, Vivek Oommen, Ameya D. Jagtap, and George Em Karniadakis.*
 
-1. **Physics-informed neural networks for incompressible flows with moving boundaries.** Physics of Fluids, 2024. [paper](https://pubs.aip.org/aip/pof/article/36/1/013617/3105948)
+1. **Physics-informed neural networks for incompressible flows with moving boundaries.** PoF, 2024. [paper](https://pubs.aip.org/aip/pof/article/36/1/013617/3105948)
 
    *Yongzheng Zhu, Weizhen Kong, Jian Deng, and Xin Bian.*
 
-1. **Solving the one dimensional vertical suspended sediment mixing equation with arbitrary eddy diffusivity profiles using temporal normalized physics-informed neural networks.** Physics of Fluids, 2024. [paper](https://pubs.aip.org/aip/pof/article/36/1/017132/3105970)
+1. **Solving the one dimensional vertical suspended sediment mixing equation with arbitrary eddy diffusivity profiles using temporal normalized physics-informed neural networks.** PoF, 2024. [paper](https://pubs.aip.org/aip/pof/article/36/1/017132/3105970)
 
    *Shaotong Zhang, Jiaxin Deng, Xi'an Li, Zixi Zhao, Jinran Wu, Weide Li,Yougan Wang, and Dongsheng Jeng.*
 
@@ -4663,7 +4663,7 @@ Contributed by Chunyang Zhang.
 
    *Qilong Ma, Haixu Wu, Lanxiang Xing, Jianmin Wang, and Mingsheng Long.*
 
-1. **Physics-informed neural networks with domain decomposition for the incompressible Navier–Stokes equations.** Physics of Fluids, 2024. [paper](https://pubs.aip.org/aip/pof/article/36/2/021914/3267717)
+1. **Physics-informed neural networks with domain decomposition for the incompressible Navier–Stokes equations.** PoF, 2024. [paper](https://pubs.aip.org/aip/pof/article/36/2/021914/3267717)
 
    *Linyan Gu, Shanlin Qin, Lei Xu, and Rongliang Chen.*
 
@@ -4675,15 +4675,15 @@ Contributed by Chunyang Zhang.
 
    *Hong Liang, Zilong Song, Chong Zhao, and Xin Bian.*
 
-1. **A fast general thermal simulation model based on multi-branch physics-informed deep operator neural network.** Physics of Fluids, 2024. [paper](https://pubs.aip.org/aip/pof/article/36/3/037142/3277890)
+1. **A fast general thermal simulation model based on multi-branch physics-informed deep operator neural network.** PoF, 2024. [paper](https://pubs.aip.org/aip/pof/article/36/3/037142/3277890)
 
    *Zibo Lu, Yuanye Zhou, Yanbo Zhang, Xiaoguang Hu, Qiao Zhao, and Xuyang Hu.*
 
-1. **Potential of physics-informed neural networks for solving fluid flow problems with parametric boundary conditions.** Physics of Fluids, 2024. [paper](https://pubs.aip.org/aip/pof/article/36/3/037143/3278488)
+1. **Potential of physics-informed neural networks for solving fluid flow problems with parametric boundary conditions.** PoF, 2024. [paper](https://pubs.aip.org/aip/pof/article/36/3/037143/3278488)
 
    *F. Lorenzen, A. Zargaran, and U. Janoske.*
 
-1. **Physics-informed neural networks for transonic flow around a cylinder with high Reynolds number.** Physics of Fluids, 2024. [paper](https://pubs.aip.org/aip/pof/article/36/3/036129/3278829)
+1. **Physics-informed neural networks for transonic flow around a cylinder with high Reynolds number.** PoF, 2024. [paper](https://pubs.aip.org/aip/pof/article/36/3/036129/3278829)
 
    *Xiang Ren, Peng Hu, Hua Su, Feizhou Zhang, and Huahua Yu.*
 
@@ -4699,7 +4699,7 @@ Contributed by Chunyang Zhang.
 
    *Hong Shen Wong, Wei Xuan Chan, Bing Huan Li, and Choon Hwai Yap.*
 
-1. **Physics-informed neural networks for fully non-linear free surface wave propagation.** Physics of Fluids, 2024. [paper](https://pubs.aip.org/aip/pof/article-abstract/36/6/062106/3296519/Physics-informed-neural-networks-for-fully-non?redirectedFrom=fulltext)
+1. **Physics-informed neural networks for fully non-linear free surface wave propagation.** PoF, 2024. [paper](https://pubs.aip.org/aip/pof/article-abstract/36/6/062106/3296519/Physics-informed-neural-networks-for-fully-non?redirectedFrom=fulltext)
 
    *Haocheng Lu, Qian Wang, Wenhao Tang, and Hua Liu.*
 
@@ -4715,11 +4715,11 @@ Contributed by Chunyang Zhang.
 
    *Marten Lienen, David Lüdke, Jan Hansen-Palmus, and Stephan Günnemann.*
 
-1. **Enhancing the accuracy of physics-informed neural networks for indoor airflow simulation with experimental data and Reynolds-averaged Navier–Stokes turbulence model.** Physics of Fluids, 2024. [paper](https://pubs.aip.org/aip/pof/article-abstract/36/6/065161/3299253/Enhancing-the-accuracy-of-physics-informed-neural?redirectedFrom=fulltext)
+1. **Enhancing the accuracy of physics-informed neural networks for indoor airflow simulation with experimental data and Reynolds-averaged Navier–Stokes turbulence model.** PoF, 2024. [paper](https://pubs.aip.org/aip/pof/article-abstract/36/6/065161/3299253/Enhancing-the-accuracy-of-physics-informed-neural?redirectedFrom=fulltext)
 
    *Chi Zhang, Chih-Yung Wen, Yuan Jia, Yu-Hsuan Juan, Yee-Ting Lee, Zhengwei Chen, An-Shik Yang, and Zhengtong Li.*
 
-1. **Physics-informed neural networks for fully non-linear free surface wave propagation.** Physics of Fluids, 2024. [paper](https://pubs.aip.org/aip/pof/article-abstract/36/6/062106/3296519/Physics-informed-neural-networks-for-fully-non?redirectedFrom=fulltext)
+1. **Physics-informed neural networks for fully non-linear free surface wave propagation.** PoF, 2024. [paper](https://pubs.aip.org/aip/pof/article-abstract/36/6/062106/3296519/Physics-informed-neural-networks-for-fully-non?redirectedFrom=fulltext)
 
    *Haocheng Lu, Qian Wang, Wenhao Tang, and Hua Liu.*
 
@@ -4727,7 +4727,7 @@ Contributed by Chunyang Zhang.
 
    *Weiming Ding, Haoxiang Huang, Tzu-Jung Lee, Yingjie Liu, and Vigor Yang.*
 
-1. **Flow field reconstruction from sparse sensor measurements with physics-informed neural networks.** Physics of Fluids, 2024. [paper](https://pubs.aip.org/aip/pof/article-abstract/36/7/073606/3302091/Flow-field-reconstruction-from-sparse-sensor?redirectedFrom=fulltext)
+1. **Flow field reconstruction from sparse sensor measurements with physics-informed neural networks.** PoF, 2024. [paper](https://pubs.aip.org/aip/pof/article-abstract/36/7/073606/3302091/Flow-field-reconstruction-from-sparse-sensor?redirectedFrom=fulltext)
 
    *Mohammad Yasin Hosseini and Yousef Shiri.*
 
@@ -4735,7 +4735,7 @@ Contributed by Chunyang Zhang.
 
    *Nick McGreivy and Ammar Hakim.*
 
-1. **Physics-informed machine learning of the correlation functions in bulk fluids.** Physics of Fluids, 2024. [paper](https://pubs.aip.org/aip/pof/article-abstract/36/1/017133/3105969/Physics-informed-machine-learning-of-the)
+1. **Physics-informed machine learning of the correlation functions in bulk fluids.** PoF, 2024. [paper](https://pubs.aip.org/aip/pof/article-abstract/36/1/017133/3105969/Physics-informed-machine-learning-of-the)
 
    *Wenqian Chen, Peiyuan Gao, and Panos Stinis.*
 
@@ -4747,9 +4747,13 @@ Contributed by Chunyang Zhang.
 
    *Juan Diego Toscano, Theo Käufer, Zhibo Wang, Martin Maxey, Christian Cierpka, and George Em Karniadakis.*
 
-1. **Physics-informed neural networks for advection–diffusion–Langmuir adsorption processes .** Physics of Fluids, 2024. [paper](https://pubs.aip.org/aip/pof/article-abstract/36/8/081906/3308081/Physics-informed-neural-networks-for-advection)
+1. **Physics-informed neural networks for advection–diffusion–Langmuir adsorption processes.** PoF, 2024. [paper](https://pubs.aip.org/aip/pof/article-abstract/36/8/081906/3308081/Physics-informed-neural-networks-for-advection)
 
    *Bo Huang, Haobo Hua, Huan Han, Sensen He, Yuanye Zhou, Shuhong Liu, and Zhigang Zuo.*
+
+1. **A new method to compute the blood flow equations using the physics-informed neural operator.** JCP, 2024. [paper](https://www.sciencedirect.com/science/article/pii/S0021999124006284)
+
+   *Lingfeng Li, Xuecheng Tai, and Raymond Hon-Fu Chan.*
 
 ### [Cybernetics](#content)
 1. **Machine learning accelerated PDE backstepping observers.** arXiv, 2022. [paper](https://arxiv.org/abs/2211.15044)
@@ -5058,7 +5062,7 @@ Contributed by Chunyang Zhang.
 
    *Peijun Zhang, Longtao Xie, Yan Gu, Wenzhen Qu, Shengdong Zhao, and Chuanzeng Zhang.*
 
-1. **Transferable machine learning model for the aerodynamic prediction of swept wings.** Physics of Fluids, 2024. [paper](https://pubs.aip.org/aip/pof/article-abstract/36/7/076105/3302408/Transferable-machine-learning-model-for-the?redirectedFrom=fulltext)
+1. **Transferable machine learning model for the aerodynamic prediction of swept wings.** PoF, 2024. [paper](https://pubs.aip.org/aip/pof/article-abstract/36/7/076105/3302408/Transferable-machine-learning-model-for-the?redirectedFrom=fulltext)
 
    *Yunjia Yang, Runze Li, Yufei Zhang, Lu Lu, and Haixin Chen.*
 
@@ -5280,7 +5284,7 @@ Contributed by Chunyang Zhang.
 
    *Mahmudul Hasan, Zekeriya Ender Eger, Arulmurugan Senthilnathan, and Pınar Acar.*
 
-1. **A novel Fourier neural operator framework for classification of multi-sized images: Application to three dimensional digital porous media.** Physics of Fluids, 2024. [paper](https://pubs.aip.org/aip/pof/article/36/5/057131/3293884)
+1. **A novel Fourier neural operator framework for classification of multi-sized images: Application to three dimensional digital porous media.** PoF, 2024. [paper](https://pubs.aip.org/aip/pof/article/36/5/057131/3293884)
 
    *Ali Kashefi and Tapan Mukerji.*
 
@@ -5478,7 +5482,7 @@ Contributed by Chunyang Zhang.
 
 1. **A novel key performance analysis method for permanent magnet coupler using physics informed neural networks.**  Engineering with Computer, 2023. [paper](https://link.springer.com/article/10.1007/s00366-023-01914-8)
 
-   *Huayan Pu, Bo Tan, Jin Yi, Shujin Yuan, Jinglei Zhao, Ruqing Bai, and Jun Luo .*
+   *Huayan Pu, Bo Tan, Jin Yi, Shujin Yuan, Jinglei Zhao, Ruqing Bai, and Jun Luo.*
 
 1. **Physics-informed neural networks for solving parametric magnetostatic problems.**  TEC, 2023. [paper](https://ieeexplore.ieee.org/abstract/document/9788008)
 
