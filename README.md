@@ -2712,6 +2712,10 @@ Contributed by Chunyang Zhang.
 
    *Nicholas H. Nelsen and Andrew M. Stuart.*
 
+1. **On the benefits of memory for modeling time-dependent PDEs.** arXiv, 2024. [paper](https://arxiv.org/abs/2409.02313)
+
+   *Ricardo Buitrago Ruiz, Tanya Marwah, Albert Gu, and Andrej Risteski.*
+
 ### [Domain Adaptation](#content)
 1. **Meta-auto-decoder for solving parametric partial differential equations.** NIPS, 2022. [paper](https://openreview.net/pdf?id=PwlW5Jri1Xt) 
 
