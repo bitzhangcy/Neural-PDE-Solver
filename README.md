@@ -2889,6 +2889,10 @@ Contributed by Chunyang Zhang.
 
    *Yufeng Wang, Heng Zhang, Chensen Lai, and Xiangyun Hu.*
 
+1. **Drift-correcting multiphysics informed neural network coupled PDE solver.** JMMCT, 2024. [paper](https://ieeexplore.ieee.org/abstract/document/10663254)
+
+   *Kevin Wandke and Yang Zhang.*
+
 ### [Loss Function](#content)
 1. **Adaptive activation functions accelerate convergence in deep and physics-informed neural networks.** JCP, 2021. [paper](https://www.sciencedirect.com/science/article/pii/S0021999119308411)
 
