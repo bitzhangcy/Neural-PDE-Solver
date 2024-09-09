@@ -5124,6 +5124,10 @@ Contributed by Chunyang Zhang.
 
    *Jae Yong Lee, Steffen Schotthöfer, Tianbai Xiao, Sebastian Krumscheid, and Martin Frank.*
 
+1. **Neural inverse source problems.** CoRL, 2024. [paper](https://openreview.net/forum?id=BmvUg1FIWC)
+
+   *Youngsun Wi, Miquel Oller, Jayjun Lee, and Nima Fazeli.*
+
 ### [Physics](#content)
 1. **Dynamic weights enabled physics-informed neural network for simulating the mobility of engineered nano-particles in a contaminated aquifer.** NIPS, 2022. [paper](https://arxiv.org/pdf/2211.03525.pdf)
 
