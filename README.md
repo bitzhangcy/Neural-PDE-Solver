@@ -893,6 +893,10 @@ Contributed by Chunyang Zhang.
 
    *Zongyi Li, Hongkai Zheng, Nikola Kovachki, David Jin, Haoxuan Chen, Burigede Liu, Kamyar Azizzadenesheli, and Anima Anandkumar.*
 
+1. **Liquid Fourier latent dynamics networks for fast GPU-based numerical simulations in computational cardiology.** arXiv, 2024. [paper](https://arxiv.org/abs/2408.09818)
+
+   *Matteo Salvador and Alison L. Marsden*
+
 ### [Graph Network](#content)
 1. **Message passing neural PDE solvers.** ICLR, 2022. [paper](https://openreview.net/forum?id=vSix3HPYKSU)
 
@@ -5473,6 +5477,10 @@ Contributed by Chunyang Zhang.
 1. **A deep learning based numerical PDE method for option pricing.** Computational Economics, 2023. [paper](https://link.springer.com/article/10.1007/s10614-022-10279-x)
 
    *Xiang Wang, Jessica Li, and Jichun Li.*
+
+1. **Enhancing fine-grained urban flow inference via incremental neural operator** IJCAI, 2024. [paper](https://www.ijcai.org/proceedings/2024/644)
+
+   *Qiang Gao, Xiaolong Song, Li Huang, Goce Trajcevski, Fan Zhou, and Xueqin Chen.*
 
 ### [Reconstruction](#content)
 1. **Occupancy networks: Learning 3D reconstruction in function space.** CVPR, 2019. [paper](https://openaccess.thecvf.com/content_CVPR_2019/papers/Mescheder_Occupancy_Networks_Learning_3D_Reconstruction_in_Function_Space_CVPR_2019_paper.pdf)
