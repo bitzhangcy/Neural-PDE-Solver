@@ -3901,7 +3901,7 @@ Contributed by Chunyang Zhang.
 
    *Jun Hu and Pengzhan Jin.*
 
-1. **A priori error estimation of physics-informed neural networks solving Allen--Cahn and Cahn--Hilliard equations.** arXiv, 2024. [paper](https://arxiv.org/abs/2402.02667)
+1. **A priori error estimation of physics-informed neural networks solving Allen--Cahn and Cahn--Hilliard equations.** arXiv, 2024. [paper](https://arxiv.org/abs/2402.07156)
 
    *Guangtao Zhang, Jiani Lin, Qijia Zhai, Huiyu Yang, Xujun Chen, Xiaoning Zheng, and Ieng Tak Leong.*
 
@@ -4702,10 +4702,6 @@ Contributed by Chunyang Zhang.
 1. **Physics-informed neural networks enhanced particle tracking velocimetry: An example for turbulent Jet flow.** TIM, 2024. [paper](https://ieeexplore.ieee.org/abstract/document/10522764)
 
    *Shengze Cai, Callum Gray, and George Em Karniadakis.*
-
-1. **SPI-MIONet for surrogate modeling in phase-field hydraulic fracturing.** CMAME, 2024. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0045782524003104)
-
-   *Xiaoqiang Wang, Peichao Li, Kaile Jia, Shaoqi Zhang, Chun Li, Bangchen Wu, Yilun Dong, and Detang Lu.*
 
 1. **Strategies for multi-case physics-informed neural networks for tube flows: A study using 2D flow scenarios.** Scientific Reports, 2024. [paper](https://www.nature.com/articles/s41598-024-62117-9)
 
