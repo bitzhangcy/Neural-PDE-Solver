@@ -1309,6 +1309,10 @@ Contributed by Chunyang Zhang.
 
    *Pan Huang, Yifei Leng, Cheng Lian, and Honglai Liu.*
 
+1. **Current symmetry group equivariant convolution frameworks for representation learning.** arXiv, 2024. [paper](https://arxiv.org/abs/2409.07327)
+
+   *Ramzan Basheer and Deepak Mishra.*
+
 ### [AutoEncoder](#content)
 1. **Integral autoencoder network for discretization-invariant learning.** JMLR, 2022. [paper](https://www.jmlr.org/papers/v23/22-0297.html)
 
@@ -2435,6 +2439,10 @@ Contributed by Chunyang Zhang.
 
    *Milad Ramezankhani, Anirudh Deodhar, Rishi Yash Parekh, and Dagnachew Birru.*
 
+1. **Differentiable programming across the PDE and machine learning barrier.** arXiv, 2024. [paper](https://arxiv.org/abs/2409.06085)
+
+   *Nacime Bouziani, David A. Ham, and Ado Farsi*
+
 ### [Investigation](#content)
 1. **Characterizing possible failure modes in physics-informed neural networks.** NIPS, 2021. [paper](https://openreview.net/forum?id=a2Gr9gNFD-J)
 
@@ -3410,6 +3418,10 @@ Contributed by Chunyang Zhang.
 1. **Scaling physics-informed hard constraints with mixture-of-experts.** ICLR, 2024. [paper](https://openreview.net/forum?id=u3dX2CEIZb)
 
    *Nithin Chalapathi, Yiheng Du, and Aditi S. Krishnapriyan.*
+
+1. **Optical neural engine for solving scientific partial differential equations.** arXiv, 2024. [paper](https://arxiv.org/abs/2409.06234)
+
+   *Yingheng Tang, Ruiyang Chen, Minhan Lou, Jichao Fan, Cunxi Yu, Andy Nonaka, Zhi Yao, and Weilu Gao.*
 
 ### [AutoML](#content)
 1. **Auto-PINN: Understanding and optimizing physics-informed neural architecture.** arXiv, 2022. [paper](https://arxiv.org/abs/2110.13361)
@@ -4955,6 +4967,10 @@ Contributed by Chunyang Zhang.
 1. **Generalizable physics-informed learning for stochastic safety-critical systems.** arXiv, 2024. [paper](https://arxiv.org/abs/2407.08868)
 
    *Zhuoyuan Wang, Albert Chern, and Yorie Nakahira.*
+
+1. **Real-time optimal control of high-dimensional parametrized systems by deep learning-based reduced order models.** arXiv, 2024. [paper](https://arxiv.org/abs/2409.05709)
+
+   *Matteo Tomasetto, Andrea Manzoni, and Francesco Braghin.*
 
 ### [Climate](#content)
 1. **FourCastNet: A global data-driven high-resolution weather model using adaptive Fourier neural operators.** arXiv, 2022. [paper](https://arxiv.org/abs/2202.11214)
