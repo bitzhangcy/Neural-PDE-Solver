@@ -663,6 +663,10 @@ Contributed by Chunyang Zhang.
 
    *Woojin Cho, Minju Jo, Haksoo Lim, Kookjin Lee, Dongeun Lee, Sanghyun Hong, and Noseong Park.*
 
+1. **Development of backward compatible physics-informed neural networks to reduce error accumulation based on a nested framework.** PoF, 2024. [paper](https://pubs.aip.org/aip/pof/article-abstract/36/9/097122/3312121/Development-of-backward-compatible-physics)
+
+   *Lei Gao, Yaoran Chen, Guohui Hu, Dan Zhang, Xiangyu Zhang, and Xiaowei Li.*
+
 ### [DeepONet](#content)
 1. **Learning nonlinear operators via DeepONet based on the universal approximation theorem of operators.** NMI, 2021. [paper](https://www.nature.com/articles/s42256-021-00302-5)
 
@@ -3941,9 +3945,13 @@ Contributed by Chunyang Zhang.
 
    *Celal Soyarslan and Marc Pradas.*
 
-1. **A Deep BSDE approximation of nonlinear integro-PDEs with unbounded nonlocal operators.** arXiv, 2024. [paper](https://arxiv.org/abs/2407.09284)
+1. **A deep BSDE approximation of nonlinear integro-PDEs with unbounded nonlocal operators.** arXiv, 2024. [paper](https://arxiv.org/abs/2407.09284)
 
    *Espen Robstad Jakobsen and Sehail Mazid.*
+
+1. **Deep learning methods for stochastic Galerkin approximations of elliptic random PDEs.** arXiv, 2024. [paper](https://arxiv.org/abs/2409.08063)
+
+   *Fabio Musco and Andrea Barth.*
 
 ### [Gaussian Process](#content)
 1. **PAGP: A physics-assisted Gaussian process framework with active learning for forward and inverse problems of partial differential equations.** arXiv, 2022. [paper](https://arxiv.org/abs/2204.02583)
