@@ -5332,6 +5332,10 @@ Contributed by Chunyang Zhang.
 
    *Xijun He, Xueyuan Huang, Dinghui Yang, Jiandong Huang, and Yanjie Zhou.*
 
+1. **Physics informed self-supervised segmentation of elastic composite materials.** CMAME, 2024. [paper](https://www.sciencedirect.com/science/article/pii/S0045782524006108)
+
+   *Guilherme Basso Della Mea, Cristian Ovalle, Lucien Laiarinandrasana, Etienne Decencière, and Petr Dokládal.*
+
 ### [Molecules](#content)
 1. **Symmetry-informed geometric representation for molecules, proteins, and crystalline materials.** arXiv, 2023. [paper](https://arxiv.org/abs/2306.09375)
 
