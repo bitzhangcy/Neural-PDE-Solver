@@ -2364,6 +2364,10 @@ Contributed by Chunyang Zhang.
 
    *Anthony Zhou, Cooper Lorsung, AmirPouya Hemmasian, and Amir Barati Farimani.*
 
+1. **Provable in-context learning of linear systems and linear elliptic PDEs with Transformers.** arXiv, 2024. [paper](https://arxiv.org/abs/2409.12293)
+
+   *Frank Cole, Yulong Lu, Riley O'Neill, and Tianhao Zhang.*
+
 
 ## [Mechanism](#content)
 ### [Benchmark](#content)
@@ -4782,6 +4786,10 @@ Contributed by Chunyang Zhang.
 1. **A new method to compute the blood flow equations using the physics-informed neural operator.** JCP, 2024. [paper](https://www.sciencedirect.com/science/article/pii/S0021999124006284)
 
    *Lingfeng Li, Xuecheng Tai, and Raymond Hon-Fu Chan.*
+
+1. **Modeling two-phase flows with complicated interface evolution using parallel physics-informed neural networks.** PoF, 2024. [paper](https://pubs.aip.org/aip/pof/article-abstract/36/9/093330/3313027/Modeling-two-phase-flows-with-complicated)
+
+   *Rundi Qiu, Haosen Dong, Jingzhu Wang, Chun Fan, and Yiwei Wang.*
 
 ### [Cybernetics](#content)
 1. **Machine learning accelerated PDE backstepping observers.** arXiv, 2022. [paper](https://arxiv.org/abs/2211.15044)
