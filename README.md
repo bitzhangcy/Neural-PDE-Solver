@@ -4988,6 +4988,10 @@ Contributed by Chunyang Zhang.
 
    *Matteo Tomasetto, Andrea Manzoni, and Francesco Braghin.*
 
+1. **An operator learning approach to nonsmooth optimal control of nonlinear PDEs** arXiv, 2024. [paper](https://arxiv.org/abs/2409.14417)
+
+   *Yongcun Song, Xiaoming Yuan, Hangrui Yue, and Tianyou Zeng.*
+
 ### [Climate](#content)
 1. **FourCastNet: A global data-driven high-resolution weather model using adaptive Fourier neural operators.** arXiv, 2022. [paper](https://arxiv.org/abs/2202.11214)
 
