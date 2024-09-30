@@ -2449,7 +2449,11 @@ Contributed by Chunyang Zhang.
 
 1. **Differentiable programming across the PDE and machine learning barrier.** arXiv, 2024. [paper](https://arxiv.org/abs/2409.06085)
 
-   *Nacime Bouziani, David A. Ham, and Ado Farsi*
+   *Nacime Bouziani, David A. Ham, and Ado Farsi.*
+
+1. **FlowBench: A large scale benchmark for flow simulation over complex geometries.** arXiv, 2024. [paper](https://arxiv.org/abs/2409.18032)
+
+   *Ronak Tali, Ali Rabeh, Cheng-Hau Yang, Mehdi Shadkhah, Samundra Karki, Abhisek Upadhyaya, Suriya Dhakshinamoorthy, Marjan Saadati, Soumik Sarkar, Adarsh Krishnamurthy, Chinmay Hegde, Aditya Balu, and Baskar Ganapathysubramanian.*
 
 ### [Investigation](#content)
 1. **Characterizing possible failure modes in physics-informed neural networks.** NIPS, 2021. [paper](https://openreview.net/forum?id=a2Gr9gNFD-J)
