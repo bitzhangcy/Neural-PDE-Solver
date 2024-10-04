@@ -1090,6 +1090,10 @@ Contributed by Chunyang Zhang.
 
    *Yoeri Poels, Koen Minartz, Harshit Bansal, and Vlado Menkovski.*
 
+1. **PhymPGN: Physics-encoded message passing graph network for spatiotemporal PDE systems.** arXiv, 2024. [paper](https://arxiv.org/abs/2410.01337)
+
+   *Bocheng Zeng, Qi Wang, Mengtao Yan, Yang Liu, Ruizhi Chengze, Yi Zhang, Hongsheng Liu, Zidong Wang, and Hao Sun.*
+
 ### [Green Function](#content)
 1. **Learning Green's functions associated with time-dependent partial differential equations.** JMLR, 2022. [paper](https://www.jmlr.org/papers/volume23/22-0433/22-0433.pdf)
 
@@ -2368,6 +2372,10 @@ Contributed by Chunyang Zhang.
 
    *Frank Cole, Yulong Lu, Riley O'Neill, and Tianhao Zhang.*
 
+1. **Explain like I'm five: Using LLMs to improve PDE surrogate models with text.** arXiv, 2024. [paper](https://arxiv.org/abs/2410.01137)
+
+   *Cooper Lorsung and Amir Barati Farimani.*
+
 
 ## [Mechanism](#content)
 ### [Benchmark](#content)
@@ -2739,6 +2747,10 @@ Contributed by Chunyang Zhang.
 1. **On the benefits of memory for modeling time-dependent PDEs.** arXiv, 2024. [paper](https://arxiv.org/abs/2409.02313)
 
    *Ricardo Buitrago Ruiz, Tanya Marwah, Albert Gu, and Andrej Risteski.*
+
+1. **Deep learning alternatives of the Kolmogorov superposition theorem.** arXiv, 2024. [paper](https://arxiv.org/abs/2410.01990)
+
+   *Leonardo Ferreira Guilhoto and Paris Perdikaris.*
 
 ### [Domain Adaptation](#content)
 1. **Meta-auto-decoder for solving parametric partial differential equations.** NIPS, 2022. [paper](https://openreview.net/pdf?id=PwlW5Jri1Xt) 
@@ -3714,6 +3726,10 @@ Contributed by Chunyang Zhang.
 1. **Neuroexplicit diffusion models for inpainting of optical flow fields.** arXiv, 2024. [paper](https://arxiv.org/abs/2405.14599)
 
    *Tom Fischer, Pascal Peter, Joachim Weickert, and Eddy Ilg.*
+
+1. **Text2PDE: Latent diffusion models for accessible physics simulation.** arXiv, 2024. [paper](https://arxiv.org/abs/2410.01153)
+
+   *Anthony Zhou, Zijie Li, Michael Schneier, John R Buchanan Jr, and Amir Barati Farimani.*
 
 ### [Transformer](#content)
 1. **Learning operators with coupled attention.** JMLR, 2022. [paper](https://www.jmlr.org/papers/v23/21-1521.html) 
