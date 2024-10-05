@@ -3977,6 +3977,10 @@ Contributed by Chunyang Zhang.
 
    *Fabio Musco and Andrea Barth.*
 
+1. **Lie algebra canonicalization: Equivariant neural operators under arbitrary Lie groups.** arXiv, 2024. [paper](https://arxiv.org/abs/2410.02698)
+
+   *Zakhar Shumaylov, Peter Zaika, James Rowbottom, Ferdia Sherry, Melanie Weber, and Carola-Bibiane Schönlieb.*
+
 ### [Gaussian Process](#content)
 1. **PAGP: A physics-assisted Gaussian process framework with active learning for forward and inverse problems of partial differential equations.** arXiv, 2022. [paper](https://arxiv.org/abs/2204.02583)
 
@@ -5183,6 +5187,10 @@ Contributed by Chunyang Zhang.
 1. **Neural inverse source problems.** CoRL, 2024. [paper](https://openreview.net/forum?id=BmvUg1FIWC)
 
    *Youngsun Wi, Miquel Oller, Jayjun Lee, and Nima Fazeli.*
+
+1. **One model to drift them all: Physics-informed conditional diffusion model for driving at the limits.** CoRL, 2024. [paper](https://openreview.net/forum?id=0gDbaEtVrd)
+
+   *Franck Djeumou, Thomas Jonathan Lew, NAN DING, Michael Thompson, Makoto Suminaka, Marcus Greiff, and John Subosits.*
 
 ### [Physics](#content)
 1. **Dynamic weights enabled physics-informed neural network for simulating the mobility of engineered nano-particles in a contaminated aquifer.** NIPS, 2022. [paper](https://arxiv.org/pdf/2211.03525.pdf)
