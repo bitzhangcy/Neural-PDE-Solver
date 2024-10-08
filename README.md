@@ -899,7 +899,11 @@ Contributed by Chunyang Zhang.
 
 1. **Liquid Fourier latent dynamics networks for fast GPU-based numerical simulations in computational cardiology.** arXiv, 2024. [paper](https://arxiv.org/abs/2408.09818)
 
-   *Matteo Salvador and Alison L. Marsden*
+   *Matteo Salvador and Alison L. Marsden.*
+
+1. **Graph Fourier neural kernels (G-FUNK): Learning solutions of nonlinear diffusive parametric PDEs on multiple domains.** arXiv, 2024. [paper](https://arxiv.org/abs/2410.04655)
+
+   *Shane E. Loeffler, Zan Ahmad, Syed Yusuf Ali, Carolyna Yamamoto, Dan M. Popescu, Alana Yee, Yash Lal, Natalia Trayanova, and Mauro Maggioni.*
 
 ### [Graph Network](#content)
 1. **Message passing neural PDE solvers.** ICLR, 2022. [paper](https://openreview.net/forum?id=vSix3HPYKSU)
