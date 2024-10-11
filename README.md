@@ -5142,8 +5142,11 @@ Contributed by Chunyang Zhang.
 
    *Wantao Jia, Menglin Hu, Wanrong Zan, and Fei Ni.*
 
+1. **Real-time full-field inference of displacement and stress from sparse local measurements using physics-informed neural networks.** MSSP, 2024. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0888327024009075)
 
-1. **On Physics-Informed Neural Networks training for coupled hydro-poromechanical problems.** JCP, 2024. [paper](https://www.sciencedirect.com/science/article/pii/S0021999124005473)
+   *Myeong-Seok Go, Hong-Kyun Noh, and Jae Hyuk Lim.*
+
+1. **On physics-informed neural networks training for coupled hydro-poromechanical problems.** JCP, 2024. [paper](https://www.sciencedirect.com/science/article/pii/S0021999124005473)
 
    *Caterina Millevoi, Nicolò Spiezia, and Massimiliano Ferronato.*
 
