@@ -1603,6 +1603,10 @@ Contributed by Chunyang Zhang.
 
    *Chuwei Wang, Julius Berner, Zongyi Li, Di Zhou, Jiayun Wang, Jane Bae, and Anima Anandkumar.*
 
+1. **Neural dynamical operator: Continuous spatial-temporal model with gradient-based and derivative-free optimization methods.** JCP, 2024. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0021999124007289)
+
+   *Chuanqi Chen and Jinlong Wu.*
+
 ### [Machine Learning](#content)
 1. **Machine learning–accelerated computational fluid dynamics.** PNAS, 2021. [paper](https://www.pnas.org/doi/10.1073/pnas.2101784118)
 
