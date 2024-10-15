@@ -667,6 +667,10 @@ Contributed by Chunyang Zhang.
 
    *Lei Gao, Yaoran Chen, Guohui Hu, Dan Zhang, Xiangyu Zhang, and Xiaowei Li.*
 
+1. **Improved physics-informed neural networks for the reinterpreted discrete fracture model.** JCP, 2024. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0021999124007393)
+
+   *Chao Wang, Hui Guo, Xia Yan, Zhanglei Shi, and Yang Yang*
+
 ### [DeepONet](#content)
 1. **Learning nonlinear operators via DeepONet based on the universal approximation theorem of operators.** NMI, 2021. [paper](https://www.nature.com/articles/s42256-021-00302-5)
 
@@ -1606,6 +1610,10 @@ Contributed by Chunyang Zhang.
 1. **Neural dynamical operator: Continuous spatial-temporal model with gradient-based and derivative-free optimization methods.** JCP, 2024. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0021999124007289)
 
    *Chuanqi Chen and Jinlong Wu.*
+
+1. **Learning a neural solver for parametric PDE to enhance physics-informed methods.** arXiv, 2024. [paper](https://.arxiv.org/abs/2410.06820)
+
+   *Lise Le Boudec, Emmanuel de Bezenac, Louis Serrano, Ramon Daniel Regueiro-Espino, Yuan Yin, and Patrick Gallinari.*
 
 ### [Machine Learning](#content)
 1. **Machine learning–accelerated computational fluid dynamics.** PNAS, 2021. [paper](https://www.pnas.org/doi/10.1073/pnas.2101784118)
@@ -2759,6 +2767,10 @@ Contributed by Chunyang Zhang.
 1. **Deep learning alternatives of the Kolmogorov superposition theorem.** arXiv, 2024. [paper](https://arxiv.org/abs/2410.01990)
 
    *Leonardo Ferreira Guilhoto and Paris Perdikaris.*
+
+1. **DimOL: Dimensional awareness as a new 'Dimension' in operator learning.** arXiv, 2024. [paper](https://arxiv.org/abs/2410.05894)
+
+   *Yichen Song, Yunbo Wang, and Xiaokang Yang.*
 
 ### [Domain Adaptation](#content)
 1. **Meta-auto-decoder for solving parametric partial differential equations.** NIPS, 2022. [paper](https://openreview.net/pdf?id=PwlW5Jri1Xt) 
@@ -4153,9 +4165,13 @@ Contributed by Chunyang Zhang.
 
     *Xiaoyu Xie, Saviz Mowlavi, and Mouhacine Benosman.*
 
-1. **Latent neural PDE solver: A reduced-order modelling framework for partial differential equations** arXiv, 2024. [paper](https://arxiv.org/abs/2402.17853)
+1. **Latent neural PDE solver: A reduced-order modelling framework for partial differential equations.** arXiv, 2024. [paper](https://arxiv.org/abs/2402.17853)
 
     *Zijie Li, Saurabh Patil, Francis Ogoke, Dule Shu, Wilson Zhen, Michael Schneier, John R. Buchanan Jr., and Amir Barati Farimani.*
+
+1. **WaveDiffusion: Exploring full waveform inversion via joint diffusion in the latent space.** arXiv, 2024. [paper](https://arxiv.org/abs/2410.09002)
+
+    *Hanchen Wang, Yinpeng Chen, Jeeun Kang, Yixuan Wu, Young Jin Kim, and Youzuo Lin*
 
 ### [Lagrangian](#content)
 1. **Lagrangian PINNs: A causality–conforming solution to failure modes of physics-informed neural networks.** arXiv, 2022. [paper](https://arxiv.org/abs/2205.02902)
@@ -5020,9 +5036,13 @@ Contributed by Chunyang Zhang.
 
    *Matteo Tomasetto, Andrea Manzoni, and Francesco Braghin.*
 
-1. **An operator learning approach to nonsmooth optimal control of nonlinear PDEs** arXiv, 2024. [paper](https://arxiv.org/abs/2409.14417)
+1. **An operator learning approach to nonsmooth optimal control of nonlinear PDEs.** arXiv, 2024. [paper](https://arxiv.org/abs/2409.14417)
 
    *Yongcun Song, Xiaoming Yuan, Hangrui Yue, and Tianyou Zeng.*
+
+1. **Is Pontryagin's maximum principle all you need? Solving optimal control problems with PMP-inspired neural networks.** arXiv, 2024. [paper](https://arxiv.org/abs/2410.06277)
+
+   *Kawisorn Kamtue, Jose M.F. Moura, and Orathai Sangpetch.*
 
 ### [Climate](#content)
 1. **FourCastNet: A global data-driven high-resolution weather model using adaptive Fourier neural operators.** arXiv, 2022. [paper](https://arxiv.org/abs/2202.11214)
@@ -5386,6 +5406,10 @@ Contributed by Chunyang Zhang.
 1. **Physics informed self-supervised segmentation of elastic composite materials.** CMAME, 2024. [paper](https://www.sciencedirect.com/science/article/pii/S0045782524006108)
 
    *Guilherme Basso Della Mea, Cristian Ovalle, Lucien Laiarinandrasana, Etienne Decencière, and Petr Dokládal.*
+
+1. **Micrometer: Micromechanics Transformer for predicting mechanical responses of heterogeneous materials.** arXiv, 2024. [paper](https://arxiv.org/abs/2410.05281)
+
+   *Sifan Wang, Tongrui Liu, Shyam Sankaran, and Paris Perdikaris.*
 
 ### [Molecules](#content)
 1. **Symmetry-informed geometric representation for molecules, proteins, and crystalline materials.** arXiv, 2023. [paper](https://arxiv.org/abs/2306.09375)
