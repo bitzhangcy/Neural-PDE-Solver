@@ -5411,6 +5411,10 @@ Contributed by Chunyang Zhang.
 
    *Sifan Wang, Tongrui Liu, Shyam Sankaran, and Paris Perdikaris.*
 
+1. **A physics-informed composite network for modeling of electrochemical process of large-scale lithium-ion batteries.** TII, 2024. [paper](https://arxiv.org/abs/2410.05281)
+
+   *Bingchuan Wang, Zhendong Ji, Yong Wang, Hanxiong Li, and Zhongmei Li.*
+
 ### [Molecules](#content)
 1. **Symmetry-informed geometric representation for molecules, proteins, and crystalline materials.** arXiv, 2023. [paper](https://arxiv.org/abs/2306.09375)
 
