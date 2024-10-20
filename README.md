@@ -3467,6 +3467,10 @@ Contributed by Chunyang Zhang.
 
    *Yingheng Tang, Ruiyang Chen, Minhan Lou, Jichao Fan, Cunxi Yu, Andy Nonaka, Zhi Yao, and Weilu Gao.*
 
+1. **Blending neural operators and relaxation methods in PDE numerical solvers.** PoF, 2024. [paper](https://www.nature.com/articles/s42256-024-00910-x)
+
+   *Enrui Zhang, Adar Kahana, Alena Kopaničáková, Eli Turkel, Rishikesh Ranade, Jay Pathak, and George Em Karniadakis.*
+
 ### [AutoML](#content)
 1. **Auto-PINN: Understanding and optimizing physics-informed neural architecture.** arXiv, 2022. [paper](https://arxiv.org/abs/2110.13361)
 
@@ -4838,6 +4842,10 @@ Contributed by Chunyang Zhang.
 1. **Modeling two-phase flows with complicated interface evolution using parallel physics-informed neural networks.** PoF, 2024. [paper](https://pubs.aip.org/aip/pof/article-abstract/36/9/093330/3313027/Modeling-two-phase-flows-with-complicated)
 
    *Rundi Qiu, Haosen Dong, Jingzhu Wang, Chun Fan, and Yiwei Wang.*
+
+1. **Assessing physics-informed neural network performance with sparse noisy velocity data** PoF, 2024. [paper](https://pubs.aip.org/aip/pof/article-abstract/36/10/103619/3317204/Assessing-physics-informed-neural-network)
+
+   *Adhika Satyadharma, Ming-Jyh Chern, Heng-Chuan Kan, Harinaldi, and James Julian.*
 
 ### [Cybernetics](#content)
 1. **Machine learning accelerated PDE backstepping observers.** arXiv, 2022. [paper](https://arxiv.org/abs/2211.15044)
