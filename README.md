@@ -1143,6 +1143,10 @@ Contributed by Chunyang Zhang.
 
    *Yuanjun Dai, Zhi Li, Yiran An, and Wanru Deng.*
 
+1. **Multiscale neural networks for approximating Green's functions.** arXiv, 2024. [paper](https://arxiv.org/abs/2410.18439)
+
+   *Wenrui Hao, Rui Peng Li, Yuanzhe Xi, Tianshi Xu, and Yahong Yang.*
+
 ### [Finite Element](#content)
 1. **Composing partial differential equations with physics-aware neural networks.** ICML, 2022. [paper](https://proceedings.mlr.press/v162/karlbauer22a/karlbauer22a.pdf)
 
@@ -4004,6 +4008,10 @@ Contributed by Chunyang Zhang.
 1. **Lie algebra canonicalization: Equivariant neural operators under arbitrary Lie groups.** arXiv, 2024. [paper](https://arxiv.org/abs/2410.02698)
 
    *Zakhar Shumaylov, Peter Zaika, James Rowbottom, Ferdia Sherry, Melanie Weber, and Carola-Bibiane Schönlieb.*
+
+1. **Physics-informed neural networks for functional differential equations: Cylindrical approximation and its convergence guarantees.** arXiv, 2024. [paper](https://arxiv.org/abs/2410.18153)
+
+   *Taiki Miyagawa and Takeru Yokota.*
 
 ### [Gaussian Process](#content)
 1. **PAGP: A physics-assisted Gaussian process framework with active learning for forward and inverse problems of partial differential equations.** arXiv, 2022. [paper](https://arxiv.org/abs/2204.02583)
