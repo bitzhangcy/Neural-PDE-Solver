@@ -2776,6 +2776,10 @@ Contributed by Chunyang Zhang.
 
    *Yichen Song, Yunbo Wang, and Xiaokang Yang.*
 
+1. **Neural Hamilton: Can A.I. understand Hamiltonian mechanics?** arXiv, 2024. [paper](https://arxiv.org/abs/2410.20951)
+
+   *Tae-Geun Kim and Seong Chan Park.*
+
 ### [Domain Adaptation](#content)
 1. **Meta-auto-decoder for solving parametric partial differential equations.** NIPS, 2022. [paper](https://openreview.net/pdf?id=PwlW5Jri1Xt) 
 
