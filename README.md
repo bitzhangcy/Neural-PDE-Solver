@@ -1102,6 +1102,10 @@ Contributed by Chunyang Zhang.
 
    *Bocheng Zeng, Qi Wang, Mengtao Yan, Yang Liu, Ruizhi Chengze, Yi Zhang, Hongsheng Liu, Zidong Wang, and Hao Sun.*
 
+1. **IGA-Graph-Net: Isogeometric analysis-reuse method based on graph neural networks for topology-consistent models.** JCP, 2024. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0021999124007927)
+
+   *Gang Xu, Jin Xie, Weizhen Zhong, Masahiro Toyoura, Ran Ling, Jinlan Xu, Renshu Gu, Charlie C.L. Wang, and Timon Rabczuk.*
+
 ### [Green Function](#content)
 1. **Learning Green's functions associated with time-dependent partial differential equations.** JMLR, 2022. [paper](https://www.jmlr.org/papers/volume23/22-0433/22-0433.pdf)
 
