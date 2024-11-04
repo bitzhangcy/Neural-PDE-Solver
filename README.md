@@ -2133,9 +2133,13 @@ Contributed by Chunyang Zhang.
 
    *Rui Zhang, Gordon P. Warn, and Aleksandra Radlińska.*
 
-1. **SympGNNs: Symplectic graph neural networks for identifiying high-dimensional hamiltonian systems and node classification** arXiv, 2024. [paper](https://arxiv.org/abs/2408.16698)
+1. **SympGNNs: Symplectic graph neural networks for identifiying high-dimensional hamiltonian systems and node classification.** arXiv, 2024. [paper](https://arxiv.org/abs/2408.16698)
 
    *Alan John Varghese, Zhen Zhang, and George Em Karniadakis.*
+
+1. **Physics-informed deep sparse regression network for nonlinear dynamical system identification.** JSV, 2024. [paper](https://arxiv.org/abs/2408.16698)
+
+   *Shangyu Zhao, Changming Cheng, Miaomiao Lin, and Zhike Peng.*
 
 ### [Inverse Design](#content)
 1. **DPM: Physics-informed Karhunen-Loéve and neural network approximations for solving inverse differential equation problems.** AAAI, 2021. [paper](https://ojs.aaai.org/index.php/AAAI/article/view/16992/16799)
@@ -4862,6 +4866,10 @@ Contributed by Chunyang Zhang.
 1. **Assessing physics-informed neural network performance with sparse noisy velocity data** PoF, 2024. [paper](https://pubs.aip.org/aip/pof/article-abstract/36/10/103619/3317204/Assessing-physics-informed-neural-network)
 
    *Adhika Satyadharma, Ming-Jyh Chern, Heng-Chuan Kan, Harinaldi, and James Julian.*
+
+1. **Flow reconstruction with uncertainty quantification from noisy measurements based on Bayesian physics-informed neural networks.** PoF, 2024. [paper](https://pubs.aip.org/aip/pof/article-abstract/36/11/117104/3318584/Flow-reconstruction-with-uncertainty)
+
+   *Hailong Liu, Zhi Wang, Rui Deng, Shipeng Wang, Xuhui Meng, Chao Xu, and Shengze Cai*
 
 ### [Cybernetics](#content)
 1. **Machine learning accelerated PDE backstepping observers.** arXiv, 2022. [paper](https://arxiv.org/abs/2211.15044)
