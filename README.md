@@ -2491,6 +2491,10 @@ Contributed by Chunyang Zhang.
 
    *Ronak Tali, Ali Rabeh, Cheng-Hau Yang, Mehdi Shadkhah, Samundra Karki, Abhisek Upadhyaya, Suriya Dhakshinamoorthy, Marjan Saadati, Soumik Sarkar, Adarsh Krishnamurthy, Chinmay Hegde, Aditya Balu, and Baskar Ganapathysubramanian.*
 
+1. **APEBench: A benchmark for autoregressive neural emulators of PDEs.** NIPS, 2024. [paper](https://arxiv.org/abs/2411.00180)
+
+   *Felix Koehler, Simon Niedermayr, Rüdiger Westermann, and Nils Thuerey.*
+
 ### [Investigation](#content)
 1. **Characterizing possible failure modes in physics-informed neural networks.** NIPS, 2021. [paper](https://openreview.net/forum?id=a2Gr9gNFD-J)
 
@@ -2964,6 +2968,10 @@ Contributed by Chunyang Zhang.
 1. **Drift-correcting multiphysics informed neural network coupled PDE solver.** JMMCT, 2024. [paper](https://ieeexplore.ieee.org/abstract/document/10663254)
 
    *Kevin Wandke and Yang Zhang.*
+
+1. **GEPS: Boosting generalization in parametric pde neural solvers through adaptive conditioning.** NIPS, 2024. [paper](https://arxiv.org/abs/2410.23889)
+
+   *Armand Kassaï Koupaï, Jorge Misfut Benet, Yuan Yin, Jean-Noël Vittaut, and Patrick Gallinari.*
 
 ### [Loss Function](#content)
 1. **Adaptive activation functions accelerate convergence in deep and physics-informed neural networks.** JCP, 2021. [paper](https://www.sciencedirect.com/science/article/pii/S0021999119308411)
