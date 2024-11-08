@@ -2973,6 +2973,10 @@ Contributed by Chunyang Zhang.
 
    *Armand Kassaï Koupaï, Jorge Misfut Benet, Yuan Yin, Jean-Noël Vittaut, and Patrick Gallinari.*
 
+1. **In-context learning for function approximation with DeepSetONet.** NIPS, 2024. [paper](https://openreview.net/forum?id=v1d6dqHAjZ)
+
+   *Shao-Ting Chiu, Junyuan Hong, and Ulisses Braga-Neto.*
+
 ### [Loss Function](#content)
 1. **Adaptive activation functions accelerate convergence in deep and physics-informed neural networks.** JCP, 2021. [paper](https://www.sciencedirect.com/science/article/pii/S0021999119308411)
 
@@ -5455,6 +5459,10 @@ Contributed by Chunyang Zhang.
 
    *Bingchuan Wang, Zhendong Ji, Yong Wang, Hanxiong Li, and Zhongmei Li.*
 
+1. **Adaptive fractional physics-informed neural networks for solving forward and inverse problems of anomalous heat conduction in functionally graded materials.** IJHMS, 2024. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0017931024012225)
+
+   *Xingdan Ma, Lin Qiu, Benrong Zhang, Guozheng Wu, and Fajie Wang*
+
 ### [Molecules](#content)
 1. **Symmetry-informed geometric representation for molecules, proteins, and crystalline materials.** arXiv, 2023. [paper](https://arxiv.org/abs/2306.09375)
 
@@ -5523,6 +5531,15 @@ Contributed by Chunyang Zhang.
 1. **Adaptive data-driven deep-learning surrogate model for frontal polymerization in dicyclopentadiene.** The Journal of Physical Chemistry B, 2024. [paper](https://pubs.acs.org/doi/abs/10.1021/acs.jpcb.3c07714)
 
    *Qibang Liu, Diab Abueidda, Sagar Vyas, Yuan Gao, Seid Koric, and Philippe H. Geubelle.*
+   *Wensi Wu, Mitchell Daneker, Kevin T. Turner, Matthew A. Jolley, and Lu Lu.*
+
+1. **Understanding protein-DNA interactions by paying attention to protein and genomics foundation models.** NIPS, 2024. [paper](https://openreview.net/forum?id=NifnqNdpaf)
+
+   *Dhruva Rajwade, Erica Wang, Aryan Satpathy, Alexander Brace, Hongyu Guo, Arvind Ramanathan, Shengchao Liu, and Anima Anandkumar.*
+
+1. **Language models for text-guided protein evolution.** NIPS, 2024. [paper](https://openreview.net/forum?id=CNla8z0V2p)
+
+   *Zhanghan Ni, Shengchao Liu, and Anima Anandkumar*
 
 ### [Energy](#content)
 1. **Physics-informed neural network for lithium-ion battery degradation stable modeling and prognosis.** NC, 2024. [paper](https://www.nature.com/articles/s41467-024-48779-z)
@@ -5657,4 +5674,8 @@ Contributed by Chunyang Zhang.
    
 1. **Physics-informed sparse neural network for permanent magnet eddy current device modeling and analysis.**  LMAG, 2023. [paper](https://ieeexplore.ieee.org/document/10159495)
 
-   *Dazhi Wang, Sihan Wang, Deshan Kong, Jiaxing Wang, Wenhui Li, and Michael Pecht*
+   *Dazhi Wang, Sihan Wang, Deshan Kong, Jiaxing Wang, Wenhui Li, and Michael Pecht.*
+   
+1. **PACE: Pacing operator learning to accurate optical field simulation for complicated photonic devices.**  NIPS, 2023. [paper](https://openreview.net/forum?id=uXJlgkWdcI)
+
+   *Hanqing Zhu, Wenyan Cong, Guojin Chen, Shupeng Ning, Ray Chen, Jiaqi Gu, and David Z. Pan.*
