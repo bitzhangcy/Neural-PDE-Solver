@@ -2367,6 +2367,10 @@ Contributed by Chunyang Zhang.
 
    *Florian Krach and Josef Teichmann.*
 
+1. **Neural Krylov iteration for accelerating linear system solving.** NIPS, 2024. [paper](https://openreview.net/forum?id=cqfE9eYMdP)
+
+   *Jian Luo, Jie Wang, Hong Wang, huanshuo dong, Zijie Geng, Hanzhu Chen, and Yufei Kuang.*
+
 ### [Large Model](#content)
 1. **Prompting in-context operator learning with sensor data, equations, and natural language.** arXiv, 2023. [paper](https://arxiv.org/abs/2308.05061)
 
