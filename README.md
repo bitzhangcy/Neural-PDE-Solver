@@ -3503,6 +3503,10 @@ Contributed by Chunyang Zhang.
 
    *Enrui Zhang, Adar Kahana, Alena Kopaničáková, Eli Turkel, Rishikesh Ranade, Jay Pathak, and George Em Karniadakis.*
 
+1. **RandNet-Parareal: A time-parallel PDE solver using random neural networks.** NIPS, 2024. [paper](https://openreview.net/forum?id=974ojuN0jU)
+
+   *Guglielmo Gattiglio, Lyudmila Grigoryeva, and Massimiliano Tamborrino.*
+
 ### [AutoML](#content)
 1. **Auto-PINN: Understanding and optimizing physics-informed neural architecture.** arXiv, 2022. [paper](https://arxiv.org/abs/2110.13361)
 
