@@ -3507,6 +3507,10 @@ Contributed by Chunyang Zhang.
 
    *Guglielmo Gattiglio, Lyudmila Grigoryeva, and Massimiliano Tamborrino.*
 
+1. **Stochastic Taylor derivative estimator: Efficient amortization for arbitrary differential operators.** NIPS, 2024. [paper](https://openreview.net/forum?id=J2wI2rCG2u)
+
+   *Zekun Shi, Zheyuan Hu, Min Lin, and Kenji Kawaguchi.*
+
 ### [AutoML](#content)
 1. **Auto-PINN: Understanding and optimizing physics-informed neural architecture.** arXiv, 2022. [paper](https://arxiv.org/abs/2110.13361)
 
@@ -3911,6 +3915,10 @@ Contributed by Chunyang Zhang.
 1. **Transolver: A fast Transformer solver for PDEs on general geometries.** ICML, 2024. [paper](https://openreview.net/forum?id=Ywl6pODXjB) 
 
    *Haixu Wu, Huakun Luo, Haowen Wang, Jianmin Wang, and Mingsheng Long.*
+
+1. **Universal physics Transformers: A framework for efficiently scaling neural operators.** NIPS, 2024. [paper](https://openreview.net/forum?id=oUXiNX5KRm) 
+
+   *Benedikt Alkin, Andreas Fürst, Simon Lucas Schmid, Lukas Gruber, Markus Holzleitner, and Johannes Brandstetter.*
 
 1. **Nonlocal attention operator: Materializing hidden knowledge towards interpretable physics discovery.** arXiv, 2024. [paper](https://arxiv.org/abs/2408.07307) 
 
@@ -5553,6 +5561,10 @@ Contributed by Chunyang Zhang.
 1. **Physics-informed neural network for lithium-ion battery degradation stable modeling and prognosis.** NC, 2024. [paper](https://www.nature.com/articles/s41467-024-48779-z)
 
    *Fujin Wang, Zhi Zhai, Zhibin Zhao, Yi Di, and Xuefeng Chen.*
+
+1. **Residual-based attention physics-informed Neural Networks for spatio-temporal ageing assessment of transformers operated in renewable power plants.** EAAI, 2024. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0952197624017147)
+
+   *Ibai Ramirez, Joel Pino, David Pardo, Mikel Sanz, Luis del Rio, Alvaro Ortiz, Kateryna Morozovska, and Jose I. Aizpurua.*
 
 ### [Quantum](#content)
 1. **Physics-informed neural networks for quantum eigenvalue problems.** IJCNN, 2022. [paper](https://ieeexplore.ieee.org/document/9891944)
