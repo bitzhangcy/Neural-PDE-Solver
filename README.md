@@ -1623,6 +1623,10 @@ Contributed by Chunyang Zhang.
 
    *Lise Le Boudec, Emmanuel de Bezenac, Louis Serrano, Ramon Daniel Regueiro-Espino, Yuan Yin, and Patrick Gallinari.*
 
+1. **Alias-free Mamba neural operator.** NIPS, 2024. [paper](https://openreview.net/forum?id=gUEBXGV8JM)
+
+   *Jianwei Zheng, LiweiNo, Ni Xu, Junwei Zhu, XiaoxuLin, and Xiaoqin Zhang.*
+
 ### [Machine Learning](#content)
 1. **Machine learning–accelerated computational fluid dynamics.** PNAS, 2021. [paper](https://www.pnas.org/doi/10.1073/pnas.2101784118)
 
@@ -2795,6 +2799,10 @@ Contributed by Chunyang Zhang.
 1. **Neural Hamilton: Can A.I. understand Hamiltonian mechanics?** arXiv, 2024. [paper](https://arxiv.org/abs/2410.20951)
 
    *Tae-Geun Kim and Seong Chan Park.*
+
+1. **Training dynamics of convolutional neural networks for learning the derivative operator.** NIPS, 2024. [paper](https://openreview.net/forum?id=cTfDso7PW4)
+
+   *Erik Y. Wang, Yongji Wang, and Ching-Yao Lai.*
 
 ### [Domain Adaptation](#content)
 1. **Meta-auto-decoder for solving parametric partial differential equations.** NIPS, 2022. [paper](https://openreview.net/pdf?id=PwlW5Jri1Xt) 
