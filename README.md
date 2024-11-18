@@ -1155,6 +1155,10 @@ Contributed by Chunyang Zhang.
 
    *Wenrui Hao, Rui Peng Li, Yuanzhe Xi, Tianshi Xu, and Yahong Yang.*
 
+1. **A physics-informed neural network based method for the nonlinear Poisson-Boltzmann equation and its error analysis.** JCP, 2024. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0021999124008271)
+
+   *Hyeokjoo Park and Gwanghyun Jo.*
+
 ### [Finite Element](#content)
 1. **Composing partial differential equations with physics-aware neural networks.** ICML, 2022. [paper](https://proceedings.mlr.press/v162/karlbauer22a/karlbauer22a.pdf)
 
@@ -4918,6 +4922,10 @@ Contributed by Chunyang Zhang.
 1. **DeepLag: Discovering deep Lagrangian dynamics for intuitive fluid prediction.** NIPS, 2024. [paper](https://openreview.net/forum?id=scw6Et4pEr)
 
    *Qilong Ma, Haixu Wu, Lanxiang Xing, Shangchen Miao, and Mingsheng Long.*
+
+1. **Locally linearized physics-informed neural networks for Riemann problems of hyperbolic conservation laws.** PoF, 2024. [paper](https://pubs.aip.org/aip/pof/article-abstract/36/11/116135/3320776/Locally-linearized-physics-informed-neural)
+
+   *Jiahao Liu, Supei Zheng, Xueli Song, and Doudou Xu.*
 
 ### [Cybernetics](#content)
 1. **Machine learning accelerated PDE backstepping observers.** arXiv, 2022. [paper](https://arxiv.org/abs/2211.15044)
