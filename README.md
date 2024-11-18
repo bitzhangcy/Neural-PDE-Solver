@@ -669,7 +669,11 @@ Contributed by Chunyang Zhang.
 
 1. **Improved physics-informed neural networks for the reinterpreted discrete fracture model.** JCP, 2024. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0021999124007393)
 
-   *Chao Wang, Hui Guo, Xia Yan, Zhanglei Shi, and Yang Yang*
+   *Chao Wang, Hui Guo, Xia Yan, Zhanglei Shi, and Yang Yang.*
+
+1. **How does PDE order affect the convergence of PINNs?** NIPS, 2024. [paper](https://openreview.net/forum?id=8K6ul0hgtC)
+
+   *Chang hoon Song, Yesom Park, and Myungjoo Kang.*
 
 ### [DeepONet](#content)
 1. **Learning nonlinear operators via DeepONet based on the universal approximation theorem of operators.** NMI, 2021. [paper](https://www.nature.com/articles/s42256-021-00302-5)
@@ -4905,7 +4909,15 @@ Contributed by Chunyang Zhang.
 
 1. **Flow reconstruction with uncertainty quantification from noisy measurements based on Bayesian physics-informed neural networks.** PoF, 2024. [paper](https://pubs.aip.org/aip/pof/article-abstract/36/11/117104/3318584/Flow-reconstruction-with-uncertainty)
 
-   *Hailong Liu, Zhi Wang, Rui Deng, Shipeng Wang, Xuhui Meng, Chao Xu, and Shengze Cai*
+   *Hailong Liu, Zhi Wang, Rui Deng, Shipeng Wang, Xuhui Meng, Chao Xu, and Shengze Cai.*
+
+1. **Surrogate modeling of multi-dimensional premixed and non-premixed combustion using pseudo-time stepping physics-informed neural networks.** PoF, 2024. [paper](https://pubs.aip.org/aip/pof/article/36/11/113616/3320366)
+
+   *Zhen Cao, Kai Liu, Kun Luo, Sifan Wang, Liang Jiang, and Jianren Fan.*
+
+1. **DeepLag: Discovering deep Lagrangian dynamics for intuitive fluid prediction.** NIPS, 2024. [paper](https://openreview.net/forum?id=scw6Et4pEr)
+
+   *Qilong Ma, Haixu Wu, Lanxiang Xing, Shangchen Miao, and Mingsheng Long.*
 
 ### [Cybernetics](#content)
 1. **Machine learning accelerated PDE backstepping observers.** arXiv, 2022. [paper](https://arxiv.org/abs/2211.15044)
