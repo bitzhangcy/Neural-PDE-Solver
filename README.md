@@ -2997,6 +2997,10 @@ Contributed by Chunyang Zhang.
 
    *Shao-Ting Chiu, Junyuan Hong, and Ulisses Braga-Neto.*
 
+1. **Extension of physics-informed neural networks to solving parameterized PDEs.** ICLR, 2024. [paper](https://openreview.net/forum?id=EAkRlHFLBc)
+
+   *Woojin Cho, Minju Jo, Haksoo Lim, Kookjin Lee, Dongeun Lee, Sanghyun Hong, and Noseong Park.*
+
 ### [Loss Function](#content)
 1. **Adaptive activation functions accelerate convergence in deep and physics-informed neural networks.** JCP, 2021. [paper](https://www.sciencedirect.com/science/article/pii/S0021999119308411)
 
