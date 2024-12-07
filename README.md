@@ -675,6 +675,10 @@ Contributed by Chunyang Zhang.
 
    *Chang hoon Song, Yesom Park, and Myungjoo Kang.*
 
+1. **Separable physics-informed DeepONet: Breaking the curse of dimensionality in physics-informed machine learning.** CMAME, 2024. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0045782524008405)
+
+   *Luis Mandl, Somdatta Goswami, Lena Lambers, and Tim Ricken.*
+
 ### [DeepONet](#content)
 1. **Learning nonlinear operators via DeepONet based on the universal approximation theorem of operators.** NMI, 2021. [paper](https://www.nature.com/articles/s42256-021-00302-5)
 
@@ -5731,3 +5735,7 @@ Contributed by Chunyang Zhang.
 1. **PACE: Pacing operator learning to accurate optical field simulation for complicated photonic devices.**  NIPS, 2023. [paper](https://openreview.net/forum?id=uXJlgkWdcI)
 
    *Hanqing Zhu, Wenyan Cong, Guojin Chen, Shupeng Ning, Ray Chen, Jiaqi Gu, and David Z. Pan.*
+   
+1. **Effects of viscosity and induced magnetic fields on weakly nonlinear wave transmission in a viscoelastic tube using physics-informed neural networks.**  PoF, 2024. [paper](https://pubs.aip.org/aip/pof/article-abstract/36/12/121902/3323663/Effects-of-viscosity-and-induced-magnetic-fields)
+
+   *Bivas Bhaumik, Satyasaran Changdar, Snehashish Chakraverty, and Soumen De.*
