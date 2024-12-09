@@ -3819,6 +3819,10 @@ Contributed by Chunyang Zhang.
 
    *Anthony Zhou, Zijie Li, Michael Schneier, John R Buchanan Jr, and Amir Barati Farimani.*
 
+1. **Learning spatiotemporal dynamics with a pretrained generative model.** NMI, 2024. [paper](https://www.nature.com/articles/s42256-024-00938-z)
+
+   *Zeyu Li, Wang Han, Yue Zhang, Qingfei Fu, Jingxuan Li, Lizi Qin, Ruoyu Dong, Hao Sun, Yue Deng, and Lijun Yang.*
+
 ### [Transformer](#content)
 1. **Learning operators with coupled attention.** JMLR, 2022. [paper](https://www.jmlr.org/papers/v23/21-1521.html) 
 
