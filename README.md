@@ -3086,6 +3086,10 @@ Contributed by Chunyang Zhang.
 
    *Shailesh Garg and Souvik Chakraborty.*
 
+1. **How to re-enable PDE loss for physical systems modeling under partial observation.** AAAI, 2025. [paper](https://arxiv.org/abs/2412.09116)
+
+   *Haodong Feng, Yue Wang, and Dixia Fan.*
+
 ### [Sampling](#content)
 1. **ADLGM: An efficient adaptive sampling deep learning Galerkin method.** JCP, 2023. [paper](https://www.sciencedirect.com/science/article/pii/S0021999123000396)
 
