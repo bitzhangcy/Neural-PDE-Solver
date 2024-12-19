@@ -4943,6 +4943,10 @@ Contributed by Chunyang Zhang.
 
    *Jiahao Liu, Supei Zheng, Xueli Song, and Doudou Xu.*
 
+1. **Transformer based deep learning accelerated numerical simulation for incompressible flow.** PoF, 2024. [paper](https://pubs.aip.org/aip/pof/article-abstract/36/12/127152/3326096/Transformer-based-deep-learning-accelerated)
+
+   *Qingjie Cui, Meina Zhang, Min Xiao, and Guoxi Ni.*
+
 ### [Cybernetics](#content)
 1. **Machine learning accelerated PDE backstepping observers.** arXiv, 2022. [paper](https://arxiv.org/abs/2211.15044)
 
