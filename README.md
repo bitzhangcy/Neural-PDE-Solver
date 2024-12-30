@@ -4947,6 +4947,10 @@ Contributed by Chunyang Zhang.
 
    *Qingjie Cui, Meina Zhang, Min Xiao, and Guoxi Ni.*
 
+1. **RF-PINNs: Reactive flow physics-informed neural networks for field reconstruction of laminar and turbulent flames using sparse data.** JCP, 2024. [paper](https://www.sciencedirect.com/science/article/pii/S002199912400946X)
+
+   *Vikas Yadav, Mario Casel, and Abdulla Ghani.*
+
 ### [Cybernetics](#content)
 1. **Machine learning accelerated PDE backstepping observers.** arXiv, 2022. [paper](https://arxiv.org/abs/2211.15044)
 
