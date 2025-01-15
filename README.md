@@ -679,6 +679,10 @@ Contributed by Chunyang Zhang.
 
    *Luis Mandl, Somdatta Goswami, Lena Lambers, and Tim Ricken.*
 
+1. **AT-PINN-HC: A refined time-sequential method incorporating hard-constraint strategies for predicting structural behavior under dynamic loads.** CMAME, 2024. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0045782524009459)
+
+   *Zhaolin Chen, Siukai Lai, Zhicheng Yang, Yi-Qing Ni, Zhichun Yang, and Ka Chun Cheung.*
+
 ### [DeepONet](#content)
 1. **Learning nonlinear operators via DeepONet based on the universal approximation theorem of operators.** NMI, 2021. [paper](https://www.nature.com/articles/s42256-021-00302-5)
 
