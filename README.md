@@ -5452,6 +5452,10 @@ Contributed by Chunyang Zhang.
 
    *Alberto Pepe, Sven Buchholz, and Joan Lasenby.*
 
+1. **Phase-field hydraulic fracturing operator network based on En-DeepONet with integrated physics-informed mechanisms.** CMAME, 2025. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0045782525000222)
+
+   *Xiaoqiang Wang, Peichao Li, and Detang Lu.*
+
 ### [Image](#content)
 1. **Learning to diffuse: A new perspective to design PDEs for visual analysis.** TPAMI, 2016. [paper](https://ieeexplore.ieee.org/document/7393839)
 
@@ -5646,6 +5650,10 @@ Contributed by Chunyang Zhang.
 1. **Physics-informed quantum machine learning for solving partial differential equations.** arXiv, 2023. [paper](https://arxiv.org/abs/2312.09215)
 
    *Abhishek Setty, Rasul Abdusalamov, and Mikhail Itskov.*
+
+1. **Robust control of uncertain quantum systems based on physics-informed neural networks and sampling learning.** TAI, 2025. [paper](https://ieeexplore.ieee.org/abstract/document/10847579)
+
+   *Kai Zhang, Qi Yu, and Sen Kuang.*
 
 ### [Game Theory](#content)
 1. **Approximating discontinuous Nash equilibria values of two-player general-sum differential games.** arXiv, 2022. [paper](https://arxiv.org/abs/2207.01773)
