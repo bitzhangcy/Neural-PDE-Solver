@@ -5290,6 +5290,10 @@ Contributed by Chunyang Zhang.
 
    *Caterina Millevoi, Nicolò Spiezia, and Massimiliano Ferronato.*
 
+1. **Causality enforcing parametric heat transfer solvers for evolving geometries in advanced manufacturing.** CMAME, 2025. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0045782525000362)
+
+   *Akshay J. Thomas, Ilias Bilionis , Eduardo Barocio, and R. Byron Pipes.*
+
 ### [Robotics](#content)
 1. **Hybrid learning of time-series inverse dynamics models for locally isotropic robot motion.** RAL, 2022. [paper](https://ieeexplore.ieee.org/document/9954138)
 
