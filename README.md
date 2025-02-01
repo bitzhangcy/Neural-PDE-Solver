@@ -921,6 +921,10 @@ Contributed by Chunyang Zhang.
 
    *Shane E. Loeffler, Zan Ahmad, Syed Yusuf Ali, Carolyna Yamamoto, Dan M. Popescu, Alana Yee, Yash Lal, Natalia Trayanova, and Mauro Maggioni.*
 
+1. **MS-IUFFNO: Multi-scale implicit U-net enhanced factorized fourier neural operator for solving geometric PDEs.** CMAME, 2025. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0045782525000337)
+
+   *Shengjun Liu, Hanchao Liu, Ting Zhang, and Xinru Liu.*
+
 ### [Graph Network](#content)
 1. **Message passing neural PDE solvers.** ICLR, 2022. [paper](https://openreview.net/forum?id=vSix3HPYKSU)
 
