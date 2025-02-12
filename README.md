@@ -2824,6 +2824,10 @@ Contributed by Chunyang Zhang.
 
    *Erik Y. Wang, Yongji Wang, and Ching-Yao Lai.*
 
+1. **Discretization-invariance? On the discretization mismatch errors in neural operators.** ICLR, 2025. [paper](https://openreview.net/forum?id=J9FgrqOOni)
+
+   *Wenhan Gao, Ruichen Xu, Yuefan Deng, and Yi Liu.*
+
 ### [Domain Adaptation](#content)
 1. **Meta-auto-decoder for solving parametric partial differential equations.** NIPS, 2022. [paper](https://openreview.net/pdf?id=PwlW5Jri1Xt) 
 
