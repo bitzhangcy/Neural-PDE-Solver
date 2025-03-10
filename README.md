@@ -5472,6 +5472,10 @@ Contributed by Chunyang Zhang.
 
    *Xiaoqiang Wang, Peichao Li, and Detang Lu.*
 
+1. **Frequency transfer and inverse design for metasurface under multi-physics coupling by Euler latent dynamic and data-analytical regularizations.** NC, 2025. [paper](https://www.nature.com/articles/s41467-025-57516-z)
+
+   *Enze Zhu, Zheng Zong, Erji Li, Yang Lu, Jingwei Zhang, Hao Xie, Ying Li, Wenyan Yin, and Zhun Wei.*
+
 ### [Image](#content)
 1. **Learning to diffuse: A new perspective to design PDEs for visual analysis.** TPAMI, 2016. [paper](https://ieeexplore.ieee.org/document/7393839)
 
