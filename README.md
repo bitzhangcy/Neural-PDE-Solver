@@ -1122,6 +1122,14 @@ Contributed by Chunyang Zhang.
 
    *Gang Xu, Jin Xie, Weizhen Zhong, Masahiro Toyoura, Ran Ling, Jinlan Xu, Renshu Gu, Charlie C.L. Wang, and Timon Rabczuk.*
 
+1. **PhyMPGN: Physics-encoded message passing graph network for spatiotemporal pde systems.** ICLR, 2025. [paper](https://openreview.net/forum?id=fU8H4lzkIm)
+
+   *Bocheng Zeng, Qi Wang, Mengtao Yan, Yang Liu, Ruizhi Chengze, Yi Zhang, Hongsheng Liu, Zidong Wang, and Hao Sun.*
+
+1. **SINGER: Stochastic network graph evolving operator for high dimensional PDEs.** ICLR, 2025. [paper](https://openreview.net/forum?id=wVADj7yKee)
+
+   *Mingquan Feng, Yixin Huang, Weixin Liao, Yuhong Liu, Yizhou Liu, and Junchi Yan.*
+
 ### [Green Function](#content)
 1. **Learning Green's functions associated with time-dependent partial differential equations.** JMLR, 2022. [paper](https://www.jmlr.org/papers/volume23/22-0433/22-0433.pdf)
 
@@ -1381,6 +1389,10 @@ Contributed by Chunyang Zhang.
 1. **Parameterized physics-informed neural networks for parameterized PDEs.** ICML, 2024. [paper](https://openreview.net/forum?id=n3yYrtt9U7)
 
    *Woojin Cho, Minju Jo, Haksoo Lim, Kookjin Lee, Dongeun Lee, Sanghyun Hong, and Noseong Park.*
+
+1. **Solving differential equations with constrained learning.** ICLR, 2025. [paper](https://openreview.net/forum?id=n3yYrtt9U7)
+
+   *Viggo Moro and Luiz F. O. Chamon.*
 
 ### [Neural Operator](#content)
 1. **Multiwavelet-based operator learning for differential equations.** NIPS, 2021. [paper](https://openreview.net/forum?id=LZDiWaC9CGL)
@@ -1646,6 +1658,14 @@ Contributed by Chunyang Zhang.
 1. **Alias-free Mamba neural operator.** NIPS, 2024. [paper](https://openreview.net/forum?id=gUEBXGV8JM)
 
    *Jianwei Zheng, LiweiNo, Ni Xu, Junwei Zhu, XiaoxuLin, and Xiaoqin Zhang.*
+
+1. **On the benefits of memory for modeling time-dependent PDEs.** ICLR, 2025. [paper](https://openreview.net/forum?id=o9kqa5K3tB)
+
+   *Ricardo Buitrago, Tanya Marwah, Albert Gu, and Andrej Risteski.*
+
+1. **Learning a neural solver for parametric PDEs to enhance physics-informed methods.** ICLR, 2025. [paper](https://openreview.net/forum?id=jqVj8vCQsT)
+
+   *Lise Le Boudec, Emmanuel de Bezenac, Louis Serrano, Ramon Daniel Regueiro-Espino, Yuan Yin, and Patrick Gallinari.*
 
 ### [Machine Learning](#content)
 1. **Machine learning–accelerated computational fluid dynamics.** PNAS, 2021. [paper](https://www.pnas.org/doi/10.1073/pnas.2101784118)
@@ -2161,9 +2181,17 @@ Contributed by Chunyang Zhang.
 
    *Alan John Varghese, Zhen Zhang, and George Em Karniadakis.*
 
-1. **Physics-informed deep sparse regression network for nonlinear dynamical system identification.** JSV, 2024. [paper](https://arxiv.org/abs/2408.16698)
+1. **Physics-informed deep sparse regression network for nonlinear dynamical system identification.** JSV, 2024. [paper](hhttps://www.sciencedirect.com/science/article/abs/pii/S0022460X24005583)
 
    *Shangyu Zhao, Changming Cheng, Miaomiao Lin, and Zhike Peng.*
+
+1. **Learning spatiotemporal dynamical systems from point process observations.** ICLR, 2025. [paper](https://openreview.net/forum?id=37EXtKCOkn)
+
+   *Valerii Iakovlev and Harri Lähdesmäki.*
+
+1. **TRENDy: Temporal regression of effective nonlinear dynamics.** ICLR, 2025. [paper](https://openreview.net/forum?id=NvDRvtrGLo)
+
+   *Matt Ricci, Guy Pelc, Zoe Piran, Noa Moriel, and Mor Nitzan.*
 
 ### [Inverse Design](#content)
 1. **DPM: Physics-informed Karhunen-Loéve and neural network approximations for solving inverse differential equation problems.** AAAI, 2021. [paper](https://ojs.aaai.org/index.php/AAAI/article/view/16992/16799)
@@ -2265,6 +2293,14 @@ Contributed by Chunyang Zhang.
 1. **Physics-informed machine learning method with space-time Karhunen-Loève expansions for forward and inverse partial differential equations.** JCP, 2024. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0021999123008185)
 
    *Alexandre M. Tartakovsky and Yifei Zong.*
+
+1. **PIED: Physics-informed experimental design for inverse problems.** ICLR, 2025. [paper](https://openreview.net/forum?id=w7P92BEsb2)
+
+   *Apivich Hemachandra, Gregory Kang Ruey Lau, See-Kiong Ng, and Bryan Kian Hsiang Low.*
+
+1. **Physics-informed deep inverse operator networks for solving PDE inverse problems.** ICLR, 2025. [paper](https://openreview.net/forum?id=0FxnSZJPmh)
+
+   *Sung Woong Cho and Hwijae Son.*
 
 ### [Neural ODE](#content)
 1. **Neural rough differential equations for long time series.** ICML, 2021. [paper](http://proceedings.mlr.press/v139/morrill21b.html)
@@ -2526,6 +2562,14 @@ Contributed by Chunyang Zhang.
 1. **APEBench: A benchmark for autoregressive neural emulators of PDEs.** NIPS, 2024. [paper](https://arxiv.org/abs/2411.00180)
 
    *Felix Koehler, Simon Niedermayr, Rüdiger Westermann, and Nils Thuerey.*
+
+1. **Fengbo: A Clifford neural operator pipeline for 3D PDEs in computational fluid dynamics.** ICLR, 2025. [paper](https://openreview.net/forum?id=VsxbWTDHjh)
+
+   *Alberto Pepe, Mattia Montanari, and Joan Lasenb.*
+
+1. **PhysPDE: Rethinking PDE discovery and a physical hypothesis selection benchmark.** ICLR, 2025. [paper](https://openreview.net/forum?id=G3CpBCQwNh)
+
+   *Mingquan Feng, Yixin Huang, Yizhou Liu, Bofang Jiang, and Junchi Yan.*
 
 ### [Investigation](#content)
 1. **Characterizing possible failure modes in physics-informed neural networks.** NIPS, 2021. [paper](https://openreview.net/forum?id=a2Gr9gNFD-J)
@@ -2832,6 +2876,10 @@ Contributed by Chunyang Zhang.
 
    *Wenhan Gao, Ruichen Xu, Yuefan Deng, and Yi Liu.*
 
+1. **Deep learning alternatives Of the Kolmogorov superposition theorem.** ICLR, 2025. [paper](https://openreview.net/forum?id=SyVPiehSbg)
+
+   *Leonardo Ferreira Guilhoto and Paris Perdikaris.*
+
 ### [Domain Adaptation](#content)
 1. **Meta-auto-decoder for solving parametric partial differential equations.** NIPS, 2022. [paper](https://openreview.net/pdf?id=PwlW5Jri1Xt) 
 
@@ -3021,6 +3069,10 @@ Contributed by Chunyang Zhang.
 
    *Woojin Cho, Minju Jo, Haksoo Lim, Kookjin Lee, Dongeun Lee, Sanghyun Hong, and Noseong Park.*
 
+1. **Gradient-free generation for hard-constrained systems.** ICLR, 2025. [paper](https://openreview.net/forum?id=teE4pl9ftK)
+
+   *Chaoran Cheng, Boran Han, Danielle C. Maddix, Abdul Fatir Ansari, Andrew Stuart, Michael W. Mahoney, and Bernie Wang.*
+
 ### [Loss Function](#content)
 1. **Adaptive activation functions accelerate convergence in deep and physics-informed neural networks.** JCP, 2021. [paper](https://www.sciencedirect.com/science/article/pii/S0021999119308411)
 
@@ -3105,6 +3157,10 @@ Contributed by Chunyang Zhang.
 1. **How to re-enable PDE loss for physical systems modeling under partial observation.** AAAI, 2025. [paper](https://arxiv.org/abs/2412.09116)
 
    *Haodong Feng, Yue Wang, and Dixia Fan.*
+
+1. **ANaGRAM: A natural gradient relative to adapted model for efficient PINNs learning.** ICLR, 2025. [paper](https://openreview.net/forum?id=o1IiiNIoaA)
+
+   *Nilo Schwencke and Cyril Furtlehner.*
 
 ### [Sampling](#content)
 1. **ADLGM: An efficient adaptive sampling deep learning Galerkin method.** JCP, 2023. [paper](https://www.sciencedirect.com/science/article/pii/S0021999123000396)
@@ -3283,6 +3339,14 @@ Contributed by Chunyang Zhang.
 1. **UM2N: Towards universal mesh movement networks.** arXiv, 2024. [paper](https://.arxiv.org/abs/2407.00382)
 
    *Mingrui Zhang, Chunyang Wang, Stephan Kramer, Joseph G. Wallwork, Siyi Li, Jiancheng Liu, Xiang Chen, and Matthew D. Piggott.*
+
+1. **GridMix: Exploring spatial modulation for neural fields in PDE modeling.** ICLR, 2025. [paper](https://openreview.net/forum?id=Fur0DtynPX)
+
+   *Honghui Wang, Shiji Song, and Gao Huang.*
+
+1. **PIG: Physics-informed Gaussians as adaptive parametric mesh representations.** ICLR, 2025. [paper](https://openreview.net/forum?id=y5B0ca4mjt)
+
+   *Namgyu Kang, Jaemin Oh, Youngjoon Hong, and Eunbyung Park.*
 
 ### [Decomposition](#content)
 1. **Composing partial differential equations with physics-aware neural networks.** ICLR, 2022. [paper](https://openreview.net/forum?id=DIsWHvtU7lF)
@@ -3554,6 +3618,10 @@ Contributed by Chunyang Zhang.
 1. **Stochastic Taylor derivative estimator: Efficient amortization for arbitrary differential operators.** NIPS, 2024. [paper](https://openreview.net/forum?id=J2wI2rCG2u)
 
    *Zekun Shi, Zheyuan Hu, Min Lin, and Kenji Kawaguchi.*
+
+1. **Model-agnostic knowledge guided correction for improved neural surrogate rollout.** ICLR, 2025. [paper](https://openreview.net/forum?id=J2wI2rCG2u)
+
+   *Bharat Srikishan, Daniel O'Malley, Mohamed Mehana, Nicholas Lubbers, amd Nikhil Muralidhar.*
 
 ### [AutoML](#content)
 1. **Auto-PINN: Understanding and optimizing physics-informed neural architecture.** arXiv, 2022. [paper](https://arxiv.org/abs/2110.13361)
@@ -3835,13 +3903,21 @@ Contributed by Chunyang Zhang.
 
    *Tom Fischer, Pascal Peter, Joachim Weickert, and Eddy Ilg.*
 
-1. **Text2PDE: Latent diffusion models for accessible physics simulation.** arXiv, 2024. [paper](https://arxiv.org/abs/2410.01153)
+1. **Text2PDE: Latent diffusion models for accessible physics simulation.** ICLR, 2025. [paper](https://openreview.net/forum?id=Nb3a8aUGfj)
 
    *Anthony Zhou, Zijie Li, Michael Schneier, John R Buchanan Jr, and Amir Barati Farimani.*
 
 1. **Learning spatiotemporal dynamics with a pretrained generative model.** NMI, 2024. [paper](https://www.nature.com/articles/s42256-024-00938-z)
 
    *Zeyu Li, Wang Han, Yue Zhang, Qingfei Fu, Jingxuan Li, Lizi Qin, Ruoyu Dong, Hao Sun, Yue Deng, and Lijun Yang.*
+
+1. **Generating physical dynamics under priors.** ICLR, 2025. [paper](https://openreview.net/forum?id=eNjXcP6C0H)
+
+   *Zihan Zhou, Xiaoxue Wang, and Tianshu Yu.*
+
+1. **Wavelet diffusion neural operator.** ICLR, 2025. [paper](https://openreview.net/forum?id=FQhDIGuaJ4)
+
+   *Peiyan Hu, Rui Wang, Xiang Zheng, Tao Zhang, Haodong Feng, Ruiqi Feng, Long Wei, Yue Wang, Zhiming Ma, and Tailin Wu.*
 
 ### [Transformer](#content)
 1. **Learning operators with coupled attention.** JMLR, 2022. [paper](https://www.jmlr.org/papers/v23/21-1521.html) 
@@ -4093,13 +4169,17 @@ Contributed by Chunyang Zhang.
 
    *Fabio Musco and Andrea Barth.*
 
-1. **Lie algebra canonicalization: Equivariant neural operators under arbitrary Lie groups.** arXiv, 2024. [paper](https://arxiv.org/abs/2410.02698)
+1. **Lie algebra canonicalization: Equivariant neural operators under arbitrary Lie groups.** ICLR, 2025. [paper](https://openreview.net/forum?id=7PLpiVdnUC)
 
    *Zakhar Shumaylov, Peter Zaika, James Rowbottom, Ferdia Sherry, Melanie Weber, and Carola-Bibiane Schönlieb.*
 
 1. **Physics-informed neural networks for functional differential equations: Cylindrical approximation and its convergence guarantees.** arXiv, 2024. [paper](https://arxiv.org/abs/2410.18153)
 
    *Taiki Miyagawa and Takeru Yokota.*
+
+1. **Quantitative approximation for neural operators in nonlinear parabolic equations.** ICLR, 2025. [paper](https://openreview.net/forum?id=yUefexs79U)
+
+   *Takashi Furuya, Koichi Taniguchi, and Satoshi Okuda.*
 
 ### [Gaussian Process](#content)
 1. **PAGP: A physics-assisted Gaussian process framework with active learning for forward and inverse problems of partial differential equations.** arXiv, 2022. [paper](https://arxiv.org/abs/2204.02583)
@@ -4478,7 +4558,7 @@ Contributed by Chunyang Zhang.
 
    *Joan Bruna, Benjamin Peherstorfer, and Eric Vanden-Eijnden.*
 
-1. **Active learning for neural PDE solvers.** arXiv, 2024. [paper](https://arxiv.org/abs/2408.01536)
+1. **Active learning for neural PDE solvers.** ICLR, 2025. [paper](https://openreview.net/forum?id=x4ZmQaumRg)
 
    *Daniel Musekamp, Marimuthu Kalimuthu, David Holzmüller, Makoto Takamoto, and Mathias Niepert.*
 
@@ -4966,6 +5046,10 @@ Contributed by Chunyang Zhang.
 1. **RF-PINNs: Reactive flow physics-informed neural networks for field reconstruction of laminar and turbulent flames using sparse data.** JCP, 2025. [paper](https://www.sciencedirect.com/science/article/pii/S002199912400946X)
 
    *Vikas Yadav, Mario Casel, and Abdulla Ghani.*
+
+1. **Spectral-refiner: Accurate fine-tuning of spatiotemporal Fourier neural operator for turbulent flows.** ICLR, 2025. [paper](https://openreview.net/forum?id=MKP1g8wU0P)
+
+   *Shuhao Cao, Francesco Brarda, Ruipeng Li, and Yuanzhe Xi.*
 
 ### [Cybernetics](#content)
 1. **Machine learning accelerated PDE backstepping observers.** arXiv, 2022. [paper](https://arxiv.org/abs/2211.15044)
