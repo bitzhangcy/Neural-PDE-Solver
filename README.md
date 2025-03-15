@@ -1228,6 +1228,10 @@ Contributed by Chunyang Zhang.
 
    *Di Mei, Kangcheng Zhou, and Chun-Ho Liu.*
 
+1. **Learning to solve PDEs with finite volume-informed neural networks in a data-free approach.** JCP, 2025. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0021999125002025)
+
+   *Tianyu Li, Yiye Zou, Shufan Zou, Xinghua Chang, Laiping Zhang, and Xiaogang Deng.*
+
 ### [Convolution](#content)
 1. **PDE-Net: Learning PDEs from data.** ICML, 2018. [paper](https://proceedings.mlr.press/v80/long18a.html)
 
