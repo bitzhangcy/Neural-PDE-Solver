@@ -5055,6 +5055,14 @@ Contributed by Chunyang Zhang.
 
    *Shuhao Cao, Francesco Brarda, Ruipeng Li, and Yuanzhe Xi.*
 
+1. **Multi-scale enhanced multiwavelet-based operator learning model for multiphase flow simulation.** PoF, 2025. [paper](https://pubs.aip.org/aip/pof/article/37/3/033376/3340737)
+
+   *Yunlong Dong, Tao Song, Xue Li, Peifu Han, Peizhi Zhao, Chuchu Zhai, Fengrui Jing, and Long Hao.*
+
+1. **Multi-scale enhanced multiwavelet-based operator learning model for multiphase flow simulation.** CMAME, 2025. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0045782525002051)
+
+   *J. Orera, J. Ramírez, P. García-Navarro, and J. Murillo.*
+
 ### [Cybernetics](#content)
 1. **Machine learning accelerated PDE backstepping observers.** arXiv, 2022. [paper](https://arxiv.org/abs/2211.15044)
 
