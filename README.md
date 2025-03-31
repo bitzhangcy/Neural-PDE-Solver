@@ -925,6 +925,10 @@ Contributed by Chunyang Zhang.
 
    *Shengjun Liu, Hanchao Liu, Ting Zhang, and Xinru Liu.*
 
+1. **DiffFNO: Diffusion Fourier neural operator.** CVPR, 2025. [paper](https://arxiv.org/abs/2411.09911)
+
+   *Xiaoyi Liu and Hao Tang.*
+
 ### [Graph Network](#content)
 1. **Message passing neural PDE solvers.** ICLR, 2022. [paper](https://openreview.net/forum?id=vSix3HPYKSU)
 
