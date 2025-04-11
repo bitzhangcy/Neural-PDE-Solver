@@ -1236,6 +1236,10 @@ Contributed by Chunyang Zhang.
 
    *Tianyu Li, Yiye Zou, Shufan Zou, Xinghua Chang, Laiping Zhang, and Xiaogang Deng.*
 
+1. **Finite element operator network for solving elliptic-type parametric PDEs.** SIAM Journal on Scientific Computing, 2025. [paper](https://epubs.siam.org/doi/abs/10.1137/23M1623707)
+
+   *Jae Yong Lee, Seungchan Ko, and Youngjoon Hong.*
+
 ### [Convolution](#content)
 1. **PDE-Net: Learning PDEs from data.** ICML, 2018. [paper](https://proceedings.mlr.press/v80/long18a.html)
 
