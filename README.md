@@ -5136,6 +5136,10 @@ If you are interested in neural PDE solvers and would like to contribute, feel f
 
    *Munho Kim, Ngan-Khanh Chau, Sujin Park, Phong C. H. Nguyen, Stephen S. Baek, and Sanghun Choi.*
 
+1. **Real-time inference and extrapolation with Time-Conditioned UNet: Applications in hypersonic flows, incompressible flows, and global temperature forecasting.** CMAME, 2025. [paper](https://www.sciencedirect.com/science/article/pii/S0045782525002543)
+
+   *Oded Ovadia, Vivek Oommen, Adar Kahana, Ahmad Peyvan, Eli Turkel, and George Em Karniadakis.*
+
 ### [Cybernetics](#content)
 1. **Machine learning accelerated PDE backstepping observers.** arXiv, 2022. [paper](https://arxiv.org/abs/2211.15044)
 
