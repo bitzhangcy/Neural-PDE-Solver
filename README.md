@@ -1,10 +1,21 @@
 # Neural-PDE-Solver
 
-PDE: Partial Differentiable Equation
+## 🤝 Looking for Collaborators | 寻找协作者
 
-Neural Operators: Learning nonlinear mappings between function spaces.
+This is an open-source repository for **Neural-PDE-Solver**, a curated collection of literature on solving **Partial Differential Equations (PDEs)** using **Neural Operators**. The goal is to track recent progress and organize related papers systematically.
 
-Contributed by Chunyang Zhang.
+I am currently looking for collaborators to **help maintain and expand** this repository. Ideal contributors can take initiative in adding new papers, improving structure, or tagging key techniques. I will **check in on the repository weekly to follow progress**, but ongoing updates will be **mainly handled by collaborators**.
+
+If you are interested in neural PDE solvers and would like to contribute, feel free to submit a PR, open an issue, or reach out directly via email: **bitzhangcy@gmail.com**.
+
+— *Chunyang Zhang*
+
+这是一个开源文献整理仓库，聚焦于利用**神经算子（Neural Operator）**求解**偏微分方程（PDE）**的最新研究进展，旨在系统性地追踪和整理该领域的论文资料。
+
+目前我正在寻找对该方向感兴趣的朋友，**一起维护和完善**这个仓库。欢迎协作者主动添加新论文、优化结构或标注关键方法等。未来的更新将**主要由协作者负责**，我会**每周关注一下仓库的进展情况**。
+
+如果你对 Neural PDE Solver 感兴趣，欢迎通过 PR、issue 或直接邮件联系我：**bitzhangcy@gmail.com**
+
 
 ## [Content](#content)
 <table>
@@ -88,7 +99,7 @@ Contributed by Chunyang Zhang.
 </tr>
 <tr>
     <td>&ensp;<a href="#multi-task">3.25 Multi Task</a></td>
-    <td>&ensp;<a href="#"></a></td>
+    <td>&ensp;<a href="#super-resolution">3.25 Super Resolution</a></td>
 </tr>
 <tr><td colspan="2"><a href="#applications">4. Applications</a></td></tr> 
 <tr>
@@ -128,9 +139,6 @@ Contributed by Chunyang Zhang.
     <td>&ensp;<a href="#electromagnetism">4.18 Electromagnetism</a></td>
 </tr> 
 </table>
-
-
-
 
 
 ## [Survey Papers](#content)
@@ -682,6 +690,14 @@ Contributed by Chunyang Zhang.
 1. **AT-PINN-HC: A refined time-sequential method incorporating hard-constraint strategies for predicting structural behavior under dynamic loads.** CMAME, 2024. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0045782524009459)
 
    *Zhaolin Chen, Siukai Lai, Zhicheng Yang, Yi-Qing Ni, Zhichun Yang, and Ka Chun Cheung.*
+
+1. **Variational physics-informed neural operator (VINO) for solving partial differential equations.** CMAME, 2025. [paper](https://www.sciencedirect.com/science/article/pii/S004578252500057X)
+
+   *Mohammad Sadegh Eshaghi, Cosmin Anitescu, Manish Thombre, Yizheng Wang, Xiaoying Zhuang, and Timon Rabczuk.*
+
+1. **Kolmogorov–Arnold-Informed neural network: A physics-informed deep learning framework for solving forward and inverse problems based on Kolmogorov–Arnold Networks.** CMAME, 2025. [paper](https://www.sciencedirect.com/science/article/pii/S0045782524007722)
+
+   *Yizheng Wang, Jia Sun, Jinshuai Bai, Cosmin Anitescu, Mohammad Sadegh Eshaghi, Xiaoying Zhuang, Timon Rabczuk, and Yinghua Liu.*
 
 ### [DeepONet](#content)
 1. **Learning nonlinear operators via DeepONet based on the universal approximation theorem of operators.** NMI, 2021. [paper](https://www.nature.com/articles/s42256-021-00302-5)
@@ -1559,10 +1575,6 @@ Contributed by Chunyang Zhang.
 
    *Vinod Raman, Unique Subedi, and Ambuj Tewari.*
 
-1. **Online infinite-dimensional regression: Learning linear operators.** arXiv, 2023. [paper](https://arxiv.org/abs/2309.06548)
-
-   *Vinod Raman, Unique Subedi, and Ambuj Tewari.*
-
 1. **Deep-OSG: Deep learning of operators in semigroup.** JCP, 2023. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0021999123005934)
 
    *Junfeng Chen and Kailiang Wu.*
@@ -1678,6 +1690,14 @@ Contributed by Chunyang Zhang.
 1. **Learning a neural solver for parametric PDEs to enhance physics-informed methods.** ICLR, 2025. [paper](https://openreview.net/forum?id=jqVj8vCQsT)
 
    *Lise Le Boudec, Emmanuel de Bezenac, Louis Serrano, Ramon Daniel Regueiro-Espino, Yuan Yin, and Patrick Gallinari.*
+
+1. **Monte Carlo neural PDE solver for learning PDEs via probabilistic representation.** TPAMI, 2025. [paper](https://ieeexplore.ieee.org/abstract/document/10916840)
+
+   *Rui Zhang, Qi Meng, Rongchan Zhu, Yue Wang, Wenlei Shi, and Shihua Zhang.*
+
+1. **Towards a foundation model for partial differential equations: Multioperator learning and extrapolation.** PRE, 2025. [paper](https://journals.aps.org/pre/abstract/10.1103/PhysRevE.111.035304)
+
+   *Jingmin Sun, Yuxuan Liu, Zecheng Zhang, and Hayden Schaeffer.*
 
 ### [Machine Learning](#content)
 1. **Machine learning–accelerated computational fluid dynamics.** PNAS, 2021. [paper](https://www.pnas.org/doi/10.1073/pnas.2101784118)
@@ -1931,6 +1951,10 @@ Contributed by Chunyang Zhang.
 1. **Solving Poisson equations using neural walk-on-spheres.** ICML, 2024. [paper](https://arxiv.org/abs/2406.03494)
 
    *Hong Chul Nam, Julius Berner, and Anima Anandkumar.*
+
+1. **Variational formulation based on duality to solve partial differential equations: Use of B-splines and machine learning approximants.** CMAME, 2025. [paper](https://www.sciencedirect.com/science/article/pii/S0045782525001811)
+
+   *N. Sukumar and Amit Acharya.*
 
 ### [Identification](#content)
 1. **Data-driven discovery of partial differential equations.** SA, 2017. [paper](https://arxiv.org/abs/1910.11710)
@@ -2204,6 +2228,10 @@ Contributed by Chunyang Zhang.
 1. **TRENDy: Temporal regression of effective nonlinear dynamics.** ICLR, 2025. [paper](https://openreview.net/forum?id=NvDRvtrGLo)
 
    *Matt Ricci, Guy Pelc, Zoe Piran, Noa Moriel, and Mor Nitzan.*
+
+1. **Principal component flow map learning of PDEs from incomplete, limited, and noisy data.** JCP, 2025. [paper](https://www.sciencedirect.com/science/article/pii/S0021999125000130)
+
+   *Victor Churchill.*
 
 ### [Inverse Design](#content)
 1. **DPM: Physics-informed Karhunen-Loéve and neural network approximations for solving inverse differential equation problems.** AAAI, 2021. [paper](https://ojs.aaai.org/index.php/AAAI/article/view/16992/16799)
@@ -2892,6 +2920,10 @@ Contributed by Chunyang Zhang.
 
    *Leonardo Ferreira Guilhoto and Paris Perdikaris.*
 
+1. **From disorganized data to emergent dynamic models: Questionnaires to partial differential equations.** PNAS Nexus, 2025. [paper](https://academic.oup.com/pnasnexus/article/4/2/pgaf018/7965397)
+
+   *David W Sroczynski, Felix P Kemeth, Anastasia S Georgiou, Ronald R Coifman, and Ioannis G Kevrekidis.*
+
 ### [Domain Adaptation](#content)
 1. **Meta-auto-decoder for solving parametric partial differential equations.** NIPS, 2022. [paper](https://openreview.net/pdf?id=PwlW5Jri1Xt) 
 
@@ -3173,6 +3205,10 @@ Contributed by Chunyang Zhang.
 1. **ANaGRAM: A natural gradient relative to adapted model for efficient PINNs learning.** ICLR, 2025. [paper](https://openreview.net/forum?id=o1IiiNIoaA)
 
    *Nilo Schwencke and Cyril Furtlehner.*
+
+1. **Multi-objective loss balancing for physics-informed deep learning.** CMAME, 2025. [paper](https://www.sciencedirect.com/science/article/pii/S0045782525001860)
+
+   *Rafael Bischof and Michael A. Kraus.*
 
 ### [Sampling](#content)
 1. **ADLGM: An efficient adaptive sampling deep learning Galerkin method.** JCP, 2023. [paper](https://www.sciencedirect.com/science/article/pii/S0021999123000396)
@@ -3802,6 +3838,10 @@ Contributed by Chunyang Zhang.
 
    *Zongren Zou, Tingwei Meng, Paula Chen, Jérôme Darbon, and George Em Karniadakis.*
 
+1. **Multi-head physics-informed neural networks for learning functional priors and uncertainty quantification.** JCP, 2025. [paper](https://www.sciencedirect.com/science/article/pii/S002199912500230X)
+
+   *Zongren Zou and George Em Karniadakis.*
+
 ### [Generative Model](#content)
 1. **A framework for data-driven solution and parameter estimation of PDEs using conditional generative adversarial networks.** NCS, 2021. [paper](https://www.nature.com/articles/s43588-021-00171-3)
 
@@ -3930,6 +3970,10 @@ Contributed by Chunyang Zhang.
 1. **Wavelet diffusion neural operator.** ICLR, 2025. [paper](https://openreview.net/forum?id=FQhDIGuaJ4)
 
    *Peiyan Hu, Rui Wang, Xiang Zheng, Tao Zhang, Haodong Feng, Ruiqi Feng, Long Wei, Yue Wang, Zhiming Ma, and Tailin Wu.*
+
+1. **Generative learning of the solution of parametric partial differential equations using guided diffusion models and virtual observations.** CMAME, 2025. [paper](https://www.sciencedirect.com/science/article/pii/S0045782524009083)
+
+   *Han Gao, Sebastian Kaltenbach, and Petros Koumoutsakos.*
 
 ### [Transformer](#content)
 1. **Learning operators with coupled attention.** JMLR, 2022. [paper](https://www.jmlr.org/papers/v23/21-1521.html) 
@@ -4245,6 +4289,14 @@ Contributed by Chunyang Zhang.
 1. **Physics-constrained convolutional neural networks for inverse problems in spatiotemporal partial differential equations.** arXiv, 2024. [paper](https://arxiv.org/abs/2401.10306)
 
    *Daniel Kelshaw and Luca Magri.*
+
+1. **Operator learning with Gaussian processes.** CMAME, 2025. [paper](https://www.sciencedirect.com/science/article/pii/S0045782524008351)
+
+   *Carlos Mora, Amin Yousefpour, Shirin Hosseinmardi, Houman Owhadi, and Ramin Bostanabad.*
+
+1. **Towards Gaussian Process for operator learning: An uncertainty aware resolution independent operator learning algorithm for computational mechanics.** CMAME, 2025. [paper](https://www.sciencedirect.com/science/article/pii/S0045782524009186)
+
+   *Sawan Kumar, Rajdip Nayek, and Souvik Chakraborty.*
 
 ### [Variation](#content) 
 1. **PI-VAE: Physics-informed variational auto-encoder for stochastic differential equations.** CMAME, 2022. [paper](https://www.sciencedirect.com/science/article/pii/S0045782522006193)
@@ -4582,6 +4634,11 @@ Contributed by Chunyang Zhang.
 1. **Synergistic learning with multi-task DeepONet for efficient pde problem solving.** arXiv, 2024. [paper](https://arxiv.org/abs/2408.02198)
 
    *Varun Kumar, Somdatta Goswami, Katiana Kontolati, Michael D. Shields, and George Em Karniadakis.*
+
+### [Super Resolution](#content)
+1. **Taylor series error correction network for super-resolution of discretized partial differential equation solutions.** JCP, 2025. [paper](https://www.sciencedirect.com/science/article/pii/S0021999124008179)
+
+   *Wenzhuo Xu, Christopher McComb, and Noelia Grande Gutiérrez.*
 
 
 ## [Applications](#content)
@@ -5067,9 +5124,17 @@ Contributed by Chunyang Zhang.
 
    *Yunlong Dong, Tao Song, Xue Li, Peifu Han, Peizhi Zhao, Chuchu Zhai, Fengrui Jing, and Long Hao.*
 
-1. **Multi-scale enhanced multiwavelet-based operator learning model for multiphase flow simulation.** CMAME, 2025. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0045782525002051)
+1. **Differentiable turbulence: Closure as a partial differential equation constrained optimization.** Physical Review Fluids, 2025. [paper](https://journals.aps.org/prfluids/abstract/10.1103/PhysRevFluids.10.024605)
 
-   *J. Orera, J. Ramírez, P. García-Navarro, and J. Murillo.*
+   *Varun Shankar, Dibyajyoti Chakraborty, Venkatasubramanian Viswanathan, and Romit Maulik.*
+
+1. **Deep learning-based reduced-order modeling for parameterized convection-dominated partial differential equations.** PoF, 2025. [paper](https://pubs.aip.org/aip/pof/article-abstract/37/2/027139/3334758)
+
+   *Yiwei Meng, Yuanhong Chen, Zhen Gao, Longjiang Mu, and Xiang Sun.*
+
+1. **Physics-aware machine learning for computational fluid dynamics surrogate model to estimate ventilation performance.** PoF, 2025. [paper](https://pubs.aip.org/aip/pof/article-abstract/37/2/027130/3334515)
+
+   *Munho Kim, Ngan-Khanh Chau, Sujin Park, Phong C. H. Nguyen, Stephen S. Baek, and Sanghun Choi.*
 
 ### [Cybernetics](#content)
 1. **Machine learning accelerated PDE backstepping observers.** arXiv, 2022. [paper](https://arxiv.org/abs/2211.15044)
@@ -5275,6 +5340,22 @@ Contributed by Chunyang Zhang.
 1. **Is Pontryagin's maximum principle all you need? Solving optimal control problems with PMP-inspired neural networks.** arXiv, 2024. [paper](https://arxiv.org/abs/2410.06277)
 
    *Kawisorn Kamtue, Jose M.F. Moura, and Orathai Sangpetch.*
+
+1. **Physics-informed neural network Lyapunov functions: PDE characterization, learning, and verification.** Automatica, 2025. [paper](https://www.sciencedirect.com/science/article/pii/S000510982500086X)
+
+   *Jun Liu, Yiming Meng, Maxwell Fitzsimmons, and Ruikun Zhou.*
+
+1. **Deep learning of delay-compensated backstepping for reaction-diffusion PDEs.** TAC, 2025. [paper](https://ieeexplore.ieee.org/abstract/document/10872816)
+
+   *Shanshan Wang, Mamadou Diagne, and Miroslav Krstic.*
+
+1. **Backstepping controllers based on neural operators for coupled PDE-ODE systems.** IEEE Control Systems Letters, 2025. [paper](https://ieeexplore.ieee.org/abstract/document/10883665)
+
+   *Malihe Abdolbaghi, Mohammad Keyanpour, and Seyed Amir Hossein Tabatabaei.*
+
+1. **Deterministic learning-based tracking control for parabolic PDE systems with infinite-dimensional nonlinear uncertain dynamics.** TAC, 2025. [paper](https://ieeexplore.ieee.org/abstract/document/10882910)
+
+   *Jingting Zhang, Chengzhi Yuan, Fen Wu, Cong Wang, and Hong Cheng.*
 
 ### [Climate](#content)
 1. **FourCastNet: A global data-driven high-resolution weather model using adaptive Fourier neural operators.** arXiv, 2022. [paper](https://arxiv.org/abs/2202.11214)
@@ -5662,6 +5743,10 @@ Contributed by Chunyang Zhang.
 1. **Adaptive fractional physics-informed neural networks for solving forward and inverse problems of anomalous heat conduction in functionally graded materials.** IJHMS, 2024. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0017931024012225)
 
    *Xingdan Ma, Lin Qiu, Benrong Zhang, Guozheng Wu, and Fajie Wang*
+
+1. **Learning the physics-consistent material behavior from measurable data via PDE-constrained optimization.** CMAME, 2025. [paper](https://www.sciencedirect.com/science/article/pii/S0045782525000209)
+
+   *Xinxin Wu, Yin Zhang, and Sheng Mao.*
 
 ### [Molecules](#content)
 1. **Symmetry-informed geometric representation for molecules, proteins, and crystalline materials.** arXiv, 2023. [paper](https://arxiv.org/abs/2306.09375)
