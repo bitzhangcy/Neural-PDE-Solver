@@ -5140,6 +5140,10 @@ If you are interested in neural PDE solvers and would like to contribute, feel f
 
    *Oded Ovadia, Vivek Oommen, Adar Kahana, Ahmad Peyvan, Eli Turkel, and George Em Karniadakis.*
 
+1. **AIVT: Inference of turbulent thermal convection from measured 3D velocity data by physics-informed Kolmogorov-Arnold networks.** SA, 2025. [paper](https://www.science.org/doi/10.1126/sciadv.ads5236)
+
+   *Juan Diego Toscano, Theo Käufer, Zhibo Wang, Martin Maxey, Christian Cierpka, and George Em Karniadakis.*
+
 ### [Cybernetics](#content)
 1. **Machine learning accelerated PDE backstepping observers.** arXiv, 2022. [paper](https://arxiv.org/abs/2211.15044)
 
