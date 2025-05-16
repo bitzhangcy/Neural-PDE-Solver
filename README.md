@@ -5669,6 +5669,10 @@ If you are interested in neural PDE solvers and would like to contribute, feel f
 
    *Enze Zhu, Zheng Zong, Erji Li, Yang Lu, Jingwei Zhang, Hao Xie, Ying Li, Wenyan Yin, and Zhun Wei.*
 
+1. **Multiscale data-driven modeling for nonlinear dynamical system with external inputs in porous media.** JCP, 2025. [paper](https://www.sciencedirect.com/science/article/abs/pii/S002199912500333X)
+
+   *Mengnan Li and Shan Zhang.*
+
 ### [Image](#content)
 1. **Learning to diffuse: A new perspective to design PDEs for visual analysis.** TPAMI, 2016. [paper](https://ieeexplore.ieee.org/document/7393839)
 
