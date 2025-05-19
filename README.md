@@ -1956,6 +1956,10 @@ If you are interested in neural PDE solvers and would like to contribute, feel f
 
    *N. Sukumar and Amit Acharya.*
 
+1. **Physics-informed non-intrusive reduced-order modeling of parameterized dynamical systems.** CMAME, 2025. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0045782525003172)
+
+   *Himanshu Dave, Léo Cotteleer, and Alessandro Parente.*
+
 ### [Identification](#content)
 1. **Data-driven discovery of partial differential equations.** SA, 2017. [paper](https://arxiv.org/abs/1910.11710)
 
@@ -5896,6 +5900,10 @@ If you are interested in neural PDE solvers and would like to contribute, feel f
 1. **Pontryagin neural operator for solving general-sum differential games with parametric state constraints.** L4DC, 2024. [paper](https://proceedings.mlr.press/v242/zhang24f.html)
 
    *Lei Zhang, Mukesh Ghimire, Zhe Xu, Wenlong Zhang, and Yi Ren.*
+
+1. **Unsupervised solution operator learning for mean-field games.** JCP, 2025. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0021999125003407)
+
+   *Han Huang and Rongjie Lai.*
 
 ### [Industry](#content)
 1. **Physics-aware machine learning surrogates for real-time manufacturing digital twin.** Manufacturing Letters, 2022. [paper](https://www.sciencedirect.com/science/article/abs/pii/S2213846322001845)
