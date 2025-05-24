@@ -5148,6 +5148,10 @@ If you are interested in neural PDE solvers and would like to contribute, feel f
 
    *Juan Diego Toscano, Theo Käufer, Zhibo Wang, Martin Maxey, Christian Cierpka, and George Em Karniadakis.*
 
+1. **Enhancement of physics-informed neural networks in applications to fluid dynamics.** Physics of Fluids, 2025. [paper](https://pubs.aip.org/aip/pof/article-abstract/37/5/057130/3347333/Enhancement-of-physics-informed-neural-networks-in)
+
+   *Ievgen Mochalin, Jinxia Wang, Jiancheng Cai, and Shiju E.*
+
 ### [Cybernetics](#content)
 1. **Machine learning accelerated PDE backstepping observers.** arXiv, 2022. [paper](https://arxiv.org/abs/2211.15044)
 
