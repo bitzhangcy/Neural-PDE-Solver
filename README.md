@@ -4564,6 +4564,10 @@ If you are interested in neural PDE solvers and would like to contribute, feel f
 
    *Milad Saadat, William H. Hartt V, Norman J. Wagner, and Safa Jamali.*
 
+1. **M2PDE: Compositional generative multiphysics and multi-component PDE simulation.** ICML, 2025. [paper](https://arxiv.org/abs/2412.04134)
+
+   *Tao Zhang, Zhenhai Liu, Feipeng Qi, Yongjun Jiao, and Tailin Wu.*
+
 ### [Multi Grid](#content)
 1. **Learning to optimize multigrid PDE solvers.** ICML, 2019. [paper](http://proceedings.mlr.press/v97/greenfeld19a.html)
 
