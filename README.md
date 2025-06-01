@@ -1150,6 +1150,10 @@ If you are interested in neural PDE solvers and would like to contribute, feel f
 
    *Mingquan Feng, Yixin Huang, Weixin Liao, Yuhong Liu, Yizhou Liu, and Junchi Yan.*
 
+1. **Hyperbolic-PDE GNN: Spectral graph neural networks in the perspective of a system of hyperbolic partial differential equations.** ICML, 2025. [paper](https://arxiv.org/abs/2505.23014)
+
+   *Juwei Yue, Haikuo Li, Jiawei Sheng, Xiaodong Li, Taoyu Su, Tingwen Liu, and Li Guo*
+
 ### [Green Function](#content)
 1. **Learning Green's functions associated with time-dependent partial differential equations.** JMLR, 2022. [paper](https://www.jmlr.org/papers/volume23/22-0433/22-0433.pdf)
 
@@ -5684,6 +5688,10 @@ If you are interested in neural PDE solvers and would like to contribute, feel f
 1. **Multiscale data-driven modeling for nonlinear dynamical system with external inputs in porous media.** JCP, 2025. [paper](https://www.sciencedirect.com/science/article/abs/pii/S002199912500333X)
 
    *Mengnan Li and Shan Zhang.*
+
+1. **Physics-informed neural networks for tsunami inundation modeling.** JCP, 2025. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0021999125003493)
+
+   *Rüdiger Brecht, Elsa Cardoso-Bihlo, and Alex Bihlo.*
 
 ### [Image](#content)
 1. **Learning to diffuse: A new perspective to design PDEs for visual analysis.** TPAMI, 2016. [paper](https://ieeexplore.ieee.org/document/7393839)
