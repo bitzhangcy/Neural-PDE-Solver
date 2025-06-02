@@ -4110,7 +4110,11 @@ If you are interested in neural PDE solvers and would like to contribute, feel f
 
 1. **Nonlocal attention operator: Materializing hidden knowledge towards interpretable physics discovery.** arXiv, 2024. [paper](https://arxiv.org/abs/2408.07307) 
 
-   *Yue Yu, Ning Liu, Fei Lu, Tian Gao, Siavash Jafarzadeh, and Stewart Silling*
+   *Yue Yu, Ning Liu, Fei Lu, Tian Gao, Siavash Jafarzadeh, and Stewart Silling.*
+
+1. **PDE-Transformer: Efficient and versatile Transformers for physics simulations.** ICML, 2025. [paper](https://arxiv.org/abs/2505.24717) 
+
+   *Benjamin Holzschuh, Qiang Liu, Georg Kohl, and Nils Thuerey.*
 
 ### [Theory](#content)
 1. **Convergence analysis of a quasi-Monte Carlo-based deep learning algorithm for solving partial differential equations.** arXiv, 2022. [paper](https://arxiv.org/abs/2210.16196)
