@@ -5784,6 +5784,10 @@ If you are interested in neural PDE solvers and would like to contribute, feel f
 
    *Xinxin Wu, Yin Zhang, and Sheng Mao.*
 
+1. **Multiscale data-driven modeling for nonlinear dynamical system with external inputs in porous media.** JCP, 2025. [paper](https://www.sciencedirect.com/science/article/pii/S002199912500333X)
+
+   *Mengnan Li and Shan Zhang.*
+
 ### [Molecules](#content)
 1. **Symmetry-informed geometric representation for molecules, proteins, and crystalline materials.** arXiv, 2023. [paper](https://arxiv.org/abs/2306.09375)
 
