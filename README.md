@@ -5970,6 +5970,10 @@ If you are interested in neural PDE solvers and would like to contribute, feel f
 
    *Renbin Pan, Feng Xiao, and Minyu Shen.*
 
+1. **FreeGave: 3D physics learning from dynamic videos by Gaussian velocity.** CVPR, 2025. [paper](https://arxiv.org/abs/2506.07865)
+
+   *Jinxi Li, Ziyang Song, Siyuan Zhou, and Bo Yang.*
+
 ### [Economics](#content)
 1. **A deep learning based numerical PDE method for option pricing.** Computational Economics, 2023. [paper](https://link.springer.com/article/10.1007/s10614-022-10279-x)
 
