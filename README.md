@@ -5697,6 +5697,10 @@ If you are interested in neural PDE solvers and would like to contribute, feel f
 
    *Rüdiger Brecht, Elsa Cardoso-Bihlo, and Alex Bihlo.*
 
+1. **A coordinate transformation-based physics-informed neural networks for hyperbolic conservation laws.** JCP, 2025. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0021999125004449)
+
+   *Yuanhong Chen, Zhen Gao, Jan S. Hesthaven, Yifan Lin, and Xiang Sun.*
+
 ### [Image](#content)
 1. **Learning to diffuse: A new perspective to design PDEs for visual analysis.** TPAMI, 2016. [paper](https://ieeexplore.ieee.org/document/7393839)
 
