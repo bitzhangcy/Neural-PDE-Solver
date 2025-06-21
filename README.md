@@ -3311,6 +3311,10 @@ If you are interested in neural PDE solvers and would like to contribute, feel f
 
    *Jingtong Sun, Julius Berner, Lorenz Richter, Marius Zeinhofer, Johannes Müller, Kamyar Azizzadenesheli, and Anima Anandkumar.*
 
+1. **Adaptive deep physics-informed neural network with dual-nested activation for solving complex partial differential equations.** CMAME, 2025. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0045782525003974)
+
+   *Tianhao Wang, Guirong Liu, Eric Li, and Xu Xu.*
+
 ### [Mesh](#content)
 1. **MeshingNet: A new mesh generation method based on deep learning.** ICCS, 2022. [paper](https://link.springer.com/chapter/10.1007/978-3-030-50420-5_14)
 
@@ -5999,6 +6003,10 @@ If you are interested in neural PDE solvers and would like to contribute, feel f
 1. **Learning-based state reconstruction for a scalar hyperbolic PDE under noisy lagrangian sensing.** L4DC, 2022. [paper](http://proceedings.mlr.press/v144/barreau21a.html)
 
    *Matthieu Barreau, John Liu, and Karl Henrik Johansson.*
+
+1. **VideoPDE: Unified generative PDE solving via video inpainting diffusion models.** arXiv, 2025. [paper](https://arxiv.org/abs/2506.13754)
+
+   *Edward Li, Zichen Wang, Jiahe Huang, and Jeong Joon Park.*
 
 ### [Electromagnetism](#content)
 1. **A novel physics-informed neural network for modeling electromagnetism of a permanent magnet synchronous motor.**  Advanced Engineering Informatics, 2023. [paper](https://www.sciencedirect.com/science/article/pii/S1474034623001635)
