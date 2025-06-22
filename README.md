@@ -699,6 +699,10 @@ If you are interested in neural PDE solvers and would like to contribute, feel f
 
    *Yizheng Wang, Jia Sun, Jinshuai Bai, Cosmin Anitescu, Mohammad Sadegh Eshaghi, Xiaoying Zhuang, Timon Rabczuk, and Yinghua Liu.*
 
+1. **CoPINN: Cognitive physics-informed neural networks.** ICML, 2025. [paper](https://openreview.net/forum?id=4vAa0A98xI)
+
+   *Siyuan Duan, Wenyuan Wu, Peng Hu, Zhenwen Ren, Dezhong Peng, and Yuan Sun.*
+
 ### [DeepONet](#content)
 1. **Learning nonlinear operators via DeepONet based on the universal approximation theorem of operators.** NMI, 2021. [paper](https://www.nature.com/articles/s42256-021-00302-5)
 
@@ -945,6 +949,10 @@ If you are interested in neural PDE solvers and would like to contribute, feel f
 
    *Xiaoyi Liu and Hao Tang.*
 
+1. **Maximum update parametrization and zero-shot hyperparameter transfer for Fourier neural operators.** ICML, 2025. [paper](https://openreview.net/forum?id=fHt4Nau7FW)
+
+   *Shanda Li, Shinjae Yoo, and Yiming Yang.*
+
 ### [Graph Network](#content)
 1. **Message passing neural PDE solvers.** ICLR, 2022. [paper](https://openreview.net/forum?id=vSix3HPYKSU)
 
@@ -1150,9 +1158,13 @@ If you are interested in neural PDE solvers and would like to contribute, feel f
 
    *Mingquan Feng, Yixin Huang, Weixin Liao, Yuhong Liu, Yizhou Liu, and Junchi Yan.*
 
-1. **Hyperbolic-PDE GNN: Spectral graph neural networks in the perspective of a system of hyperbolic partial differential equations.** ICML, 2025. [paper](https://arxiv.org/abs/2505.23014)
+1. **Hyperbolic-PDE GNN: Spectral graph neural networks in the perspective of a system of hyperbolic partial differential equations.** ICML, 2025. [paper](https://openreview.net/forum?id=UJXbcJ7qXB)
 
-   *Juwei Yue, Haikuo Li, Jiawei Sheng, Xiaodong Li, Taoyu Su, Tingwen Liu, and Li Guo*
+   *Juwei Yue, Haikuo Li, Jiawei Sheng, Xiaodong Li, Taoyu Su, Tingwen Liu, and Li Guo.*
+
+1. **Curvature-aware graph attention for PDEs on manifolds.** ICML, 2025. [paper](https://openreview.net/forum?id=vWYLQ0VPJx)
+
+   *Yunfeng Liao, Jiawen Guan, and Xiucheng Li.*
 
 ### [Green Function](#content)
 1. **Learning Green's functions associated with time-dependent partial differential equations.** JMLR, 2022. [paper](https://www.jmlr.org/papers/volume23/22-0433/22-0433.pdf)
@@ -1259,6 +1271,10 @@ If you are interested in neural PDE solvers and would like to contribute, feel f
 1. **Finite element operator network for solving elliptic-type parametric PDEs.** SIAM Journal on Scientific Computing, 2025. [paper](https://epubs.siam.org/doi/abs/10.1137/23M1623707)
 
    *Jae Yong Lee, Seungchan Ko, and Youngjoon Hong.*
+
+1. **G-adaptivity: Optimised graph-based mesh relocation for finite element methods.** ICML, 2025. [paper](https://openreview.net/forum?id=pyIXyl4qFx)
+
+   *James Rowbottom, Georg Maierhofer, Teo Deveney, Eike Hermann Müller, Alberto Paganini, Katharina Schratz, Pietro Lio, Carola-Bibiane Schönlieb, and Chris Budd.*
 
 ### [Convolution](#content)
 1. **PDE-Net: Learning PDEs from data.** ICML, 2018. [paper](https://proceedings.mlr.press/v80/long18a.html)
@@ -1703,6 +1719,18 @@ If you are interested in neural PDE solvers and would like to contribute, feel f
 
    *Jingmin Sun, Yuxuan Liu, Zecheng Zhang, and Hayden Schaeffer.*
 
+1. **Geometric and physical constraints synergistically enhance neural PDE surrogates.** ICML, 2025. [paper](https://openreview.net/forum?id=6f1Hx1eneF)
+
+   *Yunfei Huang and David S. Greenberg.*
+
+1. **Latent mamba operator for partial differential equations.** ICML, 2025. [paper](https://openreview.net/forum?id=6f1Hx1eneF)
+
+   *Karn Tiwari, Niladri Dutta, N M Anoop Krishnan, and Prathosh AP.*
+
+1. **DISCO: lLearning to DISCover an evolution Operator for multi-physics-agnostic prediction.** ICML, 2025. [paper](https://openreview.net/forum?id=6EZ3MDDf6p)
+
+   *Rudy Morel, Jiequn Han, and Edouard Oyallon.*
+
 ### [Machine Learning](#content)
 1. **Machine learning–accelerated computational fluid dynamics.** PNAS, 2021. [paper](https://www.pnas.org/doi/10.1073/pnas.2101784118)
 
@@ -1963,6 +1991,14 @@ If you are interested in neural PDE solvers and would like to contribute, feel f
 1. **Physics-informed non-intrusive reduced-order modeling of parameterized dynamical systems.** CMAME, 2025. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0045782525003172)
 
    *Himanshu Dave, Léo Cotteleer, and Alessandro Parente.*
+
+1. **HEAP: Hyper extended A-PDHG operator for constrained high-dim PDEs.** ICML, 2025. [paper](https://openreview.net/forum?id=fuE1UMH99F)
+
+   *Mingquan Feng, Weixin Liao, Yixin Huang, Yifan Fu, Qifu Zheng, and Junchi Yan.*
+
+1. **Refined generalization analysis of the deep Ritz method and physics-informed neural networks.** ICML, 2025. [paper](https://openreview.net/forum?id=ZKISVpQ0bj)
+
+   *Xianliang Xu, Ye Li, and Zhongyi Huang.*
 
 ### [Identification](#content)
 1. **Data-driven discovery of partial differential equations.** SA, 2017. [paper](https://arxiv.org/abs/1910.11710)
@@ -2240,6 +2276,14 @@ If you are interested in neural PDE solvers and would like to contribute, feel f
 1. **Principal component flow map learning of PDEs from incomplete, limited, and noisy data.** JCP, 2025. [paper](https://www.sciencedirect.com/science/article/pii/S0021999125000130)
 
    *Victor Churchill.*
+
+1. **Mechanistic PDE networks for discovery of governing equations.** ICML, 2025. [paper](https://openreview.net/forum?id=7w1YGBPDMw)
+
+   *Adeel Pervez, Efstratios Gavves, and Francesco Locatello.*
+
+1. **Neural interpretable PDEs: Harmonizing fourier insights with attention for scalable and interpretable physics discovery.** ICML, 2025. [paper](https://openreview.net/forum?id=JvRoF9FRga)
+
+   *Ning Liu snd Yue Yu.*
 
 ### [Inverse Design](#content)
 1. **DPM: Physics-informed Karhunen-Loéve and neural network approximations for solving inverse differential equation problems.** AAAI, 2021. [paper](https://ojs.aaai.org/index.php/AAAI/article/view/16992/16799)
@@ -2519,6 +2563,26 @@ If you are interested in neural PDE solvers and would like to contribute, feel f
 1. **Explain like I'm five: Using LLMs to improve PDE surrogate models with text.** arXiv, 2024. [paper](https://arxiv.org/abs/2410.01137)
 
    *Cooper Lorsung and Amir Barati Farimani.*
+
+1. **PDE-Controller: LLMs for autoformalization and reasoning of PDEs.** ICML, 2025. [paper](https://openreview.net/forum?id=7epYTVsWEI)
+
+   *Mauricio Soroco, Jialin Song, Mengzhou Xia, Kye Emond, Weiran Sun,  and Wuyang Chen.*
+
+1. **Zebra: In-context generative pretraining for solving parametric PDEs.** ICML, 2025. [paper](https://openreview.net/forum?id=22kNOkkokU)
+
+   *Louis Serrano, Armand Kassaï Koupaï, Thomas X Wang, Pierre ERBACHER, and Patrick Gallinari.*
+
+1. **Physics-informed temporal alignment for auto-regressive PDE foundation models.** ICML, 2025. [paper](https://openreview.net/forum?id=22kNOkkokU)
+
+   *Congcong Zhu, Xiaoyan Xu, Jiayue Han, and Jingrun Chen.*
+
+1. **OmniArch: Building foundation model for scientific computing.** ICML, 2025. [paper](https://openreview.net/forum?id=UlprLwWYKP)
+
+   *Tianyu Chen, Haoyi Zhou, Ying Li, Hao Wang, Chonghan Gao, Rongye Shi, Shanghang Zhang, and Jianxin Li.*
+
+1. **PINNsAgent: Automated PDE surrogation with large language models.** ICML, 2025. [paper](https://openreview.net/forum?id=RO5OGOzs6M)
+
+   *Qingpo Wuwu, Chonghan Gao, Tianyu Chen, Yihang Huang, Yuekai Zhang, Jianing Wang, Jianxin Li, Haoyi Zhou, and Shanghang Zhang.*
 
 
 ## [Mechanism](#content)
@@ -3683,6 +3747,10 @@ If you are interested in neural PDE solvers and would like to contribute, feel f
 
    *Bharat Srikishan, Daniel O'Malley, Mohamed Mehana, Nicholas Lubbers, amd Nikhil Muralidhar.*
 
+1. **Toward efficient kernel-based solvers for nonlinear PDEs.** ICML, 2025. [paper](https://openreview.net/forum?id=J2wI2rCG2u)
+
+   *Zhitong Xu, Da Long, Yiming Xu, Guang Yang, Shandian Zhe, and Houman Owhadi.*
+
 ### [AutoML](#content)
 1. **Auto-PINN: Understanding and optimizing physics-informed neural architecture.** arXiv, 2022. [paper](https://arxiv.org/abs/2110.13361)
 
@@ -3853,6 +3921,10 @@ If you are interested in neural PDE solvers and would like to contribute, feel f
 1. **Multi-head physics-informed neural networks for learning functional priors and uncertainty quantification.** JCP, 2025. [paper](https://www.sciencedirect.com/science/article/pii/S002199912500230X)
 
    *Zongren Zou and George Em Karniadakis.*
+
+1. **Calibrated physics-informed uncertainty quantification.** ICML, 2025. [paper](https://openreview.net/forum?id=Z2uLBBck2X)
+
+   *Vignesh Gopakumar, Ander Gray, Lorenzo Zanisi, Timothy Nunn, Daniel Giles, Matt Kusner, Stanislas Pamela, and Marc Peter Deisenroth.*
 
 ### [Generative Model](#content)
 1. **A framework for data-driven solution and parameter estimation of PDEs using conditional generative adversarial networks.** NCS, 2021. [paper](https://www.nature.com/articles/s43588-021-00171-3)
@@ -4120,6 +4192,10 @@ If you are interested in neural PDE solvers and would like to contribute, feel f
 
    *Benjamin Holzschuh, Qiang Liu, Georg Kohl, and Nils Thuerey.*
 
+1. **Unisolver: PDE-conditional Transformers towards universal neural PDE solvers.** ICML, 2025. [paper](https://openreview.net/forum?id=r1ryQoI9iZ) 
+
+   *Hang Zhou, Yuezhou Ma, Haixu Wu, Haowen Wang, and Mingsheng Long.*
+
 ### [Theory](#content)
 1. **Convergence analysis of a quasi-Monte Carlo-based deep learning algorithm for solving partial differential equations.** arXiv, 2022. [paper](https://arxiv.org/abs/2210.16196)
 
@@ -4313,6 +4389,10 @@ If you are interested in neural PDE solvers and would like to contribute, feel f
 1. **Towards Gaussian Process for operator learning: An uncertainty aware resolution independent operator learning algorithm for computational mechanics.** CMAME, 2025. [paper](https://www.sciencedirect.com/science/article/pii/S0045782524009186)
 
    *Sawan Kumar, Rajdip Nayek, and Souvik Chakraborty.*
+
+1. **Linearization turns neural operators into function-valued gaussian processes.** ICML, 2025. [paper](https://openreview.net/forum?id=4Z04wVQ9FY)
+
+   *Emilia Magnani, Marvin Pförtner, Tobias Weber, and Philipp Hennig.*
 
 ### [Variation](#content) 
 1. **PI-VAE: Physics-informed variational auto-encoder for stochastic differential equations.** CMAME, 2022. [paper](https://www.sciencedirect.com/science/article/pii/S0045782522006193)
@@ -4531,6 +4611,10 @@ If you are interested in neural PDE solvers and would like to contribute, feel f
 
    *Xi Han, Fei Hou, and Hong Qin.*
 
+1. **Transolver++: An accurate neural solver for PDEs on million-scale geometries.** ICML, 2025. [paper](https://openreview.net/forum?id=AM7iAh0krx)
+
+   *Huakun Luo, Haixu Wu, Hang Zhou, Lanxiang Xing, Yichen Di, Jianmin Wang, and Mingsheng Long.*
+
 ### [Multi Fidelity](#content)
 1. **Multifidelity deep operator networks.** arXiv, 2022. [paper](https://arxiv.org/abs/2204.09157)
 
@@ -4609,9 +4693,9 @@ If you are interested in neural PDE solvers and would like to contribute, feel f
 
    *Bar Lerer, Ido Ben-Yair, and Eran Treister.*
 
-1. **Ugrid: An efficient-and-rigorous neural multigrid solver for linear PDEs.** ICML, 2024. [paper](https://openreview.net/forum?id=vFATIZXlCm)
+1. **M2PDE: Compositional generative multiphysics and multi-component PDE simulation.** ICML, 2025. [paper](https://openreview.net/forum?id=Pwr2LznsQc)
 
-   *Xi Han, Fei Hou, and Hong Qin.*
+   *Tao Zhang, Zhenhai Liu, Feipeng Qi, Yongjun Jiao, and Tailin Wu.*
 
 ### [Active Learning](#content)
 1. **Neural Galerkin scheme with active learning for high-dimensional evolution equations.** arXiv, 2022. [paper](https://arxiv.org/abs/2203.01360)
@@ -4645,6 +4729,14 @@ If you are interested in neural PDE solvers and would like to contribute, feel f
 1. **Active learning for neural PDE solvers.** ICLR, 2025. [paper](https://openreview.net/forum?id=x4ZmQaumRg)
 
    *Daniel Musekamp, Marimuthu Kalimuthu, David Holzmüller, Makoto Takamoto, and Mathias Niepert.*
+
+1. **On the benefits of active data collection in operator learning.** ICML, 2025. [paper](https://openreview.net/forum?id=hYHczNrKoX)
+
+   *Unique Subedi and Ambuj Tewari.*
+
+1. **Active learning with selective time-step acquisition for PDEs.** ICML, 2025. [paper](https://openreview.net/forum?id=ef1UHxznNy)
+
+   *Yegon Kim, Hyunsu Kim, Gyeonghoon Ko, and Juho Lee.*
 
 ### [Multi Task](#content)
 1. **Adversarial multi-task learning enhanced physics-informed neural networks for solving partial differential equations.** IJCNN, 2022. [paper](https://ieeexplore.ieee.org/abstract/document/9533606)
@@ -4775,10 +4867,6 @@ If you are interested in neural PDE solvers and would like to contribute, feel f
 
    *Johannes Müller and Marius Zeinhofer.*
 
-1. **Inverse design method for horn antennas based on knowledge-embedded physics-informed neural networks.** IEEE Antennas and Wireless Propagation Letters, 2024. [paper](https://ieeexplore.ieee.org/abstract/document/10433641)
-
-   *Jinpin Liu, Bingzhong Wang, Chuansheng Chen, and Ren Wang.*
-
 1. **G-RepsNet: A fast and general construction of equivariant networks for arbitrary matrix groups.** arXiv, 2024. [paper](https://arxiv.org/abs/2402.15413)
 
    *Sourya Basu, Suhas Lohit, and Matthew Brandr.*
@@ -4786,6 +4874,10 @@ If you are interested in neural PDE solvers and would like to contribute, feel f
 1. **An efficient high-dimensional gradient estimator for stochastic differential equations.** arXiv, 2024. [paper](https://arxiv.org/abs/2407.10065)
 
    *Shengbo Wang, Jose Blanchet, and Peter Glynn.*
+
+1. **Accelerating PDE-constrained optimization by the derivative of neural operators.** ICML, 2025. [paper](https://openreview.net/forum?id=LFF7kUQ5Rp)
+
+   *Ze Cheng, Zhuoyu Li, Wang Xiaoqiang, Jianing Huang, Zhizhou Zhang, Zhongkai Hao, and Hang Su.*
 
 ### [Fluid](#content)
 1. **Physics-informed neural networks (PINNs) for fluid mechanics: A review.** Acta Mechanica Sinica, 2021. [paper](https://link.springer.com/article/10.1007/s10409-021-01148-1)
@@ -5164,9 +5256,13 @@ If you are interested in neural PDE solvers and would like to contribute, feel f
 
    *Juan Diego Toscano, Theo Käufer, Zhibo Wang, Martin Maxey, Christian Cierpka, and George Em Karniadakis.*
 
-1. **Enhancement of physics-informed neural networks in applications to fluid dynamics.** Physics of Fluids, 2025. [paper](https://pubs.aip.org/aip/pof/article-abstract/37/5/057130/3347333/Enhancement-of-physics-informed-neural-networks-in)
+1. **Enhancement of physics-informed neural networks in applications to fluid dynamics.** PoF, 2025. [paper](https://pubs.aip.org/aip/pof/article-abstract/37/5/057130/3347333/Enhancement-of-physics-informed-neural-networks-in)
 
    *Ievgen Mochalin, Jinxia Wang, Jiancheng Cai, and Shiju E.*
+
+1. **MultiPDENet: PDE-embedded learning with multi-time-stepping for accelerated flow simulation.** ICML, 2025. [paper](https://openreview.net/forum?id=D1gs8QT74m)
+
+   *Qi Wang, Yuan Mi, Wang Haoyun, Yi Zhang, Ruizhi Chengze, Hongsheng Liu, Jirong Wen, and Hao Sun.*
 
 ### [Cybernetics](#content)
 1. **Machine learning accelerated PDE backstepping observers.** arXiv, 2022. [paper](https://arxiv.org/abs/2211.15044)
@@ -5389,6 +5485,14 @@ If you are interested in neural PDE solvers and would like to contribute, feel f
 
    *Jingting Zhang, Chengzhi Yuan, Fen Wu, Cong Wang, and Hong Cheng.*
 
+1. **A physics-informed machine learning framework for safe and optimal control of autonomous systems.** ICML, 2025. [paper](https://openreview.net/forum?id=SrfwiloGQF)
+
+   *Manan Tayal, Aditya Singh, Shishir Kolathaya, and Somil Bansal.*
+
+1. **From uncertain to safe: Conformal adaptation of diffusion models for safe PDE control.** ICML, 2025. [paper](https://openreview.net/forum?id=XGJ33p4qwt)
+
+   *Peiyan Hu, Xiaowei Qian, Wenhao Deng, Rui Wang, Haodong Feng, Ruiqi Feng, Tao Zhang, Long Wei, Yue Wang, Zhiming Ma, Tailin Wu.*
+
 ### [Climate](#content)
 1. **FourCastNet: A global data-driven high-resolution weather model using adaptive Fourier neural operators.** arXiv, 2022. [paper](https://arxiv.org/abs/2202.11214)
 
@@ -5521,7 +5625,7 @@ If you are interested in neural PDE solvers and would like to contribute, feel f
 
 1. **Causality enforcing parametric heat transfer solvers for evolving geometries in advanced manufacturing.** CMAME, 2025. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0045782525000362)
 
-   *Akshay J. Thomas, Ilias Bilionis , Eduardo Barocio, and R. Byron Pipes.*
+   *Akshay J. Thomas, Ilias Bilionis, Eduardo Barocio, and R. Byron Pipes.*
 
 ### [Robotics](#content)
 1. **Hybrid learning of time-series inverse dynamics models for locally isotropic robot motion.** RAL, 2022. [paper](https://ieeexplore.ieee.org/document/9954138)
@@ -5704,6 +5808,10 @@ If you are interested in neural PDE solvers and would like to contribute, feel f
 1. **A coordinate transformation-based physics-informed neural networks for hyperbolic conservation laws.** JCP, 2025. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0021999125004449)
 
    *Yuanhong Chen, Zhen Gao, Jan S. Hesthaven, Yifan Lin, and Xiang Sun.*
+
+1. **Holistic physics solver: Learning PDEs in a unified spectral-physical space.** ICML, 2025. [paper](https://openreview.net/forum?id=oB5a6yIAmF)
+
+   *Xihang Yue, Yi Yang, and Linchao Zhu.*
 
 ### [Image](#content)
 1. **Learning to diffuse: A new perspective to design PDEs for visual analysis.** TPAMI, 2016. [paper](https://ieeexplore.ieee.org/document/7393839)
@@ -5936,6 +6044,10 @@ If you are interested in neural PDE solvers and would like to contribute, feel f
 1. **Unsupervised solution operator learning for mean-field games.** JCP, 2025. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0021999125003407)
 
    *Han Huang and Rongjie Lai.*
+
+1. **Convergence of mean-field Langevin stochastic descent-ascent for distributional minimax optimization.** ICML, 2025. [paper](https://openreview.net/forum?id=v4DWXM93VV)
+
+   *Zhangyi Liu, Feng Liu, Rui Gao, and Shuang Li.*
 
 ### [Industry](#content)
 1. **Physics-aware machine learning surrogates for real-time manufacturing digital twin.** Manufacturing Letters, 2022. [paper](https://www.sciencedirect.com/science/article/abs/pii/S2213846322001845)
