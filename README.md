@@ -703,10 +703,6 @@ If you are interested in neural PDE solvers and would like to contribute, feel f
 
    *Siyuan Duan, Wenyuan Wu, Peng Hu, Zhenwen Ren, Dezhong Peng, and Yuan Sun.*
 
-1. **FreeGave: 3D physics learning from dynamic videos by Gaussian velocity.** CVPR, 2025. [paper](https://openaccess.thecvf.com/content/CVPR2025/html/Li_FreeGave_3D_Physics_Learning_from_Dynamic_Videos_by_Gaussian_Velocity_CVPR_2025_paper.html)
-
-   *Jinxi Li, Ziyang Song, Siyuan Zhou, and Bo Yang.*
-
 ### [DeepONet](#content)
 1. **Learning nonlinear operators via DeepONet based on the universal approximation theorem of operators.** NMI, 2021. [paper](https://www.nature.com/articles/s42256-021-00302-5)
 
