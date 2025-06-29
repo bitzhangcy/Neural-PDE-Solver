@@ -2572,7 +2572,7 @@ If you are interested in neural PDE solvers and would like to contribute, feel f
 
    *Louis Serrano, Armand Kassaï Koupaï, Thomas X Wang, Pierre ERBACHER, and Patrick Gallinari.*
 
-1. **Physics-informed temporal alignment for auto-regressive PDE foundation models.** ICML, 2025. [paper](https://openreview.net/forum?id=22kNOkkokU)
+1. **Physics-informed temporal alignment for auto-regressive PDE foundation models.** ICML, 2025. [paper](https://openreview.net/forum?id=OKDN1Hg3im)
 
    *Congcong Zhu, Xiaoyan Xu, Jiayue Han, and Jingrun Chen.*
 
