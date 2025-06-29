@@ -695,13 +695,17 @@ If you are interested in neural PDE solvers and would like to contribute, feel f
 
    *Mohammad Sadegh Eshaghi, Cosmin Anitescu, Manish Thombre, Yizheng Wang, Xiaoying Zhuang, and Timon Rabczuk.*
 
-1. **Kolmogorov–Arnold-Informed neural network: A physics-informed deep learning framework for solving forward and inverse problems based on Kolmogorov–Arnold Networks.** CMAME, 2025. [paper](https://www.sciencedirect.com/science/article/pii/S0045782524007722)
+1. **Kolmogorov–Arnold-informed neural network: A physics-informed deep learning framework for solving forward and inverse problems based on Kolmogorov–Arnold Networks.** CMAME, 2025. [paper](https://www.sciencedirect.com/science/article/pii/S0045782524007722)
 
    *Yizheng Wang, Jia Sun, Jinshuai Bai, Cosmin Anitescu, Mohammad Sadegh Eshaghi, Xiaoying Zhuang, Timon Rabczuk, and Yinghua Liu.*
 
 1. **CoPINN: Cognitive physics-informed neural networks.** ICML, 2025. [paper](https://openreview.net/forum?id=4vAa0A98xI)
 
    *Siyuan Duan, Wenyuan Wu, Peng Hu, Zhenwen Ren, Dezhong Peng, and Yuan Sun.*
+
+1. **FreeGave: 3D physics learning from dynamic videos by Gaussian velocity.** CVPR, 2025. [paper](https://openaccess.thecvf.com/content/CVPR2025/html/Li_FreeGave_3D_Physics_Learning_from_Dynamic_Videos_by_Gaussian_Velocity_CVPR_2025_paper.html)
+
+   *Jinxi Li, Ziyang Song, Siyuan Zhou, and Bo Yang.*
 
 ### [DeepONet](#content)
 1. **Learning nonlinear operators via DeepONet based on the universal approximation theorem of operators.** NMI, 2021. [paper](https://www.nature.com/articles/s42256-021-00302-5)
