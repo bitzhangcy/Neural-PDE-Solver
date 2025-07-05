@@ -5493,6 +5493,10 @@ If you are interested in neural PDE solvers and would like to contribute, feel f
 
    *Peiyan Hu, Xiaowei Qian, Wenhao Deng, Rui Wang, Haodong Feng, Ruiqi Feng, Tao Zhang, Long Wei, Yue Wang, Zhiming Ma, Tailin Wu.*
 
+1. **Output feedback stabilization of an ODE-heat cascade system by neural operator approximations.** Systems & Control Letters, 2025. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0167691125001550)
+
+   *Yuchen Jiang and Junmin Wang.*
+
 ### [Climate](#content)
 1. **FourCastNet: A global data-driven high-resolution weather model using adaptive Fourier neural operators.** arXiv, 2022. [paper](https://arxiv.org/abs/2202.11214)
 
