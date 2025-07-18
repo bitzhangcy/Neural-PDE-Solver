@@ -703,6 +703,10 @@ If you are interested in neural PDE solvers and would like to contribute, feel f
 
    *Siyuan Duan, Wenyuan Wu, Peng Hu, Zhenwen Ren, Dezhong Peng, and Yuan Sun.*
 
+1. **CuPINN: Optimizing PINNs through curvature minimization and residual landscape flattening.** CMAME, 2025. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0045782525004529)
+
+   *Raoof Zare Moayedi, Mostafa Abbaszadeh, and Mehdi Dehghan.*
+
 ### [DeepONet](#content)
 1. **Learning nonlinear operators via DeepONet based on the universal approximation theorem of operators.** NMI, 2021. [paper](https://www.nature.com/articles/s42256-021-00302-5)
 
