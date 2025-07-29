@@ -5912,6 +5912,10 @@ If you are interested in neural PDE solvers and would like to contribute, feel f
 
    *Mengnan Li and Shan Zhang.*
 
+1. **Modular fine-tuning of physics-informed neural networks for natural convection in eccentric geometries.** PoF, 2025. [paper](https://pubs.aip.org/aip/pof/article-abstract/37/7/073639/3356128/Modular-fine-tuning-of-physics-informed-neural)
+
+   *Saihong Li, Fangfang Peng, and Atena Ghaderi*
+
 ### [Molecules](#content)
 1. **Symmetry-informed geometric representation for molecules, proteins, and crystalline materials.** arXiv, 2023. [paper](https://arxiv.org/abs/2306.09375)
 
