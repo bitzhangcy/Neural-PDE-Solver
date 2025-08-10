@@ -707,6 +707,10 @@ If you are interested in neural PDE solvers and would like to contribute, feel f
 
    *Raoof Zare Moayedi, Mostafa Abbaszadeh, and Mehdi Dehghan.*
 
+1. **LOGLO-FNO: Efficient learning of local and global features in Fourier neural operators.** ICLR, 2025. [paper](https://openreview.net/forum?id=OCM7OkVg9C)
+
+   *Marimuthu Kalimuthu, Marimuthu_Kalimuthu, David Holzmüller, and Mathias Niepert.*
+
 ### [DeepONet](#content)
 1. **Learning nonlinear operators via DeepONet based on the universal approximation theorem of operators.** NMI, 2021. [paper](https://www.nature.com/articles/s42256-021-00302-5)
 
