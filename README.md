@@ -99,7 +99,7 @@ If you are interested in neural PDE solvers and would like to contribute, feel f
 </tr>
 <tr>
     <td>&ensp;<a href="#multi-task">3.25 Multi Task</a></td>
-    <td>&ensp;<a href="#super-resolution">3.25 Super Resolution</a></td>
+    <td>&ensp;<a href="#super-resolution">3.26 Super Resolution</a></td>
 </tr>
 <tr><td colspan="2"><a href="#applications">4. Applications</a></td></tr> 
 <tr>
