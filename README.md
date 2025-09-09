@@ -1174,6 +1174,13 @@ If you are interested in neural PDE solvers and would like to contribute, feel f
 
    *Yunfeng Liao, Jiawen Guan, and Xiucheng Li.*
 
+1. **Learning Distributions of Complex Fluid Simulations with Diffusion Graph Networks.** ICLR, 2025. [paper](https://arxiv.org/abs/2504.02843)
+
+   *Mario Lino, Tobias Pfaff, and Nils Thuerey.*
+
+
+
+
 ### [Green Function](#content)
 1. **Learning Green's functions associated with time-dependent partial differential equations.** JMLR, 2022. [paper](https://www.jmlr.org/papers/volume23/22-0433/22-0433.pdf)
 
@@ -3485,6 +3492,10 @@ If you are interested in neural PDE solvers and would like to contribute, feel f
 
    *Matthias Karlbauer, Timothy Praditia, Sebastian Otte, Sergey Oladyshkin, Wolfgang Nowak, and Martin V. Butz.*
 
+1. **Composing partial differential equations with physics-aware neural networks.** ICLR, 2022. [paper](https://openreview.net/forum?id=DIsWHvtU7lF)
+
+   *Matthias Karlbauer, Timothy Praditia, Sebastian Otte, Sergey Oladyshkin, Wolfgang Nowak, and Martin V. Butz.*
+
 1. **Learning composable energy surrogates for PDE order reduction.** NIPS, 2020. [paper](https://proceedings.neurips.cc/paper/2020/file/0332d694daab22e0e0eaf7a5e88433f9-Paper.pdf)
 
    *Alex Beatson, Jordan T. Ash, Geoffrey Roeder, Tianju Xue, and Ryan P. Adams.*
@@ -3572,6 +3583,10 @@ If you are interested in neural PDE solvers and would like to contribute, feel f
 1. **Adaptive deep Fourier residual method via overlapping domain decomposition.** arXiv, 2024. [paper](https://arxiv.org/abs/2401.04663)
 
    *Jamie M. Taylor, Manuela Bastidas, Victor M. Calo, and David Pardo.*
+
+1. **Operator Learning with Domain Decomposition for Geometry Generalization in PDE Solving.** arXiv, 2025. [paper](https://arxiv.org/abs/2504.00510)
+
+   *Jianing Huang, Kaixuan Zhang, Youjia Wu, Ze Cheng.*
 
 ### [Disentangle](#content)
 1. **PDE-driven spatiotemporal disentanglement.** ICLR, 2021. [paper](https://openreview.net/forum?id=vLaHRtHvfFp)
