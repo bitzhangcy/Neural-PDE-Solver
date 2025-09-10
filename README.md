@@ -1296,6 +1296,10 @@ If you are interested in neural PDE solvers and would like to contribute, feel f
 
    *Weihang Ouyang, Yeonjong Shin, Si-Wei Liu, and Lu Lu.*
 
+1. **Time-marching neural operator–FE coupling: AI-accelerated physics modeling.** CMAME, 2025. [paper](https://arxiv.org/abs/2504.11383)
+
+   *Wei Wang, Maryam Hakimzadeh, Haihui Ruan, and Somdatta Goswami.*
+
 
 ### [Convolution](#content)
 1. **PDE-Net: Learning PDEs from data.** ICML, 2018. [paper](https://proceedings.mlr.press/v80/long18a.html)
