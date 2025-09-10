@@ -1291,6 +1291,12 @@ If you are interested in neural PDE solvers and would like to contribute, feel f
 
    *James Rowbottom, Georg Maierhofer, Teo Deveney, Eike Hermann Müller, Alberto Paganini, Katharina Schratz, Pietro Lio, Carola-Bibiane Schönlieb, and Chris Budd.*
 
+
+1. **Neural-operator element method: Efficient and scalable finite  element method enabled by reusable neural operators.** arxiv, 2025. [paper](https://arxiv.org/abs/2506.18427)
+
+   *Weihang Ouyang, Yeonjong Shin, Si-Wei Liu, and Lu Lu.*
+
+
 ### [Convolution](#content)
 1. **PDE-Net: Learning PDEs from data.** ICML, 2018. [paper](https://proceedings.mlr.press/v80/long18a.html)
 
