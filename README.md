@@ -3862,6 +3862,10 @@ If you are interested in neural PDE solvers and would like to contribute, feel f
 
    *Bahador Bahmani, Somdatta Goswami, Ioannis G. Kevrekidis, and Michael D. Shields*
 
+1. **CViT: Continuous Vision Transformer for Operator Learning.** arXiv, 2025. [paper](https://arxiv.org/abs/2405.13998) 
+
+   *Sifan Wang, Jacob H Seidman, Shyam Sankaran, Hanwen Wang, George J. Pappas, and Paris Perdikaris*
+
 ### [Uncertainty Quantification](#content)
 1. **Quantifying total uncertainty in physics-informed neural networks for solving forward and inverse stochastic problems.** arXiv, 2021. [paper](https://www.sciencedirect.com/science/article/pii/S0021999119305340)
 
