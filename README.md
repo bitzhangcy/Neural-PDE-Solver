@@ -3596,7 +3596,11 @@ If you are interested in neural PDE solvers and would like to contribute, feel f
 
 1. **Operator Learning with Domain Decomposition for Geometry Generalization in PDE Solving.** arXiv, 2025. [paper](https://arxiv.org/abs/2504.00510)
 
-   *Jianing Huang, Kaixuan Zhang, Youjia Wu, Ze Cheng.*
+   *Jianing Huang, Kaixuan Zhang, Youjia Wu, and Ze Cheng.*
+
+1. **A Learning-based Domain Decomposition Method.** arXiv, 2025. [paper](https://arxiv.org/abs/2507.17328)
+
+   *Rui Wu, Nikola Kovachki, and Burigede Liu.*
 
 ### [Disentangle](#content)
 1. **PDE-driven spatiotemporal disentanglement.** ICLR, 2021. [paper](https://openreview.net/forum?id=vLaHRtHvfFp)
