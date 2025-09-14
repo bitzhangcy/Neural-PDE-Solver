@@ -711,6 +711,11 @@ If you are interested in neural PDE solvers and would like to contribute, feel f
 
    *Marimuthu Kalimuthu, Marimuthu_Kalimuthu, David Holzmüller, and Mathias Niepert.*
 
+1. **Direct numerical simulations of three-dimensional two-phase flow using physics-informed neural networks with a distributed parallel training algorithm.** JFM, 2025. [paper](https://www.cambridge.org/core/journals/journal-of-fluid-mechanics/article/abs/direct-numerical-simulations-of-threedimensional-twophase-flow-using-physicsinformed-neural-networks-with-a-distributed-parallel-training-algorithm/763A61A3FEB7298641342A08DEFFB608)
+
+   *Rundi Qiu, Junzhe Li, Jingzhu Wang, Chun Fan and Yiwei Wang.*
+
+
 ### [DeepONet](#content)
 1. **Learning nonlinear operators via DeepONet based on the universal approximation theorem of operators.** NMI, 2021. [paper](https://www.nature.com/articles/s42256-021-00302-5)
 
