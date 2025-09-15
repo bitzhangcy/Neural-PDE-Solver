@@ -1183,6 +1183,10 @@ If you are interested in neural PDE solvers and would like to contribute, feel f
 
    *Mario Lino, Tobias Pfaff, and Nils Thuerey.*
 
+1. **Finite-difference-informed graph network for solving steady-state incompressible flows on block-structured grids.** PoF, 2025. [paper](https://arxiv.org/abs/2406.10534)
+
+   *Yiye Zou, Tianyu Li, Lin Lu, Jingyu Wang, Shufan Zou, Laiping Zhang, and Xiaogang Deng.*
+
 
 
 
