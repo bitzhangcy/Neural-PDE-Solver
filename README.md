@@ -1187,6 +1187,9 @@ If you are interested in neural PDE solvers and would like to contribute, feel f
 
    *Yiye Zou, Tianyu Li, Lin Lu, Jingyu Wang, Shufan Zou, Laiping Zhang, and Xiaogang Deng.*
 
+1. **Predicting unsteady incompressible fluid dynamics with finite volume informed neural network.** PoF, 2024. [paper](https://pubs.aip.org/aip/pof/article-abstract/36/4/043601/3280514/Predicting-unsteady-incompressible-fluid-dynamics?redirectedFrom=fulltext)
+
+   *Tianyu Li, Shufan Zou, Xinghua Chang, Laiping Zhang, and Xiaogang Deng.*
 
 
 
