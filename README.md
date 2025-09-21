@@ -116,7 +116,7 @@ If you are interested in neural PDE solvers and would like to contribute, feel f
 </tr> 
 <tr>
     <td>&ensp;<a href="#physics">4.7 Physics</a></td>
-    <td>&ensp;<a href="#image">4.8 Image</a></td>
+    <td>&ensp;<a href="#image--video">4.8 Image & Video </a></td>
 </tr>
 <tr>
     <td>&ensp;<a href="#chemistry">4.9 Chemistry</a></td>
@@ -5870,7 +5870,7 @@ If you are interested in neural PDE solvers and would like to contribute, feel f
 
    *Xihang Yue, Yi Yang, and Linchao Zhu.*
 
-### [Image](#content)
+### [Image & Video](#content)
 1. **Learning to diffuse: A new perspective to design PDEs for visual analysis.** TPAMI, 2016. [paper](https://ieeexplore.ieee.org/document/7393839)
 
    *Risheng Liu, Guangyu Zhong, Junjie Cao, Zhouchen Lin, Shiguang Shan, and Zhongxuan Luo.*
@@ -5914,6 +5914,11 @@ If you are interested in neural PDE solvers and would like to contribute, feel f
 1. **Effective medium properties of stealthy hyperuniform photonic structures using multiscale physics-informed neural networks.** arXiv, 2024. [paper](https://arxiv.org/abs/2405.07878)
 
    *Roberto Riganti, Yilin Zhu, Wei Cai, Salvatore Torquato, and Luca Dal Negro.*
+
+1. **Physics-Grounded Motion Forecasting via Equation Discovery for
+Trajectory-Guided Image-to-Video Generation.** arXiv, 2025. [paper](https://arxiv.org/abs/2507.06830)
+
+   *Tao Feng, Xianbing Zhao, Zhenhua Chen, Tien Tsin Wong, Hamid Rezatofighi, Gholamreza Haffari, and Lizhen Qu.*
 
 ### [Chemistry](#content)
 1. **Combustion chemistry acceleration with DeepONets.** Fuel, 2024. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0016236124003582)
