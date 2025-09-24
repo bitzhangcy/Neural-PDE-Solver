@@ -1768,6 +1768,10 @@ If you are interested in neural PDE solvers and would like to contribute, feel f
 
    *Rudy Morel, Jiequn Han, and Edouard Oyallon.*
 
+1. **KANO: Kolmogorov-Arnold Neural Operator.** arxiv, 2025. [paper](https://arxiv.org/abs/2509.16825)
+
+   *Jin Lee, Ziming Liu, Xinling Yu, Yixuan Wang, Haewon Jeong, Murphy Yuezhen Niu, and Zheng Zhang.*
+
 ### [Machine Learning](#content)
 1. **Machine learning–accelerated computational fluid dynamics.** PNAS, 2021. [paper](https://www.pnas.org/doi/10.1073/pnas.2101784118)
 
