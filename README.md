@@ -715,6 +715,10 @@ If you are interested in neural PDE solvers and would like to contribute, feel f
 
    *Rundi Qiu, Junzhe Li, Jingzhu Wang, Chun Fan and Yiwei Wang.*
 
+1. **Gradient Alignment in Physics-informed Neural Networks: A Second-Order Optimization Perspective.** NeurIPS, 2025. [paper](https://arxiv.org/abs/2502.00604)
+
+   *Sifan Wang, Ananyae Kumar Bhartari, Bowen Li, and Paris Perdikaris.*
+
 
 ### [DeepONet](#content)
 1. **Learning nonlinear operators via DeepONet based on the universal approximation theorem of operators.** NMI, 2021. [paper](https://www.nature.com/articles/s42256-021-00302-5)
