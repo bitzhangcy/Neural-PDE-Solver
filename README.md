@@ -719,6 +719,13 @@ If you are interested in neural PDE solvers and would like to contribute, feel f
 
    *Sifan Wang, Ananyae Kumar Bhartari, Bowen Li, and Paris Perdikaris.*
 
+1. **Physics-informed Discretization-independent Deep Compositional Operator Network.** CMAME, 2024. [paper](https://arxiv.org/abs/2404.13646)
+
+   *Weiheng Zhong and Hadi Meidani.*
+
+1. **Physics-Informed Geometry-Aware Neural Operator.** CMAME, 2025. [paper](https://arxiv.org/abs/2408.01600)
+
+   *Weiheng Zhong and Hadi Meidani.*
 
 ### [DeepONet](#content)
 1. **Learning nonlinear operators via DeepONet based on the universal approximation theorem of operators.** NMI, 2021. [paper](https://www.nature.com/articles/s42256-021-00302-5)
