@@ -715,6 +715,17 @@ If you are interested in neural PDE solvers and would like to contribute, feel f
 
    *Rundi Qiu, Junzhe Li, Jingzhu Wang, Chun Fan and Yiwei Wang.*
 
+1. **Gradient Alignment in Physics-informed Neural Networks: A Second-Order Optimization Perspective.** NeurIPS, 2025. [paper](https://arxiv.org/abs/2502.00604)
+
+   *Sifan Wang, Ananyae Kumar Bhartari, Bowen Li, and Paris Perdikaris.*
+
+1. **Physics-informed Discretization-independent Deep Compositional Operator Network.** CMAME, 2024. [paper](https://arxiv.org/abs/2404.13646)
+
+   *Weiheng Zhong and Hadi Meidani.*
+
+1. **Physics-Informed Geometry-Aware Neural Operator.** CMAME, 2025. [paper](https://arxiv.org/abs/2408.01600)
+
+   *Weiheng Zhong and Hadi Meidani.*
 
 ### [DeepONet](#content)
 1. **Learning nonlinear operators via DeepONet based on the universal approximation theorem of operators.** NMI, 2021. [paper](https://www.nature.com/articles/s42256-021-00302-5)
@@ -1771,6 +1782,10 @@ If you are interested in neural PDE solvers and would like to contribute, feel f
 1. **KANO: Kolmogorov-Arnold Neural Operator.** arxiv, 2025. [paper](https://arxiv.org/abs/2509.16825)
 
    *Jin Lee, Ziming Liu, Xinling Yu, Yixuan Wang, Haewon Jeong, Murphy Yuezhen Niu, and Zheng Zhang.*
+
+1. **Geometry Aware Operator Transformer as an Efficient and Accurate Neural Surrogate for PDEs on Arbitrary Domains.** NeurIPS, 2025. [paper](https://arxiv.org/abs/2505.18781)
+
+   *Shizheng Wen, Arsh Kumbhat, Levi Lingsch, Sepehr Mousavi, Yizhou Zhao, Praveen Chandrashekar, and Siddhartha Mishra.*
 
 ### [Machine Learning](#content)
 1. **Machine learning–accelerated computational fluid dynamics.** PNAS, 2021. [paper](https://www.pnas.org/doi/10.1073/pnas.2101784118)
