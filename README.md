@@ -3618,6 +3618,14 @@ If you are interested in neural PDE solvers and would like to contribute, feel f
 
    *Rui Wu, Nikola Kovachki, and Burigede Liu.*
 
+1. **Non-overlapping, Schwarz-type domain decomposition method for physics and equality constrained artificial neural networks.** CMAME, 2025. [paper](https://arxiv.org/abs/2409.13644)
+
+   *Qifeng Hu, Shamsulhaq Basir, and Inanc Senocak.*
+
+1. **DD-DeepONet: Domain decomposition and DeepONet for solving partial differential equations in three application scenarios.** CMAME, 2025. [paper](https://arxiv.org/abs/2508.02717)
+
+   *Bo Yang, Xingquan Li, Jie Zhao, and Ying Jiang.*
+
 ### [Disentangle](#content)
 1. **PDE-driven spatiotemporal disentanglement.** ICLR, 2021. [paper](https://openreview.net/forum?id=vLaHRtHvfFp)
 
