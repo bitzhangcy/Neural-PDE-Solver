@@ -2645,6 +2645,10 @@ If you are interested in neural PDE solvers and would like to contribute, feel f
 
    *Qingpo Wuwu, Chonghan Gao, Tianyu Chen, Yihang Huang, Yuekai Zhang, Jianing Wang, Jianxin Li, Haoyi Zhou, and Shanghang Zhang.*
 
+1. **Towards a Physics Foundation Model.** arxiv, 2025. [paper](https://arxiv.org/abs/2509.13805)
+
+   *Florian Wiesner, Matthias Wessling, and Stephen Baek.*
+
 
 ## [Mechanism](#content)
 ### [Benchmark](#content)
