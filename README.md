@@ -1792,6 +1792,10 @@ If you are interested in neural PDE solvers and would like to contribute, feel f
 
    *Shizheng Wen, Arsh Kumbhat, Levi Lingsch, Sepehr Mousavi, Yizhou Zhao, Praveen Chandrashekar, and Siddhartha Mishra.*
 
+1. **Principled Approaches for Extending Neural Architectures to Function Spaces for Operator Learning.** arxiv, 2025. [paper](https://arxiv.org/abs/2506.10973)
+
+   *Julius Berner, Miguel Liu-Schiaffini, Jean Kossaifi, Valentin Duruisseaux, Boris Bonev, Kamyar Azizzadenesheli, and Anima Anandkumar.*
+
 ### [Machine Learning](#content)
 1. **Machine learning–accelerated computational fluid dynamics.** PNAS, 2021. [paper](https://www.pnas.org/doi/10.1073/pnas.2101784118)
 
@@ -3648,7 +3652,11 @@ If you are interested in neural PDE solvers and would like to contribute, feel f
 
 1. **DD-DeepONet: Domain decomposition and DeepONet for solving partial differential equations in three application scenarios.** CMAME, 2025. [paper](https://arxiv.org/abs/2508.02717)
 
-   *Bo Yang, Xingquan Li, Jie Zhao, and Ying Jiang.*
+   *Bo Yang, Xingquan Li, Jie Zhao, and Ying Jiang.* 
+
+1. **Accurate and scalable deep Maxwell solvers using multilevel iterative methods.** arxiv, 2025. [paper](https://arxiv.org/abs/2509.03622)
+
+   *Chenkai Mao, and Jonathan A. Fan.* 
 
 ### [Disentangle](#content)
 1. **PDE-driven spatiotemporal disentanglement.** ICLR, 2021. [paper](https://openreview.net/forum?id=vLaHRtHvfFp)
