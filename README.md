@@ -11,6 +11,8 @@ Current collaborator: [**pic-wang**](https://github.com/pic-wang)
 
 If you are interested in neural PDE solvers and would like to contribute, feel free to submit a PR, open an issue, or contact me directly at **bitzhangcy@gmail.com**.
 
+For searching recent works in top venues (ICLR, NeurIPS, etc.), we recommend using [**ICLR26_Paper_Finder**](https://github.com/wenhangao21/ICLR26_Paper_Finder).
+
 — *Chunyang Zhang*
 
 这是一个开源文献整理仓库，聚焦于利用 **神经算子（Neural Operator）** 求解 **偏微分方程（PDE）** 的最新研究进展，旨在系统地追踪和整理该领域的论文资料。
@@ -20,6 +22,8 @@ If you are interested in neural PDE solvers and would like to contribute, feel f
 当前协作者：[**pic-wang**](https://github.com/pic-wang)
 
 如果你对 Neural PDE Solver 感兴趣，欢迎通过 PR、issue 或直接邮件联系我：**bitzhangcy@gmail.com**
+
+此外，推荐使用[**ICLR26_Paper_Finder**](https://github.com/wenhangao21/ICLR26_Paper_Finder)来快速检索顶会（如 ICLR、NeurIPS）中相关工作。
 
 
 ## [Content](#content)
