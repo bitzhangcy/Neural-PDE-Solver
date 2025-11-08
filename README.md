@@ -5361,6 +5361,11 @@ If you are interested in neural PDE solvers and would like to contribute, feel f
 
    *Qi Wang, Yuan Mi, Wang Haoyun, Yi Zhang, Ruizhi Chengze, Hongsheng Liu, Jirong Wen, and Hao Sun.*
 
+1. **FuXi-Ocean: A Global Ocean Forecasting System with Sub-Daily Resolution.** NeurIPS, 2025. [paper](https://arxiv.org/pdf/2506.03210)
+
+   *Qiusheng Huang, Yuan Niu, Xiaohui Zhong, Anboyu Guo, Lei Chen, Dianjun Zhang, Xuefeng Zhang, and Hao Li.*
+
+
 ### [Cybernetics](#content)
 1. **Machine learning accelerated PDE backstepping observers.** arXiv, 2022. [paper](https://arxiv.org/abs/2211.15044)
 
@@ -6229,6 +6234,11 @@ If you are interested in neural PDE solvers and would like to contribute, feel f
 1. **VideoPDE: Unified generative PDE solving via video inpainting diffusion models.** arXiv, 2025. [paper](https://arxiv.org/abs/2506.13754)
 
    *Edward Li, Zichen Wang, Jiahe Huang, and Jeong Joon Park.*
+
+1. **PhySense: Sensor Placement Optimization for Accurate Physics Sensing.** NeurlPS, 2025. [paper](https://arxiv.org/abs/2505.18190)
+
+   *Yuezhou Ma, Haixu Wu, Hang Zhou, Huikun Weng, Jianmin Wang, and Mingsheng Long.*
+
 
 ### [Electromagnetism](#content)
 1. **A novel physics-informed neural network for modeling electromagnetism of a permanent magnet synchronous motor.**  Advanced Engineering Informatics, 2023. [paper](https://www.sciencedirect.com/science/article/pii/S1474034623001635)
