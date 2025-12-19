@@ -3662,6 +3662,14 @@ For searching recent works in top venues (ICLR, NeurIPS, etc.), we recommend usi
 
    *Chenkai Mao, and Jonathan A. Fan.* 
 
+1. **A composable machine-learning approach for steady-state simulations on high-resolution grids.** NeurIPS, 2022. [paper](https://arxiv.org/abs/2210.05837)
+
+   *Rishikesh Ranade, Chris Hill, Lalit Ghule, and Jay Pathak.* 
+
+1. **Learning Composable Energy Surrogates for PDE Order Reduction.** NeurIPS, 2020. [paper](https://proceedings.neurips.cc/paper_files/paper/2020/file/0332d694daab22e0e0eaf7a5e88433f9-Paper.pdf)
+
+   *Alex Beatson, Jordan T. Ash, Geoffrey Roeder, Tianju Xue, and Ryan P. Adams.* 
+
 ### [Disentangle](#content)
 1. **PDE-driven spatiotemporal disentanglement.** ICLR, 2021. [paper](https://openreview.net/forum?id=vLaHRtHvfFp)
 
