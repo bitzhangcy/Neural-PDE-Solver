@@ -4846,6 +4846,9 @@ For searching recent works in top venues (ICLR, NeurIPS, etc.), we recommend usi
 1. **Active learning with selective time-step acquisition for PDEs.** ICML, 2025. [paper](https://openreview.net/forum?id=ef1UHxznNy)
 
    *Yegon Kim, Hyunsu Kim, Gyeonghoon Ko, and Juho Lee.*
+1. **A Plug-and-Play Query Synthesis Active Learning Framework for Neural PDE Solvers.** NeurIPS, 2025. [paper](https://openreview.net/forum?id=uyJcF4cwMc) 
+
+   *Zhiyuan Wang, Jinwoo Go, Byung-Jun Yoon, Nathan Urban, and Xiaoning Qian*
 
 ### [Multi Task](#content)
 1. **Adversarial multi-task learning enhanced physics-informed neural networks for solving partial differential equations.** IJCNN, 2022. [paper](https://ieeexplore.ieee.org/abstract/document/9533606)
