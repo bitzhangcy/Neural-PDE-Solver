@@ -2594,7 +2594,7 @@ For searching recent works in top venues (ICLR, NeurIPS, etc.), we recommend usi
 
 1. **Coordinate transform Fourier neural operators for symmetries in physical modelings.** TMLR, 2024. [paper](https://openreview.net/forum?id=pMD7A77k3i)
 
-   *Wenhan Gao, Wenhan Gao, Ruichen Xu, Hong Wang, and Yi Liu.*
+   *Wenhan Gao, Ruichen Xu, Hong Wang, and Yi Liu.*
 
 ### [Large Model](#content)
 1. **Prompting in-context operator learning with sensor data, equations, and natural language.** arXiv, 2023. [paper](https://arxiv.org/abs/2308.05061)
