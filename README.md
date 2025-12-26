@@ -3660,7 +3660,7 @@ For searching recent works in top venues (ICLR, NeurIPS, etc.), we recommend usi
 
 1. **Accurate and scalable deep Maxwell solvers using multilevel iterative methods.** arxiv, 2025. [paper](https://arxiv.org/abs/2509.03622)
 
-   *Chenkai Mao, and Jonathan A. Fan.* 
+   *Chenkai Mao and Jonathan A. Fan.* 
 
 1. **A composable machine-learning approach for steady-state simulations on high-resolution grids.** NeurIPS, 2022. [paper](https://arxiv.org/abs/2210.05837)
 
@@ -3836,7 +3836,7 @@ For searching recent works in top venues (ICLR, NeurIPS, etc.), we recommend usi
 
    *Yingheng Tang, Ruiyang Chen, Minhan Lou, Jichao Fan, Cunxi Yu, Andy Nonaka, Zhi Yao, and Weilu Gao.*
 
-1. **Blending neural operators and relaxation methods in PDE numerical solvers.** PoF, 2024. [paper](https://www.nature.com/articles/s42256-024-00910-x)
+1. **Blending neural operators and relaxation methods in PDE numerical solvers.** NMI, 2024. [paper](https://www.nature.com/articles/s42256-024-00910-x)
 
    *Enrui Zhang, Adar Kahana, Alena Kopaničáková, Eli Turkel, Rishikesh Ranade, Jay Pathak, and George Em Karniadakis.*
 
