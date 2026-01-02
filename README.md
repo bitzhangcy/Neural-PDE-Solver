@@ -3069,6 +3069,9 @@ For searching recent works in top venues (ICLR, NeurIPS, etc.), we recommend usi
 
    *David W Sroczynski, Felix P Kemeth, Anastasia S Georgiou, Ronald R Coifman, and Ioannis G Kevrekidis.*
 
+1. **From Uniform to Adaptive: General Skip-Block Mechanisms for Efficient PDE Neural Operators.** arXiv, 2025. [paper](https://arxiv.org/abs/2511.00032)
+   *Lei Liu, Zhongyi Yu, Hong Wang, Huanshuo Dong, Haiyang Xin, Hongwei Zhao, Bin Li.*
+
 ### [Domain Adaptation](#content)
 1. **Meta-auto-decoder for solving parametric partial differential equations.** NIPS, 2022. [paper](https://openreview.net/pdf?id=PwlW5Jri1Xt) 
 
