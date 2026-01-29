@@ -1800,6 +1800,13 @@ For searching recent works in top venues (ICLR, NeurIPS, etc.), we recommend usi
 
    *Julius Berner, Miguel Liu-Schiaffini, Jean Kossaifi, Valentin Duruisseaux, Boris Bonev, Kamyar Azizzadenesheli, and Anima Anandkumar.*
 
+<!-- 1. **Learning Data-Efficient and Generalizable Neural Operators via Fundamental Physics Knowledge.** ICLR, 2026. [paper](https://openreview.net/forum?id=mJiPqOzc3O)
+-->
+
+
+
+
+
 ### [Machine Learning](#content)
 1. **Machine learning–accelerated computational fluid dynamics.** PNAS, 2021. [paper](https://www.pnas.org/doi/10.1073/pnas.2101784118)
 
@@ -2755,6 +2762,10 @@ For searching recent works in top venues (ICLR, NeurIPS, etc.), we recommend usi
 1. **PhysPDE: Rethinking PDE discovery and a physical hypothesis selection benchmark.** ICLR, 2025. [paper](https://openreview.net/forum?id=G3CpBCQwNh)
 
    *Mingquan Feng, Yixin Huang, Yizhou Liu, Bofang Jiang, and Junchi Yan.*
+
+1. **RealPDEBench: A Benchmark for Complex Physical Systems with Real-World Data.** ICLR, 2026. [paper](https://openreview.net/forum?id=y3oHMcoItR)
+
+   *Peiyan Hu, Haodong Feng, Hongyuan Liu, Tongtong Yan, Wenhao Deng, Tianrun Gao, Rong Zheng, Haoren Zheng, Chenglei Yu, Chuanrui Wang, Kaiwen Li, Zhi-Ming Ma, Dezhi Zhou, Xingcai Lu, Dixia Fan, and Tailin Wu.*
 
 ### [Investigation](#content)
 1. **Characterizing possible failure modes in physics-informed neural networks.** NIPS, 2021. [paper](https://openreview.net/forum?id=a2Gr9gNFD-J)
@@ -5654,6 +5665,8 @@ For searching recent works in top venues (ICLR, NeurIPS, etc.), we recommend usi
 1. **Residual-enhanced physics-guided machine learning with hard constraints for subsurface flow in reservoir engineering.** TGRS, 2024. [paper](https://ieeexplore.ieee.org/abstract/document/10413628)
 
    *Haibo Cheng, Yunpeng He, Peng Zeng, and Valeriy Vyatkin.*
+
+
 
 ### [Mechanics](#content)
 1. **Wavelet neural operator for solving parametric partial differential equations in computational mechanics problems.** CMAME, 2023. [paper](https://www.sciencedirect.com/science/article/pii/S0045782522007393)
