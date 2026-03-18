@@ -2657,6 +2657,10 @@ For searching recent works in top venues (ICLR, NeurIPS, etc.), we recommend usi
 
    *Florian Wiesner, Matthias Wessling, and Stephen Baek.*
 
+1. **GeoPT: Scaling Physics Simulation via Lifted Geometric Pre-Training.** arxiv, 2026. [paper](https://arxiv.org/abs/2602.20399)
+
+   *Haixu Wu, Minghao Guo, Zongyi Li, Zhiyang Dou, Mingsheng Long, Kaiming He, and Wojciech Matusik.*
+
 
 ## [Mechanism](#content)
 ### [Benchmark](#content)
