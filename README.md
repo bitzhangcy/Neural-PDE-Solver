@@ -2668,6 +2668,10 @@ For searching recent works in top venues (ICLR, NeurIPS, etc.), we recommend usi
 
    *Haixu Wu, Minghao Guo, Zongyi Li, Zhiyang Dou, Mingsheng Long, Kaiming He, and Wojciech Matusik.*
 
+1. **AutoNumerics: An Autonomous, PDE-Agnostic Multi-Agent Pipeline for Scientific Computing.** arXiv, 2026. [paper](https://arxiv.org/abs/2602.17607)
+
+   *Jianda Du, Youran Sun, and Haizhao Yang.*
+
 
 ## [Mechanism](#content)
 ### [Benchmark](#content)
