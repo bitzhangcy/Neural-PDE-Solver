@@ -5375,6 +5375,26 @@ For searching recent works in top venues (ICLR, NeurIPS, etc.), we recommend usi
 
    *Qingjie Cui, Meina Zhang, Min Xiao, and Guoxi Ni.*
 
+1. **NeuralFluid: Nueral fluidic system design and control with differentiable simulation.** NIPS, 2024. [paper](https://proceedings.neurips.cc/paper_files/paper/2024/hash/9a379c1b05793d1c42dc832269834515-Abstract-Conference.html)
+
+   *Yifei Li, Yuchen Sun, Pingchuan Ma, Eftychios Sifakis, Tao Du, Bo Zhu, and Wojciech Matusik.*
+
+1. **PURE: Prompt evolution with graph ODE for out-of-distribution fluid dynamics modeling.** NIPS, 2024. [paper](https://proceedings.neurips.cc/paper_files/paper/2024/hash/bd92debabb5e6eb881ef81d88e0f22ae-Abstract-Conference.html)
+
+   *Hao Wu, Changhu Wang, Fan Xu, Jinbao Xue, Chong Chen, Xian-Sheng Hua, and Xiao Luo.*
+
+1. **Prometheus: Out-of-distribution fluid dynamics modeling with disentangled graph ODE.** ICML, 2024. [paper](https://proceedings.mlr.press/v235/wu24aa.html)
+
+   *Hao Wu, Huiyuan Wang, Kun Wang, Weiyan Wang, Changan Ye, Yangyu Tao, Chong Chen, Xian-Sheng Hua, and Xiao Luo.*
+
+1. **Fourier neural operator based fluid-structure interaction for predicting the vesicle dynamics.** arXiv, 2024. [paper](https://arxiv.org/abs/2401.02311)
+
+   *Xiao Wang, Ting Gao, Kai Liu, Jinqiao Duan, and Meng Zhao.*
+
+1. **AROMA: Preserving spatial structure for latent PDE modeling with local neural fields.** NIPS, 2024. [paper](https://arxiv.org/abs/2406.02176)
+
+   *Louis Serrano, Thomas X. Wang, Etienne Le Naour, Jean-Noël Vittaut, and Patrick Gallinari.*
+
 1. **RF-PINNs: Reactive flow physics-informed neural networks for field reconstruction of laminar and turbulent flames using sparse data.** JCP, 2025. [paper](https://www.sciencedirect.com/science/article/pii/S002199912400946X)
 
    *Vikas Yadav, Mario Casel, and Abdulla Ghani.*
