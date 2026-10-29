@@ -2366,6 +2366,10 @@ For searching recent works in top venues (ICLR, NeurIPS, etc.), we recommend usi
 
    *Ning Liu snd Yue Yu.*
 
+1. **AutoSR: Automatic Symbolic Regression by Searching Research States.** arXiv, 2026. [paper](https://arxiv.org/abs/2608.16876)
+
+   *Kejia Zhang, Youran Sun, Xingyu Ren, Chugang Yi, and Haizhao Yang.*
+
 ### [Inverse Design](#content)
 1. **DPM: Physics-informed Karhunen-Loéve and neural network approximations for solving inverse differential equation problems.** AAAI, 2021. [paper](https://ojs.aaai.org/index.php/AAAI/article/view/16992/16799)
 
@@ -3100,6 +3104,10 @@ For searching recent works in top venues (ICLR, NeurIPS, etc.), we recommend usi
 1. **Mixture-of-Experts Operator Transformer for Large-Scale PDE Pre-Training.** NeurIPS, 2025. [paper](https://arxiv.org/abs/2510.25803)
 
 	*Hong Wang, Haiyang Xin, Jie Wang, Xuanze Yang, Fei Zha, Huanshuo Dong, Yan Jiang.*
+
+1. **Staged Depth Training: A Representation Curriculum for PINNs.** arXiv, 2026. [paper](https://arxiv.org/abs/2609.30299)
+
+   *Kejia Zhang, Youran Sun, and Haizhao Yang.*
 
 ### [Domain Adaptation](#content)
 1. **Meta-auto-decoder for solving parametric partial differential equations.** NIPS, 2022. [paper](https://openreview.net/pdf?id=PwlW5Jri1Xt) 
